@@ -1,0 +1,749 @@
+ 
+RT : Victoire Beauquesne, Paul Jammeron 
+RL : Coralie L’heureux Gonzalez 
+ 
+ 
+UE 5 – VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN  
+ 
+PHYSIOLOGIE  
+Cours n°5 
+Pr Carole Planès – 10/03/2026 – 8h30-10h15 
+RÔLE DU REIN DANS L’ÉQUILIBRE ACIDO-BASIQUE  
+Objectifs : 
+●​ Connaître les mécanismes de la réabsorption rénale des bicarbonates et d’excrétion rénale 
+des ions H + 
+●​ Comprendre les réponses rénales adaptées aux perturbations de l’équilibre acido-basique 
+ 
+PLAN DU COURS 
+I.​
+GÉNÉRALITÉS 
+A.​ Concentration d’ions H+ et le pH 
+B.​ Sources quotidiennes d’ions H+ 
+C.​ Rôles spécifiques du rein  
+II.​
+RÉABSORPTION DES BICARBONATES FILTRÉS 
+A.​ Généralités  
+B.​ Mécanismes  
+C.​ Notion de transport maximal  
+III.​
+EXCRÉTION DES DES IONS H+ ET RÉGÉNÉRATION  
+A.​ Principe de fonctionnement  
+B.​ Excrétion d’ions H+ sous forme d’acidité titrable  
+C.​ Excrétion de H+ sous forme de NH4+ 
+IV.​
+ RÔLE DU CANAL COLLECTEUR DANS L’ACIDIFICATION DE L’URINE  
+A.​ Les cellules du canal collecteur et leurs rôles  
+B.​ L’acidification des urines  
+C.​ Résumé : excrétion des acides et des bases  
+D.​ Réponses rénales adaptée 
+ 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+I. GÉNÉRALITÉS 
+A.​ Concentration d’ion H+ et le pH 
+1.​ Milieu extracellulaire  (plasma) 
+Concentration 
+plasmatique de 
+H+ 
+ 
+●​ La concentration d’ions H+ dans le plasma est très faible : 
+o​
+40 nmol/L (artères) 
+o​
+45 nmol/L (veines) 
+●​ La concentration est maintenue constante par l’action conjugué du 
+rein et des poumons (ventilation) 
+●​ Sang artériel normal (36.3 nmol/L - 43.6nmol) = Variable régulée  
+ 
+Le calcul du pH = -log (H+) 
+ 
+●​ Le pH artériel normal = 7.40 
+o​
+pH < 7.38 (acidose plasmatique) 
+o​
+pH > 7.42 (alcalose plasmatique) 
+●​ pH veineux normal = 7.35 
+●​ On connaît le pH grâce aux gaz du sang prélevé dans l’artère radiale 
+ 
+N.B. Il ne faut pas imaginer le sang veineux comme très acide, le sang veineux 
+normal est bien à 7.35, à par exemple 7.30 c’est du sang veineux anormal 
+(acidose) 
+ 
+pH des autres 
+liquides du 
+corps 
+ 
+●​ pH fluide interstitiel normal : 7.35 
+○​ un peu plus acide que dans les artères car il n’y a pas/peu  de 
+protéines (les protéines ont un rôle tampon sur ions H+ 
+rendant le Ph moins acide)  
+●​ Estomac : 0.7 – 3.8  
+○​ Le liquide gastrique permet de la digestion des aliments 
+●​ Salives :  6.3 
+●​ Urines : 4 à 8 
+○​ s’adapte au entrées ou sorties d'alcalin ou d’acide  
+●​ LCR :  7.3 à 7.35 
+○​ Un peu plus acide  que le plasma car pas/peu de protéines 
+parce que les capillaires de la barrière hémato-encéphalique 
+ne laisse rien passer 
+ 
+Lors d’une alimentation carnée, la surcharge sera acide donc le pH de l’urine 
+sera inférieur à 7.4, plutôt vers 5-6.  
+Tandis que les sujets végétariens peuvent avoir un excès de bases et donc des 
+urines alcalines. 
+ 
+ 
+Page 2 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+2.​ milieu intra-cellulaire  
+pH  
+ 
+La concentration d’ions H+ est un peu plus élevée que dans le plasma : 
+●​ 100 nmol/L car il y a une production d’acides par le métabolisme 
+cellulaire ((H2CO3- ) 
+●​ 6.8 < pH intracellulaire normal < 7.2  
+○​ Permet de déterminer l’action et l’activité de beaucoup 
+d’enzymes qui dépendent du pH. 
+ 
+B. Sources quotidiennes d’ions H+ 
+Acides volatiles  
+ 
+2 types d'entrées : 
+ 
+●​ Les acides volatiles (retrouvés dans l’expiration) qui proviennent du 
+métabolisme du CO2 
+○​ Quand les cellules travaillent :  
+■​ Elles consomment de l’O2 
+■​ Elles produisent du CO2 
+●​ Ce CO2 va se comporter comme un acide faible :  
+○​ Susceptible de s’hydrater (se lier à une molécule d'H2O) pour 
+donner acide carbonique (H2CO3- )  un acide faible qui 
+donnera H + et HCO3 - 
+ 
+Loi d’Action de masse  
+ 
+ 
+●​ Réaction ne se fait pas à chaque fois sinon on serait acidifié mais se 
+fait car il existe trop CO2 en quantité 
+●​ L’enzyme accélérant la réaction = Anhydrase carbonique  
+○​ Mais ne change pas la loi d’action de masse  
+●​ Les cellules produisent 13 000 à 20000 mEq/jour (énorme) 
+●​ Le CO2 n’est pas stocké donc les poumons l’éliminent par la 
+ventilation pulmonaire, c’est son rôle de ventiler. 
+●​ Présence d’acidose d’origine respiratoire si le CO2  pas éliminés par les 
+poumons 
+○​ Si la concentration de CO2 augmente → augmentation de 
+HCO3- produit dans le sang 
+●​ Le CO2 est donc un acide volatile car on le retrouve dans l’air  
+ 
+Page 3 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+    Acides fixes  
+ 
+Source quotidienne d’ions H+ = Les acides fixes sont issus du métabolisme 
+intermédiaire et de l’alimentation 
+ 
+●​ Production de 60-80 mmoles d’ions H+/24h depuis : 
+○​ Le métabolisme des AA soufrés à excrétion urinaire de 
+sulfates  
+○​ Les nucléoprotéines (ex : acide nucléique) à excrétion d’acide 
+urique, un acide faible qui donne des ions H+ 
+○​ Les phosphoprotéines ou phospholipides à excrétion de 
+phosphates 
+ 
+ATTENTION :  
+●​ Dans le métabolisme des glucides et lipides si tout va bien pas de 
+production d’H + mais si le catabolisme est bloqué alors il y aura une 
+production anormale d’ions ’H + 
+○​ Si les glucides sont bloqués = acidose lactique 
+■​ Le glucose entre normalement dans la cellule et il va 
+être phosphorylé et donne du pyruvate par la 
+glycolyse anaérobie, qui ira ensuite dans les 
+mitochondries et grâce à l’O2 participera au cycle de 
+Krebs, et chaîne respiratoire. 
+■​ Si les cellules ne sont pas très bien oxygénées 
+(hypoxie) alors acide pyruvique est bloqué hors de la 
+mitochondrie présence de la glycolyse anaérobie et se 
+transforme en acide lactique qui s’accumule et donne 
+une acidose lactique. 
+●​ une acidose lactique est donc une 
+accumulation d’H+ provenant de l’acide 
+lactique  
+○​ Lipides donnent une acidocétose diabétique 
+■​ Chez les diabétiques lors de résistance à l’insuline = 
+blocage catabolisme des lipides et donc production 
+d’acides = acidocétose diabétique (sujet normal n’en 
+produit pas, seulement lors d’un défaut d’insuline) 
+ 
+C. Rôles spécifiques du rein  
+ 
+Rôles spécifiques du rein : 
+ 
+●​ Réabsorber les bicarbonates HCO3-  filtrés (principal tampon extracellulaire) 
+○​ Présence de 22-24 mmol/L de bicarbonate en temps normal 
+●​ Excréter la charge acide apportée tous les jours par l’alimentation (60 à 80 mmol/J) qui ne 
+peuvent être éliminés que par le rein  
+Page 4 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+ 
+●​ Régénérer les bicarbonates consommés pour tamponner provisoirement ces ions avant 
+leur élimination rénale. 
+●​ S’adapter aux perturbations : charges acides ou alcalines et ramener le pH à la normale 
+ 
+Questions élèves  
+ 
+Élève : Là ils sont non combinés à de H+ ? Donc ce sont des bicarbonates non 
+combinés à de l’H+ ? 
+ 
+Prof : Oui tout à fait : HCO3- nous en avons parlé lors du cours sur le sodium. 
+ 
+ 
+II. RÉABSORPTION DES BICARBONATES FILTRÉS 
+A.​ Généralités  
+Bicarbonates 
+filtrés  
+ 
+●​ La concentration plasmatique de HCO3 s’élèvent entre 22 et 26 
+mmol/L 
+●​ Les HCO3 filtrés s’élèvent à hauteur de 4300 mmol/J et sont 
+réabsorbés en totalité en situation normale. Ainsi, leur excrétion 
+urinaire est nulle (= 0). 
+●​ Lieux de réabsorption : 
+○​ 80-85% résorbés dans le tube contourné proximal, dont le 
+mécanisme est lié à la réabsorption d’ions sodium (Na+) 
+○​ 15% réabsorbés à la fin du tube contourné proximal et dans 
+le début du tube contourné distal 
+○​ 1-2% réabsorbés dans le tube distal 
+ 
+B.​ Mécanismes  
+ 
+Schéma  
+ 
+ 
+Page 5 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+ 
+●​ Cette réabsorption de HCO3- dans le tube contourné proximal 
+nécessite des transporteurs spécifiques, va être sujet à un transport 
+maximal étant saturable (notion de transport maximal « Tm »). De ce 
+fait, il peut y avoir un seuil d’apparition de HCO 3 - dans les urines, 
+dans le plasma (« rein dépassé »). 
+ 
+Explication du 
+schéma  
+ 
+1.​  Le Na + est réabsorbé, en échange, un H+ est sécrété dans la lumière 
+tubulaire (mais pas excrété) et qui se combine à l’anion HCO3 - 
+ 
+2.​ Production de H2CO3 (acide carbonique), dont la réaction est 
+accélérée par l’anhydrase carbonique présente dans la bordure en 
+brosse de la cellule, et qui se dissocie en H2O + CO2 car l’acide 
+carbonique ne peut pas traverser la membrane cellulaire, 
+contrairement au CO2 qui est lipophile. 
+ 
+3.​  Le CO2 entre dans cellule où il s’hydrate avec H2O et reconstitue le 
+H2CO3 avec l’intervention de l’anhydrase carbonique intracellulaire 
+(présente dans toutes les cellules) ce qui donne H + / HCO3 - Le 
+HCO3-  est réabsorbé en même temps que le Na+ du côté 
+basolatéral. 
+ 
+La réabsorption de HCO3 - est couplée à la réabsorption de Na+, par 
+l’antiport Na+/H+ H 2 CO 3 donne H + et HCO 3 - qui est réabsorbé dans 
+intersitiums 
+Appel à des transporteurs notamment NAH à vitesse limitée donc saturable. 
+ 
+Issus du cours de l’année dernière mais je trouvais intéressant de le l'ajouter  :  
+●​ Existences d’inhibiteurs de l’anhydrase carbonique = acétazolamide.  
+●​ Généralement des diurétiques car ils bloquent la réabsorption de Na+ 
+via le Na+/H+ :  
+●​ On se retrouve avec davantage de Na+ dans les urines ; ce sont des 
+produits acidifiants. 
+●​ Le diamox permet de prévenir le mal aigu des montagnes car 
+provoque un certain degré d’acidose, ce qui fait hyperventiler les 
+sujets (améliore les échanges gazeux). 
+ 
+ 
+Questions élèves 
+ 
+Élève: Vous avez dit que l’ion h+ est sécrété mais pas excrété ?  
+ 
+Prof : Parce qu’il sort mais ne rentre pas par des biais de combinaisons 
+chimiques il redonne H20/H2CO3 mais pas de H+  
+On ne retrouve pas de H+ libre dans la lumière mais on ne le retrouve pas dans 
+l’urine ne pas confondre H2O et H+  
+Ce n’est pas un processus d’expression des H+ 
+ 
+Élèves : Il se fait toujours dans les tubules contournés proximaux ?  
+ 
+Page 6 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+Prof : Non pas toujours on le verra après mais c’est surtout dans le tubule 
+contournés proximaux   
+C. Notion de transport maximum (Tm) 
+3. causes de 
+l'inhibition de 
+l´apoptose 
+ 
+●​  Il y a un transport maximum car le transporteur Na+/H+ a une activité 
+limitée. 
+ 
+ 
+●​ Lorsque la concentration d’HCO3- atteint 25/26 mmol/L (très proche 
+de la normale 22- 24 mmol/ L dans le sang artériel) si on atteint le 
+plafond possible de réabsorption, il va y avoir des bicarbonates dans 
+les urines(moyens de réponses) 
+○​ Particularité :  le transport de bicarbonate est modulable le 
+rein dans certaines circonstances peut l’augmenter ou le 
+diminué  
+ 
+●​ Augmentation Réabsorption : 
+○​ Si diminution volume extracellulaire (déshydratation) 
+○​ Si augmentation PaCO2  (diminution ventilation tendance à 
+une acidose respiratoire donc le rein augmente les bases) 
+■​ Le CO2 amène à la production d’acide  
+■​ Le rein ne peut pas agir sur le CO2 mais pour 
+maintenir un équilibre acido basique correcte il va 
+augmenter la base présent dans le milieu 
+extracellulaire  
+■​ C’est donc un moyen de réponse à une acidose 
+respiratoire  
+○​ Si Hypokaliémie  
+ 
+●​ Diminution Réabsorption :  
+○​ Si augmentation hydratation = augmentation du volume 
+extracellulaire  
+Page 7 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+○​ Si Diminution de la peptidase CO2 👍=   les poumons 
+hyperventilent et donc pas besoin de tampons bicarbonates 
+on les éliminent = Compensation dû à un désordre pulmonaire  
+ 
+Questions élève 
+ 
+Élève : Comment peut-on augmenter la réabsorption si on est déjà à 100% ? 
+ 
+Professeur  : on augmente le nombre de transporteurs 
+ 
+Explication : Si on veut augmenter la concentration plasmatique de 
+bicarbonates, car on est à risque d’acidose respiratoire : on doit modifier le 
+seuil sinon ils seront éliminés par les urines Donc on doit en réabsorber plus 
+Le rein le peut et augmente sa synthèse de transporteurs (NAH par ex) 
+ 
+III. EXCRÉTIONS IONS H+ 
+A.​ Fonctionnement  
+ 
+●​ Les reins n’éliminent les ions H+ sous forme libre qu’en quantité négligeable (de l’ordre de 
+nmol), et ils déterminent le pH urinaire. 
+●​ H+ libres dans l’urine mais quantitativement c’est négligeable ( Comme l'a dit la prof : 
+C’EST 🥜)  
+○​ Sous forme d’acidité titrable : ⅓ 
+○​ Sous forme de NH4+ (ion ammonium) : ⅔  
+■​ Forme prédominante  
+ 
+Excrétion nette d’urine = (acidité urinaire titrable) + (excrétion de NH4+ ) – (excrétion de HCO3- 
+normalement faible) 
+ 
+B.​ Excrétion d’ions H+ sous forme d’acidité titrable  
+Définition  
+ 
+Mesure : acidité titrable correspond à la quantité de base forte (ex : NaOH) 
+pour ramener le pH à la valeur normale du pH plasmatique (7.4) = Titration 
+de l’urine 
+●​ Acidité titrable représente la quantité d’ions H+ sécrétés dans la 
+lumière qui vont réagir avec des sels d’acides faibles A- (autres que 
+HCO3-) pour donner un acide faible AH qui lui va être éliminé. 
+ 
+Excrétion d’acidité titrable : phosphates 
+●​ Ces sels d’acide faible (≠ du HCO3- ) peuvent être : 
+○​ Des phosphates : 
+■​ HPO42−  + H+ =  H2PO4− 
+■​ Le phosphate HPO42− (base) s’associe à un ion H+ 
+pour donner le phosphate H2PO4− (acide) 
+■​ Le pK = 6,8 
+Page 8 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+○​ La créatinine : pK de 4,9 
+■​ Créatinine (acide faible)  se combine avec un H+ et va 
+donner la forme acide = Acide urique  
+○​ Acide urique : pK de 5,7 
+ 
+Pour rappel le pK : Le pK ou constante d'ionisation est le paramètre 
+mesurant la force des acides et des bases.  
+ 
+ 
+ 
+ 
+Remarque : 
+●​ Le pK est le pH auquel il y a autant de formes acides que de formes 
+basiques 
+●​ Pour le phosphate par exemple : 
+○​ Si pH d’un milieu < 6,8 : forme acide majoritaire 
+○​ Si pH d’un milieu > 6,8 : forme basique majoritaire 
+Exemple du 
+phosphate  
+ 
+Page 9 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+ 
+●​ Pour que les H+ restent tamponnés , il faut que les phosphates 
+restent sous forme d’acide (monosodique). Mais pour cela il faut que 
+le pH soit inférieur au pK. Plus le pH est acide , moins le phosphate se 
+dissocie , et donc plus la forme acide domine. 
+ 
+●​ Donc le lieu de production de l’acidité titrable dépend du pH du fluide 
+tubulaire. 
+ 
+●​ Le pk du phosphate (6.8) étant plutôt élevé , la production d’acide 
+faible (et donc d’acidité titrable) , a lieu dès le TCP. Cependant pour 
+la créatinine (pk=4.9) et l’acide urique (pk=5.7), le pH du fluide 
+tubulaire doit être très acide pour formé cette acidité titrable . Ainsi, 
+la production de l’acidité titrable n’aura lieu que dans la partie distale 
+du néphron (le pH y étant plus acide que dans la partie proximale ). 
+ 
+ 
+ 
+●​ Dans le plasma , le pH est de 7.4 . Il est donc plus élevé que le pk du 
+phosphate (=6.8). On retrouve 4 formes basques pour 1 forme acide , 
+il y a donc 4 fois plus de phosphate sous forme basique sous forme 
+d’acide . Il y aura donc moins de H+ tamponnés (car moins de forme 
+acide) et donc moins d’acidité titrable.  
+ 
+●​ Dans une urine avec un pH de 5.8 , il y a 1 forme basique pour 10 
+forme acide , donc 10 fois + de phosphate sous forme acide et donc 
+beaucoup plus d’acidité titrable. Pour rappel, 10 molécules de 
+phosphate monosodique (sous forme d’acide faible) = 10 molécules 
+d’H+ éliminées par excrétion urinaire. 
+ 
+●​ Même principe pour l'acide urique et la créatinine. 
+Page 10 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+ 
+●​ Le graphique représente la forme acide (H2PO4-) en fonction du pH 
+urinaire 
+○​ Plus le pH est bas , + il y a de forme acide . 
+○​ Plus le pH est élevé , - il y a de forme acide , car moins de de 
+H+ à éliminer . 
+●​ L’élimination de H+ (sous forme d’acidité titrable) augmente + le pH 
+est bas.  
+ 
+●​ En cas d’acidose métabolique ( en NON respiratoire) ou en cas 
+d’accumulation d’acide fixe , il y a une augmentation de l’acidité 
+titrable (pour éliminer cette surcharge acide ). 
+ 
+●​ Cependant, ce monde d’élimination de H+ est peu modulable et ne 
+peut augmenter que de 150% par rapport à l’excrétion usuelle.  
+ 
+C.​ Excrétion de H+ sous forme de NH4+ (ion ammonium) 
+Généralités 
+ 
+L’autre voie pour éliminer les H+ , est l’ion ammonium (NH4+). C’est la voie 
+majoritaire d’excrétion des H+ (2/3). 
+ 
+●​ Le NH4+ provient de l’association de l’ammoniac (NH3) avec un H+ 
+NH3 + H+ ↔ NH4+ 
+●​ Le pk du coupe NH4+/NH3 est très élevé (pk=9). Ainsi , il y a 95% 
+d’ammoniac sous forme de NH4+(acide) dans les liquides biologiques. 
+●​ 1 mmol de NH4+ excrété dans l’urine = 1 mmol de H+ excrété 
+(comme pour l’acidité titrable) 
+○​ Quantitativement très importante  
+○​ Voie très modulable (contrairement à celle précédant) . En cas 
+d’acidose métabolique, ou d’accumulation d’acide fixe, elle 
+peut être multipliée par 3. 
+ 
+Lieu de 
+production et 
+mécanisme  
+ 
+●​ Dans le plasma il n’y a presque pas de NH4+ . Le rein va donc en 
+produire et en sécréter pour éliminer le H+ ( par voie urinaire ). 
+●​ Le TCP produit 70% des NH4+, à partir de la glutamine (AA 
+plasmatique) . Les cellules tubulaires proximales possèdent de la 
+glutaminase(une enzyme qui n'est pas ubiquitaire) . 
+●​ La gluataminase va cataboliser (cliver) la glutamine en deux 
+alphacétoglutarate et en deux NH4+. = ammoniogenèse. 
+●​ Il y a deux voies de sorti possible pour le NH4+ :  
+Page 11 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+ 
+●​ Voie de sortie via l’antiport Na+/H+. 
+1.​  La glutamine est clivée en 2 NH4+ et en 2 alpha 
+cétoglutarate. 
+2.​ Le NH4+(étant chargé) va emprunter l’antiport . Le NH4+ sort 
+et le Na+ entre dans la cellule tubulaire. 
+3.​ Une fois dans l’urine , Le NH4+ s’associe avec le Cl-(anion 
+d’acide fort) pour être mieux éliminé (NH4CL=chlorure 
+d’ammonium). 
+ 
+●​ Autre voie : 
+1.​ Le NH4+ se dissocie entre NH3 et en H+ par une h+-ATPase 
+2.​ Le NH3 , pouvant traverser facilement la membrane , se 
+dirige vers la lumière tubulaire. 
+3.​ Le H+ , utilise la pompe H+ ATPasique (transport actif 
+primaire) pour sortir également.  
+4.​ Une fois les 2 dans l’urine , ils s'associent pour former NH4+. 
+ 
+●​ Le clivage de la glutamine , consomme deux H+.  
+●​ Ces 2 H+ , proviennent de l’hydratation deux 2 CO2. 
+○​ 2CO2 + 2H20 ↔2H2C03 
+○​ 2H2CO3 ↔ 2 HC03- + 2 H+ 
+●​ Les deux HCO3-(bicarbonates) , vont être utilisés pour tamponner et 
+masquer des H+ (=consommation).  
+●​ Ils seront réabsorbés et régénérés par la suite. 
+●​ Donc 1 NH4+ excrété = 1 HCO3- régénéré. 
+ 
+Page 12 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+Réabsorption du 
+NH4+ 
+ 
+●​ La majorité (80%) du NH4+ ,qui a été excrété dans l’urine ,sera 
+réabsorbé. Cette réabsorption a lieu au niveau de la BAAH                
+(branche ascendante de l'anse de Henlé). 20% ne seront pas 
+réabsorbé , et continueront leur trajet vers la partie distale du 
+néphron . 
+●​ Cette réabsorption se fait vie la cotransporteur (symport) NKCC. Le 
+HH4+ prend la place du potassium.  
+ 
+ 
+ 
+●​ Explication mécanisme de réabsorption 
+1.​ Le NH4+ entre dans la cellule de la BAAH via le NKCC. 
+2.​ Un foie en intra cellulaire, il se dissocie entre H+ et en NH3. 
+3.​ Le NH3 NE RESTE PAS dans la cellule et va dans l’interstitium. 
+4.​ Le H+ , quant à lui , sort via la pompe H+ ATPasique.  
+5.​ Le NH3 finit par regagner la lumière tubulaire , dans la partie 
+distale du néphron ( au niveau du canal collecteur) .  
+Et comme dans le canal collecteur , il y a une grande quantité 
+de H+ sécrété, le NH3 s’associe avec un H+ pour reformer le 
+NH4+ qui sera éliminé durant la miction.  
+ 
+●​ Intérêt double 
+○​ Permet , avec l’urée et le sel , de participer au gradient 
+cortico papillaire. 
+○​ Si le rein doit éliminer plus de H+ (notamment en cas 
+d’acidose métabolique)  
+= augmentation de l’activité de la glutaminase           
+= augmentation de l’ammoniogenèse 
+= augmentation de l'élimination de H+ sous fome de 
+NH4+  
+Il existe également un stock d’ammoniac au niveau 
+médullaire, qui sera libéré en cas d’acidose. 
+ 
+ 
+ 
+Page 13 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+●​ Facteur augmentant l’excrétion de NH4+ : 
+1.​ Acidose plasmatique aiguë et chronique.  
+ 
+ 
+2.​ Excrétion du NH4+ = mécanisme d’adaptation maximal 
+durant l’acidose plasmatique chronique.  
+3.​ Déplétion de potassium 
+4.​ Diminution du pH urinaire (car plus de H+ à éliminer) 
+5.​ Aldostérone : augmente excrétion H+ , en stimulant la 
+pompe H+ 
+6.​  ATPasique des cellules intercalaires de type Augmentation 
+du débit urinaire (favorisé par les diurétiques de l’anse et les 
+thiazidiques) 
+ 
+ 
+Question élèves  
+Élèves : Cela a lieu si le H+ par exemple n’a pas été tamponné par les HCO3- 
+ ? 
+Prof : Le H+ est toujours tamponné. jusqu'à épuisement du tampon,, justement 
+cela permet d’éviter l'épuisement du tampon.  
+ 
+Explication :  Lors de l’utilisation de HCO3- pour faire apparaître un H+, il va 
+falloir éliminer l’ion H+ par le rein  et en même temps reproduire un HCO3- à 
+un niveau disponible cela permet que le tampon ne soit pas fermer et 
+régénérer si non nous pourrions mourir en 2 minutes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 14 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+IV. RÔLE DU CANAL COLLECTEUR  DANS L’ACIDIFICATION  
+A.​ Les cellules du canal collecteur  
+ 
+ 
+●​ Le canal collecteur est le site principal de sécrétion des H+ et 
+d’acidification. 
+●​ Il y a deux types de cellules :  
+ 
+○​ Cellule principale 
+■​ Possède le canal sodique Enac(au pôle apical)  
+■​ La pompe NA+/K+ ATPasique( au niveau basolatéral).  
+●​ Elle permet d’excréter le potassium et de 
+réabsorbé le NA+. 
+○​ Cellules intercalées 
+■​ De type A :  sécrètent le H+ dans la lumière tubulaire 
+via la pompe ATPasique . Utilisées en cas d’excès de 
+charge acide (souvent) 
+■​ De Type B=(peu stimulées) : sécrètent le HCO3- en 
+cas d’excès de bases . Du fait de notre alimentation, il 
+est rare d’avoir un excès de base dans notre corps 
+(sauf végétarien). 
+ 
+●​ En plus des cellules intercalaires A, en cas d’excès d’acide , il y aura 
+une mobilisation du NH3 stocké dans le parenchyme (= tissu 
+fonctionnel) médullaire.  
+●​ Le NH3 passe de l’interstitium vers la cellule , puis de la cellule 
+tubulaire vers l’urine( dans la lumière tubulaire) . Il se combine avec le 
+H+ provenant de la pompe ATPasique , pour donner du NH4+ (qui sera 
+éliminé). En parallèle , le HCO3- se regénérera. 
+Page 15 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+ 
+○​ Donc : 
+■​ En cas d’acidose métabolique = cellules de type A 
+■​ En cas d’alcalose métabolique = cellule de type B 
+(rare) 
+ 
+B.​ Acidification des urines  
+Rôle du canal 
+collecteur  
+ 
+●​ Canal collecteur : site principal d’acidification de l’urine. 
+●​ Le pH urinaire peut atteindre 4 , ce qui correspond à une 
+concentration en H+ 2000 fois supérieure à celle du plasma 
+artérielle (40 mmol/L). Mais cela reste largement plus faible que 
+la quantité d’acide fixe journalier (60 à 80 mmol/J). 
+●​ L’élimination des H+ dans l’urine est donc quantitativement 
+négligeable par rapport à celle formée par le métabolisme 
+intermédiaire et provenant de l’alimentation. 
+●​ Cependant , elle assure un rôle qualitatif , puisque c'est elle qui 
+régule et détermine le pH urinaire . 
+ 
+ 
+Page 16 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+Variation du pH 
+le long du 
+néphron  
+ 
+ 
+ 
+●​ Dans le plasma , le pH est de 7.4. 
+●​ Arrivé dans le filtrat glomérulaire , il diminue à 7.25 
+●​ Dans le TCP il chute à 6.7 
+●​ A la fin de l’anse de Henlé , pas de modification du pH toujours à 6.7. 
+●​ A la fin du TCD , il diminue légèrement et atteint 6.6 car il reste 
+toujours du HCO3-. 
+ 
+●​ Dans le canal collecteur, il chute beaucoup (6.1) , car c’est le site 
+majeur d’acidification de l’urine. 
+●​ Donc , le pH diminue progressivement de la partie proximale du 
+néphron vers la partie distale. 
+●​ Au niveau de l’urine qui sort du corps, il n’y a plus de HCO3-(sauf 
+atteinte du TM) et pH <6  
+○​ (Peut atteindre 4 si la quantité de H+ à éliminer augmente 
+avec  une augmentation de l’acidité titrable et de l’excrétion 
+du NH4+.) 
+ 
+C.​ Résumé : Excrétion acide et bases  
+ 
+ 
+●​ Acide : 1/3= acidité titrable 
+             2/3= NH4+ 
+Base : Excrétion exclusivement sous forme de HCO3-, si pH urinaire >6.6 (très 
+rare). 
+ 
+ 
+Page 17 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+D.​ Réponse adaptée du rein  
+ 
+1.​ Charge alcaline aiguë : 
+●​ Injection entre IV de HCO3- , conséquences : 
+●​ Augmentation de la concentration plasmatique de HCO3- 
+et augmentation pH plasmatique 
+●​ Augmentation pH urine > 7.5 : 
+○​ Disparition acidité titrable( car le pH trop élevé) 
+○​ Diminution excrétion NH4+ 
+●​ Cellules intercalaires B= Excrètent le HCO3- ( qui ne pourra 
+pas être réabsorbé dans l’urine , car le TM a été atteint ) . 
+●​ Retour à un pH normal et élimination surcharge alcaline 
+en 24 heures. 
+ 
+2.​ Charge acide aiguë : 
+●​ Injection IV de NH4CL(chlorure d’ammonium=acide) 
+●​ Conséquences : 
+○​ Diminution concentration plasmatiques en HCO3- 
+○​ Diminution pH plasmatique 
+○​ Diminution pH urinaire < 5.3 
+○​ Augmentation acidité titrable 
+○​ Augmentation excrétion NH4+ ( car augmentation 
+ammoniogenèse et augmentation libération NH3 
+par le médulla ). 
+●​ En même temps  il y a  la régénération HCO3- 
+●​ Normalisation du pH et élimination surcharge acide. 
+ 
+ 
+Page 18 sur 19 
+ 
+
+---PAGE---
+             UE5– Physiologie  –Rôle du rein dans l’équilibre acido-basique– Pr Carole Planès– 10 /03/2026 
+ 
+ 
+Page 19 sur 19 
+ 
+
+---PAGE---

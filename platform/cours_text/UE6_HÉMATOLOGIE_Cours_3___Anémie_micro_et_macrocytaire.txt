@@ -1,0 +1,691 @@
+1 
+ 
+RT : Valentin Depuille, Yanis Mekbel 
+ 
+ 
+ 
+ 
+        RL : Jean-Baptiste Buniva 
+UE-6 Anémies microcytaires 
+ 
+Hématologie 
+Cours n°3 
+Pr Grégory Lazarian – 25/02/2026 – 10h15-11h45 
+Anémies microcytaires  
+ 
+Objectifs en lien avec l’ECN (item 213) : Anémie chez l’adulte et l’enfant 
+Argumenter les principales hypothèses diagnostiques et justifier les examens complémentaires 
+pertinents. 
+PLAN DU COURS 
+Partie 1 
+1) Rappel 
+A) Les globules rouges 
+B) Érythropoïèse 
+2) Définition de l’anémie 
+A) Normes 
+B) Cas particulier de la grossesse 
+C) Pour quoi on ne se base pas sur les globules rouges pour mesurer l’anémie  
+D) Situations d’hémodilution 
+E) Signe clinique 
+F) Tolérance à l’anémie 
+G) Signe de gravité 
+H) Situation d’urgence 
+3) Caractérisation de l’anémie 
+A) VGM 
+B) CCMH 
+C) Réticulocyte 
+Partie 2 
+1) Anémie microcytaires 
+A) Généralités 
+B) Métabolisme du fer 
+2) Carence martiale 
+A) Physiopathologie 
+B) Etiologie  
+C) Traitement 
+
+---PAGE---
+2 
+ 
+3) Anémie inflammatoire 
+A) Physiopathologie 
+B) Etiologie 
+C) Carence martiale vs Anémie inflammatoire 
+4) Syndrome thalassémique 
+Partie 3 
+1) Généralité  
+A) Répartition géographique 
+B) Physiopathologie de la thalassémie 
+C) Les signes cliniques de la thalassémie 
+D) Diagnostic 
+E) En résumé 
+2) Les points à retenir 
+ 
+ 
+Partie 1 
+1) Rappel 
+Introduction 
+L’anémie qui consiste en un déficit d’hémoglobine (=Hb) balaye un nombre de 
+situation de départ très vaste. Elle est retrouvée dans toutes les spécialités. 
+L’érythropoïèse correspond à l’ensemble des mécanismes qui vont permettre la 
+production constante et régulée (et non contrôlée) des Hématies (= globule 
+rouge = GR). 
+A) Globules rouges  
+Description 
+et Fonction 
+Les hématies sont des cellules anucléées de forme biconcave. Leur fonction 
+principale est de transporter l’oxygène au niveau des tissus grâce à une 
+molécule, l’hémoglobine. 
+L’hémoglobine est constituée de 2 chaines de globines alpha et de 2 chaines 
+beta pour l‘hémoglobine A (majoritaire à l’âge adulte) (il existe aussi l’Hb A2 
+minoritaire et l’Hb F majoritaire chez le fœtus et minoritaire à l’âge adulte). 
+Chaque molécule de globine est associée à une molécule d’hème (= fer + 
+porphyrine) qui fixe en son centre un atome de fer qui aura comme fonction de 
+fixer le dioxygène. 
+B) Erythropoïèse  
+Les différents 
+stades 
+Pour une érythropoïèse normale, on la décompose en deux stades : 
+- Stades des progéniteurs. 
+- Stades des précurseurs : début de la différenciation des cellules dans la lignée 
+érytropoïétique et prolifération. 
+-Puis on a la maturation.  
+Facteurs 
+essentiels 
+Pour faire l’érythropoïèse, on a besoin de trois facteurs essentiels : 
+- l’érythropoïétine produit par le rein en réponse à l’hypoxie, elle se fixe sur les 
+érythroblastes et provoque leurs proliférations. 
+- Pour la maturation : le fer 
+- Les vitamines B9 et B12 car elles rentrent dans la composition et la synthèse de 
+l’ADN. Les divisions ont lieu dans la moelle osseuse jusqu’à ce que la cellule 
+atteigne le stade ultime de différenciation, elle va ensuite devenir un réticulocyte 
+en expulsant son noyau et en passant dans le sang. Le réticulocyte est immature, 
+
+---PAGE---
+3 
+ 
+il va rester à ce stade encore un ou deux jours avant de devenir une hématie qui 
+elle, a une durée de vie de 120j. 
+ 
+Les hématies étant dépourvus de noyau, elles subsistent grâce à leur stock 
+d’enzymes et meurent une fois ce stock épuisé (hémolyse Physiologique) 
+2) Définition de l’anémie 
+Définition 
+Diminution du taux d’Hb (et pas de globule rouge) en dessous des valeurs de 
+référence, qui sont définis par l’hémogramme. 
+A) Normes 
+Seuils pour 
+l’anémie 
+Ces références vont dépendre de l’âge et du sexe du patient : 
+Anémie chez l’homme : Hb < 130g/L 
+Anémie chez la femme : Hb < 120g/L 
+B) Cas particulier de la grossesse 
+Cas 
+particuliers 
+Au 1er et 2ème trimestre de la grossesse l’anémie est vérifiée quand le taux 
+d’Hb est < 110g/L 
+Au 3ème c’est < 105g/L car c’est à ce moment-là que l’hémodilution est la plus 
+importante 
+Chez l’enfant (6-14) : Hb <120g/L 
+Chez l’enfant moins de 6 ans : Hb <110g/L 
+Chez le nouveau-né : Hb <140g/L 
+La principale conséquence de l’anémie est l’hypoxie tissulaire. 
+C) Pour quoi on ne se base pas sur les globules rouges pour mesurer l’anémie  
+Différents 
+pièges  
+Attention : Pour définir une anémie il ne faut se fier qu’au taux d’Hb. Si on se fie 
+au nombre de GR pour définir l’anémie, on peut tomber dans certain piège. 
+Par exemple : 
+- Quand le nombre de GR est augmenté avec un volume moyen plus petit que la 
+normal, la quantité totale Hb est similaire à une situation normale 
+- Quand le nombre de GR est diminué et le volume moyen des GR est plus 
+important, la quantité d’Hb est comparable à une situation normale. 
+Donc la quantité de GR n’évolue pas systématiquement dans le même sens 
+quand le taux d’Hb. D’où l’utilité de n’utiliser que le taux d’Hb pour 
+diagnostiquer l’anémie. 
+ 
+Devant une anémie il est important d’éliminé une fausse anémie par 
+hémodilution.  
+En effet le taux d’Hb est calculé pour un volume plasmatique constant, donc si le 
+volume plasmatique augmente, la concentration diminue. 
+D) Situation d’hémodilution 
+Les 
+différentes 
+situations 
+Situation physiologique : Grossesse, on a la création d’un troisième 
+compartiment. 
+Situation pathologique :  
+- 
+Gammapathie monoclonale a taux élevé. Il s’agit d’une production de 
+protéine (surtout de type IgM) monoclonale en très grande quantité, cela 
+va créer un effet osmotique qui va attirer de l’eau dans le compartiment 
+sanguin, ce qui va diluer le sang. 
+- 
+Splénomégalie volumineuse : augmentation du volume de la rate par 
+rétention de sang 
+- 
+Insuffisance cardiaque sévère. 
+E) Signe clinique de l’anémie : syndrome anémique 
+
+---PAGE---
+4 
+ 
+Principaux 
+signes 
+Séparés en deux grands groupes : 
+- Pâleur généralisée au niveau de la peau et des muqueuses (visible également 
+au niveau des ongles, de la paume et des conjonctives) : traduit la diminution de 
+l’Hb circulante. 
+- Compensation cardiorespiratoire qui se traduit par une asthénie, une dyspnée 
+a l’effort puis au report, une polypnée, un vertige, un bourdonnement d’oreille, 
+des maux de tête, un souffle cardiaque et une tachycardie. 
+ 
+L’anémie peut donc aggraver ou décompenser une pathologie cardiaque 
+préexistante (angor/claudication intermittente/insuffisance respiratoire) 
+F) Tolérance a l’anémie  
+Facteurs de 
+tolérance 
+Après élimination de la fausse anémie, il faut évaluer la tolérance de celle-ci. 
+Elle dépend de plusieurs facteurs : 
+- Profondeur de l’anémie 
+- Rapidité de l’installation de l’anémie (important), une anémie à installation 
+progressives (carence en fer) est bien mieux tolérée qu’une anémie à installation 
+rapide (hémorragie aiguë). Cela est dû à la mise en place de mécanisme de 
+compensation. 
+- Terrain du patient, son âge (moins bien tolérée chez les personne âgées), 
+existence de pathologie cardiorespiratoire 
+G) Signe de gravité à rechercher : signe de mise en danger des organes nobles. 
+Les différents 
+signes de 
+gravités 
+- Signe neuro/cardio : car les mécanismes d’adaptation sont dépassés 
+- Dyspnée au repos  
+- Tachycardie mal supporté 
+- Angor de poitrine 
+- HTA 
+- Vertige 
+- Signe d’ischémie 
+- Signe d’hypovolémie et de choc pour les cas d’hémorragie aiguë 
+ 
+Après la recherche de ces signes, on se pose la question de transfusion, en cas 
+de mauvaise tolérance. 
+Situations d’urgences, anémie mal tolérée avec instabilité hémodynamique, 
+avec un patient qui a une hypotension, une tachycardie, confus, polypnée, 
+marbrure cutanée. 
+H) Situation d’urgence  
+Les 2 types 
+d’anémies 
+urgentes et 
+les signes 
+cliniques 
+Les situations d’urgences sont principalement présentes dans deux types 
+d’anémies : 
+1) Hémorragie aiguë. 
+2) Hémolyse aiguë qui concerne 4 pathologies : 
+- 
+Hémolyse immunologique 
+- 
+Microangiopathie thrombotique (MAT) 
+- 
+Déficit en G6PD 
+- 
+Paludisme Avec infection au plasmodium 
+ 
+L’anémie n’est pas un diagnostic mais un symptôme qui impose une recherche 
+étiologique : 
+ 
+Interrogatoire : contexte de découverte, ATCD personnel et familiaux, TTT, 
+hémogramme antérieur, voyage, habitude alimentaire, signes digestifs et 
+gynécologique. 
+
+---PAGE---
+5 
+ 
+En dehors des signes du syndrome anémique, il faut également regarder les 
+signes cliniques qui peuvent nous orienter vers certaines étiologies tel que la 
+fièvre, examen de la peau et des muqueuses, avec possibilité d’ictère, signe de 
+sidéropénie (cheveux et ongles), splénomégalie, adénopathie, hépatite ou 
+cirrhose. 
+3) Caractérisation de l’anémie  
+Origine 
+centrale et 
+périphérique  
+On distingue deux grands types d’anémie : 
+- Anémies d’origine centrale : défaut de production des GR qui est soit qualitatif 
+soit quantitatif. Il y a donc moins d’érythropoïèse, ce qui se traduit par un taux 
+de réticulocyte qui va être bas. 
+- Anémies d’origine périphérique : pas de problème de production des GR. Les 
+GR qui ont normalement une durée de vie de 120j, vont avoir une durée de vie 
+diminuée. Dans ce cas-là, la moelle osseuse va essayer de compenser la 
+diminution de GR et donc cela va induire une hyperréticulocytose (>120G/L). Il 
+aussi les anémies par excès de pertes qui sont dû aux hémorragies aiguës. 
+A) Volume Globulaire Moyen (VGM) 
+Valeurs 
+normales et 
+anormales 
+Pour caractériser l’anémie il faut regarder dans un premier temps le 
+VGM, compris normalement entre 80-100fL : 
+- VGM < 80fL : anémie microcytaire 
+- VGM compris entre 80-100fL : anémie normocytaire 
+- VGM > 100fL : anémie macrocytaire 
+B) Concentration Corpusculaire Moyenne en Hémoglobine (CCMH) 
+Valeurs 
+normales et 
+anormales 
+On regarde également la CCMH : compris entre 32-35g/dL 
+- CCMH < 32g/dL : anémie hypochrome 
+- CCMH compris entre 32-35g/dL : anémie normochrome 
+On ne parle jamais d’anémie hyperchrome car l’érythroblaste arrive à maturité 
+quand le taux d’Hb arrive à 35g/dL. 
+Il important de savoir l’aspect des hématies sur le frottis sanguin qui est examiné 
+au MMG. Tous ces éléments sont présents sur la NFS. 
+C) Réticulocytes 
+Valeurs  
+On regarde ensuite les réticulocytes. Ils ne sont pas donnés dans 
+l’hémogramme, il faut prescrire le test en plus de la NFS. On ne fait jamais les 
+réticulocytes tout de suite, on le fait seulement si la présence d’anémie est 
+confirmée. 
+Les réticulocytes nous permettent de savoir si l’anémie est régénérative ou non. 
+- Nbr de réticulocyte < 120G/L : anémie arégénérative 
+- Nbr de réticulocyte > 120G/L : anémie régénérative 
+Démarches 
+pour le 
+diagnostique 
+La démarche est donc : diagnostique de l’anémie sur l’hémogramme, en 
+fonction de l’âge et du sexe. On élimine les causes d’hémodilution. Et on 
+regarde le VGM. 
+VGM < 80, anémie microcytaire. Dans ce cas, il s’agit d’un défaut de production 
+d’Hb. Pour les anémies microcytaires, les réticulocytes ne sont pas forcément 
+très intéressants car elles sont presque tout le temps d’origine centrale. 
+VGM > 80, anémie normo et macrocytaire, les réticulocytes sont intéressants 
+car ils permettent de savoir si l’anémie est régénérative ou non. 
+ 
+Anémie arégénérative : insuffisance de production des GR, cause centrale 
+Anémie régénérative : excès de perte, cause périphérique. 
+ 
+
+---PAGE---
+6 
+ 
+Attention : lors d’une transfusion, il est important de prélever du sang avant de 
+transfuser pour l’enquête étiologique. La transfusion pouvant fausser le bilan 
+étiologie à cause des hématies exogènes. 
+ 
+ 
+ 
+ 
+ 
+Partie 2 
+1) Anémies microcytaires 
+A) Généralités  
+Schéma et 
+explications 
+ 
+ 
+Déficit en fer :  
+• 
+Carences martiales dues à une carence d’apport ou un excès de perte 
+(principale cause d’anémie) 
+• 
+Anémie inflammatoire : défauts d’utilisation du fer, qui est séquestré 
+dans les macrophages 
+• 
+Syndromes thalassémiques : défaut de fabrication des chaînes d’Hb, lié 
+à une anomalie génétique   
+ 
+B) Métabolisme du fer 
+Apport et 
+pertes 
+Le métabolisme en fer est normalement apporté par l’alimentation. Il est 
+apporté par les aliments tels que : 
+- Viandes rouges 
+- Foie 
+- Lentilles      
+- Légumes secs 
+- Chocolat 
+ 
+! Attention ! Lait pauvre en fer = peut causer des carences chez le nourrisson  
+ 
+Les pertes : selles/urines, desquamation des phanères, la sueur, perte 
+menstruelle, donneur de sang (500mg dans 1L de sang) 
+
+---PAGE---
+7 
+ 
+Fer = 4-5g de fer dans l’organisme, 80% est associé à l’Hb on parle alors de fer 
+héminique 
+20% du fer est non héminique et est associé à : 
+- la ferritine = protéine du stockage du fer dans les macrophages   
+- la transferrine = protéine du transport du fer (des macrophages à 
+l’érythroblaste) 
+ 
+Voie 
+métabolique  
+Fer alimentaire absorbé par les entérocytes → exporté vers le sang via la 
+ferroportine → transporté lier à la transferrine → capté par les érythroblastes 
+médullaires → synthèse d’hémoglobine → différenciation en globules rouges 
+→ circulation pendant ≈120 jours. 
+ En fin de vie les GR sont détruits/ phagocytés par les macrophages de la rate 
+qui vont recycler le fer issu de l’hémolyse pour être stocké sous forme de 
+ferritine  
+ 
+ 
+ 
+2) Carence martiale 
+A) Physiopathologie 
+Physiologie et 
+pathologie  
+• 
+Physiologiquement dans la moelle osseuse il existe une synchronisation 
+entre la synthèse des noyaux et la maturation du cytoplasme (son 
+hémoglobinisation progressive) cette maturation se fait jusqu’à 
+atteindre la concentration cible, 320-350g/L (CCMH) 
+ 
+ 
+• 
+Sur le plan pathologique, il y’a un décalage de ces deux processus 
+menant les érythroblastes à faire des mitoses supplémentaires 
+conduisant à des hématies de plus petit volume—> MICROCYTOSE = 
+mécanisme d’origine Centrale. 
+
+---PAGE---
+8 
+ 
+ 
+ 
+Note : une ferritine normale n’exclut pas une carence martiale car dans 
+certaine situation pathologique il y’a une augmentation de la ferritine, (ex : 
+cancer, syndrome inflammatoire) on doit donc doser la CRP en parallèle.  
+ 
+B) Etiologie  
+Les 
+différentes 
+causes 
+Dû soit à un excès de perte soit à un défaut d’apport,  
+Majoritairement due à une spoliation sanguine chronique (perte excessive de 
+fer), parfois occulte (>90% des cas). 
+Ex : Typiquement c’est une femme un peu âgée qui a un cancer gynécologique 
+et qui a des Saignements à bas bruit depuis des mois voire années sans s’en 
+rendre compte. 
+Étiologies principales : 
+• 
+Causes gynécologiques +++ chez la femme jeune 
+• 
+Causes digestives +++ chez l’homme et la femme ménopausée 
+(saignement souvent méconnu, K colique ++.) Saignement dans les 
+selles ? Ne permet pas d’exclure une cause digestive si la recherche de 
+sang dans les selles est négative. 
+Autres étiologies : 
+• 
+Méno/métrorragies ? Règles anormalement abondantes ? À envisager 
+++ chez la femme jeune non ménopausée. 
+• 
+Prise de TTT ? Anticoagulants, aspirine, AINS. 
+• 
+ATCD médico-chirurgicaux ? Pathologies inflammatoires (digestives ?) 
+chroniques ? Saignements anormaux avec troubles de la coagulation 
+chez l’individu ou dans la famille. 
+• 
+Régime alimentaire ⇒ Carence d’apport ? Plus fréquente dans les PED. 
+En général, la carence d’apport survient dans des contextes particuliers 
+(nourrisson, grossesses rapprochées ou gémellaires) du fait d’un 
+déséquilibre apport/augmentation des besoins. 
+• 
+Défaut d’absorption ? À évoquer en cas de gastrectomie, de maladie 
+cœliaque, de pathologie inflammatoire intestinale 
+ 
+C) Traitements  
+ 
+Le traitement dans le cas d’une carence en fer va être la supplémentation en 
+fer 100/200mg chez l’adulte qui va devoir être conduite pendant au moins 
+3mois (le temps qu’il faut pour que la ferritine se normalise) (le prof à dit que 
+c’était peut-être 4 mois et que le collège faisait foi, dans le collège ils disent 
+minimum 3 mois). 
+
+---PAGE---
+9 
+ 
+Il peut se passer plusieurs semaines entre le début de la mise en place de la 
+carence et les anomalies hématologique. 
+Signe que le TTT fait effet est la crise réticulocytaire = signe que la moelle 
+osseuse est en train de se régénérer donc il va y avoir une ↗ de la synthèse des 
+réticulocytes.  
+ 
+3) Anémie inflammatoire  
+A) Physiopathologie 
+Conséquence
+s de 
+l’inflammatio
+n  
+Il n’y a ni carence d’apport, ni excès de perte de fer. Le fer est présent mais 
+n’est pas mis à disposition car il est séquestré. 
+ On parle alors de carence fonctionnelle par un défaut de biodisponibilité du Fer 
+et donc la conséquence va être la même que pour l’anémie ferriprive :  
+• 
+Une anémie microcytaire hypochrome 
+ 
+Lors de l’inflammation on produit des cytokines notamment la Il-VI qui va 
+inhiber l’érythropoïèse. Pour ce faire elle va augmenter la production de 
+l’hepcidine, qui va bloquer la ferroportine (importante pour l’absorption du fer 
+au niveau intestinal, ainsi que pour le relargage du fer vers les macrophages).  
+Si on bloque la ferroportine il y a d’une part moins d’absorption de fer et d’une 
+autre part le fer va être séquestrer dans les macrophages. 
+ 
+ 
+ 
+- Signe clinique : syndrome anémique ains que les signe de la maladie causale, 
+ex : fièvre, altération de l’état général  
+• 
+Si l’anémie est inférieure à 6-8 semaines : normochrome et 
+normocytaire. 
+• 
+Si l’anémie est supérieure à 6-8 semaines : hypochrome et 
+microcytaire. 
+ 
+C’est la persistance de l’état inflammatoire qui va entraîner l’installation de 
+l’hypochromie et de la microcytose. 
+À cause de l’inflammation, lors d’une numération il y a souvent associé des 
+polynucléoses neutrophiles et des thrombocytoses. 
+-Signes biologiques de l’inflammation :  
+↗ CRP 
+↗ Fibrinogène 
+↗ Ferritine 
+↗ Alpha 2 globuline 
+ 
+B) Etiologie  
+
+---PAGE---
+10 
+ 
+ 
+TOUT LES ÉTATS INFLAMMATOIRE CHRONIQUE 
+Ex : cancer, maladie auto-immune (type polyarthrite rhumatoïde) ou syndrome 
+inflammatoire chronique. 
+Une anémie microcytaires inflammatoire nécessite un certain temps à se mettre 
+en place, généralement on l’observe après plusieurs semaines/mois. 
+— TTT de la cause de l’inflammation. 
+ 
+C) Carence martiale vs Anémie inflammatoire 
+Schéma  
+ 
+4) Syndrome thalassémique  
+Description 
+du Syndrome 
+Les Syndromes thalassémiques sont des maladies héréditaires touchant les 
+gènes de l’Hb, soit la chaîne Alpha soit la chaîne Bêta qui vont être à l’origine 
+d’un déficit QUANTITATIF d’une des chaînes de globine.  
+Il existe aussi des déficit QUALITATIFS qui vont être à l’origine de la production 
+d’une globine anormale qui ne pourra pas être incorporé a l’Hb se traduisant 
+par un déficit QUANTITATIF. 
+ 
+ 
+• 
+Répartition géographique : Pourtour méditerranéen, Afrique ou Asie 
+ 
+A l’âge adulte on produit autant de chaîne de globine A que de chaîne de 
+globine B pour avoir un taux non-déséquilibré. 
+Dans les thalassémies il va avoir la délétion d’un gène qui code pour une des 
+chaînes de Globine menant ainsi à la ↘ de la synthèse de Hb. 
+On va ainsi parler d’Alpha-thalassémie ou de Beta-thalassémie en fonction de la 
+chaîne déficitaire.  
+ 
+ 
+
+---PAGE---
+11 
+ 
+ 
+Gravité des 
+pathologies 
+thalassémiques 
+ 
+ 
+Signe clinique et biologique : 
+ 
+Thalassémie mineure (= trait thalassémique) 
+Asymptomatique, Microcytose +/- anémie très modérée, nombre de GR 
+augmentés 
+Thalassémie intermédiaire 
+Anémie chronique, microcytaire 80 - 110 g/L, transfusions ponctuelles 
+Variabilité clinique 
+Thalassémie majeure 
+Anémie microcytaire sévère < 80 g/L dépendante des transfusions 
+Splénomégalie, retard de croissance, déformations osseuses 
+Surcharge en fer et complications (cardiaques, endocriniennes, hépatiques…) 
+ Importance de la prise en charge précoce : transfusions et chélation du fer  
+ 
+Bilan 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+12 
+ 
+Partie 3 
+1) 3ème cause d’anémie microcytaire : les syndromes 
+thalassémiques et hémoglobinose microcytaire  
+Généralités 
+Il n’y a pas de problème de fer, le problème vient d’un défaut de synthèse de la 
+chaine de globine, il y a un défaut au niveau de la chaine alpha ou bêta de 
+l’HbA. 
+Les syndromes thalassémiques sont des maladies héréditaires qui vont toucher 
+les gènes de l’hémoglobine et vont donc être à l’origine d’un déficit quantitatif 
+d’une des chaînes de globine. Il peut également y avoir un déficit qualitatif, il 
+s’agit de mutation au sein de la chaine de globine qui vont être à l’origine d’une 
+globine anormale qui ne pourra pas être incorporé à l’hémoglobine et qui se 
+traduira par un déficit quantitatif. 
+A) Répartition géographique  
+Précisions sur 
+la thalassémie 
+Le syndrome thalassémique qui est principalement présent chez les 
+populations issues du pourtour méditerranéen et d’Asie du Sud est l’alpha 
+thalassémie. 
+Hémoglobinose C, patient d’origine africaine. 
+Hémoglobinose E patient originaire d’Asie du Sud Est. 
+À l’âge adulte l’hémoglobine est principalement constituée d’hémoglobine A. Il 
+s’agit d’un tétramère qui possède 2 chaînes alpha et 2 chaînes bêta. La chaine 
+alpha est produite pendant la vie fœtale et se maintient à l’âge adulte. La 
+chaine bêta commence à la naissance et arrive à un stade de production égale à 
+la chaîne alpha. 
+On peut retrouver des trace d’Hb A2 (alpha 2/bêta 2) très minoritaire 
+L’Hb fœtale : abondante chez le nouveau-né puis va rapidement diminuer au 
+profit de l’HB A. 
+A l’âge adulte, on produit autant de chaîne Bêta que de chaine alpha. 
+Dans les thalassémies on va donc avoir la délétion d’un gène qui code pour une 
+des chaînes de globine. On parle de alpha ou de bêta thalassémie en fonction 
+de la chaine qui va être déficitaire. 
+Alpha 
+Thalassémie 
+On possède deux gènes alpha sur chaque chromosome16, on a donc 4 gènes 
+codant pour les chaînes alpha identiques. Pour chaque alpha thalassémie on 
+peut donc avoir la délétion de 1 à 4 gènes 
+Béta 
+Thalassémie 
+On a seulement un gène béta sur chaque chromosome donc on peut avoir la 
+délétion d’un ou deux gènes. 
+En fonction du nombre gène délété on va avoir une sévérité clinique 
+différente. 
+B) Physiopathologie de la thalassémie  
+Signes 
+pathologiques 
+de la 
+thalassémie 
+D’un point de vue physiopathologique, on a un défaut de synthèse de chaine 
+alpha ou bêta qui entraine un défaut de synthèse de l’Hb, cela va provoquer 
+une microcytose et une hypochromie. 
+En parallèle on va avoir un déséquilibre de production entre la chaine alpha et 
+bêta. Cela va provoquer la formation de complexes alpha 4 ou bêta4, ces 
+complexes sont très toxiques pour les cellules. Les complexes alpha 4 sont 
+instables, les GR qui les contiennent vont donc être avortés dans la moelle 
+(hémolyse intra médullaire). L’érythropoïèse sera donc inefficace. 
+Certains globules rouges vont être produit mais seront anormaux, ils vont 
+donc être séquestrés dans la rate et phagocytés par les macrophages.  
+On peut aussi avoir une augmentation des réticulocytes, cela va dépendre de 
+la sévérité de la thalassémie. 
+
+---PAGE---
+13 
+ 
+Pour les bêta thalassémies majeures, on va avoir une hyper stimulation de 
+l’érythropoïèse qui va entraîner des déformations osseuses.  
+Les complexes alpha 4 vont altérer les membranes des GR ce qui va favoriser 
+les thromboses. 
+C) Les signes cliniques de la thalassémie  
+Les différentes 
+thalassémies 
+Ils vont dépendre de la production résiduelle de la chaine alpha ou de la chaine 
+bêta. 
+On va distinguer les : 
+-Thalassémies mineures : le trait thalassémique 
+Patient asymptomatique avec une microcytose qui peut être accompagnée 
+d’une anémie et d’un nombre de GR qui va être augmenté. 
+-Thalassémie intermédiaire : anémie chronique avec une microcytose, ces 
+patients vont nécessiter de façon ponctuelle des transfusions avec des signes 
+cliniques très variables. 
+-Thalassémie majeure : anémie microcytaire < 80g/L. Ils sont souvent 
+transfusés avec une splénomégalie, un retard de croissance, déformation 
+osseuse et une transfusion de sang régulière qui induit des surcharges en fer et 
+provoque des complications cardiaques, endocriniennes et hépatiques. 
+ 
+En France ces thalassémies vont concerner deux grandes situations, les alpha ou 
+bêta thalassémies mineures et les alpha et bêta thalassémies majeures. 
+D) Diagnostic 
+Au microscope 
+Pour le diagnostic, sur le frottis sanguin, on va avoir des anomalies 
+morphologiques qui se traduisent par des ponctuations basophiles dans les GR. 
+On va aussi avoir des hématies cible qui sont très typiques des thalassémies. 
+  
+ 
+     
+Le diagnostic est porté par l’électrophorèse de l’Hb qui permet de quantifier les 
+fractions en Hb, elle doit être réalisée en dehors de toute transfusion et en 
+absence de carence martiale (Orientation du patient vers un conseil 
+génétique). 
+ 
+E) En résumé 
+Thalassémie et 
+anémie 
+microcytaire  
+Pour les thalassémies la gravité va dépendre du nombre gène qui est délété, 
+comme le montre le tableau ci-dessous : 
+ 
+
+---PAGE---
+14 
+ 
+ 
+ 
+Pour une anémie microcytaire le tableau est important à retenir.  
+ 
+ 
+ 
+2) Points à retenir  
+Résumé  
+ 
+ 
+ 
+
+---PAGE---

@@ -1,0 +1,1110 @@
+UE5 : VOIES URINAIRES ET APPAREIL GENITAL MASCULIN 
+PHYSIOLOGIE RENALE – ROLE DU REIN DANS LE BILAN DE SODIUM- 05/03/2026 – C. PLANES 
+ 
+RT : Aya Rim Nakhil & Yuvika Gupta – RL: Rayhana Echchatbi 
+ 
+ 
+ 
+ 
+PHYSIOLOGIE RENALE et DU MILIEU INTERIEUR 
+ROLE DU REIN DANS LE BILAN DE SODIUM 
+ 
+PLAN DU COURS 
+I. 
+Répartition du sodium dans l’organisme 
+II. 
+Entrées, sorties et bilan du sodium 
+III. 
+Réabsorption rénale de sodium 
+A. Tube proximal 
+B. Anse de Henlé 
+C.  Tubule distal et canal collecteur 
+IV. 
+Balance glomérulo-tubulaire 
+V. 
+Régulations hormonales de la réabsorption rénale du sodium dans le 
+canal collecteur 
+A. Aldostérone 
+B. Facteur Natriurétique Auriculaire (ANF) 
+VI. 
+Physiopathologie : hyperaldostéronisme primaire et secondaire 
+A. Hyperaldostéronisme « normal » 
+B. Hyperaldostéronisme primaire (syndrome de Conn) 
+C.  Hyperaldostéronisme secondaire 
+Take-home messages 
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 2 sur 26 
+ 
+ 
+ 
+ 
+ 
+ 
+I. 
+Répartition du sodium dans l’organisme 
+Introduction 
+ 
+ 
+Le sodium (Na+), est très présent dans notre corps, à 60 mmol/kg, ça fait 
+environ 4 moles pour tout le corps. 
+ 
+ 
+On distingue 2 types de sodium principalement: 
+- 
+Le sodium dit non échangeable qui représente environ le tiers du total et 
+qui est fixé à l'os. Il peut éventuellement se détacher de l'os mais dans sa 
+globalité il ne s’échange pas facilement avec le reste du milieu 
+extracellulaire. 
+- 
+Les deux tiers restants sont dits échangeables et se trouvent 
+principalement dans le milieu extracellulaire, où le sodium représente  
+95 % des cations. 
+ 
+La natrémie représente la concentration de sodium. Dans le plasma, elle 
+est d'environ 142 mmol/L de plasma (soit 151 mmol/kg d'eau). Les valeurs 
+sont différentes si on s’exprime en kilogramme d’eau car un litre de 
+plasma est différent d'un litre d'eau en raison de la présence de lipides et 
+de protéines qui occupent un volume supplémentaire. Il y a donc plus de 
+place pour le sodium dans l’eau et la concentration y est donc plus élevée. 
+- 
+Dans l'interstitium, il y en a autour de 142 mmol/kg d'eau, car il y a 
+peu de protéines. En effet, en raison de l’équilibre de Gibbs-
+Donnan, les protéines chargées négativement attirent les cations, 
+donc par conséquent le sodium. Dans le milieu intracellulaire, les 
+concentrations varient entre 12 et 20 mmol/kg d'eau pour les 
+mêmes raisons que précédemment. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 3 sur 26 
+ 
+ 
+ 
+Milieu 
+extracellulaire 
+Milieu 
+extracellulaire 
+: 
+le 
+sodium 
+est 
+le 
+cation 
+majoritaire, représentant à lui 
+seul 
+95 
+% 
+des 
+cations 
+extracellulaires. 
+Par électroneutralité, les anions 
+doivent 
+être 
+en 
+quantité 
+équivalente, les principaux étant 
+le chlorure et les bicarbonates. 
+Le sodium représente donc près 
+de la moitié de l'osmolalité 
+extracellulaire. 
+ 
+ 
+Notion importante: Le nombre d’osmoles de sodium détermine le 
+volume du compartiment extracellulaire, donc sa volémie.  
+En effet, le sodium c'est environ 95 % des ions extracellulaires, soit à lui 
+tout seul près de la moitié des osmoles extracellulaires (car il y autant 
+d’anions que de cations).  
+Tout apport d’ion sodium du compartiment extracellulaire entraîne une 
+augmentation du volume extracellulaire. 
+ A contrario, tout apport d’ion sodium du compartiment extracellulaire 
+entraîne une augmentation du volume extracellulaire. 
+ATTENTION, à ne pas confondre avec la natrémie, qui elle est la 
+concentration plasmatique en sodium. 
+ 
+Milieu 
+intracellulaire 
+Milieu intracellulaire : La concentration en sodium y est faible, le potassium 
+étant l'ion dominant. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 4 sur 26 
+ 
+ 
+Contenu en 
+sodium du 
+milieu 
+extracellulaire 
+ 
+ 
+ 
+L’osmolalité extracellulaire peut être considérée comme étant une 
+constante. 
+ En effet, elle est régulée autour de 300 mosm/kg d'eau. L'organisme 
+ajuste son volume en eau selon le nombre d'osmoles extracellulaires 
+(en majorité du sodium) pour préserver du mieux possible cette 
+osmolalité. 
+ 
+Le sodium représente 95 % des cations extracellulaires et près de la 
+moitié des osmoles. 
+ 
+L'osmolalité extracellulaire est finement régulée autour de 300 
+mosm/kg d'eau. L'organisme adapte son contenu en eau en fonction 
+du nombre d'osmoles extracellulaires (principalement du sodium) afin 
+de maintenir cette osmolalité. 
+ 
+Apport de sodium 
+Tout apport en sodium (exemple : ingestion de NaCl) entraîne une 
+hyperosmolalité extracellulaire. Deux mécanismes permettent de 
+rétablir l'équilibre : 
+1. Immédiatement : 
+ un transfert d'eau du compartiment 
+intracellulaire vers l'extracellulaire pour équilibrer l'osmolalité. 
+2. Une sensation de soif qui pousse à boire, ce qui augmente le 
+volume extracellulaire jusqu'à rétablir une osmolalité de 300 
+mosm/kg d'eau. 
+ 
+Perte de sodium : En cas de perte importante de sodium (ex. 
+diarrhée ou sueur), on aura l’effet inverse. C’est-à-dire, que l’on aura 
+une diminution du volume extracellulaire jusqu’à rétablissement de 
+l’osmolalité 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 5 sur 26 
+ 
+ 
+ 
+II. 
+Entrées, sorties et bilan de sodium 
+ 
+L’apport principal est alimentaire, en effet on ingère environ 100 à 200 mmol/24h. La moitié 
+vient du sel de cuisine, et l'autre moitié peut provenir des différents laitages, le pain, la 
+charcuterie et les aliments transformés. 
+Par la suite, le sodium ingéré est absorbé dans sa totalité dans le tube digestif, notamment 
+dans l'intestin, aussi beaucoup dans le grêle, et enfin dans le côlon. 
+On a deux types de sorties de sodium : extra-rénales et rénales. 
+ 
+Sorties extra- 
+rénales (non 
+régulées) 
+ 
+Par les fèces (≈5 mmol/24h, mais peut augmenter en cas de diarrhée). 
+ 
+Par la sueur, qui est toujours hypoosmotique par rapport au plasma. 
+Sa concentration varie entre 5 et 80 mmol/L et peut augmenter avec 
+la chaleur ou dans certaines pathologies (ex. mucoviscidose). 
+Sorties rénales 
+(régulées par les 
+hormones) 
+C’est la sortie essentielle du sodium, régulée par les hormones. Le rein 
+adapte l’excrétion urinaire de sodium selon les entrées alimentaires de 
+façon a ce qu’on reste à l’équilibre  
+ 
+Le rein ajuste l'excrétion urinaire de sodium en fonction des entrées 
+alimentaires pour maintenir un bilan sodé nul. 
+ 
+En équilibre, les entrées et les sorties sont égales. 
+ 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 6 sur 26 
+ 
+ 
+ 
+Exemple : 
+variation du 
+poids selon les 
+apports sodés 
+ 
+(La prof insiste sur l’importance de ce graphique, elle dit je cite que si on 
+l’a compris, elle a gagné sa journée). 
+ 
+● 
+J0 : Un individu de 70 kg consomme 150 mmol/24h de Na+. Il est en 
+équilibre : l'excrétion urinaire compense les apports. 
+● 
+J3-J9 : Suppression soudaine du sodium alimentaire (régime strict sans 
+sel). L'excrétion urinaire diminue progressivement et devient nulle après 
+quelques jours. À ce stade, le bilan sodé est négatif, entraînant une perte 
+de 1 à 2 kg (diminution du VEC). 
+● 
+J9 : Retour à un régime normo-sodé (150 mmol/24h). L'excrétion rénale 
+s'ajuste progressivement. Pendant cette transition, la personne est en 
+bilan sodé positif (consomme plus de sodium qu'elle n'en excrète), ce 
+qui augmente son poids (augmentation du VEC). 
+● 
+J15 : Passage à un régime très salé (300 mmol/24h). Le rein adapte 
+l'excrétion pour retrouver un équilibre, mais dans l'intervalle, un bilan 
+sodé positif entraîne une augmentation du poids. 
+Application 
+clinique 
+Ces principes sont utilisés en médecine, par exemple pour les patients 
+présentant des œdèmes ou une hypervolémie. La réduction des apports 
+en sodium permet de diminuer le volume circulant et d'améliorer leur 
+état clinique.  
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 7 sur 26 
+ 
+ 
+ 
+III. 
+Réabsorption rénale du sodium 
+ 
+ Pour qu’il y ait du sodium dans les urines, il faut qu’il soit filtré. Il est très facilement 
+filtré (petit ion). Le débit de sodium filtré est donné par la formule : [Na+]UF x DFG ≈ 
+25000 mmol/j. C’est énorme !  Il est clair que l’on ne va pas laisser tout ça filer dans les 
+urines, c’est pour cela qu’on aura besoin d’une réabsorption tubulaire. 
+ La réabsorption tubulaire est majeure, tout au long du tubule, avec 99 % du sodium filtré 
+qui est réabsorbé : [Na]U x V́ ≈ 50-200 mmol/j 
+ La quantité de sodium urinaire varie en fonction de l’alimentation, entre 50 et 200 
+mmol/24h. 
+ 
+ La réabsorption du sodium est principalement active au niveau du tubule 
+(transcellulaire) c'est-à-dire que le sodium va traverser la membrane apicale qui est 
+du côté du fluide tubulaire, puis la membrane basolatérale, aller dans l'interstitium et 
+revenir dans le cap péritubulaires.   La réabsorption est liée à l’activité de la Na, K-ATPase 
+basolatérale, présente tout au long du néphron. Mais les modalités d’entrée du sodium à la 
+face luminale varient selon les segments du néphron et les différents transporteurs. 
+ 
+3 lieux de 
+réabsorption du 
+Na+ 
+ 
+ 
+1. Tube contourné proximal: énorme filtration comme on l'a vu 60 à 70 % 
+du sodium est déjà réabsorbé à la fin de ce tube. Et c’est la même chose 
+pour l’eau d’ailleurs, cela se fait au niveau du tube proximal. 
+2. La partie descendante de l’anse de Henlé: IL ne se passe rien, en effet 
+cette partie n’est pas perméable aux ions. 
+3. Dans la partie ascendante large de l’anse de Henlé: La réabsorption 
+reprend avec 25 % du sodium filtré qui est réabsorbé. 
+4. Et puis après ça continue dans le tube contourné distal, environ 6 % et 
+dans le collecteur environ 2 % il reste. Et dans le canal collecteur, 
+seulement 2 % du sodium est réabsorbé. 
+ 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 8 sur 26 
+ 
+ 
+ 
+A. Réabsorption dans le tubule proximal 
+Réabsorption 
+isoosmotique 
+ 
+Il y a une particularité dans la 
+réabsorption du sodium dans le tube 
+proximal, c’est qu’elle est 
+isoosmotique: l’eau est réabsorbée 
+dans les mêmes proportions que le 
+sodium. 
+ 
+2/3 du sodium est réabsorbé 
+transcellulairement (actif) et 1/3 
+paracellulairement (passif). 
+ Peu de régulation hormonale à ce niveau, mais cette réabsorption est 
+modulée par la balance glomérulotubulaire. 
+Première 
+phase : 
+Mécanisme 
+transcellulaire 
+(actif) 
+ 
+ La bordure en brosse permet d’augmenter la surface d’échange et qui 
+est très active métaboliquement. La pompe Na⁺/K⁺ expulse le sodium 
+vers l’interstitium contre son gradient de concentration et fait entrer le 
+K⁺ dans la cellule. En effet, le sodium a naturellement tendance à entrer 
+dans la cellule car sa concentration intracellulaire est plus faible.
+ Cotransporteurs impliqués qui utilisent l’entrée du Na⁺ pour 
+réabsorber d’autres substances utiles du filtrat vers le sang :
+ Na+/Glucose 
+ Na+/AA 
+ Na+/Phosphates 
+ Antiport Na+/H+, qui joue un rôle clé dans la réabsorption du 
+bicarbonate (HCO3-). Il va fournir un H+ qui pourra réagir avec le 
+bicarbonate pour donner du H2CO3 (acide carbonique). 
+ L’anhydrase carbonique, qui est une enzyme, transforme l’acide 
+carbonique en CO₂ et H₂O, ce qui permet au CO₂ de traverser 
+facilement la cellule. Dans la cellule, il est reconverti en H₂CO₃ puis en 
+H⁺ et HCO₃⁻. Le bicarbonate est ensuite réabsorbé avec le sodium vers 
+le sang.
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 9 sur 26 
+ 
+ 
+ 
+Deuxième 
+phase : 
+transcellulaire 
+active + 
+réabsorption 
+passive 
+Dans la deuxième partie du tube proximal, la concentration de Cl- augmente, 
+entraînant une réabsorption passive du Cl- soit via des transporteurs que la prof 
+ne détaille pas, soit en empruntant les jonctions intercellulaires. Cette 
+réabsorption du Cl- (majeure dans la 2ème partie du tube proximal) génère une 
+différence de potentiel positive du côté de la lumière, favorisant une 
+réabsorption paracellulaire du sodium vers l’interstitium plus négatif. 
+ 
+L’eau suit la réabsorption des solutés, facilitée par les aquaporines et les 
+jonctions intercellulaires perméables. En effet les cellules tubulaires proximales 
+sont très riches en aquaporines. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 10 sur 26 
+ 
+ 
+ 
+Evolution des 
+concentrations 
+tubulaires 
+ 
+ 
+Sodium : On rappelle que la réabsorption est isoosmotique, donc le 
+sodium est réabsorbé en même proportion que l’eau. Le rapport 
+TF/UF est donc constant. 
+ 
+Glucose et AA : Totalement réabsorbés, leur concentration devient 
+nulle en fin de tube proximal. 
+ 
+Chlore :  Sa concentration  augmente au début , puis 
+diminue  
+Progressivement avant de redevenir stable.  
+ 
+Bicarbonates : Fortement réabsorbés, mais pas totalement. 
+ 
+Inuline : Non réabsorbée, elle se concentre progressivement dans le 
+tubule car elle est très bien filtrée mais pas du tout métabolisée. Sa 
+concentration va même augmenter car l’eau est réabsorbé. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 11 sur 26 
+ 
+ 
+ 
+B. Réabsorption dans l’anse de Henlé 
+ 
+25 % du sodium filtré est réabsorbé dans 
+l’anse de Henlé. 
+ 
+Réabsorption indépendante de l’eau, 
+donc diminution de la concentration sodique en 
+fin d’anse. 
+ 
+Branche descendante fine : très 
+perméable à l’eau mais peu perméable 
+aux solutés. 
+ Branche ascendante fine : faible perméabilité à l’eau, avec une réabsorption passive de 
+Na+ et Cl-. 
+ Branche ascendante large : 
+❖ Imperméable à l’eau, car pas d’aquaporines. 
+❖ Réabsorption de sodium et chlore 
+❖ Transporteurs majeurs : 
+o 
+Antiport Na+/H+ (inhibé par Amiloride, diurétique). 
+o 
+Cotransporteur 
+Na+/K+/2Cl- 
+(NKCC2), 
+inhibé par le 
+Furosémide 
+(diurétique). 
+❖ Le potassium recyclé crée un gradient électrique positif, favorisant la 
+réabsorption paracellulaire du sodium. 
+ 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 12 sur 26 
+ 
+ 
+ 
+C. Réabsorption dans le tube distal et le canal collecteur 
+Il reste 10 % du sodium filtré à réabsorber. 
+ Réabsorption uniquement active et 
+indépendante de l’eau. 
+ Le canal collecteur est le lieu principal de la 
+régulation hormonale. 
+ Transporteurs majeurs : 
+● 
+Cotransporteur Na+/Cl- (inhibé par le 
+Thiazide, diurétique). 
+● 
+Canal sodique épithélial (ENaC), inhibé 
+par l’Amiloride à faible concentration (10⁻⁶ M). 
+● 
+Le sodium est toujours extrait via la Na, K-ATPase basolatérale. 
+ 
+ 
+IV. 
+Balance glomérulo-tubulaire 
+Définition 
+➔ Le rein adapte 
+automatiquement la 
+réabsorption proximale de 
+sodium et d’eau au débit de 
+filtration glomérulaire (DFG), de 
+façon à ce qu’environ les 2/3 de 
+ce qui est filtré soient toujours 
+réabsorbés, même si le DFG 
+change.. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 13 sur 26 
+ 
+ 
+ 
+Exemple 
+➔ 1ère ligne : Valeurs normales, DFG 
+= 120 ml/min, concentration de 
+sodium plasmatique environ 140 
+mmol/L, le débit de sodium filtré est 
+de 16,8 mmol/min. Ce qui est 
+réabsorbé 
+représente 
+2/3 
+en 
+proximal. 
+➔ 2ème ligne : On suppose qu’il n’y 
+a 
+pas 
+de 
+balance 
+glomérulo- 
+tubulaire. On augmente le DFG qui passe à 160 ml/min, ce qui implique une 
+augmentation du débit de Na+ filtré. Sans la balance glomérulo-tubulaire, la 
+quantité de Na+ réabsorbé va rester constante, mais il y a quand même 
+beaucoup de sodium qui n’a pas été réabsorbé après le proximal, et ça, ce n’est 
+pas bon ! Car le néphron distal n’est pas fait pour réabsorber autant de 
+sodium. Risque de déshydratation. 
+➔ 3ᵉᶜᵘᵉ ligne : Avec la balance glomérulo-tubulaire, l’organisme va adapter 
+son débit de réabsorption au DFG, pour représenter in fine 2/3 de ce qui est 
+filtré. Donc, moins de risque de déshydratation. 
+Mécanisme 
+ Si on prend comme débit 
+plasmatique rénal (DPR = ce qui 
+entre dans le rein) 600 mL/min, 
+on a ici une concentration en 
+protéines de 60 g/L et un DFG de 
+120 mL/min. Donc, le débit dans 
+l’artériole efférente est de 480 
+mL/min (600 - 120). 
+ Les protéines ne sont pas filtrées, donc elles vont se concentrer dans 
+l'artériole efférente. La concentration en protéines dans l'artériole 
+efférente est de 75 g/L, cela veut donc dire que la pression oncotique 
+est plus élevée que la normale. 
+ Si on augmente le DFG (160 mL/min), on a une diminution du débit 
+dans l'artériole efférente. Les protéines, toujours présentes, seront 
+encore plus concentrées, donc la pression oncotique va attirer le 
+sodium présent dans l'interstitium qui a été réabsorbé. Elle va aussi 
+augmenter dans le capillaire péritubulaire. 
+ Or, la pression oncotique dans le capillaire péritubulaire est un facteur 
+important dans la réabsorption de sodium et d’eau dans le capillaire 
+péritubulaire. C’est cette pression qui fait que le sodium regagne le 
+plasma. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 14 sur 26 
+ 
+ 
+V. 
+Régulation hormonale de la réabsorption rénale du sodium 
+dans le canal collecteur 
+A. Système Rénine-Angiotensine / Aldostérone +++ 
+Rappels 
+La rénine est sécrétée par les cellules juxtaglomérulaires dans la paroi de 
+l’artériole afférente du glomérule. 
+ 
+Sa libération est stimulée lorsque la pression dans l’artériole afférente 
+diminue, ce qui correspond généralement à une baisse du volume 
+sanguin circulant. 
+ 
+Elle peut également être produite en cas de diminution de la filtration 
+glomérulaire, entraînant une réduction de l’arrivée de Na⁺ et Cl⁻ au 
+niveau de la macula densa. 
+Enfin, la stimulation du système nerveux sympathique via les récepteurs β₁ 
+favorise aussi la sécrétion de rénine.. 
+ 
+ 
+ 
+ 
+Production de la 
+rénine 
+L'angiotensinogène, en présence de rénine, est transformé en angiotensine I 
+(AGI), qui elle-même est convertie en angiotensine II (AGII) par l'enzyme de 
+conversion. 
+● 
+La rénine est l'enzyme limitante de toute la voie de transformation de 
+l'angiotensinogène en AGII. 
+● 
+La transformation de l'AGI en AGII est permise par l'enzyme de 
+conversion de l'angiotensine (ECA) des cellules endothéliales 
+glomérulaires. 
+ 
+ Ainsi, si le DFG augmente, la concentration en protéines dans le 
+capillaire péritubulaire augmente aussi, ce qui va entraîner une 
+augmentation de la pression oncotique dans l'artériole efférente et dans 
+le capillaire péritubulaire, ce qui va favoriser une réabsorption plus 
+importante de l'eau et du sodium qui suit l'eau.  
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 15 sur 26 
+ 
+ 
+ 
+Production de la 
+rénine 
+L’angiotensinogène, sous l’action de la rénine, est transformé en 
+angiotensine I (AGI). Celle-ci est ensuite convertie en angiotensine II 
+(AGII) grâce à l’enzyme de conversion de l’angiotensine (ECA). 
+ La rénine constitue l’enzyme limitante de la voie de transformation de 
+l’angiotensinogène en angiotensine II car: 
+La rénine transforme l’angiotensinogène en angiotensine I. 
+Ensuite : 
+L’angiotensine I est transformée en angiotensine II par l’enzyme de 
+conversion (ECA). 
+L’organisme régule surtout la quantité de rénine libérée par le rein. 
+Donc : 
+1. si la rénine augmente → toute la cascade augmente → plus 
+d’angiotensine II 
+ 
+ 
+2. Si la rénine diminue → toute la cascade ralentit 
+La conversion de l’angiotensine I en angiotensine II est assurée par l’ECA, 
+présente notamment à la surface des cellules endothéliales glomérulaires. 
+ 
+Facteurs 
+stimulant la 
+production de 
+rénine 
+Facteurs stimulant la production de rénine : 
+1. Baisse de la pression dans l'artériole afférente, impliquant une 
+diminution du VEC (volume extracellulaire) ou du VSC (volume sanguin 
+circulant). 
+2. Diminution du débit de Na+ et Cl- perçu par la macula densa, due à 
+une baisse de filtration. 
+3. Stimulation sympathique bêta due à une baisse de pression artérielle. 
+L'AGII maintient l'hémodynamique rénale, notamment la filtration 
+glomérulaire, en provoquant une vasoconstriction de l'artériole efférente, 
+tandis que l'artériole afférente est protégée par une synthèse locale de 
+prostaglandines. On maintient alors le DFG malgré la diminution de la 
+diminution de la perfusion rénale. 
+ 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 16 sur 26 
+ 
+ 
+ 
+ Lorsque le volume sanguin circulant (VSC) et le volume extracellulaire (VEC) 
+diminuent, plusieurs mécanismes sont activés : 
+o Une  stimulation sympathique via les récepteurs β₁, 
+ 
+o Une diminution de la pression dans l’artériole afférente, 
+Une réduction de l’apport de Na⁺ et Cl⁻ détectée par la macula densa. 
+Ces mécanismes entraînent la sécrétion de rénine, ce qui active la 
+formation d’angiotensine II. 
+L’angiotensine II exerce ensuite plusieurs effets : 
+1. Elle augmente l’activité de l’antiport Na⁺/H⁺ dans le tubule proximal, 
+ce qui favorise la réabsorption du sodium (et donc de l’eau). 
+2. Son effet principal est de stimuler la sécrétion d’aldostérone par la 
+corticosurrénale, ce qui augmente la réabsorption de sodium et 
+d’eau au niveau du tube distal et du tube collecteur 
+Généralités sur 
+l’aldostérone 
+➔  Il s’agit d’une hormone minéralocorticoïde dérivant du cholestérol 
+et de nature lipidique. Elle est produite dans la zone glomérulée de la 
+corticosurrénale. 
+Rappel : La corticosurrénale est une glande située au-dessus du rein dans le 
+cortex surrénalien, qui produit l’aldostérone. À ne pas confondre avec la 
+médullosurrénale, qui produit les catécholamines (noradrénaline par ex). 
+➔ Les principaux tissus cibles de l’aldostérone sont le canal connecteur 
+(petit canal juste avant le canal collecteur) et le canal collecteur. 
+➔ Sa production est stimulée par l’angiotensine II et l’augmentation 
+kaliémie. 
+➔ En revanche, elle est inhibée par les peptides natriurétiques, dont 
+l’ANF. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 17 sur 26 
+ 
+ 
+ 
+Action sur les 
+cellules 
+principales du 
+canal collecteur 
+ 
+ L’aldostérone est une hormone lipidique, ce qui lui permet de diffuser 
+facilement à travers la membrane cellulaire. Elle se fixe sur le récepteur 
+minéralocorticoïde (MR) situé dans le cytoplasme des cellules. Le 
+complexe aldostérone–MR migre ensuite vers le noyau, où il active 
+l’expression de gènes cibles. Cela entraîne la synthèse d’ARN 
+messagers, puis la production de protéines intermédiaires qui stimulent 
+les transporteurs de sodium dans les cellules principales du canal 
+collecteur. 
+Ces protéines augmentent notamment l’activité de deux transporteurs 
+majeurs : 
+ les canaux sodiques ENaC (membrane apicale), 
+ 
+ 
+ la pompe Na⁺/K⁺-ATPase (membrane basolatérale). 
+ Ainsi, l’aldostérone augmente la réabsorption du sodium. Un des 
+inhibiteurs de l’aldostérone est la spironolactone (inhibiteur de la 
+fixation de l’aldostérone sur le MR). 
+ En stimulant le canal ENaC, on observe une augmentation de la quantité 
+de sodium qui entre dans la cellule, donc sa concentration augmente. 
+Cela va, en soi, activer la pompe Na/K ATPase, entraînant une sortie de 
+sodium et une entrée importante de potassium dans la cellule (car les 
+deux sont liés). 
+ Mais le potassium n’a qu’une envie c’est de sortir, mais n’a pas de 
+conductance basolatérale. En revanche, il en a une côté apical (canaux 
+potassiques) donc il va sortir dans la lumière. 
+ Donc dans ces cellules : quand on augmente la réabsorption du 
+sodium, on augmente la sortie de potassium (sécrétion) 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 18 sur 26 
+ 
+ 
+ 
+Effet global de 
+l’aldostérone 
+Effet global de l’aldostérone : diminution de l’excrétion urinaire de Na⁺ et 
+augmentation de celle du potassium (et du H⁺) 
+ Tout d’abord, il est important de noter que l’effet global de 
+l’aldostérone n’est pas immédiat. Il est perceptible au bout de 
+quelques heures (voire quelques jours pour être complet). 
+ Son effet global est la diminution de l’excrétion urinaire de Na⁺ via une 
+stimulation d’ENaC et de la Na/K ATPase. Or, si l’on diminue l’excrétion 
+urinaire de Na⁺, on va ajouter des molécules dans le milieu 
+extracellulaire, ce qui entraîne une augmentation du VEC. 
+ En parallèle, l’aldostérone augmente l’excrétion urinaire de potassium 
+en stimulant les canaux potassiques apicaux, ce qui favorise la sécrétion 
+de K⁺ dans la lumière tubulaire. 
+ Elle augmente également l’excrétion des ions H⁺, notamment par la 
+stimulation de la H⁺-ATPase (mécanisme non détaillé ici). 
+ La sécrétion d’aldostérone est inversement proportionnelle aux 
+apports alimentaires en sodium : 
+ 
+Un apport élevé en sel diminue la sécrétion d’aldostérone, 
+ 
+Un régime pauvre en sel stimule sa production. 
+ La régulation de l’excrétion de Na⁺ par l’aldostérone ne porte que sur 
+1 à 2 % du Na⁺ filtré. 
+Que faire pour 
+évaluer 
+l’activité du 
+système rénine-
+angiotensine-
+aldostérone 
+(SRAA) ? 
+ 
+Il faut mesurer la concentration de Na⁺ et de K⁺ dans les urines 
+(natriurèse et kaliurèse respectivement). 
+➔ L’excrétion urinaire de sodium normale correspond à nos apports 
+alimentaires (environ 100 à 200 mmol/j). 
+➔ Pour le potassium, on en absorbe moins (50-100 mmol/j). 
+Normalement, on ingère (et donc on urine) plus de Na⁺ que de K⁺. Il 
+suffit donc de faire le rapport suivant : 
+➔ Si le rapport Na⁺/K⁺ est > 1, on est dans un cas normal. 
+➔ Si le rapport Na⁺/K⁺ est < 1, cela signifie qu’il y a une 
+activation du SRA.  
+ 
+En effet, l’aldostérone va diminuer l’excrétion urinaire de sodium, en 
+augmentant sa réabsorption au niveau du canal collecteur, tout en 
+augmentant l’excrétion urinaire de potassium. 
+ 
+ 
+Donc, la baisse du volume extracellulaire et notamment du volume 
+sanguin circulant, induit le SRAA. Celui-ci favorise la réabsorption du 
+sodium, ce qui augmente sa concentration dans le milieu extracellulaire 
+et permet de restaurer le volume extracellulaire 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 19 sur 26 
+ 
+ 
+ 
+Lien entre 
+VEC, ARP, 
+aldostérone 
+et natriurèse 
+ 
+Courbes représentant l’ARP et la production d’aldostérone en fonction du VEC 
+et la natriurèse en fonction de l’ARP et de la production d’aldostérone chez 
+l’animal. 
+ 
+1. Effet du VEC sur l’ARP et l’aldostérone : 
+ 
+ 
+VEC élevé : 
+ 
+o L’activité rénine plasmatique est faible. 
+ 
+o La sécrétion d’aldostérone est également faible. 
+ 
+o Explication : lorsque le volume extracellulaire est suffisant ou élevé, 
+il n’est pas nécessaire d’augmenter la réabsorption de sodium ou 
+d’eau. La rénine et l’aldostérone restent donc basses pour éviter 
+une surcharge en sodium et en eau. 
+ 
+ 
+VEC faible : 
+ 
+o L’ARP augmente fortement. 
+ 
+o La sécrétion d’aldostérone est également forte.  
+o Explication : la baisse du VEC active le système rénine-angiotensine-
+aldostérone (SRAA) pour restaurer le volume extracellulaire. 
+L’augmentation de l’aldostérone favorise la réabsorption de sodium 
+au niveau des canaux collecteurs et du tubule distal. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 20 sur 26 
+ 
+ 
+ 
+2. Effet de l’aldostérone et de l’ARP sur la natriurèse : 
+ 
+ 
+Lorsque l’aldostérone est fortement sécrétée, la natriurèse 
+diminue, car plus de sodium est réabsorbé. 
+ 
+ 
+De même, lorsque l’ARP est élevée, elle favorise la 
+production d’angiotensine II, qui stimule également la 
+sécrétion d’aldostérone, réduisant la natriurèse. 
+ 
+ 
+Logique physiologique : le rôle de la rénine et de 
+l’aldostérone est de préserver le sodium et l’eau, 
+augmentant ainsi le VEC et la pression sanguine.. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 21 sur 26 
+ 
+ 
+ 
+B. Facteur Natriurétique Auriculaire (ANF) 
+Rôle de l’ANF 
+ 
+Le rôle de l’ANF est l’exact opposé de celui du SRA. 
+ 
+1. Activation de l’ANF : 
+o 
+L’ANF est sécrété lorsque les myocytes auriculaires sont 
+distendus, c’est-à-dire lorsque le volume sanguin circulant et le 
+volume extracellulaire (VEC) sont élevés. 
+ 
+o 
+La distension des auricules agit comme un signal indiquant une 
+surcharge volémique. 
+ 
+ 
+2. Effets principaux de l’ANF : 
+o 
+Diminution de la réabsorption de sodium au niveau du canal 
+collecteur médullaire. 
+ 
+o 
+Inhibition du SRAA, ce qui entraîne une réduction de la 
+production d’aldostérone. 
+ 
+o 
+Résultat : augmentation de l’excrétion urinaire de sodium 
+(natriurèse). 
+ 
+Conséquences physiologiques : 
+ 
+L’augmentation de la natriurèse entraîne une diminution de la masse de 
+sodium échangeable. Cela permet de réduire le VEC et de corriger la 
+surcharge volémique initiale. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 22 sur 26 
+ 
+ 
+ 
+Bilan 
+ 
+En repartant de l’exemple vu précédemment : 
+➔ Lorsqu’on prive le sujet de Na⁺, il va en perdre, car il faut plusieurs jours 
+pour que le rein s’adapte. Le rein s’adapte en sécrétant de l’aldostérone 
+(diminue l’excrétion urinaire de Na⁺). 
+➔ Lorsqu’on réintroduit du Na⁺, le sujet n’aura plus besoin de son 
+aldostérone, donc sa sécrétion diminue. 
+➔ Lorsqu’on apporte trop de Na⁺, il faut l’éliminer, car le VEC aura trop 
+augmenté. Il y a donc une activation de l’ANF, mais pas d’aldostérone. 
+VI. 
+Physiopathologie : Hyperaldostéronisme primaire et 
+secondaire 
+A. Hyperaldostéronisme « normal » 
+Cas normal 
+ En cas de perte brutale de sodium (diarrhée très importante, 
+hémorragie) où le volume sanguin circulant diminue, il est normal que 
+le SRA et l’aldostérone soient activés. 
+ Lorsqu’il y a une perte de sodium et une baisse du volume sanguin 
+circulant, il y aura donc un hyperaldostéronisme et un rapport [Na⁺]u 
+/ [K⁺]u < 1, ce qui correspond à une réponse physiologique. Une fois la 
+situation rétablie, l’aldostérone ne sera plus nécessaire, et 
+l’hyperaldostéronisme disparaîtra. 
+ L’hyperaldostéronisme primaire et l’hyperaldostéronisme secondaire 
+sont des désordres où l’aldostérone est sécrétée en permanence. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 23 sur 26 
+ 
+ 
+ 
+B. Hyperaldostéronisme primaire (syndrome de Conn) 
+Mécanisme 
+Il s’agit d’une tumeur bénigne rare de la corticosurrénale, appelée 
+adénome glomérulée, qui produit de l’aldostérone de manière 
+autonome, c’est-à-dire sans régulation par le système rénine-
+angiotensine. 
+ 
+L’organisme réabsorbe alors excessivement du sodium, même 
+lorsque ce n’est pas nécessaire, ce qui peut entraîner 
+hypertension et rétention hydrosodée. 
+ 
+Dans ce cas, la sécrétion d’aldostérone est indépendante de la 
+rénine et se produit en permanence. 
+ 
+Clinique 
+Conséquences d’un hyperaldostéronisme primaire 
+1. Rétention hydrosodée et œdèmes 
+ 
+o 
+Une réabsorption excessive de sodium entraîne une 
+augmentation du volume extracellulaire (VEC). 
+ 
+o 
+Cela se traduit par des œdèmes discrets, souvent au niveau des 
+chevilles. 
+ 
+o 
+Cette situation est une cause classique d’hypertension artérielle 
+secondaire. 
+ 
+ 
+2. Troubles ioniques 
+ 
+o 
+Hypokaliémie : la sécrétion permanente d’aldostérone 
+provoque une excrétion accrue de potassium (kaliurèse), 
+entraînant une baisse de sa concentration sanguine. 
+ 
+o 
+Alcalose métabolique : l’aldostérone stimule également 
+l’excrétion de H⁺, ce qui fait monter le pH sanguin. 
+3. Évolution du rapport [Na⁺]u / [K⁺]u 
+ 
+o 
+Initialement, le rapport urinaire [Na⁺] / [K⁺] < 1, car le rein 
+conserve beaucoup de sodium et excrète le potassium. 
+ 
+o 
+Avec le temps, le rein s’adapte par un phénomène 
+d’échappement, limité par l’action probable de l’ANF, et le 
+rapport [Na⁺]u / [K⁺]u devient > 1. 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 24 sur 26 
+ 
+ 
+ 
+ 
+o 
+Malgré ce mécanisme, l’hypertension artérielle persiste, car le 
+volume circulant reste élevé. 
+ 
+4. Diagnostic  
+ 
+o Le rein “perçoit” ce déficit comme une baisse du volume circulant 
+efficace et sécrète de la rénine en permanence, ce qui active le SRAA 
+et provoque un hyperaldostéronisme secondaire. 
+Dosages 
+hormonaux 
+● 
+Aldostéronémie très élevée, mais une activité rénine plasmatique très 
+basse. 
+● 
+Ce sont des tumeurs bénignes de la corticosurrénale  qu'il faut enlever.
+C. Hyperaldostéronisme secondaire 
+Généralités 
+● 
+Il est beaucoup plus fréquent. 
+● 
+Il est secondaire à une augmentation permanente de la rénine. 
+1ère cause : 
+Diminution 
+(apparente ou 
+réelle) du 
+volume 
+circulant 
+efficace. 
+1. Insuffisance cardiaque congestive 
+o Le volume sanguin total peut être normal, mais le débit 
+cardiaque est réduit, ce qui entraîne une perfusion rénale 
+insuffisante. 
+o Le rein “perçoit” ce déficit comme une baisse du volume 
+circulant efficace et sécrète de la rénine en permanence, ce qui 
+active le SRAA et provoque un hyperaldostéronisme 
+secondaire. 
+2. Cirrhose hépatique  
+o Le volume sanguin total est mal réparti, avec notamment une 
+dilatation de la circulation splanchnique, qui séquestre une 
+partie du sang dans le système digestif. 
+o Cette redistribution entraîne également une perfusion rénale 
+insuffisante. 
+o Le rein interprète cette situation comme une diminution du 
+volume circulant efficace et active la rénine, conduisant à un 
+hyperaldostéronisme secondaire. 
+ 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 25 sur 26 
+ 
+ 
+ 
+2ème cause : 
+Diminution 
+réelle du 
+volume 
+circulant. 
+ 
+Hyperaldostéronisme secondaire dans le syndrome néphrotique 
+ 
+1. Mécanisme principal 
+o Dans le syndrome néphrotique, il y a une perte massive de 
+protéines et d’albumine dans les urines. 
+o Cette perte provoque une hypoprotidémie et une 
+hypoalbuminémie, réduisant la pression oncotique dans les 
+capillaires. 
+o Le liquide sort alors des vaisseaux vers l’interstitium, entraînant 
+des œdèmes importants (parfois jusqu’à 15 kg). 
+2. Perception rénale du volume  
+o Le volume extracellulaire total (VEC) peut rester normal, mais le 
+volume circulant efficace est bas, car le liquide est déplacé dans 
+les œdèmes. 
+ 
+o Le rein perçoit cette situation comme une perfusion insuffisante 
+et sécrète de la rénine, activant le SRAA et augmentant la 
+sécrétion d’aldostérone. 
+3. Conséquences sur la natriurèse et le sodium 
+ 
+o Le rapport [Na⁺]u / [K⁺]u est inférieur à 1, signe d’une 
+hyperaldostéronisme secondaire actif. 
+o  
+o L’aldostérone augmente la réabsorption de sodium et d’eau, 
+ce qui augmente le VEC, mais le liquide se retrouve dans les 
+œdèmes, sans améliorer le volume circulant efficace ni le 
+débit cardiaque. 
+4. Conséquences physiopathologiques 
+o La rétention de sodium et d’eau aggrave les œdèmes 
+(rétention hydrosodée). 
+ 
+o Ce phénomène peut également favoriser des œdèmes 
+d’origine cardiaque, car le débit circulatoire reste insuffisant. 
+➞ Ce sont des situations chroniques et graves. 
+ 
+
+---PAGE---
+UE5 – VOIES URINAIRES ET APPAREIL GENITAL MASCULIN– Physiologie rénale - Pr. Carole Planès – 
+Bilan Sodium - 05/03/2026 
+Page 26 sur 26 
+ 
+ 
+ 
+ 
+ 
+Récapitulatif 
+ 
+ Hyperaldostéronisme primaire : désordre initialement de la rénine est 
+très basse car le SRAA est supprimé par la réabsorption excessive de 
+sodium et l’augmentation du volume circulant. Ces sujets ont une 
+rétention hydrosodée modérée mais qui augmente leur volémie. 
+Phénomène d’échappement rénal donc le rapport [Na+]u / [K+]u ≥ 1 
+ Hyperaldostéronisme secondaire : activation du SRAA suite à une 
+diminution du volume circulant effectif (vrai ou perçu) qui induit 
+l’hyperaldostéronisme. La rénine plasmatique est élevée car le rein 
+stimule la production d’aldostérone. Donc le sodium est réabsorbé 
+pour restauré la volémie. Le rapport [Na+]u / [K+]u ˂ 1 car le sodium 
+est retenu tandis que le potassium est excrété.. 
+Take-home messages 
+ 
+Le contenu en Na+ échangeable du milieu extracellulaire détermine le volume 
+extracellulaire (VEC). 
+ 
+Le rein adapte l’excrétion urinaire de Na+ aux entrées de Na+. 
+ 
+98 % du Na+ filtré sont réabsorbés avant le canal collecteur. La régulation hormonale fine 
+de l’excrétion urinaire de Na+ se fait au niveau du néphron distal (connecteur et collecteur) 
+et porte sur les 2 % restants. 
+ 
+L’aldostérone produite par la corticosurrénale sous l’effet de l’AGII lors de la stimulation 
+du système rénine-angiotensine (↓ du VEC) stimule la réabsorption de Na+ dans le 
+collecteur et diminue l’excrétion urinaire de Na+, ce qui a pour effet une augmentation du 
+VEC. 
+ 
+L’ANF, produit lors de la distension des myocytes auriculaires (↑ du VEC), inhibe le système 
+rénine-angiotensine-aldostérone, la réabsorption de Na+ dans le collecteur et augmente 
+l’excrétion urinaire de Na+, ce qui a pour effet de diminuer le VEC 
+
+---PAGE---

@@ -1,0 +1,1051 @@
+RT : James ZHANG, Ela DEMIROGLU 
+RL : Safa FATHI 
+ 
+ 
+ 
+ 
+UE6 – TISSU SANGUIN 
+ 
+Hématologie 
+Cours n°10 
+Dr. Lazarian – 10/03/2026 – 10h15-11h45 
+Thrombopénie et Purpuras 
+Objectifs : 
+● 
+Argumenter les principales hypothèses diagnostiques 
+● 
+Justifier la réalisation des différents examens complémentaires 
+ 
+PLAN DU COURS 
+Introduction 
+I) Situation diagnostique : Thrombopénie 
+A.  Définition et généralités 
+B.  Les fausses thrombopénies 
+C.  Les signes hémorragiques cutanéo-muqueux 
+D.  Les circonstances de découvertes d’une thrombopénie 
+E.  Devant une thrombopénie : 2 questions 
+1)  Est-ce une urgence ? 
+2)  Quelles étiologies pour une thrombopénie ? 
+A.  Thrombopénies périphériques 
+B.  Thrombopénies centrales 
+F. PTI (Purpuras Thrombopénique Immunologique) 
+G.  MAT (Micro-Angiopathie Thrombotique) 
+H.  Démarche diagnostique 
+II) Situation diagnostique : Purpuras 
+A.  Définition 
+B.  Diagnostiquer un purpura 
+C.  Évaluer une gravité/urgence 
+D.  Aspect des purpuras en rapport avec les étiologies 
+E.  Type de purpura 
+1)  Purpura plaquettaire 
+A.  Purpura thrombopénique 
+B.  Purpura thrombopathique 
+2)  Purpura vasculaire 
+A.  Purpura vasculaire infectieux 
+B.  Purpura vasculaire immunologique 
+C.  Purpura rhumatoïde 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+2 
+ 
+ 
+ 
+Introduction 
+ 
+La thrombopénie et les purpuras sont deux situations cliniques fréquentes et transversales, car 
+elles ne sont pas spécifiques aux pathologies hématologiques. 
+ 
+Nous verrons dans un premier temps la situation diagnostique de la thrombopénie puis celle du 
+purpura, qui constitue une manifestation clinique pouvant être liée à une thrombopénie, mais pas 
+exclusivement. 
+I) Situation diagnostique : Thrombopénie 
+A. Définition et généralités 
+ 
+La thrombopénie correspond à une diminution du taux de plaquettes (< 150 G/L). En temps 
+normal, les valeurs attendues sont de 150-400 G/L. 
+ 
+Les plaquettes sont déterminées par un automate de numération dans un hémogramme en même 
+temps que l’hémoglobine et la formule leucocytaire. Les automates comptent individuellement 
+chaque plaquette. 
+ 
+ 
+ 
+On observe sur cette image que les plaquettes sont des éléments figurés du sang dépourvus de 
+noyau et de très petite taille, nettement plus petites que les globules rouges. 
+Les plaquettes jouent un rôle essentiel dans le processus d’hémostase primaire. Elles sont 
+indispensables à la formation du clou plaquettaire lors d’une brèche vasculaire pour prévenir une 
+hémorragie. 
+ 
+Lors d’une lésion vasculaire, les plaquettes adhèrent au sous-endothélium, s’activent et s’agrègent 
+pour former un premier thrombus plaquettaire. Celui-ci sera ensuite consolidé par la coagulation 
+grâce aux facteurs de coagulation. 
+Ainsi, en cas de diminution du nombre de plaquettes (thrombopénie), des anomalies de 
+l’hémostase primaire peuvent survenir, entraînant un risque hémorragique accru. 
+Ce risque hémorragique diffère selon la profondeur de la thrombopénie. Il y a deux seuils de 
+sévérité à retenir concernant les risques d'hémorragies : 
+ 
+Ø IMPORTANT : Plaquettes <20 G/L (risque d'hémorragie spontanée, urgence vitale) 
+Ø POSSIBLE : Plaquettes entre 20 et 50 G/L (surtout si présence de facteurs hémorragiques 
+aggravants) 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+3 
+ 
+ 
+ 
+Pas de risque d'hémorragie spontanée grave si plaquettes >50 G/L mais attentions aux opérations 
+chirurgicales. 
+Les signes hémorragiques ne sont pas toujours corrélés à la profondeur de la thrombopénie. 
+ 
+Parfois on peut avoir des patients avec un taux <20 G/L mais qui n’ont pas nécessairement un 
+syndrome hémorragique qui est très important. Quand on a des plaquettes <20 G/L, il faut 
+rechercher les hémorragies et s'il n'y a pas de saignements il faut rechercher les signes cliniques 
+de gravité. 
+Devant une thrombopénie il faut : 
+ 
+• 
+Éliminer une fausse thrombopénie ; 
+• 
+Rechercher et évaluer la gravité ++ ; 
+• 
+Faire l’enquête étiologique ; 
+I) Situation diagnostique : Thrombopénie 
+B. Les fausses thrombopénies 
+Devant une thrombopénie sans signes de gravité, il est indispensable d’éliminer en premier lieu 
+une fausse thrombopénie liée à la présence d’amas plaquettaires. 
+ 
+Pour rappel, le sang destiné à la numération formule sanguine (NFS) est prélevé dans des tubes 
+contenant de l’EDTA, un anticoagulant. Les automates de numération comptent ensuite les 
+différentes cellules sanguines une par une, afin de déterminer le nombre de plaquettes, de 
+globules rouges et de globules blancs. 
+ 
+Chez certains patients, il peut exister un phénomène artefactuel qui est lié à une réaction 
+spontanée des plaquettes au contact de l’EDTA : 
+Ø Les plaquettes ont tendance à s’agréger et à former ce qu’on appelle des agrégats/amas 
+plaquettaires. Ces amas sont uniquement présents dans le tube de prélèvement et ne 
+reflètent pas une situation pathologique chez le patient. 
+Dans ce cas, réalise alors un frottis sanguin où on observe les plaquettes qui vont s’agglutiner pour 
+former des amas plaquettaires. Le problème est que les automates ne comptent que les 
+plaquettes libres et par conséquent il va sous-estimer le nombre de plaquettes, c’est pour cela 
+qu’on parle d’une fausse thrombopénie. 
+ 
+ 
+ 
+ 
+ 
+Ce phénomène est réversible dans le temps chez un patient. 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+4 
+ 
+ 
+ 
+On peut également observer un autre phénomène qui est un peu plus rare où les plaquettes vont 
+venir se coller tout autour des leucocytes : c’est le satellitisme plaquettaire. 
+ 
+ 
+ 
+Les fausses thrombopénies sont très fréquentes. 
+Au cours de votre pratique médicale, vous serez amenés à prescrire de nombreux hémogrammes, 
+et il n’est pas rare de d'obtenir des résultats montrant une thrombopénie. 
+À cet effet, il est important de contrôler la numération plaquettaire à l’aide d’un autre 
+anticoagulant dans un tube citraté : si c’est bien une fausse thrombopénie, le nombre de 
+plaquettes devrait augmenter. 
+ 
+Remarque : On peut très bien avoir des agrégats plaquettaires ET une vraie thrombopénie !!! 
+Conduite à tenir devant toute thrombopénie : 
+Il faut réaliser un frottis sanguin et vérifier qu’il n’y a pas d’amas plaquettaire (en général, c’est fait 
+systématiquement par le laboratoire). En cas de présence d’amas, il est nécessaire de contrôler la 
+numération sur un prélèvement effectué dans un tube citraté. 
+ 
+⚠ Attention : Si votre patient a un syndrome hémorragique très important, il est très peu 
+probable qu’il s’agisse d’un problème d’agrégats plaquettaires. 
+L’exploration d’une éventuelle « fausse thrombopénie » ne doit en aucun cas retarder la prise en 
+charge d’un patient avec des signes hémorragiques +++. 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+5 
+ 
+ 
+I) Situation diagnostique : Thrombopénie 
+C. Signes hémorragiques cutanéo-muqueux 
+Les signes hémorragiques qui sont associés aux thrombopénies sont des signes hémorragiques de 
+type cutanéo-muqueux. 
+ 
+Les anomalies des plaquettes vont perturber l’hémostase primaire (on verra ça dans un prochain 
+cours) et entraîner des saignements au niveau de la peau et des muqueuses : on observe alors un 
+purpura. 
+Le purpura correspond à l'extravasation de GR hors des vaisseaux sanguins. Ces GR s’accumulent 
+dans le derme, ce qui entraîne l’apparition de lésions cutanées rouge-violacées. 
+ 
+Le purpura peut prendre différents aspects : 
+• 
+Pétéchies, 
+• 
+Ecchymoses (les « bleus », liées à la dégradation des Hb dans le derme), 
+• 
+Vibices. 
+Les saignements au niveau des muqueuses peuvent prendre la forme de : 
+• 
+Gingivorragies (saignements des gencives), 
+• 
+Épistaxis (saignement nasal), 
+• 
+Hémorragies conjonctivales, 
+• 
+Bulles hémorragiques buccales (URGENCE : thrombopénie sévère avec un risque 
+hémorragique très important). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+6 
+ 
+ 
+ 
+I) Situation diagnostique : Thrombopénie 
+D. Les circonstances de découvertes d’une thrombopénie 
+ 
+Soit biologique sur la NFS : 
+Ø Découverte fortuite, bilan réalisé pour tout autres raisons (bilan systématique, pré-
+opératoire...), pas de symptômes hémorragiques. 
+ 
+Soit clinique : 
+ 
+Ø Devant un syndrome hémorragique : Saignements cutanéo-muqueux : 
+• 
+Purpuras : tâches pourpres sur la peau ne s'effaçant pas à la vitro-pression : 
+pétéchies, ecchymoses, vibices, parfois hématomes 
+• 
+Muqueuses : gingivorragies, épistaxis, bulles hémorragiques intra-buccales (signe 
+de gravité) 
+• 
+Hémorragie au niveau d'organe : digestive, gynécologique, urologique, cérébrale, 
+du fond d'œil (signes de gravité) 
+Dès qu’on a un syndrome hémorragique, il faut toujours réaliser en urgence une NFS avec frottis 
+sanguin pour rechercher une thrombopénie. 
+ 
+Ø Dans certaines situations de thromboses : (situation inverse de l’hémorragie, c’est 
+lorsqu’on forme trop de thrombus plaquettaire donc les plaquettes sont consommées ce 
+qui induit une thrombopénie) 
+• 
+Plus rarement et souvent sans hémorragie 
+• 
+Micro-angiopathies thrombotiques (MAT), 
+• 
+Thrombopénie induite par l'héparine (TIH) : L’héparine est un traitement 
+anticoagulant qui peut provoquer chez certains patients une réaction immuno-
+allergique, avec production d’anticorps qui activent leurs plaquettes, alors leur 
+consommation et provoquant ainsi une thrombopénie. 
+E. Devant une thrombopénie : 2 questions 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Est-ce une 
+urgence ? 
+ 
+- En raison du risque hémorragique mettant en jeu le pronostic vital du 
+patient. 
+- En raison de signes cliniques de gravité favorisant l'hémorragie. 
+- Le risque hémorragique spontanée d'une thrombopénie sévère est bien réel 
+et en cas d'hémorragie, la mortalité est d'environ 5%. 
+ 
+Signes cliniques de gravité 
+Il faut rechercher des signes cliniques de gravité. 
+Dépister impérativement car le pronostic vital est engagé : 
+• 
+Hémorragie extériorisée (digestive/gynécologique/urinaire) qui peut 
+s'accompagner d'une déglobulisation (baisse de l'hémoglobine), 
+• 
+Bulles hémorragiques buccales, 
+• 
+Gingivorragies/épistaxis abondants, 
+• 
+Hématomes spontanés. 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+7 
+ 
+ 
+ 
+ 
+❚❛ị Attention ! Ces signes en plus d'être des signes de gravité peuvent nous 
+amener à réfléchir à un possible purpura fulminans (infection bactérienne 
+grave entraînant une méningite) : 
+• 
+Purpura ecchymotique extensif +++ évoluant rapidement ; confluent 
+et/ou nécrotique en aspect de carte de géographie (Cet aspect est 
+évocateur d'une infection par un méningocoque ou pneumocoque 
+occasionnant des méningites = purpura fulminans) 
+• 
+Syndromes infectieux sévères, 
+• 
+Signes neurologiques : céphalées, déficit focal (penser au syndrome 
+méningé = douleur en casque, diffuse, fièvre...) 
+ 
+Ce sont des signes vus en-dessous de 20 G/L, sauf si présence de facteurs 
+aggravants alors hémorragie possible dès 50 G/L. 
+ 
+Les facteurs cliniques aggravants qui augmentent le risque hémorragique : 
+• 
+Patient âgé de plus de 65 ans 
+• 
+Anomalies de l'hémostase primaire ou de la coagulation 
+constitutionnelle (Willebrand, hémophilies) ou acquis - (CIVD 
+(coagulation intravasculaire disséminée) 
+(Note RT : le prof n’est pas entré dans les détails car on reverra tout ça dans le 
+cours sur l’hémostase) 
+• 
+Traitements anti-agrégants plaquettaire et/ou anticoagulants 
+• 
+Une pathologie sous-jacente potentiellement hémorragiques : 
+ulcères digestifs, anévrysmes, chirurgie récente... 
+• 
+Thrombopénie présumée ou confirmée d'origine centrale (+++ à 
+risque que les thrombopénies périphériques) 
+• 
+Nécessité immédiate d'un geste chirurgical ou d'exploration invasive 
+ 
+Thrombopénies et gestes invasifs 
+En général, quand une thrombopénie profonde est identifiée, les injections 
+intramusculaires sont proscrites afin de limiter le risque hémorragique. 
+Ø Si plaquettes < 50 G/L, il va falloir prendre des précautions 
+particulières (différer le geste, effectuer le geste après transfusion de 
+plaquettes, augmenter le temps de compression… : à discuter au cas 
+par cas) pour : 
+o Biopsies, ponctions profondes 
+o Chirurgies 
+Ø Si plaquettes < 20 G/L, alors contre-indications pour : 
+o Ponction lombaire 
+o Ponction pleurale ou péricardique 
+o Sports traumatisants 
+o Voyage en avion (dépressurisation)… 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Quelles 
+étiologies pour 
+les 
+thrombopénies 
+? 
+Différentes étiologies selon le mécanisme : 
+On va distinguer les causes périphériques et les causes centrales. 
+v Thrombopénies périphériques (généralement thrombopénie isolée 
+dans l’hémogramme) : 
+• 
+Destruction accélérée des plaquettes 
+• 
+Séquestration dans la rate 
+• 
+Consommation excessive 
+ 
+v Thrombopénies centrales (souvent atteinte d'autres lignées des 
+cellules sanguines) : 
+• 
+Défaut de production dans la moelle (on a une diminution de 
+la mégacaryopoïèse) 
+a) Thrombopénies périphériques 
+ 
+Il existe donc 3 mécanismes : 
+Ø Destruction accélérée des plaquettes : 
+• 
+Infections virales (VIH, VHC/B, autres viroses), bactériennes, 
+paludisme 
+• 
+Causes auto-immunes 
+• 
+Causes allo-immunes (post transfusion ou foeto-maternelle) 
+• 
+Médicaments (thrombopénie immuno allergique) : AINS, 
+antibiotiques, anti-arythmiques, anticancéreux, inhibiteurs de 
+la pompe à protons, Héparine (THI) 
+• 
+Déficit immunitaire 
+• 
+Purpura thrombopénique immunologique (PTI) (on va 
+détailler ça juste après :p) 
+ 
+Ø Séquestration splénique : 
+• 
+Hypersplénisme avec hypertension portale (quelle que soit la 
+cause de la splénomégalie : cirrhose +++…) : élargissement de 
+la rate qui va séquestrer des plaquettes qui entraînera une 
+thrombopénie modérée 
+Ø Consommation : (les plaquettes vont être activées en périphérie) 
+• 
+Microangiopathies thrombotiques (MAT) (quelle que soit la 
+cause) : activation des plaquettes qui forment alors des 
+microthrombies dans la circulation/ microcirculation 
+• 
+Coagulation intravasculaire disséminée (CIVD) (quelle que 
+soit la cause) : activation anormale de l’hémostase avec 
+consommation des plaquettes 
+• 
+HELLP syndrome : complication de la grossesse, similaire à la 
+MAT 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+9 
+ 
+ 
+ 
+ 
+ 
+b) Thrombopénies centrales 
+= Défaut de production qui peut être dû à : 
+ 
+Ø Une insuffisance médullaire : 
+• 
+Syndromes myélodysplasiques 
+• 
+Carence (B12 ou folates) (anémie macrocytaire associée) 
+• 
+Aplasie médullaire (la moelle ne fabrique plus de cellules) 
+• 
+Thrombopathies constitutionnelles (pas systématique) : 
+rares 
+Ø Un envahissement par cellules anormales : 
+• 
+Hémopathies malignes (leucémies aigües, envahissement 
+médullaire par un lymphome) 
+• 
+Métastases médullaires d'un cancer solide 
+Ø L’alcoolisme +++ : mécanisme complexe qui a un impact sur la 
+thrombopoïèse (le prof ne détaille pas plus que ça) 
+I) Situation diagnostique : Thrombopénie 
+F. PTI (Purpuras Thrombopénique Immunologique) 
+ 
+- Le PTI est l’une des causes de thrombopénie périphérique. 
+- C’est une destruction accélérée de plaquettes qui est très fréquente. 
+- Thrombopénie isolée <100G/L d'origine auto-immun. 
+- Prédominance chez l'enfant. 
+- Clinique variable et hétérogène : Un patient peut être totalement asymptomatique et un autre 
+avoir un risque hémorragique grave (surtout après 60 ans mais limité à <2% patients). 
+ 
+Le PTI est : 
+• 
+Soit idiopathique (80%) 
+• 
+Ou soit secondaire : hémopathies lymphoïdes, maladies auto-immunes dont LED… 
+Diagnostic d'élimination = thrombopénie isolée, sans anomalie de l'hémostase, examen clinique 
+normal (sauf éventuel(s) signe(s) hémorragique(s)) : 
+• 
+Absence d'amas plaquettaires 
+• 
+Pas d'hyperconsommation périphérique (MAT, CIVD) 
+• 
+Pas d'hypersplénisme 
+• 
+Pas d'insuffisance médullaire (pas d'hémopathies, aplasie) 
+• 
+Pas d'argument pour une thrombopénies familiales constitutionnelles 
+Donc si on élimine tous ces symptômes => Le patient peut avoir un PTI. 
+Un PTI sévère avec complication(s) hémorragique(s) nécessite un traitement +++ pour faire 
+remonter les plaquettes. 
+Traitement : Si plaquettes <30 G/L ou si saignements => corticothérapie +/- Immunoglobuline IV 
+en fonction de la profondeur de la thrombopénie. 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+10 
+ 
+ 
+ 
+I) Situation diagnostique : Thrombopénie 
+G. MAT (Micro-Angiopathie Thrombotique) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Généralités 
+ 
+La MAT correspond à l’association d’une thrombopénie par consommation 
+(microthrombies qui se forment dans la circulation) et d’une anémie 
+hémolytique de type mécanique (les hématies vont se lyser au contact de ces 
+microthrombies ce qui entraînera la présence de schizocytes) : 
+Ø Présence de schizocytes >1% sur le frottis sang pour une valeur 
+attendue <0,1% 
+Ø Signes d'hémolyse : anémie régénérative, haptoglobine effondrée, 
+LDH élevées, bilirubine augmentée 
+ 
+ 
+ 
+L’anémie hémolytique est une situation d’URGENCE. 
+Donc quand on a ces signes, il est important de demander au laboratoire de 
+rechercher les schizocytes. 
+❛❚ịLa déglobulisation rapide peut mettre en jeu le pronostic vital (surtout avec 
+une bicytopénie). 
+Les 2 principales formes de MAT sont : 
+Ø PTT (purpura thrombotique thrombocytopénique) : 
+• 
+Plutôt chez l'adulte avec association T° + troubles de la 
+conscience + douleurs abdominales 
+• 
+Atteinte rénale modérée 
+• 
+Diagnostic de certitude : dosage de l'enzyme ADAMTS13 
+(déficit constitutionnel rare ou acquis (auto-Ac anti-
+ADMATS13) 
+ 
+Ø SHU (syndrome hémolytique et urémique) : 
+• 
+Plutôt chez l'enfant avec atteinte rénale aigüe + troubles 
+digestifs (diarrhée). 
+• 
+Le plus souvent d'origine infectieuse : E.Coli O157:H7, Shigella 
+spp., Salmonella spp.... 
+• 
+Autres étiologies de MAT : Éclampsie et HELLP syndrome lors 
+de la grossesse.... 
+ 
+Rappel : anémie régénérative avec thrombopénie il faut faire le frottis sanguin 
+pour la recherche de schizocytes. 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+11 
+ 
+ 
+ 
+I) Situation diagnostique : Thrombopénie 
+H. Démarche diagnostique 
+Devant une thrombopénie la démarche diagnostique est toujours pareille. 
+ 
+ 
+ 
+ 
+ 
+ 
+Contexte 
+Âge : nouveau-né, femme enceinte, personne âgée… 
+ATCD : 
+• 
+Pathologie hématologique connue (qui expliquerait la thrombopénie) 
+• 
+Cancer 
+• 
+Hépatopathie 
+• 
+Maladie auto-immune 
+• 
+Infection récente 
+• 
+Voyage dans pays tropical (paludisme) 
+• 
+Maladie hémorragique familiale 
+• 
+Bien penser à l’alcool. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interrogatoire 
+Rechercher tout ce qui peut faire baisser les plaquettes. 
+ 
+Anamnèse médicamenteuse : interrogatoire policier +++ 
+• 
+Tout médicament récemment introduit est suspect de l’installation 
+brutale de la thrombopénie 
+• 
+Si traitement anti-coagulant ou anti-agrégant plaquettaire : discuter 
+de l'arrêt du traitement car cela constitue un facteur aggravant de son 
+hémorragie (à discuter au cas par cas) 
+• 
+Cas particulier de l’héparine : quand thrombopénie chez un patient 
+mis sous héparine, il faut penser à la thrombopénie induite par 
+l’héparine (TIH) : réaction immunoallergique lié à la production 
+d’anticorps anti-facteur 4 plaquettaire (PF4) = activation des 
+plaquettes entraînant une thrombopénie par consommation et par 
+hypercoagulabilité 
+Risque de thromboses ++ artérielles/veineuses 
+Question : Est ce que les thrombopénies induites par médicament se 
+manifestent rapidement ou quelque temps après ? 
+ 
+Réponse : En général on a le temps que la réaction immunitaire se mette en 
+place, souvent dans les allergies elle se met en place plus ou moins 
+rapidement quand on introduit le traitement pour la première fois (dizaine de 
+jours à quelques semaines) et elle peut passer inaperçue, et si pour une autre 
+raison le patient doit reprendre ce médicament, là la thrombopénie peut 
+s’installer de façon beaucoup plus brutale et c’est celle ci que l’on verra. 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Examen 
+clinique 
+Orientation clinique + indispensable pour évaluer la gravité de la 
+thrombopénie 
+Recherche de signes d’hémorragies cutanéo-muqueuses sur l’ensemble du 
+corps : 
+• 
+Saignements cutanéo-muqueux (purpura, atteinte de la cavité 
+buccale +++, etc.). 
+• 
+Hémorragies d’organes (ex. : fond d’œil pour voir si hémorragie 
+rétinienne). 
+• 
+Hémorragies spontanées ou provoquées. 
+Ø Très important : mesure de la température et recherche de signes 
+d’orientation infectieuse → attention au purpura fulminans. 
+Ø Recherche d’adénopathies (pouvant évoquer une infection ou une 
+hémopathie maligne), d’une hépatomégalie (hémopathie, maladie 
+auto-immune, infection chronique…), et d’une splénomégalie 
+(hypertension portale, hémopathie, infection chronique, maladie 
+auto-immune, maladie de surcharge…). 
+Bilan 1ère intention 
+1er exam 
+Obligatoire ++ : NFS + réticulocytes + frottis sanguin car permet : 
+• 
+Éliminer les amas plaquettaires (fausse thrombopénie) 
+• 
+Orientation sur la cause de la thrombopénie (isolée ou centrale) 
+• 
+Recherche de schizocytes (surtout dans les anémies régénératives) 
+• 
+Présence de cellules anormales (blastes = leucémie) 
+• 
+Anomalies morphologiques (syndrome myélodysplasique) 
+• 
+Polynucléaires hypersegmentés : carence vitaminique folate/B12 
++++. (Anémie macrocytaire associée) 
+• 
+Morphologie des plaquettes : maladies constitutionnelles 
+2e exam 
+Bilan d’hémostase : TP, TCA, Fibrinogène : 
+• 
+Éliminer un trouble de l’hémostase qui pourrait aggraver la 
+thrombopénie ou une CIVD 
+ 
+ 
+ 
+ 
+ 
+Autres examens 
+Examen d’orientation, guidés par la clinique 
+ 
+• 
+Contexte infectieux : sérologies virales : VIH, VHB, VHC +/- EBV, CMV 
+• 
+Bilan auto immun : 
+Ø Recherche de maladies auto-immunes : analyse du contexte clinique 
+et réalisation d’examens biologiques incluant les anticorps 
+antinucléaires, les anticorps anti-ADN, les anticorps 
+antiphospholipides ainsi qu’un bilan thyroïdien. 
+Ø Recherche d’un déficit immunitaire : réalisation d’une électrophorèse 
+des protéines sériques et dosage des immunoglobulines. 
+(Le prof a dit qu’on reverra ça dans nos cours d’immuno) 
+• 
+Causes hépatiques, hypersplénisme : bilan bio hépatique, 
+échographie abdo 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+13 
+ 
+ 
+ 
+ 
+Rappel : pas d’examen qui permet de poser le diagnostic du PTI = diagnostic 
+d’exclusion. 
+Myélogramme 
+Ne se fait pas systématiquement, se fait lorsqu'on suspecte une cause 
+centrale et permet d’exclure une hémopathie sous-jacente. 
+Analyse cytologique pour apprécier la richesse de la lignée mégacaryocytaire 
+dans la MO qui est le siège de cette lignée : 
+ 
+• 
+Causes périphériques : Moelle riche en mégacaryocytes, très 
+abondant (la moelle produite normalement des précurseurs de 
+plaquettes) 
+• 
+Causes centrales : Moelle pauvre en mégacaryocytes, peu nombreux 
+ou anormaux, atteinte des autres lignées avec troubles de maturation 
+(dysmyélopoïèse), ou encore un envahissement médullaire (ex : LA) 
+On fait le myélogramme en cas de suspicion forte d’hémopathie. 
+ 
+ 
+ 
+Question : Est ce que les mégacaryocytes anormaux vont plutôt (on entend 
+mal la question...) 
+ 
+Réponse : Non, car le SMD c’est une maladie de la MO acquise chez les 
+personnes âgées, ou on va avoir une production d’éléments (GR, plaquettes 
+ou granuleux) qui va se faire de façon anormale (anomalie qualitative de ces 
+éléments) et seront détruits dans la MO et on aura des cytopénies en 
+périphérique. Pour le cas des maladies constitutionnelles ce n’est pas le 
+myélogramme qui va être l’élément principal du diagnostic, on va plutôt 
+étudier la fonction plaquettaire. 
+ 
+ 
+ 
+ 
+Points à retenir 
+ 
+ 
+(Le prof a juste lu la diapo). 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+14 
+ 
+ 
+ 
+II) Situation diagnostique : Purpuras 
+ 
+Les thrombopénies donnent des purpuras mais tous les purpuras ne sont pas liés à des 
+thrombopénies. La situation de départ est donc différente selon comment on fait le diagnostic 
+étiologique en partant de la clinique. 
+A. Définition 
+Une éruption cutanée et/ou muqueuse qui va entraîner la formation de tâches hémorragiques, 
+indolores qui ne s’effacent pas à la vitropression et qui sont liées à une extravasation des GR 
+dans le derme. 
+ 
+Il y a 3 mécanismes qui entraînent cela : 
+• 
+Anomalie quantitative des plaquettes (thrombopénie) 
+• 
+Anomalie qualitative des plaquettes (thrombopathie) 
+• 
+Anomalie de la perméabilité vasculaire 
+C’est important de savoir reconnaître les purpuras car ils sont potentiellement révélateurs de 
+situations mettant en jeu le pronostic vital. Le purpura fébrile est un diagnostic d'urgence. 
+B. Diagnostiquer un purpura 
+Devant un purpura il faut faire deux choses : 
+1. Confirmer que c’est un purpura (l’observer et le décrire) : tâche rouge qui ne s’efface pas 
+à la vitropression. Il y a différents aspects possibles : 
+ 
+ 
+2. Palper la lésion : pour voir s’il est infiltré (purpura rugueux avec du relief) ou non infiltré 
+(plan, sans relief). Important car l'orientation diagnostic ne sera pas la même. 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+15 
+ 
+ 
+ 
+ 
+ 
+II) Situation diagnostique : Purpuras 
+C. Évaluer la gravité/urgence 
+Devant un purpura il y a deux diagnostics urgents à évoquer : 
+ 
+• 
+Le purpura lié à une thrombopénie avec un risque hémorragique grave : 
+Faire systématiquement une NFS car le purpura est un syndrome hémorragique, important pour 
+déterminer le taux de plaquettes <50G/L ou <20G/L (seuils d’alerte) 
+ 
+Penser à rechercher des signes de gravité d’urgence hémorragique 
+o Bulles hémorragiques, hémorragies muqueuses extériorisées, hémorragies au fond d’œil 
+(risque d’hémorragie méningée) 
+o Traitement antiplaquettaire ou anticoagulant associé 
+o Localisation susceptible d’avoir un retentissement fonctionnel (pharyngé…) 
+• 
+Le purpura fulminans (purpura vasculaire d’origine infectieuse) : 
+ð Fièvre ++ 
+Rechercher une urgence infectieuse : 
+o Signes neurologiques : céphalées, confusion, déficit…. (Infection à la méningocoque) 
+o État de choc 
+o Caractère rapidement extensif ou nécrotique (purpura fulminans) 
+o Aspect en carte de géographie 
+o Très souvent on retrouve une CIVD 
+Finalement devant un purpura c’est important de faire une NFS et de rechercher un syndrome 
+infectieux. 
+D. Aspect des purpuras en rapport avec les étiologies 
+En dehors de ces 2 situations d’urgence, on va s’orienter en fonction du type de purpura : 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+16 
+ 
+ 
+ 
+II) Situation diagnostique : Purpuras 
+E. Types de purpura 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Purpura 
+plaquettaire 
+A. Purpura thrombopénique (pétéchies, ecchymose) 
+ 
+On a une thrombopénie qui entraîne un saignement cutanéo-muqueux, on 
+élimine l’urgence, on fait la NFS pour voir les plaquettes. 
+ 
+(Le prof a dit qu’il ne revient pas sur les causes car on les a vu dans la première 
+partie du cours, on vous met quand même la diapo). 
+ 
+ 
+ 
+B. purpura thrombopathique (plus rare) (ecchymose ++) 
+Les purpuras thrombopathiques sont liés à un défaut de la fonction 
+plaquettaire. 
+ 
+Soit des thrombopathies acquises : 
+• 
+Certains médicaments (anti-agrégant plaquettaire, AINS etc) 
+• 
+Au cours de certaines maladies (ex : SMD, SMP) 
+Plus rarement des thrombopathies constitutionnelles avec 3 grandes maladies 
+(le prof n’a pas détaillé car cela sera vu dans le cours sur l’hémostase) 
+ 
+Retenir : une thrombopathie peut entraîner la formation de purpura de type 
+ecchymotique. 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Purpura 
+vasculaire 
+Trois grandes familles de purpura : 
+ 
+v A. Purpura infectieux 
+v B. Purpura immunologique 
+v C. Fragilité capillaire/tissu sous cutané 
+On peut rapidement éliminer ces causes car c’est ce qu’on retrouve chez les 
+personnes âgées qui vont avoir une fragilité au niveau du collagène. 
+(Le prof n’a pas détaillé car c’est très “anecdotique”). 
+A.  Purpura vasculaire infectieux 
+ 
+URGENCE du purpura fulminans : à évoquer devant tout purpura fébrile, 
+urgence vitale 
+ 
+2 grandes causes avec tableaux cliniques et contextes très différents : 
+• 
+Purpura fulminans URGENCE +++ : 
+o Infection bactérienne par le méningocoque (entraîne des 
+méningites) 
+o Chez l’enfant mais aussi chez l’adulte surtout si 
+splénectomisé 
+o Devant tout collapsus fébrile, il faut traquer le purpura pour 
+intervenir le plus tôt possible via antibiothérapie par 
+ceftriaxone forte dose 
+o Purpura rapidement extensif, aspect nécrotique, en carte de 
+géographie 
+o Biologie : Thrombopénie d’installation rapide, CIVD 
+• 
+Endocardite d’Osler : 
+o Infection bactérienne au niveau de l’endocarde 
+o Purpura au niveau de la conjonctive, en sus claviculaire et 
+aux extrémités des doigts (aspect de faux panaris) 
+Devant un purpura fébrile, il faut faire la NFS, le bilan d’hémostase (recherche 
+de CIVD), hémocultures et ponctions lombaires. 
+Ex de purpura nécrotiques : 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+18 
+ 
+ 
+ 
+ 
+B. Purpura vasculaires immunologiques 
+ 
+Caractéristiques : 
+Des purpuras plutôt pétéchial et infiltré, localisé surtout au niveau du 
+membres inférieur et évoluent par poussées. 
+Tableau clinique plus général : vascularites 
+o Autres lésions cutanées : cocardes érythémateuses et nodules 
+dermiques (Gougerot), urticaire, livedo réticulaire 
+o Atteintes autres organes : arthralgies, myalgies, Raynaud, 
+neuropathie périphérique, glomérulopathie 
+ 
+Étiologies : 
+Angéite par hypersensibilité aux médicaments : 
+o Antibiotiques (pénicillines, cyclines, sulfamides, etc...) 
+o AINS 
+o Diurétiques thiazidiques voire AVK 
+Purpura rhumatoïde : 
+o Cas particulier étudié juste après 
+Purpura vasculaire dysglobulinémie : 
+o Purpura cryoglobulinémique 
+o Purpura de l’amylose 
+o Purpura au cours des gammapathies monoclonales 
+Vascularites systémiques de l’adulte lié à des anticorps anti-ANCA 
+Vascularite du lupus (dépôt de complexes immuns) 
+ 
+C. Purpura rhumatoïde 
+Le purpura rhumatoïde est un purpura vasculaire classique d’origine 
+immunologique. On a une vascularite liée à des dépôts immuns complexes à 
+IgA. 
+ 
+Contexte : retrouvé souvent chez l’enfant et l’ado après un épisode 
+infectieux. 
+ 
+Clinique : 
+• 
+Pétéchie au niveau des membres infs en particulier au niveau des 
+chevilles 
+• 
+Ce purpura est aggravé par l’orthostatisme 
+• 
+Évoluant par poussées 
+• 
+De façon inconstante on retrouve : prurit, urticaire et œdèmes 
+possibles 
+• 
+Arthralgies, douleurs abdo 
+• 
+Risque de complication rénale par glomérulonéphrite avec dépôts 
+IgA 
+• 
+En général c’est bénin et évolue de façon favorable 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+À retenir 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Thrombopénie et Purpuras – Dr. Lazarian – 10/03/2026 
+20 
+ 
+ 
+ 
+
+---PAGE---

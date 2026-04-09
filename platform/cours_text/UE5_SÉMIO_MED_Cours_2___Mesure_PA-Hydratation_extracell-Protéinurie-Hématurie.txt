@@ -1,0 +1,815 @@
+ 
+RT : Tinhinane AMRANE et Imane ALLICHE 
+RL : Ritha BZIOUAT 
+ 
+ 
+UE5– Sémiologie-Mesure PA / Hydratation  
+extracell/ Protéinurie / Hématurie 
+ 
+Sémiologie 
+Dr BELENFANT–11/03/2026 – 13H45 
+ 
+ 
+PLAN DU COURS 
+I- PRESSION ARTERIELLE 
+A) Rappels sur la pression artérielle 
+B) Conditions et méthodes de mesure 
+C) Valeurs de la PA 
+D) Auto-mesure de la pression artérielle 
+E) Hypertension artérielle 
+II- PROTEINURIE 
+A-Protéinuries physiologiques 
+B- Protéinuries pathologiques 
+C) Méthode de dépistage 
+D) Méthode de confirmation 
+E) Electrophorèse des protides urinaires 
+F)  Pathologie 
+G) Protéinurie Orthostatique 
+H) Micro-Albuminurie 
+III. HÉMATURIE 
+A) Définitions 
+B) Hématurie Macroscopique : Analyse sémiologique 
+C) Examen de confirmation ECBU 
+D) Urines rouges en pratique 
+IV. BILAN HYDRIQUE ET BILAN SODÉ 
+A) Rappels 
+B) Métabolisme de L’H20: Entrée/Sortie et Régulation 
+C) Apports et régulation Sel 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 2 sur 30 
+ 
+  I- Pression artérielle  
+A) Rappels sur la pression artérielle  
+Pression 
+artérielle 
+ 
+A-Calcul PA 
+Elle dépend de 2 paramètres : le débit et la résistance donc on a P = 
+DC x RVS 
+ 
+ 
+ 
+ 
+Donc si par exemple le débit augmente dans un même tuyau la pression 
+artérielle augmente également et si le débit diminue dans un tuyau de 
+même calibre la pression artérielle diminue aussi. 
+ 
+                    B-Cycle cardiaque  
+ 
+(Ici j’ai repris la RT de l’an dernier)  
+Pendant le cycle cardiaque : 
+Pendant la diastole la pression est au plus bas et le VG va se remplir 
+  
+✓ Contraction du VG 
+✓ La pression monte 
+✓ La valve Mitrale est fermée 
+✓ La valve aortique est fermée 
+ 
+Le VG se contracte, se met en pression (= contraction isovolumétrique). 
+Quand la pression dans le ventricule gauche devient supérieure à celle dans 
+l'aorte : les valves sigmoïdes s’ouvrent permettant l’éjection du sang dans 
+l’aorte  
+La pression monte dans l'aorte. 
+Enfin, la pression diminue puis cela va s'équilibrer et se fermer. 
+  
+La rigidité de la paroi artérielle augmente avec l’âge qui entraîne 
+l’augmentation de la pression artérielle  
+  
+ 
+ 
+ 
+
+---PAGE---
+Page 3 sur 30 
+ 
+ l. Pression artérielle  
+                            B.  Conditions et méthodes de mesure  
+ 
+A- Pour le dépistage  
+ 
+Bonne position : ½ assis(dépistage) sois allongé  
+Doit être mesurée en décubitus et orthostatisme : systématiquement à la 
+première consultation (HTA) et systématiquement (suivi) si traitement 
+vasodilatateur et/ou diabète et/ou personne âgée  
+ 
+A la première consultation pour HTA = au 2 bras  
+Au calme et au repos depuis au moins 5min 
+Ne pas parler au sujet  
+Pas de prise de café, tabac ou de médicaments/drogues 
+ 
+ 
+ 
+Avec un brassard adapté à la taille du bras : si trop petite surestimation de la 
+PA et si trop grande sous-estimation de la PA donc prendre un brassard qui 
+recouvre ¾ de la circonférence du bras  
+Positionner le brassard en regard de l’artère humérale avec la flèche à 
+l’intérieur  
+Bras à la hauteur du cœur et détendu (éviter contraction du biceps) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 4 sur 30 
+ 
+ 
+                            I- Pression artérielle  
+B)   Conditions et méthodes de mesures 
+ 
+ B-Différents tensiomètres  
+Brassard manuel :  
+On place le stéthoscope sous le brassard juste au-dessus du pli du coude au 
+bord antéro interne (en regard de l'artère humérale) 
+On gonfle le brassard au moins 30 mmHg au dessus de la valeur de pression 
+artérielle systolique supposée 
+On dégonfle lentement +++ 
+Lorsque l’on perçoit un premier « bruit » sourd régulier = pression artérielle 
+systolique 
+Et la disparition du « bruit » = pression artérielle diastolique 
+Note : Cette méthode aujourd’hui manque de fiabilité donc on utilisera + les 
+appareils électroniques  
+ 
+ 
+ 
+ 
+Risque d’erreur de mesure si rythme irrégulier :  
+Si le rythme est irrégulier et qu’il y a par exemple un temps long, le ventricule 
+gauche va bien se remplir et y aura une bonne éjection donc pression artériel 
+haute. Si après le cœur se contracte mais très vite, y aura un moins bon 
+remplissage et une moins bonne éjection ce qui donne une pression artérielle 
+plus basse. On aura donc une alternance entre des phases avec une systole 
+haute et une systole basse ce qui fait que le tensiomètre n’arrivera pas à 
+repérer la bonne pression. 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 5 sur 30 
+ 
+                            I- Pression artérielle  
+B)  Conditions et méthodes de mesures 
+ 
+ 
+       
+                            I- Pression artérielle  
+                               C- Valeurs de la PA 
+ 
+              A-Seuils 
+On a une HTA si : on dépasse les valeurs > 140/90 et si on est < 140/90 en 
+journée en consultation, la PA est normale  
+PA optimale : <120/80 
+ 
+           B- Conséquences de l’hypertension à long terme : 
+✓ Hypertrophie cardiaque 
+✓ Insuffisance cardiaque (I'HTA multiplie par 6 le risque) 
+✓ Insuffisance rénale 
+✓ Artériopathie (artère bouché) 
+✓ AVC 
+✓ Infarctus 
+
+---PAGE---
+Page 6 sur 30 
+ 
+                            I- Pression artérielle  
+        D) Auto-mesure de la pression artérielle 
+ 
+         A-Auto-mesure tensionnelle 
+Correspond à la pression artérielle chez soi /Comment le sujet prend sa 
+tension artérielle chez lui ?  
+ 
+« Règles des 3 » / 3 mesures consécutives  
+2 fois par jour (il faut une moyenne d’au moins 12 mesures pour avoir 
+un bon reflet de la pression artérielle a la maison)  
+Matin avant le petit déjeuner et prise de médicaments + le soir  
+Pendant 3 jours 
+ 
+ 
+
+---PAGE---
+Page 7 sur 30 
+ 
+                            I- Pression artérielle  
+        D) Auto-mesure de la pression artérielle 
+ 
+ 
+Normale : PA < 135/85  
+MAPA : Mesure Ambulatoire de la PA/24h 
+ 
+C’est un appareil de pression artérielle électronique que porte le sujet durant 
+24h 
+
+---PAGE---
+Page 8 sur 30 
+ 
+ 
+1ère mesure souvent faussée car la personne est stressée 
+Pas les mêmes mesures entre le jour et la nuit : 
+PA jour normale < 135/85 ✪ ✪ 
+PA nuit normale < 120/70 ✪ ✪ 
+PA moyenne jour et nuit < 130/80 ✪ ✪ ✪ 
+ 
+                            I- Pression artérielle  
+                        E- Hypertension artérielle  
+      
+   A- En France 
+En France : 17 millions de personnes touchées dont 10% à l’âge de 30 ans et 
+80% de la population quand on a 80 ans  
+(donc quasiment 30% de la population) 
+Augmente le risque d’AVC, de maladies cardiaques et d’amputation  
+L’HTA est donc un facteur de risque cardio vasculaire. 
+Elle est définie par une PA>140/90 en consultation et PA>135/85 à la maison 
+      B- Etudes des années 90 
+Sujets pas hypertendus, tension à valeurs : 
+o Optimal <120/70 
+o Normal < 130/85 
+o Normal haut juste < 140/90 
+Suivi des patients sur plus de 14 ans 
+  
+Schéma : incidence cumulée des évènements cardiovasculaires (IC, AVC, 
+Décès, Cause cardiovasculaire). 
+  
+Plus tension élevée plus augmentation de risque d’événements 
+cardiovasculaires  
+
+---PAGE---
+Page 9 sur 30 
+ 
+                            I- Pression artérielle  
+                        E- Hypertension artérielle  
+ 
+ 
+ 
+Ceux qui ont défini l’HTA pour la première fois sont les agents d’assurances : 
+à l’époque de la guerre, faisaient croire que les gens vont mourir bientôt pour 
+les faire cotiser très longtemps de grandes sommes. 
+       C- HTA= FDR modifiable 
+ 
+HTA est modifiable : elle peut baisser avec des médicaments. C’est un 
+facteur de risque de pleins de maladies  
+ 
+
+---PAGE---
+Page 10 sur 30 
+ 
+                            I- Pression artérielle  
+                        E- Hypertension artérielle  
+ 
+Quelques chiffres :  
+5/10% hypertendus à 18 ans 
+Sur 17M d'hypertendus à 6M non connus, exposé risque 
+cardiovasculaire 
+< 50% patients traités pour HTA connaissent les conseils hygiéno-
+diététiques 
+< 25% patients traités pour HTA ont une HTA contrôlée 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 11 sur 30 
+ 
+                            I- Pression artérielle  
+                        E- Hypertension artérielle  
+ 
+D- HTA blouse blanche  
+C’est quand :  
+On a une différence entre l’HTA a la maison et le cabinet. 
+• PA > normes en consultations (PA > 140/90). 
+• PA normale en dehors de la consultation (PA < 140/90). 
+Comment peut-on l’affirmer ? Avec l’automesure et la MAPA 
+ 
+E- Hypotension orthostatique 
+C’est une baisse de tension en position debout. 
+  
+On mesure coucher puis debout et si : 
+Baisse PAS > 20 mmHg ✪ ✪ entre la valeur mesurée en décubitus et en 
+orthostatisme et/ou baisse de la PAD > 10 mmHg ✪ ✪ entre la valeur 
+mesurée en décubitus et en orthostatisme. 
+Considéré comme pathologique si il y a une persistance entre 1 à 3 min après 
+le levé. 
+Fréquence = 7% population générale / 16% après 65ans. 
+  
+C’est un facteur de chute chez les personnes âgées entraînant une fracture 
+du col du fémur et un par la suite un décès  
+Quand on sera médecin faudra la mesurer chez tous les patients âgés, chez 
+tous les sujets diabétiques et chez tous les sujets âges qui ont plusieurs 
+médicaments hypertenseurs 
+F-Pouls paradoxal 
+Est-ce que les variations du cycle respiratoire peuvent avoir un effet sur la 
+pression artérielle systolique ?  
+Quand on inspire le sang apporté par les veines rentre difficilement dans la 
+cage thoracique. A l’inverse quand on expire les veines gonflent (car sont 
+soumises à la pression atmosphérique et à l’intérieur y a une pression plus 
+élevée). Ainsi, le retour veineux est favorisé à l’inspiration, et à l’expiration 
+on freine le retour du sang vers le cœur  
+ 
+
+---PAGE---
+Page 12 sur 30 
+ 
+                            I- Pression artérielle  
+                        E- Hypertension artérielle  
+ 
+Chez les asthmatiques par exemple : à l’inspiration l’air rentre bien, mais a 
+l’expiration il augmente la pression intra thoracique ce qui va gêner le retour 
+veineux et donc il y aura une diminution du débit cardiaque => pouls 
+paradoxal, c’est-à-dire qu’en fonction de la respiration la valeur de la systole 
+va varier  
+(Notion un peu compliquée donc si besoin écouter a partir de 33 :07 min) 
+ A retenir :  
+La PA = DC x RVS 
+Si la résistance baisse, la pression baisse 
+Si débit cardiaque baisse, la pression baisse  
+Pour mesurer la PA, utiliser appareil de tension adapté, et bien placer le 
+stéthoscope au niveau de l’artère  
+Un sujet avec un rythme cardiaque irrégulier ou avec une pathologie 
+pulmonaire la pression systole peut être variable 
+Question : Peut-on mesurer l’hypertension orthostatique on peut la mesurer 
+assis puis debout ? « Pour la référence c’est couché et debout » 
+ 
+               II- Protéinurie 
+                   A-Proteinurie physiologique 
+Objectifs :  
+o Connaitre les valeurs normales 
+o Connaitre les différents types de protéinurie 
+o Connaitre les méthodes de dépistage 
+o Connaitre et les méthodes de dosage protéinurie et de l'albuminurie 
+o Connaitre les indications de l'électrophorèse des protides urinaires 
+o Connaitre les différentes circonstances physiologiques pouvant être 
+associées à une protéinurie 
+o Savoir diagnostiquer une protéinurie orthostatique 
+o BANDELETTE URINAIRE : 
+o connaitre les faux + / faux négatifs pour : protéinurie, hématurie / les 
+valeurs de PH urinaire 
+
+---PAGE---
+Page 13 sur 30 
+ 
+               II- Protéinurie 
+                   A-Proteinurie physiologique 
+ 
+  A-Valeurs 
+Les protéines de poids > 70kD ne sont pas filtrées +++ ( notamment 
+l’albumine qui pèse 60-70kD donc peu filtrée  
+On a quand même des protéines dans les urines : 0,098+/-0,025g/jour ( 
+80mg/j en moyenne)  
+60% des protéines plasmatiques de faibles poids moléculaires sont filtrées 
+par le glomérule (lysosyme, béta2 microglobuline, chaines légères libres 
+kappa, lambda) ; normalement réabsorbées par le tube. 
+  
+40% protéines tubulaires : uromoduline (= protéine de Tamm-Horsfall, 
+sécrétée par l'anse de Henlé). 
+Albuminurie physiologique de 0 à 30 mg/j. 
+Protéinurie physiologique < 300 mg/j. 
+  
+               II- Protéinurie 
+                   B- Protéinuries pathologiques 
+ 
+A- Différents types et leurs spécificités 
+1) Altération du filtre glomérulaire : protéinurie glomérulaire  
+Contexte de glomérulopathie. 
+Dans ce contexte la membrane est souvent poreuse ou avec des gros trous ce 
+qui va engendrer le passsge des grossses protéines comme l’albumine => donc 
+protéinurie composée majoritairement d’albumine  
+Syndrome néphrotique (voir DFA-SM1) = protéinurie > 3g/j + albuminémie < 
+30 g/L (circonstance de découverte : syndrome oedémateux). 
+ 
+2) Altération des fonctions tubulaires : protéinurie tubulaire  
+Contexte : tubulopathie (ex toxicité de certains médicaments). 
+  
+
+---PAGE---
+Page 14 sur 30 
+ 
+               II- Protéinurie 
+                   B- Protéinuries pathologiques 
+ 
+Ici le glomérule est normal, mais c’est le tube qui pose problème car ne 
+réabsorbe plus comme il le devrait  
+Protéinurie de faible débit (souvent < 2g/j) ; Comportant une faible++ 
+quantité 
+d'albumine. 
+3) Filtration d'une protéine (faible poids moléculaire) présents excès dans le 
+plasma = protéinurie de Surcharge 
+Situation où une très grande quantité de petites protéines est produite dans 
+l’organisme. Ces protéines ont un faible poids moléculaire, donc elles sont 
+normalement filtrées par le glomérule puis réabsorbées par le tubule rénal. 
+Mais quand elles sont présentes en trop grande quantité, le tubule rénal ne 
+parvient plus à les réabsorber, ce qui entraîne leur présence dans les urines. 
+●  Chaînes légères d'immunoglobuline (22,5 kD) -> cause la + fréquente 
+• Dépistées par électrophorèse des protides urinaires (voir infra) / 
+identification de l'immunoglobuline urinaire par immunoélectrophorèse des 
+protides urinaires. 
+• Contexte clinique : production monoclonale d'immunoglobuline. 
+• Ex : myélome  
+● Myoglobine (origine musculaire) (17,2 kD) 
+• Évoquer dans un contexte de « maladie musculaire » : myosite 
+(inflammation des muscles) / toxicité de certains médicaments / écrasement 
+musculaire lors d'accident de la route par ex (« crush syndrome »)/ 
+destruction musculaire massive (rhabdomyolyse) 
+• Confirmation diagnostique : taux élevé plasmatique des enzymes 
+musculaires: CPK, ASAT, LDH. 
+● Hémoglobine (hémolyse intra vasculaire aiguë) (64,4 kD) 
+• Contexte clinique : paludisme, erreur transfusionnel, maladie auto-immune, 
+anomalie génétique de l'hémoglobine (drépanocytose, déficit enzymatique en 
+G6PD...) 
+
+---PAGE---
+Page 15 sur 30 
+ 
+               II- Protéinurie 
+                   B- Protéinuries pathologiques 
+ 
+• Urine colorée en rouge car présence d'hème. 
+ 
+               II- Protéinurie 
+                                 C) MÉTHODE DE DÉPISTAGE  
+ 
+Dépistage avec bandelette urinaire 
+ 
+Bandelette urinaire (BU) (méthode « semi-quantitative » 
+● Elle sert uniquement au dépistage, pas à la confirmation 
+● Détecte uniquement l’albumine  
+
+---PAGE---
+Page 16 sur 30 
+ 
+● Si BU est positive ou douteuse, il faut confirmer par une analyse au 
+laboratoire plus précise basée sur des méthodes colorimétriques  
+Attention 
+      Faux positif 
+● BU périmée/mauvaise conservation des urines/endroit humide 
+● Urines alcalines (infection urinaire par des germes sécrétant des 
+uréases) / ammonium quaternaire / hématurie macroscopique : les 
+germes vont monter le pH de l'urine et fausser le résultat. 
+●  Hématurie macroscopique 
+      Faux négatifs 
+● Protéinurie sans albuminurie (BU détecte que l'albumine). 
+● Myoglobinurie / hémoglobinurie / chaînes légères 
+d'immunoglobuline. 
+ 
+               II- Protéinurie 
+                                 D) MÉTHODE DE CONFIRMATION  
+ 
+Différent type et leurs spécificités  
+Protéinurie - technique de dosage: ajout colorant  
+● On ajoute  colorant  
+● Rouge de pyrogallol (méthode colorimétrique, moins coûteuse) 
+●  En fonction de l'intensité de la coloration ça nous donne la quantité 
+de protéines par 24h. 
+● Faux négatifs : pénicilline/sulfamides/produit contraste radiologique. 
+Protéinurie sur 24h : 
+● Validation de la qualité du recueil des urines sur 24h. 
+● Comment savoir qu'on a bien rempli la quantité d'urine de 24h ? 
+● Mesure dans le bocal de la quantité de créatinine/24h 
+● Débit de créatininurie / 24h : environ de 8-12 mmol / 24h. 
+Protéinurie sur échantillon urinaire : 
+● Recommandée par la HAS en 2012 
+● Ratio (protéinurie en mg/L) / (créatininurie en mg/L ou mmol/L) 
+
+---PAGE---
+Page 17 sur 30 
+ 
+● Normale < 30 mg/mmol  
+● Normale < 300 mg/g 
+ 
+ 
+ 
+               II- Protéinurie 
+                                 E) ELECTROPHORESE DES PROTIDES URINAIRES  
+ 
+Objectif: étude de la composition des protéines urinaires. 
+Principe: Les protéines sont déposées sur un gel, on applique un courant 
+électrique. Les protéines migrent selon leur charge et leur taille. 
+On observe leur répartition:  
+● Dans les urines normales: très peu de protéines, électrophorèse 
+presque plate.  
+● Interprétation possible:  
+. Grand pic d’albumine -> protéinurie glomérulaire 
+. Pic de chaînes légères d’Ig -> suspicion de Myélome multiple  
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 18 sur 30 
+ 
+               II- Protéinurie 
+                                 E) ELECTROPHORESE DES PROTIDES URINAIRES  
+ 
+ 
+ 
+               II- Protéinurie 
+                                 F)  PATHOLOGIE   
+ 
+Protéinurie transitoire, SANS atteinte organique rénale: majoritairement 
+composé d’albumine 
+Certaines situations provoquent une protéinurie temporaire: 
+● Fièvre -> altération temporaire de la filtration glomérulaire. 
+● Insuffisance cardiaque -> augmentation de la pression veineuse, 
+augmentation pression capillaires du glomérule, favorise passage 
+protéines. 
+● Effort physique intense et prolongé  
+● Infection urinaire -> inflammation de la vessie permettant passage de 
+plasma et de protéines dans les urines.  
+ 
+
+---PAGE---
+Page 19 sur 30 
+ 
+               II- Protéinurie 
+                     G) PROTÉINURIE ORTHOSTATIQUE  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 20 sur 30 
+ 
+               II- Protéinurie 
+                    H) MICRO-ALBUMUNURIE 
+ 
+ 
+               III- HÉMATURIE  
+                     A) DEFINITIONS 
+ 
+Objectif 
+●  Hématurie : 
+• Connaître les valeurs normales 
+• Connaître les méthodes de dépistage 
+• Savoir expliquer la réalisation d’un ECBU à un patient 
+• Connaître les méthodes de confirmation 
+• Savoir analyser la sémiologie d’une hématurie macroscopique 
+
+---PAGE---
+Page 21 sur 30 
+ 
+● Leucocyturie: 
+• Connaître les valeurs normales 
+● Bandelette urinaire: 
+• Connaître les faux + / faux - 
+ 
+A) DÉFINITIONS  
+L’hématurie correspond à la présence de sang (hématies) en quantité 
+anormale dans les urines. 
+● Si très abondant (>1millions/mL) = macroscopique, visible à l'œil nu. 
+● Si de faible abondance (10 000 à 1 million/mL) = microscopique, non 
+visible à l'œil nu. 
+● valeur normale: <10 000 GR/mL 
+Attention 
+Urines rouges n’est pas forcément du sang: 
+● Jus de betterave, rhubarbe 
+● Médicament (rifampicine, traitement tuberculose) 
+● pigments sanguins: Hb libre (ex: hémolyse intra vasculaire), 
+myoglobine (rhabdomyolyse). 
+Méthodes de dépistage : bandelette urinaire réactive 
+• Faux + : la BU détecte le fer donc positive à l'hémoglobinurie et à la 
+myoglobinurie. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 22 sur 30 
+ 
+               III- HÉMATURIE  
+                  B ) HÉMATURIE MACROSCOPIQUE : ANALYSE SÉMIOLOGIQUE 
+Épreuve des 3 verres 
+Permet de localiser l’origine du sang dans les urines. 
+●  Le premier verre rouge seulement évoque une pathologie urétrale 
+(urètre + prostate chez l'homme), 
+● Dernier verre rouge : vésicale 
+Tous les verres : plutôt rénal mais peut venir de partout. 
+ 
+ 
+Un caillot évoque une lésion urologique (maladie des urètres car les tubules 
+sont trop fins pour laisser passer des caillots). 
+ 
+Signes associés  
+(Dysurie, douleur, contact lombaire) 
+
+---PAGE---
+Page 23 sur 30 
+ 
+● Brûle à la miction + fièvre : infection urinaire. 
+● Miction fréquente, ça brûle, sans fièvre : cystite (beaucoup plus 
+fréquent chez la femme). 
+● Douleur lombaire violente qui part vers les organes génitaux, sans 
+fièvre, urines rouges, BU sang mais pas de leucocyte, pas de nitrite : 
+calcul. 
+               III- HÉMATURIE  
+                     C) EXAMEN DE CONFIRMATION ECBU 
+ 
+Examen Cytologique et Bactériologique des Urines. 
+Dans un laboratoire de biologie médicale 
+ 
+Procédé : 
+● Toilette du méat avec antiseptique + rincer à l'eau+++ 
+● Recueil des urines en Milieu DE JET. 
+● Au mieux lors de la 1ere miction du matin (urines concentrées et 
+acides). 
+ 
+● Centrifugation (3000 tours/min) pendant 2 à 5 min. 
+● Analyse du culot sur lame. 
+
+---PAGE---
+Page 24 sur 30 
+ 
+● Examen direct : quantification des hématies, leucocytes et coloration 
+de gram (présence ou non des germes à l'examen direct). 
+● Culture 
+ 
+● Délai de conservation : 2h max à température ambiante/ 24 à 4°C. 
+Si ECBU est fait à domicile: 
+● Conserver au réfrigérateur  
+● Apporter rapidement au labo pour éviter la prolifération bactérienne 
+et fausser les résultats. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 25 sur 30 
+ 
+ 
+               III- HÉMATURIE  
+                     D) URINES ROUGES EN PRATIQU 
+ 
+ 
+ 
+            IV. BILAN HYDRIQUE ET BILAN SODÉ 
+                     A) rappels 
+ 
+OBJECTIFS  
+● Connaître la répartition hydrique dans les différents compartiments 
+de l'organisme 
+● Connaître la régulation des entrées et sorties d'H2 
+● Connaître la régulation des sorties rénales de Na 
+● Connaître les signes cliniques de déshydratation extracellulaire (t+++) 
++ biologie 
+● Connaître les signes cliniques d'hyperhydratation extracellulaire + 
+biologie + les 3 principales étiologiques. 
+ 
+
+---PAGE---
+Page 26 sur 30 
+ 
+A) RAPPELS  
+Rappels  
+Répartition de l’eau corporelle: 
+● Adulte: 60%  
+● bébé: 80% 
+● personnes âgées: 50% 
+Eau majoritairement retrouvé dans compartiment intracellulaire=40% 
+Extracellulaire= 20% dans 2 compartiments: 
+● Interstitiel: 15% 
+● Plasmatique: 5% 
+L’osmolalité (égale à l'osmolalité interstitielle) détermine les mouvements 
+d'eau entre secteurs intra et extra cellulaires. 
+●  Osmolalité normale = 300 (290 mosmol) 
+            IV. BILAN HYDRIQUE ET BILAN SODÉ 
+B)  MÉTABOLISME DE L’H20: Entrée/Sortie et RÉGULATION  
+ 
+Apports: boisson volontaire(soif), aliments 
+Pertes: urines(majoritaires), sueur, respiration, pertes digestives 
+minimes 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 27 sur 30 
+ 
+            IV. BILAN HYDRIQUE ET BILAN SODÉ 
+B ) MÉTABOLISME DE L’H20: Entrée/Sortie et RÉGULATION 
+ 
+La soif et l'ADH sont régulés par : 
+● L'osmolalité (osmorécepteurs), 
+● La volémie (par les volorécepteurs qui mesurent si le secteur veineux 
+est plein ou vide), 
+● Les barorécepteurs (niveau de la crosse de l'aorte et du sinus 
+carotidien), 
+● L'angiotensine II. 
+ 
+Régulation hormonale: ADH 
+● Synthèse au niveau des noyaux supra-optiques et para-ventriculaires 
+(hypothalamus) 
+● stockée/sécrétée dans la posthypophyse  
+ADH est libérée en réponse à 2 grands type de signaux: 
+1. Osmorecepteurs ->  osmolalité plasmatique (si le plasma devient trop 
+concentré (hyperosmolaire), augmentation ADH, provoque rétention 
+d’eau-> dilution plasma) 
+2. Barorécepteurs -> volémie (si volume sanguin baisse, ADH augmente, 
+réabsorption d’eau même si l’osmolalité est normale) 
+Effets: 
+● Rétention d’eau par les reins -> urine concentrée 
+● Réduction des pertes urinaire   
+Exemple: la nuit, transpiration légère -> légère augmentation osmolalité 
+plasmatique -> stimulation ADH -> urines concentrées le matin  
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 28 sur 30 
+ 
+            IV. BILAN HYDRIQUE ET BILAN SODÉ 
+B ) MÉTABOLISME DE L’H20: Entrée/Sortie et RÉGULATION 
+ 
+ 
+ 
+ 
+Rôle du système renine-angiotensine-aldosterone (RAAS) 
+● Baisse de la pression artérielle ou hypoperfusion rénale, stimulation 
+des cellules juxtaglomerulaires du rein, qui sécrètent la rénine. 
+● La rénine permet conversion angiotensinogène (foie) -> angiotensine I 
+-> angiotensine II 
+● Angiotensine II : vasoconstriction, stimule la sécrétion d'aldostérone 
+par la surrénale -> rétention de sodium et d’eau, stimule la soif  
+Rôle des barorécepteurs  
+Les barorécepteurs sont sensibles à la tension artérielle. 
+Quand la tension baisse (ex. déshydratation extracellulaire, gastro-entérite): 
+● Les barorécepteurs sont moins tendus, stimulation du nerf vague, 
+augmentation de la soif et de la sécrétion d’ADH. 
+● Exemple: une personne déshydratée qui se lève peut avoir une 
+tension basse, une tachycardie et des urines concentrées. 
+
+---PAGE---
+Page 29 sur 30 
+ 
+●  
+            IV. BILAN HYDRIQUE ET BILAN SODÉ 
+C ) APPORTS ET RÉGULATIONS SEL 
+ 
+Le sel (Na+) règle l’osmolalité extracellulaire. 
+Source principale: alimentation 
+Une consommation importante de sel stimule la soif  
+L’excès de sel est éliminé par le rein: le corps régule le volume extracell et la 
+pression artérielle MAIS il peut aussi être perdu par la sueur (transpiration 
+abondante ou brûlures) et vomissement ou diarrhée.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Page 30 sur 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---

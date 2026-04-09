@@ -1,0 +1,1472 @@
+RT : Bezzaouya Aya, Jean-marc Tran  
+RL : Benhamou Marwa 
+ 
+ 
+Hématologie   
+Cours n°15 
+ 
+Pr Roudot – 13/03/2026 – 13h45-15h15 
+Hémostase : Physiologie et explorations 
+ 
+Objectifs du cours :  
+● Item 216 
+● Le prof a dit qu’il va envoyer un mail avec les infos à retenir. 
+ 
+PLAN DU COURS 
+I. 
+Base physiologique de l’hémostase 
+A. Généralités  
+a.  Définition 
+b.  Acteurs de l’hémostase  
+B. Hémostase primaire 
+a. Étape 1 : brèche vasculaire 
+b. Étape 2 : mise en contact des protéines avec le sous endothélium 
+C. Coagulation 
+a. Généralités 
+b. Voie extrinsèque ou exogène  
+c. Voie intrinsèque ou endogène  
+d. Stabilisation de la fibrine  
+e. Rétrocontrôle de la coagulation  
+f. Limitation de l’expansion de thrombus 
+D. Fibrinolyse  
+a. Principe  
+II. 
+Exploration de l’hémostase primaire et de la coagulation 
+A. Étude de l’hémostase primaire et de la coagulation  
+a. Test biologique exploration en hémostase  
+b. Numération et étude plaquettaire  
+c. Étude de la coagulation  
+d. Fibrinolyse  
+e. Autres tests  
+f. Valeurs de référence de l’adulte 
+g. Test de mélange  
+III. 
+Médicaments anticoagulants 
+A. Exemples de médicaments  
+a. Généralités  
+UE6 – Tissu sanguin  
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+2 
+b. Héparine  
+c. Héparine de bas poids moléculaire  
+d. AVK 
+e. AOD 
+f. Tableau d’interprétation 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+I. 
+Base physiologique de l’hémostase 
+A. Généralités 
+a. Définition 
+L’hémostase c’est l’ensemble de mécanisme biologiques concourant à l’arrêt d’un 
+saignement en cas de coupure et au maintien de la fluidité du sang dans les 
+vaisseaux. 
+ 
+L'hémostase comporte 3 étapes :  
+ 
+• 
+Hémostase primaire : qui va mettre en jeu des cellules et des protéines  
+• 
+Coagulation sanguine : processus enzymatique essentiellement 
+• 
+Fibrinolyse : permet de reperméabiliser les vaisseaux  
+ 
+b. Acteurs de 
+l’hémostase 
+1. Cellules sanguines : plaquettes (les plus petites cellules circulantes)  
+2. Protéines = facteurs de la coagulation : à action pro coagulante et 
+anticoagulante  
+3. Environnement : les cellules ne sont pas libres, on a une paroi vasculaire et 
+une matrice extra cellulaire  
+● Les cellules endothéliales : sont à l’état basal antiagrégant. 
+o Elles empêchent les plaquettes de se coller entre elles et à la paroi 
+vasculaire, ce qui limite la formation de caillots. Pour cela, elles 
+synthétisent des prostaglandines, notamment la prostacycline.  la 
+prostacycline -> relaxe les plaquettes et inhibe leur agrégation. 
+On observe également une surface chargée électro négativement, 
+ce qui empêche, ou du moins limite, l’interaction entre les 
+plaquettes et les cellules endothéliales. 
+o Les cellules endothéliales possèdent aussi des propriétés 
+anticoagulantes grâce à l’expression de la thrombomoduline, 
+exprimée par toutes les cellules endothéliales, ainsi que de 
+l’héparane sulfate, également produite en permanence par ces 
+cellules. Ces molécules interagissent avec différentes protéines de 
+la coagulation afin d’empêcher le processus de coagulation de se 
+déclencher. 
+● Le sous endothélium :  permet l’agrégation plaquettaire et la coagulation 
+sanguine 
+ 
+o Propriétés pro agrégants : présence de collagène qui va permettre 
+de démarrer l’hémostase primaire. 
+ 
+o Propriétés pro coagulantes : présence de cellules exprimant le 
+facteur tissulaire. 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+4 
+CONTENU DES VAISSEAUX SANGUINS : LE SANG  
+● Des cellules : les hématies, les leucocytes et les plaquettes. 
+En condition standard : les hématies sont plus nombreuses que les 
+plaquettes et les leucocytes, ce sont donc les cellules les plus abondantes 
+dans le sang. Elles ont une taille moyenne et circulent principalement au 
+centre du vaisseau. Les plaquettes, un peu plus petites, sont repoussées 
+vers les parois vasculaires et se retrouvent proches de la paroi. 
+ 
+● Les cellules circulantes sont à l’état basal (au repos) inactives car absence 
+d’expression du facteur tissulaire, donc non propices à la coagulation ni à 
+l’agrégation plaquettaire 
+● Le plasma : Protéines = proenzymes inactives à l’état basal, fibrinogène, 
+antithrombine (inactive à l’état de repos), facteur von Willebrand (grosse 
+protéine dimérique, non mise en jeu à l’état basal). 
+Autres constituants : lipides, sucres, ions (notamment le calcium, 
+nécessaire à la coagulation) et eau. 
+B. Hémostase primaire 
+a. Étape 1 : 
+brèche 
+vasculaire 
+ 
+En quelques secondes on aura une vasoconstriction au niveau de la brèche ce qui 
+va rapprocher les deux dermes du vaisseaux sanguins.  
+La vasoconstriction va ralentir le flux sanguin, ainsi que de ralentir les cellules ce 
+qui va permettre qu'elles interagissent plus facilement. 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+5 
+b. Étape 2 : mise 
+en contact des 
+protéines avec le 
+sous 
+endothélium 
+ 
+Le collagène du sous endothélium va rencontrer une protéine du sang : le Facteur 
+von Willebrand et des plaquettes.  
+Le facteur von Willebrand change alors de conformation et révèle de nouveaux 
+sites antigéniques. Cela lui permet de se lier à un récepteur exprimé par les 
+plaquettes à l’état basal, appelé GPIb-IX-V. 
+À l’état basal, ce récepteur ne peut pas reconnaître le facteur von Willebrand 
+circulant, car celui-ci ne présente pas son site antigénique. 
+-> Ainsi au niveau de la brèche vasculaire, le collagène, le facteur von Willebrand 
+(vW) et le complexe GPIb-IX-V exprimé par les plaquettes se rencontrent. Cette 
+interaction déclenche un signal d’activation et d’adhésion au niveau des 
+plaquettes. 
+Ainsi, on passe d’un état basal de repos -> état activé. 
+ 
+Cascade de signalisation, qui déclenche : 
+• 
+une augmentation du calcium cytosolique  
+ 
+• 
+une augmentation de la surface de la plaquette, qui s’allonge et 
+change de forme  
+ 
+• 
+une dégranulation plaquettaire (granules denses, granules alpha et 
+lysosomes) : ces granules migrent vers la membrane et libèrent 
+leur contenu vers l’extérieur, notamment l’ADP  
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+6 
+• 
+la production de thromboxane A2 (TXA2) par les plaquettes  
+ 
+• 
+l’activation du complexe GPIIb-IIIa exprimé par les plaquettes, 
+initialement présent dans les granules puis amené vers la 
+membrane où il devient actif  
+ 
+• 
+une inversion membranaire des phospholipides 
+intracytoplasmiques, normalement situés à l’intérieur au repos 
+(notamment la phosphatidylsérine) : phénomène appelé « flip-flop 
+»  
+ 
+• 
+l’activation du facteur II (thrombine). 
+1. La plaquette activée au contact du collagène (via le GPIb-IX-V) libère : 
+● thromboxane A₂ 
+● ADP 
+● un peu de thrombine 
+→ Ces molécules permettent le recrutement d’autres plaquettes qui ne sont pas 
+en contact direct avec le collagène. 
+2. Activation des plaquettes voisines 
+ 
+Les plaquettes qui ne sont pas directement en contact avec le collagène, mais qui 
+se trouvent autour de la plaquette activée, possèdent des récepteurs à l’ADP. 
+→ Elles sont donc activées secondairement. 
+3. Expression d’un nouveau récepteur 
+ Lorsque ces plaquettes sont activées : 
+→ elles expriment un récepteur appelé GPIIb/IIIa. 
+→ ce récepteur peut se lier à une protéine circulant normalement dans le sang : le 
+fibrinogène. 
+4. Formation de ponts entre les plaquettes 
+ 
+Le fibrinogène sert de pont entre les récepteurs GPIIb/IIIa de deux plaquettes. 
+→ Les plaquettes se relient entre elles. 
+5. Amplification du phénomène 
+ À chaque fois qu’une plaquette est activée, elle libère à son tour : 
+● thrombine 
+● thromboxane A₂ 
+● ADP 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+7 
+→ Cela amplifie le phénomène. 
+→ On observe alors une expansion de l’agrégation plaquettaire. 
+6. Formation du clou plaquettaire 
+→ À ce stade, on obtient un clou plaquettaire constitué de : 
+● plaquettes 
+● fibrinogène 
+● un peu de facteur von Willebrand 
+→ Ce clou permet de boucher la brèche vasculaire. 
+Cependant, il n’est pas très solide, car les interactions entre les plaquettes sont 
+relativement faibles. 
+→ Ainsi il faut donc une deuxième étape de consolidation : LA COAGULATION. 
+ 
+ 
+ 
+C. Coagulation 
+a. Généralités 
+La coagulation correspond à une cascade de réactions enzymatiques qui se 
+déroulent à la surface des plaquettes activées. Le but est de produire une grande 
+quantité de fibrine. 
+→ La fibrine permet de former un filet solide qui va stabiliser le clou plaquettaire 
+en emprisonnant les plaquettes ainsi que les autres cellules sanguines présentes 
+au niveau de la lésion vasculaire. 
+Donc, au niveau d’un caillot, on retrouve : 
+● un filet de fibrine dans lequel sont piégés : 
+- 
+Les plaquettes 
+- 
+les hématies 
+- 
+les leucocytes 
+ 
+→ La fibrine est une structure très robuste, et c’est elle qui empêche que la brèche 
+vasculaire se rouvre secondairement. 
+L’enzyme finale qui permet la transformation conduisant à la formation de fibrine ? 
+→ Il s’agit de la thrombine. 
+Rôle de la thrombine :  
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+8 
+Transforme le fibrinogène en fibrine. 
+Fibrinogène → (thrombine) → fibrine. 
+-> Déclenchement de la coagulation 
+La coagulation débute lors de la rencontre entre le facteur tissulaire et le sang. 
+Le facteur tissulaire est exprimé par :  
+- Des cellules périphériques des vaisseaux : fibroblastes, cellules du système 
+nerveux central, cellules placentaires, myocytes. 
+- Des cellules endothéliales lésées = Les cellules de la paroi vasculaire 
+endommagées 
+- Des leucocytes activés (monocytes/macrophages) 
+- Des cellules tumorales (blastes myéloïdes, …) : Certaines cellules tumorales sont 
+capables d’exprimer du facteur tissulaire, comme dans la leucémie aiguë. Dans ce 
+contexte peut apparaître une CIVD : il s’agit d’une situation où la coagulation est 
+massivement activée, notamment parce que les cellules tumorales expriment du 
+facteur tissulaire. 
+À l’état basal, aucune cellule circulante et aucune cellule endothéliale n’exprime le 
+facteur tissulaire.  
+→ C’est pour cette raison que la coagulation ne démarre pas spontanément dans 
+les vaisseaux. 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+9 
+b. Voie 
+extrinsèque ou 
+exogène 
+La voie principale commence lorsque : 
+● Le facteur tissulaire (facteur III) rencontre une protéine du sang, le facteur 
+VII du sang. 
+-> Le facteur VII va alors s’activer. 
+En nomenclature facteur VII activé = facteur VIIa 
+Le complexe facteur tissulaire + facteur VIIa va ensuite activer d’autres facteurs de 
+la coagulation. 
+Ainsi ce complexe peut activer deux autres protéines  
+soit le facteur IX ou le facteur X 
+Facteur T + Facteur VII -> facteur Xa  
+ 
+Au début de la coagulation, on considère souvent que le facteur X est activé en 
+premier in vitro. Mais in vivo, on observe que la majorité de l’amplification passe 
+en réalité par le facteur IX. Donc c’est cette voie qui réalise la grande majorité de 
+la réaction de coagulation in vivo  
+Une fois que le facteur X est activé (facteur Xa), il va permettre l’activation du 
+facteur II. 
+Le facteur II est appelé : prothrombine (forme NON activé)  
+Lorsque le facteur II est activé, il devient : facteur IIa = thrombine (forme ACTIVE)  
+Rôle de la thrombine (facteur IIa) : 
+La thrombine a plusieurs rôles essentiels. 
+1. Elle transforme le fibrinogène en fibrine. 
+2. Elle amplifie la coagulation en accélérant la transformation. 
+3. Elle active certains cofacteurs : facteur V, facteur VIII :  
+- Le facteur VIII activé (VIIIa) agit comme catalyseur/ cofacteur du facteur IXa pour 
+activer le facteur X. 
+- Le facteur V activé (Va) agit comme cofacteur du facteur Xa pour activer la 
+prothrombine en thrombine. 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+De plus, les cofacteurs (V et VIII) servent à augmenter énormément la vitesse des 
+réactions enzymatiques (x1000). Ils permettent donc de produire rapidement 
+beaucoup de thrombine, ce qui entraîne une production massive de fibrine. 
+Ces réactions se déroulent à la surface des plaquettes activées, au niveau de leurs 
+phospholipides membranaires.  
+Pour résumer :  
+Le facteur VII s’active en facteur VIIa lorsqu’il se lie au facteur tissulaire. 
+Le complexe facteur tissulaire – facteur VIIa va ensuite activer le facteur IX. 
+Le facteur IX activé (IXa), associé à son cofacteur le facteur VIIIa, va activer le 
+facteur X. 
+Le facteur X activé (Xa), associé au facteur Va, va transformer : 
+le facteur II (prothrombine) → facteur IIa (thrombine). 
+À partir de ce moment-là, les réactions fonctionnent sous forme de complexes 
+enzymatiques composés de trois protéines : une enzyme, cofacteur et substrats. 
+Effets de la thrombine  
+La thrombine possède d’autres propriétés. 
+Elle active les plaquettes, ce qui augmente la surface de réaction et crée une 
+boucle d’amplification très puissante. 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+11 
+c. Voie 
+endogène ou 
+intrinsèque 
+La voie que l’on vient de voir correspond à la voie exogène ou voie du facteur 
+tissulaire c’est la voie principale de la coagulation. À côté de cela, il existe une voie 
+accessoire, appelée voie endogène ou voie de contact. 
+-> Cette voie peut être déclenchée artificiellement en laboratoire par certaines 
+substances comme : le kaolin et la silice. 
+C’est pourquoi on parle aussi d’activation par la phase contact. 
+ 
+Début de la voie de contact : 
+Au niveau de la brèche vasculaire on aura la protéine kininogène (KHPM). 
+Cette protéine peut s’associer au facteur XII au niveau de la matrice 
+extracellulaire. 
+Cela entraîne son activation : facteur XII → facteur XIIa 
+Puis le facteur XIIa active : 
+facteur XI → facteur XIa 
+Il peut aussi activer : 
+la prékallikréine → kallikréine (sa forme active)  
+La kallikréine va permettre d’accélérer l’activation du facteur XII et du facteur XI, 
+créant ainsi une boucle d’amplification. 
+Le facteur XIa peut ensuite activer le facteur IX : facteur IX → facteur IXa 
+À partir de là, la cascade rejoint la voie principale de coagulation (voie exogène) : 
+IXa + VIIIa → activation du facteur X. 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+Ainsi pour résumer :  
+Pour la voie endogène : on retient que facteur phase contact -> facteur XIIa -> 
+facteur XIa -> facteur IXa / facteur VIIa -> active facteur Xa  
+facteur Xa + cofacteur active -> facteur IIa  
+Par ailleurs, la voie exogène représente environ 95 % de la coagulation in vivo, la 
+voie endogène est accessoire. 
+On le sait car : 
+● un déficit en facteur XII ou facteur de la phase contact ne provoque aucune 
+conséquence clinique 
+● un déficit en facteur XI, en revanche, peut entraîner des conséquences 
+cliniques et donc des saignements  
+-> Cela montre que la phase contact est moins importante physiologiquement. 
+ 
+d. Stabilisation 
+de la fibrine 
+La thrombine transforme : 
+Fibrinogène → Fibrine 
+Les monomères de fibrine vont ensuite se polymériser entre eux par des liaisons 
+faibles, formant un premier maillage de fibrine. Ce maillage stabilise le caillot 
+plaquettaire, mais au début il reste relativement fragile. 
+ainsi une autre enzyme sera mise en jeu : le facteur XIII 
+Le facteur XIII circule dans le sang comme les autres facteurs de coagulation, il est 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+13 
+activé par la thrombine au niveau du caillot. 
+Une fois activé (facteur XIIIa), il va créer des liaisons covalentes entre les 
+monomères de fibrine. 
+On passe donc d’une fibrine soluble et instable -> à une fibrine stable et insoluble, 
+formant un réseau très robuste. 
+Ainsi c'est la dernière étape de la coagulation sanguine. 
+e. Rétrocontrôle 
+de la coagulation 
+Si ces mécanismes continuaient sans régulation, on pourrait obtenir une 
+coagulation excessive. Par exemple, on pourrait avoir une formation de caillots 
+dans les vaisseaux, ce qui empêcherait le sang de circuler normalement. 
+Cela pourrait provoquer : 
+● une obstruction des vaisseaux 
+● ou la formation de petits caillots qui se détachent et circulent dans 
+l’organisme (emboles). 
+Cela serait évidemment dangereux : il existe donc des mécanismes de 
+rétrocontrôle négatif pour limiter la coagulation. 
+Certaines protéines circulantes servent à freiner la coagulation. 
+Une des principales s’appelle : TFPI (Tissue Factor Pathway Inhibitor) = inhibiteur 
+de la voie du facteur tissulaire. 
+Cette protéine peut se lier au facteur Xa -> Elle forme alors un complexe TFPI – 
+facteur Xa. 
+Ce complexe est capable de reconnaître le complexe : facteur tissulaire – facteur 
+VIIa. Puis le facteur VIIa va chercher à protéolyser en petite séquence le complexe 
+: TFPI - facteur Xa et ça va déclencher une liaison irréversible entre :  
+● TFPI 
+● facteur X 
+● facteur VIIa 
+● facteur tissulaire 
+Ce complexe inhibe l’activité enzymatique du facteur VIIa : ainsi le facteur VIIa ne 
+peut donc plus activer les facteurs IX ou X. La phase d’initiation de la coagulation 
+est alors stoppée. 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+On pourrait se demander pourquoi ce système n’empêche pas la coagulation dès 
+le départ. En réalité, l’inhibition par TFPI met quelques secondes ou minutes à se 
+mettre en place. Cela laisse le temps à la coagulation de démarrer et de produire 
+une petite quantité de thrombine. Ensuite, le système inhibiteur permet de 
+limiter l’extension excessive de la coagulation. 
+ 
+f. Limiter 
+l’expansion du 
+thrombus 
+En dehors du caillot  
+Rôle de l’antithrombine  
+Une autre protéine importante intervient pour limiter l’extension de la 
+coagulation : l’antithrombine. 
+L’antithrombine circule dans le sang et peut reconnaître : 
+● les facteurs de coagulation activés (facteur Xa, IIa) 
+● les héparanes sulfates présents sur les cellules endothéliales. 
+Les héparanes sulfates sont des glycosaminoglycanes exprimés par les 
+cellules de l’endothélium, ils servent de cofacteurs à l’antithrombine. 
+L’antithrombine peut inhiber plusieurs facteurs activés, notamment : facteur Xa et 
+thrombine (facteur IIa). 
+Ce système n’agit pas directement dans le caillot, il sert surtout à empêcher la 
+diffusion des facteurs activés hors du caillot. Si des facteurs activés sortent du 
+caillot et circulent dans le sang, ils sont immédiatement neutralisés par 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+15 
+l’antithrombine, cela empêche la formation de caillots ailleurs dans la circulation. 
+De plus, la liaison entre antithrombine et facteur activé est irréversible, ensuite les 
+complexes formés sont dégradés. 
+ 
+Au niveau du caillot, un autre système régulateur intervient. 
+La thrombine (facteur IIa) peut se lier à une protéine membranaire exprimée par 
+les cellules endothéliales, appelée thrombomoduline. 
+Lorsque la thrombine est liée à la thrombomoduline, elle change de fonction et 
+devient capable d’activer la protéine C. 
+La protéine C activée agit avec un cofacteur, la protéine S. 
+Le complexe C activée + protéine S va inactiver deux facteurs clés de la 
+coagulation  
+● facteur Va 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+16 
+● facteur VIIIa 
+ 
+Ces réactions ont lieu à la surface des plaquettes activées, sur leurs 
+phospholipides membranaires. En détruisant les facteurs Va et VIIIa, on élimine 
+les cofacteurs essentiels de la cascade enzymatique, ce qui ralentit fortement la 
+coagulation. 
+ 
+D. Fibrinolyse 
+a. Principe 
+Une fois la réparation vasculaire en cours, il faut éliminer le caillot : ce processus 
+s’appelle la fibrinolyse, le but étant de dégrader la fibrine. 
+Activation du plasminogène 
+Les cellules endothéliales sécrètent une enzyme appelée : tPA (activateur 
+tissulaire du plasminogène) qui peut s’associer avec de la fibrine.  
+Le plasminogène est une protéine qui circule en permanence dans le sang. 
+Lorsque : 
+fibrine + tPA + plasminogène se retrouvent ensemble, le plasminogène est activé 
+en plasmine. 
+Ainsi la plasmine est une protéine capable de dégrader la fibrine. 
+Elle peut aussi dégrader le fibrinogène et certains facteurs de coagulation sous 
+forme actives ou non actives 
+ 
+-> Cependant, sa fonction principale est la destruction du réseau de fibrine du 
+caillot. 
+Pour éviter que la plasmine n’agisse dans toute la circulation et n’élimine que la 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+ 
+ 
+fibrine, il existe des inhibiteurs. Le principal est l’α2-antiplasmine. 
+Cette protéine se lie à la plasmine et empêche sa diffusion hors du caillot. 
+-> Ainsi, la fibrinolyse est normalement limitée au caillot lui-même. 
+II. 
+Exploration de l’hémostase primaire et de la coagulation 
+A. Généralités 
+A. Généralités 
+L’exploration de l’hémostase primaire concerne principalement le facteur 
+Willebrand, le fibrinogène et les plaquettes. 
+Types de prélèvements sanguins : sang total, sérum, plasma 
+● 
+Sang total : contient les cellules et les protéines. Il permet de tester et 
+doser les plaquettes ainsi que d’évaluer leur fonctionnement. En revanche, 
+il ne permet pas de standardiser les tests de coagulation. Pour étudier le 
+comportement cellulaire, il faut travailler sur le sang total. 
+● 
+Sérum : absence de cellules et absence des facteurs de coagulation, mais 
+contient toutes les autres protéines (immunoglobulines, albumine…). 
+● 
+Plasma : absence de cellules mais présence des facteurs de coagulation, ce 
+qui permet de doser les protéines de la coagulation. 
+Anticoagulants pour le plasma : héparine, EDTA ou citrate 
+● 
+Héparine : on ne l’utilise pas pour les prélèvements de coagulation car c’est 
+un traitement anticoagulant agissant via l’antithrombine. Elle ne permet 
+pas de standardiser les tests de coagulation. 
+● 
+EDTA : utilisé si l’on veut travailler sur les plaquettes (dosage, 
+quantification). Cependant si on veut voir comment elle travaille 
+(agrégation, temps occlusion plaquettaire…) on va plutôt travailler sur 
+plasma.  
+● 
+Citrate : utilisé pour étudier les protéines de la coagulation. 
+Pourquoi l’EDTA n’est pas utilisé pour la coagulation ?  
+L’EDTA est une poudre qui agit comme un chélateur du calcium, tandis que le 
+citrate est sous forme liquide et contient également un chélateur de calcium. 
+● 
+Avec l’EDTA, la quantité de sang prélevée importe peu, ce qui rend son 
+usage simple pour certaines analyses. 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+18 
+● 
+Avec le citrate, il existe une règle stricte : 1 volume de citrate pour 9 
+volumes de sang. Si ce ratio n’est pas respecté, le tube devient 
+ininterprétable et il est impossible de standardiser le test. 
+● 
+Concernant la liaison au calcium, une dose de citrate inhibe une quantité 
+fixe de calcium, assurant une homogénéité entre les tubes. En revanche, 
+avec l’EDTA, l’inhibition du calcium n’est pas homogène, ce qui peut 
+entraîner une chélation variable d’un tube à l’autre dans les mêmes 
+conditions. 
+ 
+ 
+ 
+• 
+D’après le prof il faut connaitre les origines des facteurs de la coagulation 
+et les demi-vies du facteur VII et protéine C qui de 6h (les plus courtes), 
+facteur X et protéine S qui est autour de 40h et le facteur II qui a une 
+demi-vie de 80h. 
+• 
+Les facteurs II, VII, IX, X, XI, XII, XIII, protéine C, plasminogène sont des 
+proenzymes dont les facteurs II, VII, IX, X, XI, XII, protéine C qui sont 
+d’origine sérine protéase.  
+• 
+Les facteurs V, VIII et la protéine S sont des coenzymes.  
+• 
+Les facteurs II, VII, IX, X, la protéine C, la protéine S (en rouge) sont 
+vitamine K dépendant : une étape de modification post traductionnelle 
+(Gamma-carboxylation) requérant la vitamine K est indispensable pour 
+qu’ils soient fonctionnels. 
+B. Exploration de l’hémostase primaire et de la coagulation 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+19 
+a. Test 
+biologique : 
+exploration en 
+hémostase 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ L’hémostase primaire peut être évaluée à l’aide de tests quantitatifs et qualitatifs. 
+ 
+Étude quantitative :  
+ 
+● 
+Numération formule sanguine (NFS) : permet de mesurer le nombre de 
+plaquettes, l’hémoglobine et les globules blancs. 
+● 
+Dosage du facteur de von Willebrand en pourcentage. 
+● 
+Tests spécialisés sur les plaquettes : les plaquettes peuvent être placées 
+dans un cytomètre afin de compter le nombre de sites antigéniques des 
+glycoprotéines de membrane. 
+ 
+Étude qualitative : 
+ 
+● 
+Lorsqu’une numération plaquettaire montre des valeurs légèrement 
+basses, il est important de vérifier la présence d’amas plaquettaires liés à 
+l’EDTA. Cela se fait grâce à une étude qualitative : on réalise un frottis 
+sanguin pour observer si les plaquettes sont collées les unes aux autres. 
+● 
+Le frottis sanguin permet également d’évaluer la morphologie des 
+plaquettes : 
+- 
+variations de taille (plaquettes plus grandes ou plus petites que la 
+normale), 
+- 
+anomalies de granulation (plaquettes décolorées ou granules 
+anormaux), 
+- 
+différences visibles au microscope optique avec coloration standard. 
+● 
+Temps d’occlusion plaquettaire : test de dépistage qui permet d’évaluer 
+comment les plaquettes travaillent in vitro. 
+● 
+Agrégation plaquettaire : test plus spécifique pour explorer la qualité 
+fonctionnelle des plaquettes. 
+ 
+- Étude de la coagulation sanguine : on réalise des tests globaux de dépistage. Les 
+deux tests les plus prescrits sont : 
+● 
+Le temps de céphaline avec activateur (TCA) 
+● 
+Le taux de prothrombine (TP) 
+On a également des tests secondaire/ des tests fils car maintenant on peut doser 
+toutes les protéines circulantes  
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+- Étude de la fibrinolyse : on peut explorer la fibrinolyse, c’est-à-dire la capacité de 
+l’organisme à dégrader les caillots sanguins. 
+● 
+Les D-dimères sont facilement dosables et permettent de savoir si une 
+personne a pu présenter une phlébite ou une embolie pulmonaire. 
+● 
+On peut également doser les complexes solubles, utiles pour déterminer si 
+un événement thrombotique a eu lieu ou non. 
+● 
+Dans des centres très spécialisés ou des unités de recherche, il est possible 
+de doser des molécules plus spécifiques, comme l’activateur tissulaire du 
+plasminogène et son inhibiteur. 
+b. Numération et 
+étude des 
+fonctions 
+plaquettaire 
+-La numération plaquettaire est automatisée, c’est-à-dire que la machine fournit 
+directement le nombre de plaquettes d’un patient. Plusieurs méthodes existent 
+pour effectuer ce comptage. 
+Important : toute anomalie quantitative (pas assez de plaquette) doit être 
+confirmée par un examen cytologique au microscope  
+L’automate peut également détecter : 
+ 
+- 
+la présence d’agrégats plaquettaires, 
+- 
+des anomalies morphologiques des plaquettes, 
+- 
+l’état général des plaquettes, 
+- 
+la présence de cellules anormales. 
+ 
+Important : Toute anomalie doit être interprétée en fonction des autres 
+paramètres de la numération. 
+ 
+Lorsqu’il existe une anomalie du nombre de plaquettes, il est important de vérifier 
+les autres lignées sanguines : une thrombopénie isolée ne se traite pas de la même 
+manière qu’une bicitopénie (plaquettes basses et hémoglobine basse). Si toutes 
+les lignées sont diminuées (plaquettes, globules rouges et globules blancs), il s’agit 
+d’une pancytopénie. 
+ 
+-L’étude fonction plaquettaire : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-Temps d’occlusion plaquettaire : 
+Le temps d’occlusion plaquettaire est un test de dépistage permettant d’explorer 
+les anomalies qualitatives des plaquettes, c’est-à-dire leur fonctionnement, et non 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+21 
+leur quantité. 
+Pour réaliser ce test, on prélève le sang du patient, puis on le place dans une 
+machine spécialisée. Les plaquettes sont mises en présence de substances 
+chimiques appelées inducteurs, qui déclenchent l’agrégation plaquettaire. On 
+mesure ensuite le temps nécessaire pour que le sang s’agrège et occlue l’orifice 
+dans l’appareil. 
+Ce test permet d’explorer plusieurs éléments (à retenir) : 
+ 
+● 
+le fonctionnement des plaquettes ; 
+● 
+indirectement le nombre de plaquettes, car si leur nombre est faible, le 
+temps d’occlusion s’allonge ; 
+● 
+le facteur Willebrand. 
+En revanche, ce test n’explore pas le fibrinogène. Pour interpréter le résultat, on 
+le compare à des valeurs de référence : si le temps mesuré est plus long que celui 
+du témoin normal, le test est considéré comme perturbé. Il s’agit d’un test 
+sensible pour le dépistage de la maladie de Willebrand. 
+Cependant, ce test n’est pas adapté pour dépister toutes les thrombopathies. Il 
+permet surtout de détecter les atteintes plaquettaires graves, mais il peut ne pas 
+mettre en évidence les anomalies modérées du fonctionnement plaquettaire, car 
+sa sensibilité est limitée. 
+Enfin, un résultat perturbé ne signifie pas forcément que le patient présente un 
+risque hémorragique. Le test n’est pas prédictif du risque de saignement. 
+L’avantage principal de ce test est qu’il est relativement simple à mettre en place. 
+ 
+-Agrégation plaquettaire 
+Le test de référence pour évaluer le fonctionnement des plaquettes est 
+l’agrégation plaquettaire. 
+Pour réaliser ce test, on prélève le sang du patient, puis on met les plaquettes en 
+contact avec plusieurs inducteurs plaquettaires, appelés agonistes (environ une 
+dizaine). Chaque agoniste est testé séparément afin d’observer si les plaquettes du 
+patient sont capables de réagir et de former des agrégats plaquettaires. 
+Ce test nécessite donc : 
+ 
+● 
+le sang du patient, 
+● 
+différents agonistes plaquettaires. 
+ 
+Grâce à cette méthode, il est possible de dépister la plupart des thrombopathies 
+(anomalies du fonctionnement des plaquettes). 
+Cependant, ce test n’est pas utilisé pour le suivi des patients sous antiagrégants 
+plaquettaires, comme l’aspirine. 
+Lorsqu’une thrombopathie est suspectée après un test d’agrégation plaquettaire, 
+des examens complémentaires peuvent être réalisés, notamment : 
+ 
+● 
+la cytométrie en flux, qui permet de doser les glycoprotéines 
+membranaires des plaquettes, 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+22 
+● 
+ou des analyses génétiques, comme le séquençage des gènes, afin 
+d’identifier l’anomalie responsable. 
+c. Étude de la 
+coagulation 
+-Test de dépistage : le Temps de Céphaline + activateur (TCA)  
+ 
+Le TCA est un test de dépistage de la coagulation qui permet d’explorer la voie 
+endogène de la coagulation. Il explore l’ensemble des facteurs de la coagulation, 
+depuis les facteurs de la phase de contact jusqu’au fibrinogène. Ainsi, le TCA 
+permet d’évaluer les facteurs XII, XI, IX, VIII, X, V, II et le fibrinogène. 
+ 
+Principe du test au laboratoire : 
+Le TCA est un test de coagulation automatisé. On mesure le temps nécessaire pour 
+que le plasma du patient forme un caillot. 
+Au laboratoire : 
+ 
+1. On prélève le plasma du patient. 
+2. On le met en contact avec des phospholipides artificiels. 
+3. On ajoute un activateur de la coagulation de la phase de contact (par 
+exemple la silice), qui déclenche la coagulation. 
+4. On ajoute ensuite du calcium, indispensable pour que la réaction de 
+coagulation puisse se produire. 
+5. On mesure alors le temps nécessaire à la formation du caillot. 
+ 
+Expression des résultats : 
+Les résultats sont exprimés par rapport à un témoin. On calcule un ratio entre le 
+temps de coagulation du patient et celui du témoin. 
+Chez l’adulte, le ratio normal est généralement inférieur à 1,2. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-Test de dépistage : le temps de Quick 
+ 
+Le TP, appelé également temps de Quick, est un test de coagulation qui permet 
+d’explorer la voie exogène de la coagulation. Il évalue principalement les facteurs 
+VII, X, V, II et le fibrinogène. 
+ 
+Principe du test : 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+23 
+Le temps de Quick correspond à un temps de coagulation exprimé en secondes. 
+Au laboratoire, l’analyse est réalisée de manière automatisée. 
+L’automate : 
+1. prend le plasma du patient, 
+2. le met en contact avec des phospholipides appelés thromboplastine, 
+3. la thromboplastine contient un activateur de la coagulation appelé facteur 
+tissulaire, 
+4. on ajoute ensuite du calcium, indispensable pour déclencher la 
+coagulation. 
+On mesure alors le temps nécessaire à la formation du caillot, exprimé en 
+secondes. 
+ 
+Expression des résultats : 
+En pratique, en France, le temps de Quick n’est pas interprété directement en 
+secondes. Le résultat est converti en taux de prothrombine (TP), qui correspond à 
+une expression en pourcentage du temps de Quick par rapport à la normale. 
+● 
+Temps de Quick : temps de coagulation exprimé en secondes. 
+● 
+Taux de prothrombine (TP) : conversion de ce temps en pourcentage. 
+La valeur normale du taux de prothrombine est supérieure à 70 %. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-Étude de la coagulation : tests complémentaires :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lorsque le TP est perturbé, il est possible de réaliser le dosage des facteurs de la 
+coagulation. En pratique, si le TP est bas, on explore en priorité les facteurs de la 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+24 
+voie exogène, quel que soit le résultat du TCA. 
+ 
+Cas d’anomalies isolées : 
+● 
+Si seul le TCA est anormal, on explore directement les facteurs spécifiques 
+de la voie endogène. 
+● 
+Si le TCA et le TP sont tous les deux perturbés, on commence par analyser 
+le TP, car c’est un test plus rapide à réaliser que le TCA. 
+Exploration d’un TCA anormal : 
+Pour approfondir un TCA allongé, on peut réaliser un temps de céphaline avec 
+kaolin (TCK). Ce test est plus sensible aux déficits des facteurs de la voie endogène 
+et moins sensible aux anticoagulants circulants non spécifiques. Le seuil 
+d’interprétation du TCA est généralement 1,2. 
+Test de correction : 
+Lorsque le patient présente un TP normal avec un TCA allongé, on réalise souvent 
+un test de correction afin de rechercher un anticoagulant circulant pouvant 
+interférer avec le TCA. 
+Pour cela, on utilise le test de Rosner : on mélange le plasma du patient avec du 
+plasma normal puis on observe si l’allongement du TCA se corrige ou non. 
+Interprétation de l’indice de Rosner : 
+ 
+● 
+Indice de Rosner < 13 : il y a correction du TCA, ce qui indique l’absence 
+d’anticoagulant circulant et oriente vers un déficit en facteur de la voie 
+endogène. 
+● 
+Indice de Rosner > 15 : il n’y a pas de correction, ce qui suggère la présence 
+d’un anticoagulant circulant (interférence analytique). 
+● 
+Entre 13 et 15 : zone grise, nécessitant des investigations 
+complémentaires. 
+Dans certains cas, on peut également demander le dosage spécifique des facteurs 
+de la voie endogène. 
+ 
+d. Fibrinolyse 
+Pour explorer la fibrinolyse, on peut mesurer certaines protéines impliquées dans 
+la formation et la dégradation du caillot. Chez l’adulte comme chez l’enfant, la 
+quantité circulante de fibrinogène est globalement similaire. La valeur normale 
+attendue se situe entre 2 et 4 g/L. 
+ 
+Produits de dégradation de la fibrine :  
+Les D-dimères correspondent aux produits de dégradation de la fibrine. Le seuil 
+standard à retenir est 500 ng/mL. 
+Chez les patients de plus de 50 ans, on applique une correction liée à l’âge pour 
+l’interprétation des D-dimères. Le seuil devient : 
+âge du patient × 10 (ng/mL). 
+En effet, les D-dimères augmentent physiologiquement avec l’âge. 
+ 
+Intérêt des D-dimères : 
+Les D-dimères sont un test très sensible pour le dépistage d’un épisode 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+25 
+thromboembolique veineux. 
+● 
+Ils possèdent une excellente valeur prédictive négative : si les D-dimères 
+sont normaux, le patient n’a très probablement pas d’embolie pulmonaire 
+ni de thrombose veineuse. 
+● 
+En revanche, leur valeur prédictive positive est faible, car l’augmentation 
+des D-dimères n’est pas spécifique. Elle peut être liée à de nombreuses 
+situations, comme l’âge, la grossesse ou un syndrome inflammatoire. 
+ 
+L’augmentation des D-dimères avec l’âge pourrait être liée à la dégradation 
+progressive de la qualité des vaisseaux, avec l’accumulation de plaques 
+d’athérome et de microlésions vasculaires, sans qu’il s’agisse forcément d’une 
+thrombose active. 
+Lorsqu’un test aux D-dimères est positif, le diagnostic doit être confirmé par un 
+examen d’imagerie, par exemple l’échographie Doppler, l’angioscanner 
+thoracique, la scintigraphie pulmonaire. 
+Ainsi, tout résultat positif doit être confirmé par un examen d’imagerie. 
+ 
+e. Autres tests 
+Dosage possible des inhibiteurs de la coagulation antithrombine, protéine C, 
+protéine S  
+Étude génétique : 
+ – PCR : recherche de mutation du facteur II G20210A, V Leiden  
+– Séquençage du gène d’une protéine déficitaire  
+ 
+Dosage des médicaments anticoagulants 
+ 
+f. Valeur de 
+référence de 
+l’adultes (à 
+connaitre) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Valeurs biologiques importantes à retenir : 
+● 
+Le taux de prothrombine (TP) normal est supérieur à 70 %. 
+● 
+Le TCA est considéré comme normal lorsqu’il est inférieur à 1,2. Au-delà de 
+cette valeur, il est considéré comme pathologique. 
+Pour les facteurs de la coagulation, la majorité ont un seuil de normalité autour de 
+70 %. Cependant, deux exceptions importantes sont à retenir : 
+● 
+le facteur VIII, dont la valeur normale est d’environ 50 % ; 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+26 
+● 
+le facteur Willebrand, également autour de 50 %, car il agit comme 
+transporteur du facteur VIII. 
+Certaines protéines régulatrices de la coagulation, comme la protéine C, la 
+protéine S et l’antithrombine, possèdent des valeurs de référence différentes de 
+celles des autres protéines de la coagulation. 
+Les éléments essentiels à retenir concernent l’exploration de la voie exogène, de la 
+voie endogène, du facteur Von Willebrand (FVW) et du fibrinogène. 
+ 
+Certaines situations peuvent entraîner des variations physiologiques : 
+ 
+● 
+Fibrinogène : il augmente en cas de syndrome inflammatoire. 
+● 
+Facteur VIII : 
+o 
+les personnes de groupe sanguin O ont moins de facteur VIII que 
+les autres groupes sanguins ; 
+o 
+pendant la grossesse, le taux de facteur VIII augmente ; 
+o 
+en cas de réponse inflammatoire, le facteur VIII et le facteur 
+Willebrand augmentent également. 
+● 
+Protéine S : c’est une protéine dont le taux varie selon le sexe, avec des 
+valeurs généralement plus basses chez les femmes que chez les hommes. 
+ 
+g. Test de 
+mélange 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lorsqu’un TCA est allongé isolément, on réalise un test de mélange : on mélange 
+le plasma du patient avec un plasma témoin normal. 
+Deux situations peuvent alors se présenter. 
+Correction du TCA : 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+27 
+ 
+Si le test est corrigé (indice de Rosner < 13), cela oriente vers un déficit en facteur 
+de la coagulation. Dans ce cas, on réalise le dosage des facteurs de la voie 
+endogène. 
+Les principaux déficits possibles sont : 
+● 
+déficit isolé en facteur IX → évoque une hémophilie B ; 
+● 
+déficit isolé en facteur VIII → évoque une hémophilie A ou une maladie de 
+Willebrand ; 
+● 
+déficit en facteur XI. 
+Certains déficits sont asymptomatiques, comme : 
+● 
+le déficit en facteur XII, 
+● 
+le déficit en prékallikréine (PK), 
+● 
+ou en kininogène de haut poids moléculaire (KHPM). 
+Absence de correction du TCA : 
+ 
+Si le TCA ne se corrige pas, cela suggère la présence d’un anticoagulant circulant. 
+Deux types peuvent être retrouvés : 
+• Anticoagulant circulant de type lupique 
+Il correspond à la présence d’anticorps dirigés contre les phospholipides. Ces 
+anticorps interfèrent avec les phospholipides utilisés dans les tests de 
+coagulation in vitro, ce qui allonge le TCA au laboratoire. 
+Cependant, ils ne sont pas associés à un risque hémorragique, mais plutôt à 
+une activation de la coagulation et un risque thrombotique. 
+• Anticoagulant circulant spécifique d’un facteur 
+Dans ce cas, il s’agit d’auto-anticorps dirigés contre un facteur de la 
+coagulation, par exemple contre les facteurs VIII, IX, XI ou XII. 
+Le plus fréquent est l’auto-anticorps dirigé contre le facteur VIII, qui neutralise 
+ce facteur et peut entraîner un trouble de la coagulation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Un déficit en facteur II peut entraîner un allongement du TCA. 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+28 
+ 
+ 
+ 
+III. 
+Médicaments anticoagulants 
+A. Exemples de médicaments  
+a. Généralités 
+(Note RT : Partie du cours où il faut uniquement comprendre l’action des 
+médicaments sur les résultats biologiques)  
+- 
+Les médicaments anticoagulants permettent de fluidifier le sang et 
+perturbent les tests de coagulation. 
+- 
+Leurs objectifs sont : 
+● 
+la prévention des thromboses en situation à risque, 
+● 
+et le traitement des thromboses. 
+- 
+Il existe trois classes thérapeutiques principales : 
+● 
+Héparines : HNF, HBPM et apparentés, 
+● 
+Antivitamines K (AVK), 
+● 
+Anticoagulants oraux directs (AOD). 
+- 
+Par ailleurs, il existe des médicaments non anticoagulants en hémostase : 
+● 
+antiagrégants plaquettaires, fibrinolytiques. 
+b. Héparine 
+L’héparine est un médicament administré uniquement par voie injectable. Elle 
+agit en association avec l’antithrombine afin de neutraliser les facteurs activés de 
+la coagulation. L’héparine n’a pas d’activité propre ; elle agit en remplaçant 
+l’héparane sulfate. 
+ Lorsque les facteurs II, VII et X diminuent simultanément, cela évoque un déficit 
+en facteurs dépendants de la vitamine K. 
+Si tous les facteurs de la coagulation diminuent de manière homogène, cela 
+traduit généralement une altération de l’unité de synthèse, ce qui oriente vers une 
+pathologie hépatique, car le foie synthétise la majorité des facteurs de 
+coagulation. 
+Dans la Coagulation intravasculaire disséminée (CIVD), on observe une diminution 
+globale des facteurs, mais la chute du facteur V et du fibrinogène est 
+particulièrement marquée. Cette situation survient de manière aiguë. 
+ 
+• 
+Interprétation du bilan d’hémostase chez l’enfant (n’est pas retenir juste 
+pour l’évoquer).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Propre norme du fait d’une carence en vitamine K et une maturation hépatique 
+progressive jusqu’à 4 ans pour certains facteurs. 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+29 
+Sur le plan biologique, le TP n’est pas affecté, le TCA est allongé, tandis que les 
+facteurs de la coagulation et le fibrinogène restent normaux. 
+La surveillance des patients traités par héparine se fait généralement en mesurant 
+directement l’activité du médicament, grâce à un dosage de l’activité anti-Xa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c. Héparine de 
+bas poids 
+moléculaire 
+Les héparines de bas poids moléculaire correspondent aux mêmes molécules que 
+l’héparine standard, mais elles ont été tronquées, ce qui donne des molécules 
+plus courtes. Ce raccourcissement permet d’augmenter leur biodisponibilité et de 
+les stabiliser, ce qui prolonge leur durée d’efficacité et la durée du traitement. 
+Sur le plan biologique, le TP ne change pas sous traitement. Le TCA peut être 
+allongé. 
+Pour évaluer l’efficacité du traitement, on mesure l’activité anti-Xa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+30 
+d. AVK 
+Les AVK (antivitamine K) sont des anticoagulants dont le but est de bloquer la 
+synthèse des facteurs de coagulation dépendants de la vitamine K. Ils entraînent 
+ainsi une diminution de plusieurs facteurs de la coagulation : facteurs II, VII et X, 
+ainsi que des protéines C et S. 
+Les AVK sont administrés par voie orale (per os) et leur action n’est pas 
+immédiate, car ils agissent en bloquant le métabolisme de la vitamine K au niveau 
+hépatique 
+- 
+Sur le plan biologique, ce traitement entraîne une diminution du TP et un 
+allongement du TCA 
+- 
+La surveillance biologique repose principalement sur le calcul de l’INR, qui 
+est un indice normalisé dérivé du temps de Quick du patient. C  
+- 
+En général, la valeur cible de l’INR se situe entre 2 et 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e. AOD 
+ 
+Les AOD (anticoagulant oraux directe) sont des médicaments administrés par 
+voie orale (per os) qui neutralisent directement certains facteurs de la 
+coagulation. Il existe deux grandes familles d’AOD : ceux qui inhibent directement 
+le facteur Xa et ceux qui inhibent directement le facteur IIa (thrombine). 
+Parmi les anti-Xa, on retrouve par exemple Rivaroxaban (Xarelto) et Apixaban 
+(Eliquis). Ces médicaments bloquent spécifiquement le facteur Xa et peuvent 
+modifier certains tests de coagulation, notamment le TP, le TCA et le dosage de 
+certains facteurs de coagulation. 
+Dans la famille des antiIIa, on trouve Dabigatran (Pradaxa), qui agit directement 
+sur le facteur IIa (thrombine). il perturbe également les tests de coagulation, tels 
+que le TP, le TCA et le dosage des facteurs de coagulation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+31 
+f. Tableau 
+d’interprétation  
+Tableau d’interprétation pour les tests biologiques face à un patient sous 
+médicament. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ N = normal.  
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Hémostase : Physiologie et explorations – Pr Roudot – 13/03/2026 
+ 
+ 
+ 
+ 
+ 
+32 
+ 
+
+---PAGE---

@@ -1,0 +1,1282 @@
+1 / 38 
+RT : Gaïa Siossac, Claire Yang 
+ 
+ 
+ 
+          
+     
+RL : Minh Anh Duong 
+ 
+UE 5 – Reins, voie urinaire et appareil génital masculin 
+ 
+Physiologie/Physiopathologie  
+Dr. Gille – 13 mars 2026 (10h15-11h45) 
+ 
+Désordres hydroélectrolytiques 
+ 
+Objectifs :  
+- 
+Connaître les signes cliniques et biologiques des troubles de l’hydratation extra et 
+intracellulaire, et savoir diagnostiquer le type de désordre rencontré 
+- 
+Comprendre et connaître les mécanismes de réponses appropriés de l’organisme 
+devant ces troubles, et savoir détecter une réponse inappropriée 
+- 
+Comprendre la démarche diagnostique et étiologique à adopter devant un trouble de 
+l’hydratation extra et intracellulaire. 
+ 
+PLAN DU COURS 
+I. Introduction 
+A) Règles générales du raisonnement 
+B) Systèmes hormonaux mis en jeu lors des perturbations 
+C) Outils diagnostiques cliniques et biologiques 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies des troubles de 
+l’hydratation extracellulaire 
+A) Généralités sur les troubles de l’hydratation EC 
+B) Déshydratation extracellulaire isolée (DEC) 
+C) Hyperhydratation extracellulaire isolée (HEC) 
+III. Signes cliniques et biologiques, démarche diagnostique et étiologies des troubles de 
+l’hydratation intracellulaire 
+A) Généralités sur les troubles de l’hydratation IC 
+B) Déshydratation extracellulaire isolée (DIC) 
+C) Hyperhydratation extracellulaire isolée (HIC) 
+Conclusion 
+ 
+Remarque: Nous avons laissé certaines idées développées dans le cours de l’année dernière par la Pre Planès que le 
+Dr Gille n’a pas explicitées cette année mais qui aident à la compréhension. Inversement, nous avons ajouté des 
+explications du Dr Gille qui n’étaient pas dans les cours des années précédentes mais le cours n’a pas changé sur le 
+fond, le prof a repris les diapos de la Pre Planès. 
+C’est un cours trèsssss long ☹ mais ce sont des notions importantes à maîtriser. Enfait, il s’agit de comprendre les 
+différentes situations de déséquilibre et les mécanismes qui entraînent ces situations. 
+ 
+
+---PAGE---
+2 / 38 
+ 
+I. Introduction 
+A) Règles générales de raisonnement 
+A l’état normal 
+Le rein :  
+● réabsorbe l'eau, les électrolytes et les autres substances néces-
+saires à l'organisme 
+● En parallèle, il élimine (excrète) l'eau, les électrolytes, les subs-
+tances et les déchets en excès.  
+● En ce qui concerne l’eau et la plupart des électrolytiques, il va tâ-
+cher de maintenir un équilibre entre les entrées et les sorties 
+Ces phénomènes sont régulés finement par des hormones 
+Désordres 
+hydroélectrolytiques 
+Quand il y a un désordre hydroélectrolytique (=hyper ou déshydratation in-
+tra ou extracellulaire), il y a une perturbation qui va causer ce trouble, qui 
+sont de 2 types :  
+● Les facteurs extra-rénaux : Le rein fonctionne normalement, la 
+cause de la perturbation est ailleurs. 
+○ 
+surcharge excessive 
+○ 
+pertes excessives (digestives, respiratoires…) 
+○ 
+dysfonctionnements cardiaques, hépatiques, etc. 
+● Trouble rénal : Le rein ne fonctionne pas comme il devrait. 
+○ 
+lésion du rein 
+○ 
+dérèglement hormonal 
+Etude d’un trouble 
+hydroélectrolytique 
+Pour caractériser le trouble, il faut étudier le secteur extracellulaire (EC) et 
+intracellulaire (IC) en sachant que la perturbation initiale va généralement 
+toucher le secteur EC et même le secteur plasmatique de celui-ci.  
+Ensuite, il faut caractériser la réponse rénale : est-elle adaptée ? (trouble 
+extrarénal) ou inadaptée ? (probablement qu’il y a une dysfonction du rein 
+ou un dérèglement hormonal). 
+ 
+ 
+
+---PAGE---
+3 / 38 
+Les entrées 
+et sorties 
+ 
+ 
+● Les apports proviennent de l'alimentation et des veines (perfusion)...  
+● Physiologiquement, il existe des pertes extra-rénales dites obligatoires ou « 
+fixes » et non régulées, représentant environ 800-1000 mL / 24 heures : 
+○ 
+pulmonaires par évaporation d’eau dans les voies aériennes 
+○ 
+cutanées par sudation et perspiration (évaporation de l’eau par diffusion 
+à travers la peau indépendamment de la transpiration) 
+○ 
+et, de manière moins importante d’un point de vue volumique,  diges-
+tives par les selles 
+● En pathologie, on peut avoir une augmentation de ces pertes non régulées en 
+cas d’atteinte digestive (diarrhées), cutanée (plaies, notamment brûlures ++) ou 
+de polypnée. Les pertes cutanées peuvent également se majorer en cas 
+d’hypersudation (physiologie : exercice, chaleur ; pathologie : fièvre). 
+● Pour adapter finement les pertes aux entrées, il y a une partie qui est régulée par 
+des hormones agissant sur le fonctionnement rénal : en cas de lésion rénale ou 
+de dysfonctionnement hormonal, on peut voir l’apparition d’un désordre hydroé-
+lectrolytique. 
+ 
+ 
+ 
+
+---PAGE---
+4 / 38 
+Rappels sur 
+les milieux et 
+l’homéostasie 
+Ce schéma illustre les deux secteurs distincts : 
+● L’EC, composé du milieu interstitiel et du milieu plasmatique 
+● L’IC, qui regroupe toutes les cellules (il est important de bien retenir cette organi-
+sation !) 
+ 
+ 
+● En équilibre (lorsque tout fonctionne normalement), les osmolarités dans ces 
+deux secteurs sont proches de 300 mosm/kg H2O 
+● Il est possible de mesurer l'osmolalité dans le secteur EC, en particulier dans le 
+secteur plasmatique, assez facilement, même à partir d'un ionogramme. En ef-
+fet, l'osmolalité plasmatique (Posm) correspond à deux fois la natrémie (2* 
+[Na+]) (on néglige l'urée et le glucose dans cette approximation) 
+● 2 * [Na+] correspond à l'osmolarité effective ou tonicité, ce qui nous donne une 
+estimation précise de l'osmolalité EC. Si l'on connaît l'osmolalité du secteur EC, 
+on peut déduire celle de l'IC. 
+● En situation normale (chez un sujet non diabétique et sans insuffisance rénale), 
+l'urée et le glucose sont négligés car ils traversent facilement la membrane cel-
+lulaire. C'est pourquoi l'osmolalité effective est un paramètre pertinent. 
+● En général, les perturbations touchent initialement le secteur plasmatique. Il 
+peut s’agir d’une modification du nombre d’osmoles et/ou du volume liqui-
+dien (volume de solvant). Cela peut aboutir à une modification de l’osmolalité 
+extracellulaire (sauf en cas de perte ou de gain isotonique). 
+● En cas de modification de l’osmolalité extracellulaire, des transferts 
+d’eau libre entre milieu intracellulaire et milieu extracellulaire (intersti-
+tium) vont ensuite survenir, afin d’équilibrer l’osmolalité intra et extracel-
+lulaire (homéostasie). 
+● Le nombre d’osmoles dans le milieu IC est constant : c’est pour cela que 
+l’adaptation de l’osmolalité IC se fait uniquement par des mouvements 
+d’eau, en réponse à des perturbations qui ont lieu au niveau EC. 
+ 
+
+---PAGE---
+5 / 38 
+ 
+ 
+I. Introduction 
+A) Règles générales de raisonnement 
+Variations du 
+volume EC = 
+variations de la 
+quantité de Na+ 
+1. Un gain d'ions Na+ entraîne toujours une augmentation du volume ex-
+tracellulaire, qu'il soit ou non accompagné d'un gain d'eau. L'organisme 
+régule ensuite le volume d'eau pour rétablir l'osmolalité autour de 300. 
+2. Une perte d'ions Na+ entraîne toujours une diminution du volume extra-
+cellulaire, qu'elle soit ou non accompagnée d'une perte d'eau. 
+3. Le gain ou la perte d'ions sodium ne sont pas évalués par l'osmolalité 
+plasmatique. On ne peut rien conclure, car le volume d'eau peut égale-
+ment changer. Par conséquent, l'osmolalité plasmatique ne permet pas 
+de déduire le volume. La natrémie, en particulier, ne reflète pas directe-
+ment le gain d'ions sodium. 
+Variations du 
+volume IC = 
+variations de 
+l’osmolalité 
+1. A l’équilibre, les osmolalités des secteurs IC et EC sont égales. 
+2. Toute modification de l'osmolalité dans le secteur EC (et donc de 
+la natrémie, qui en est un indicateur) provoque un transfert d'eau 
+entre les deux compartiments afin que les osmolarités se rééquili-
+brent. 
+3. Par conséquent, toute variation de l'osmolalité, et donc de la na-
+trémie, reflète un changement dans le volume intracellulaire, 
+puisque le nombre d'osmoles dans ce compartiment est considéré 
+comme constant. 
+A RETENIR 
+● Toute variation du volume extracellulaire correspond à une 
+anomalie du bilan de Na+ 
+● Toute variation du volume intracellulaire correspond à une  
+anomalie du bilan d’H2O 
+ 
+(Le prof précise que c’est bien d’avoir compris mais que sinon il faut 
+ apprendre ce tableau par coeur car ça nous sera nécessaire dans notre 
+pratique) 
+ 
+ 
+ 
+
+---PAGE---
+6 / 38 
+I. Introduction 
+A) Règles générales de raisonnement 
+Les états d’hydratation possibles (7 cas de figure) 
+ 
+Cas 1 : Situation normale 
+→ Le volume intracellulaire (VIC) représente les 2/3 de l'eau du corps, 
+tandis que le volume extracellulaire (VEC) représente 1/3. Les petits 
+points symbolisent les osmoles, ici le NaCl. 
+ 
+ 
+
+---PAGE---
+7 / 38 
+Du cas 2 au 
+cas 4 : déficit 
+en NaCl avec 
+diminution 
+du VEC 
+Cas 2 : Perte 
+de Na = Perte 
+d'eau : perte 
+isotonique 
+→ Dans ce cas, on perd autant de Na+ que d'eau. L'osmolalité reste 
+inchangée donc le seul changement sera une diminution du VEC, sans 
+affecter le VIC. 
+Cas 3 : Perte 
+de Na > Perte 
+d'eau : perte 
+hypertonique 
+→ Ici, on perd plus d'osmoles que d'eau, entraînant une dilution. Cela 
+provoque un transfert d'eau vers le compartiment intracellulaire, car 
+l'osmolalité IC devient plus faible. Le résultat est une déshydratation EC 
+avec un secteur IC hyperhydraté. 
+Cas 4 : Perte 
+d'eau > Perte 
+de Na : perte 
+hypotonique 
+→ Initialement, la perte d'eau augmente l'osmolalité du secteur EC. 
+Cela induit un transfert d'eau depuis l'IC vers l'EC jusqu'à ce que les 
+osmolarités s'équilibrent. Finalement, il y a une déshydratation mixte, 
+affectant à la fois l'EC (suite à la perte de sodium) et l'IC (en raison du 
+passage d'eau). 
+Du cas 5 au 
+cas 7 : gain de 
+NaCl avec 
+augmentation 
+du VEC 
+Cas 5 : Gain 
+d'eau = Gain 
+de Na : gain 
+isotonique 
+→ Cela entraîne une augmentation du VEC, mais sans changement de 
+l'osmolalité, ce qui signifie qu'il n'y a pas de transfert d'eau entre les 
+deux compartiments. Le secteur EC se dilate sans affecter l'équilibre des 
+osmolarités : le VIC reste donc normal. 
+Cas 6 : Gain 
+de Na > Gain 
+d'eau : gain 
+hypertonique 
+→ Dans ce cas, on ajoute plus de sodium que d'eau. Cela crée une 
+hyperosmolalité dans le secteur EC, ce qui induit un transfert d'eau du 
+compartiment IC vers le secteur EC afin d'équilibrer les osmolalités. 
+Résultat : une augmentation du VEC (hyperhydratation extracellulaire) 
+et une diminution du VIC (déshydratation intracellulaire). 
+Cas 7 : Gain 
+d'eau > Gain 
+de Na : gain 
+hypotonique 
+→ Excès d’eau supérieur à l’excès de sodium. Cela provoque une 
+augmentation du VEC, mais l'osmolalité EC diminue en raison de la 
+dilution des osmoles. Cette diminution de l'osmolalité entraîne un 
+transfert d'eau du secteur EC vers le secteur IC, ce qui provoque une 
+hyperhydratation mixte des deux secteurs : une augmentation du VEC 
+(hyperhydratation extracellulaire) et une augmentation du VIC 
+(hyperhydratation intracellulaire). 
+ 
+ 
+ 
+
+---PAGE---
+8 / 38 
+I. Introduction 
+B) Systèmes hormonaux mis en jeu lors des perturbations 
+ 
+● La perturbation initiale provient toujours du compartiment EC, affectant ainsi le volume extra-
+cellulaire (VEC) ou son osmolalité, ce qui impacte aussi le secteur plasmatique et le volume san-
+guin. 
+● Quand il y a une modification isolée du VEC sans altération de l'osmolalité EC (gain/perte iso-
+tonique), l’organisme dispose de récepteurs qui surveillent constamment ce VEC, en particulier 
+le volume sanguin circulant (la volémie), et qui jouent un rôle dans les réponses physiologiques : 
+○ 
+Si les myocytes auriculaires sont distendus (augmentation du VEC et de la volémie), ils 
+vont libérer le facteur atrial natriurétique (ANF), une hormone qui favorise l’excrétion 
+de sodium et d'urine. 
+○ 
+Les barorécepteurs intra-rénaux réagiront si le rein est mal perfusé, donc s’il y a une 
+diminution de la volémie, ou si la pression artérielle chute (les barorécepteurs aor-
+tiques seront également sollicités dans ce cas). 
+○ 
+Les volorécepteurs (en cas d’une grande variation de volume) au niveau de l'oreillette 
+droite, peuvent aussi détecter une baisse de la pression artérielle en fonction des varia-
+tions du volume sanguin. 
+○ 
+Le système rénine-angiotensine-aldostérone (RAA) va entrer en jeu plutôt en cas de 
+perte de sel et, à l’inverse, l’ANF en cas d’excès de sel. 
+→ Si tout fonctionne bien, cela permettra une correction du VEC, en particulier via l'excrétion rénale de 
+sodium (la réponse la plus simple). 
+
+---PAGE---
+9 / 38 
+ 
+● En cas de gain/perte hyper ou hypotonique, il va y avoir une modification de l’osmolalité et 
+donc un transfert d'eau secondaire entre les compartiments IC et EC pour maintenir l’égalité 
+des osmolalités : le VIC va aussi être modifié, ce qui va mettre en jeu : 
+○ 
+Les osmorécepteurs, qui surveillent en continu l'osmolalité et envoient des signaux à 
+l'organisme. 
+○ 
+Deux autres réponses physiologiques (en plus de celles mises en jeu par la perturbation 
+du VEC) : la sécrétion de l’hormone antidiurétique (ADH) et la sensation de soif en cas 
+de déficit en eau pure, ou une diminution voire une suppression de la sécrétion d’ADH 
+en cas d’excès en eau pure. 
+ 
+ 
+ 
+
+---PAGE---
+10 / 38 
+I. Introduction 
+C) Outils diagnostiques cliniques et biologiques 
+1ère étape : Interrogatoire 
+Il est important de reprendre l’interrogatoire et notamment les antécédents 
+des pathologies connues qui vont influencer le contexte et vont permettre 
+d’aiguiller le raisonnement :  
+● Rénales : lorsque le rein ne fonctionne pas correctement. 
+● Digestives : en cas de diarrhée, de vomissements, etc. 
+● Cardiovasculaires : dans le cas d'une insuffisance cardiaque. 
+● Hépatiques : comme dans la cirrhose, qui modifie la répartition du 
+volume sanguin circulant (VSC) et, si elle est sévère, réduit la pro-
+duction d'albumine, la principale protéine plasmatique. 
+● Prises médicamenteuses ++ : c’est un facteur très important car les 
+troubles hydroélectrolytiques sont souvent dus à des médicaments 
+(iatrogènes). Par exemple, les diurétiques peuvent entraîner une 
+déshydratation rapide, en particulier lors de périodes de canicule, si 
+une personne âgée n’a pas accès à l’eau tout en continuant de 
+prendre des diurétiques. 
+2e étape : Examen clinique 
+● Poids : son évolution 
+● Pression artérielle : elle est un indicateur du compartiment vascu-
+laire et on peut éventuellement mesurer la PA allongé et au pas-
+sage à l’orthostatisme (= mesure de la PA orthostatique) 
+Question : qu’est-ce qu’une hypotension orthostatique va indiquer ? 
+Réponse du prof : une diminution du volume plasmatique et donc 
+une déshydratation extracellulaire (DEC). On peut faire des hypo-
+tensions orthostatiques sans DEC parce qu’on a une mauvaise tolé-
+rance aux changements de position : ce n’est pas pathognomonique 
+mais ça fait partie des arguments. 
+● Fréquences cardiaque et respiratoire 
+● État des téguments : l'apparence de la peau, la présence de pli cu-
+tané, ou encore d’œdèmes 
+● État d'hydratation des muqueuses : en particulier l'humidité de la 
+bouche, qui peut être un signe de déshydratation 
+● Troubles neurologiques : fréquemment associés aux variations de 
+l'osmolalité, comme les hypo ou hypernatrémies 
+
+---PAGE---
+11 / 38 
+3e étape : Signes 
+biologiques 
+● Hématocrite et protidémie : Ces paramètres sont des indicateurs 
+du compartiment plasmatique, car ils ne quittent pas ce compar-
+timent. Par exemple, si l'hématocrite passe brusquement de 40 % à 
+50 %, ça signale qu’il y a une augmentation du volume vasculaire 
+ou plasmatique. De même, une augmentation de la protidémie de 
+65 % à 75 % indique une diminution du volume d'eau dans lequel 
+ces protéines sont dissoutes. 
+→ ATTENTION : Si c’est la première fois qu'on rencontre un patient, 
+on ne connaît pas sa valeur de base d'hématocrite. Par conséquent, 
+un hématocrite de 35 % ne signifie pas nécessairement une hémo-
+dilution ; cela pourrait être le signe d'une anémie, ou bien être lié à 
+une hémorragie, qui entraîne la perte de globules rouges. En outre, 
+certaines pathologies comme le myélome peuvent provoquer une 
+hyperprotidémie en raison de la production d'immunoglobulines, 
+ce qui augmente le taux de protéines sans indiquer une déshydra-
+tation. 
+● Ionogramme sanguin : Il inclut des paramètres tels que la natré-
+mie, la kaliémie, la glycémie et l’urémie. En situation physiolo-
+gique, le glucose et l’urée ne sont pas osmotiquement actifs mais 
+s’ils sont présents en trop grande quantité, ils peuvent le devenir. 
+Le plus souvent, un ionogramme avec créatinine est également 
+demandé. 
+○ 
+Note : la glycémie n'est pas toujours faite quand on prescrit 
+juste un ionogramme, donc il faut parfois mettre “iono-
+gramme+glycémie”  selon les laboratoires. 
+● Ionogramme urinaire : On y mesure des éléments comme la na-
+triurèse, la kaliurèse, le rapport Na/K (pour évaluer le comporte-
+ment du système aldostérone), ainsi que la glycosurie ou la protéi-
+nurie (selon le contexte). 
+● Osmolalité plasmatique et urinaire : On peut comparer l'osmolali-
+té plasmatique à l'osmolalité urinaire en calculant le ratio U/Posm 
+pour évaluer si le rein fonctionne correctement en réponse aux va-
+riations d’osmolalité. 
+ 
+Pour orienter le diagnostic si nécessaire : 
+Pour des situations particulières, on peut être amenés à doser :  
+● L’activité rénine plasmatique (ARP) 
+● L’aldostérone 
+● L’ADH 
+La plupart du temps, on n’a pas besoin d’aller jusque-là. 
+
+---PAGE---
+12 / 38 
+ 
+ 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+A) Généralités sur les troubles de l’hydratation extracellulaire 
+(2 cas possibles) 
+Généralités 
+● Les troubles de l’hydratation du compartiment extracellulaire (EC) 
+sont généralement liés à des anomalies dans la régulation du bi-
+lan du sodium, car c’est ce dernier qui détermine principalement la 
+masse de sodium échangeable dans le volume EC. Dans ces cas, il 
+existe un déséquilibre entre les entrées et sorties de sodium, que 
+ce soit au niveau rénal ou extra-rénal, qui peuvent être anormale-
+ment élevées. 
+● Les systèmes les plus impliqués dans ces troubles sont le système 
+RAA ou le système ANF, car ce sont les deux principaux régulateurs 
+: ils ont des effets plutôt inverses et sont donc mis en jeu dans des 
+situations opposées. 
+● Comme dit plusieurs fois, la détection d'un trouble dans la régula-
+tion du bilan du sodium ne se fait pas à travers des paramètres bio-
+logiques comme la natrémie : l’hyponatrémie ne correspond pas à 
+une perte rénale de sodium. La natrémie est un indicateur du sec-
+teur intracellulaire (IC), et non du compartiment EC. 
+On va s’intéresser aux désordres EC isolés, c’est-à-dire avec des variations 
+isotoniques du compartiment EC : autrement dit, des variations d’eau et 
+de sodium proportionnelles, sans variation de l’osmolalité.  
+ 
+ 
+
+---PAGE---
+13 / 38 
+1er cas : 
+gain Na+ = gain H2O 
+(gain isotonique) 
+ 
+ 
+ 
+→ Dans ce cas, il y a des variations isotoniques dans le compartiment ex-
+tracellulaire (EC), où les variations de l'eau et du sodium sont proportion-
+nelles, ce qui fait que l'osmolalité plasmatique (Posm) et la natrémie ne 
+changent pas. 
+→ Ce phénomène aboutit à une hyperhydratation extracellulaire isolée 
+(HEC) 
+2ème cas : 
+perte Na+ = perte H2O 
+(perte isotonique) 
+ 
+ 
+ 
+→ Dans ce cas, il y a une perte du volume extracellulaire (VEC) sans 
+modification du compartiment intracellulaire (IC). Il s'agit d'une 
+déshydratation extracellulaire isolée (DEC), ce qui signifie que l'osmolalité 
+plasmatique (Posm) et la natrémie restent normales. 
+ 
+
+---PAGE---
+14 / 38 
+ 
+ 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+B) Déshydratation extracellulaire isolée (DEC) 
+Définition 
+Diminution du volume extracellulaire (VEC) sans modification du 
+volume intracellulaire (VIC), ce qui implique que l’osmolalité 
+plasmatique reste normale. 
+ 
+ 
+
+---PAGE---
+15 / 38 
+Signes cliniques 
+● Perte de poids : Cela indique une déshydratation. Il est difficile 
+de déterminer si cette perte provient de l'extracellulaire (EC) ou 
+de l’intracellulaire (IC), mais en cas de déshydratation extracellu-
+laire (DEC), il est logique de constater une diminution du poids. 
+● Pli cutané : On pince la peau sur la face antérieure du torse. 
+Normalement, la peau reprend sa position initiale très rapide-
+ment. Chez le sujet ayant une DEC, lorsqu’on retire les doigts le 
+pli reste en place quelques secondes : ce signe est le reflet 
+d’une diminution du volume des liquides interstitiels. 
+● Hypotonie des globes oculaires : Les globes oculaires n'oppo-
+sent pas de résistance lorsqu'on exerce une pression dessus, ce 
+qui indique une réduction des liquides interstitiels. 
+● Diminution de la pression artérielle (PA) : Soit spontanée, soit 
+démasquée en évaluant l’hypotension orthostatique : c’est lié à 
+une réduction de la volémie dans le secteur extracellulaire (EC). 
+● Soif modérée : La soif est surtout dépendante de l’osmolalité 
+mais quand il y a une DEC, le système rénine-angiotensine-
+aldostérone (SRAA) est mis en jeu, où l’angiotensine II agit 
+comme un dipsogène (= qui donne soif). 
+● Chez les nourrissons : Il est possible d'observer une baisse de 
+tension de la fontanelle (elle devient creuse lorsqu'on appuie 
+dessus), un signe de déshydratation chez les bébés (ce phéno-
+mène n’est plus observé chez les adultes). 
+Signes biologiques 
+● Osmolalité et natrémie normales ++ car il n’y a pas eu de modifica-
+tion du secteur IC 
+● 
+Hémoconcentration : Augmentation relative de l’hématocrite et de 
+la protidémie, indiquant une réduction du volume plasmatique (en 
+supposant que l’on dispose de données antérieures) 
+● Alcalose de contraction : La contraction fait référence à la déshy-
+dratation du volume extracellulaire (VEC), un sujet que nous appro-
+fondirons dans le cours sur les "équilibres acide-base". Lorsque 
+l’aldostérone entre en jeu (ce qui est nécessaire dans ce cas pour 
+éviter la déshydratation), elle stimule l'excrétion des ions H+, ce qui 
+entraîne un certain degré d’alcalose. 
+● Augmentation de l’ARP et de l’aldostérone : Lors d’un dosage (ce 
+qui est rarement fait), on observe une élévation de ces deux élé-
+ments, car ce système est activé dans ce type de situation. 
+
+---PAGE---
+16 / 38 
+ 
+ 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+B) Déshydratation extracellulaire isolée (DEC) 
+Mécanisme de réponse 
+ 
+ 
+ 
+● Myocytes auriculaires : pas du tout activés ici, ce qui entraîne une 
+diminution voire une abolition de la sécrétion de l’ANF → diminu-
+tion natriurèse 
+● Barorécepteurs carotidiens et rénaux : activés. La stimulation sym-
+pathique bêta déclenche la production de rénine, qui à son tour pro-
+duit l’angiotensine II et l’aldostérone → diminution natriurèse. En 
+cas de diminution du VEC et de bilan sodium négatif, le rein va donc 
+limiter l'excrétion rénale de sodium. 
+● 
+Les volorécepteurs : ils sont activés en cas de baisse de plus de 
+7% de la volémie ce qui conduira à la production de l'hormone 
+anti-diurétique (ADH) : celle-ci n’agit pas sur le sodium mais sur 
+l’eau, et participe ainsi à une rétention hydro-sodée qui permet 
+de restaurer la volémie → diminution de la diurèse ou oligurie 
+ 
+ 
+ 
+ 
+
+---PAGE---
+17 / 38 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+B) Déshydratation extracellulaire isolée (DEC) 
+Causes de la DEC 
+Les pertes de sodium sont supérieurs aux apports = bilan négatif de Na+, en  
+raison de :  
+● pertes extrarénales avec réponse rénale adaptée   
+○ 
+mise en jeu du SRAA : [Na/K]u < 1 
+○ 
+natriurèse faible < 10 mmol/j 
+○ 
+diurèse faible < 0,75 L/j  
+○ 
+urines hypertoniques (= “concentrées”)  
+○ 
+↑ rénine et aldostérone (mais qu’en pratique on ne dose pas) 
+Comme on l’a vu précédemment, ces pertes excessives peuvent être digestives 
+(diarrhées), cutanées (fièvre, coup de chaleur, mucoviscidose…) etc. 
+ 
+ 
+● pertes rénales = réponse rénale inadaptée en raison d’une dysfonction 
+du SRAA →  natriurèse élevée : [Na/K]u > 1 
+○ 
+carence en aldostérone comme dans l’insuffisance surrénale : 
+malgré l’augmentation de la rénine et une hyperkaliémie, qui 
+sont normalement des stimulii de mise en jeu de l’aldostérone, 
+l’incapacité de la surrénale de libérer l’aldostérone entraîne 
+cette réponse rénale inadaptée :  
+○ 
+non-réponse à l’aldostérone (cas le plus fréquent) : mise en jeu 
+du SRAA mais le rein ne va pas répondre à cette sécrétion hor-
+monale:  
+■ 
+tubulopathies rénales (rares) 
+■ 
+diurèse osmotique en cas d’hyperglycémie sévère 
+■ 
+prise de diurétiques (cause iatrogène, la plus fréquente) : 
+malgré la mise en jeu de l’aldostérone, le fait de donner 
+des diurétiques va augmenter la natriurèse, notamment 
+en diminuant voire en inhibant le gradient cortico-
+papillaire 
+ 
+ 
+ 
+
+---PAGE---
+18 / 38 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+B) Déshydratation extracellulaire isolée (DEC) 
+En 
+résumé 
+ 
+ 
+Un régime pauvre en sodium (baisse des apports) aboutit à un profil similaire à celui des 
+pertes extra-rénales exagérées en sodium (diminution de la volémie, mise en jeu SRAA, 
+diminution natriurèse): la réponse du rein est adaptée. 
+ 
+ 
+
+---PAGE---
+19 / 38 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+C) Hyperhydratation extracellulaire isolée (HEC) 
+Définition 
+Augmentation du VEC sans modification du VIC puisqu’il y a un gain 
+isotonique, ce qui implique une osmolarité plasmatique inchangée. 
+ 
+ 
+
+---PAGE---
+20 / 38 
+Signes cliniques 
+Si HEC modérée :  
+● Prise de poids (1-2 kg) 
+● Œdèmes  
+○ 
+Discrets : donc à rechercher (parfois ça peut être juste la 
+marque de la chaussette qui reste imprimée sur la che-
+ville du patient) 
+○ 
+Déclives : plutôt au niveau des mains et des doigts le ma-
+tin en fin de nuit / au niveau des pieds et des chevilles en 
+fin de journée),  
+○ 
+→ Témoignent de l’augmentation de volume du secteur 
+interstitiel.  
+● Hypertension artérielle (HTA) si la volémie augmente.  
+Mais il peut y avoir une discordance et tous les secteurs ne sont pas 
+forcément impliqués entre secteur plasmatique et secteur interstitiel  
+ 
+Si HEC importante :  
+● signe prépondérant = œdèmes +++ 
+○ 
+périphériques : blancs, mous, prenant le godet (lorsque 
+qu’on appuie dessus, l'empreinte de votre doigt reste) et 
+indolores par opposition aux œdèmes locaux inflamma-
+toires (rouges, chauds, indurés donc ne prenant pas le go-
+det et douloureux). 
+○ 
+des séreuses : pleurésie, épanchement péricardique ou 
+ascite (= épanchement au niveau du péritoine (=> troi-
+sième secteur)) avec là encore un  transsudat donc des 
+viscères éventuellement : au niveau cérébro-méningé, 
+pulmonaire. 
+→ On a dans ces cas-là des transsudats par augmentation 
+de la pression hydrostatique. Si on fait une ponction, on 
+retrouve un liquide pauvre en albumine contrairement 
+aux œdèmes inflammatoires par augmentation de la 
+perméabilité capillaire avec de l'exsudat. 
+ 
+Signes biologiques 
+● Osmolalité et natrémie normales +++  
+● Signes d'hémodilution : l'augmentation de la volémie peut aboutir à 
+une diminution de la protidémie et de l'hématocrite . 
+C’est l'étude du SRAA qui va nous renseigner sur l'étiologie. 
+ 
+
+---PAGE---
+21 / 38 
+ 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+C) Hyperhydratation extracellulaire isolée (HEC) 
+Mécanisme de réponse 
+ 
+ 
+(On a repris le cours de l’année dernière qui explique mieux pour cette partie) 
+ 
+● Lors d’une HEC, il y a une augmentation du volume extracellulaire 
+et de la volémie. Les cellules du cœur (myocytes auriculaires) détec-
+tent cette augmentation du volume sanguin et, en réponse, libèrent 
++ de FAN (peptide natriurétique auriculaire). Le rôle du FAN est 
+d’éliminer davantage de sodium par les urines, en augmentant le 
+débit de filtration glomérulaire (DFG), car il y a trop de sodium dans 
+le corps, ce qui augmente le volume extracellulaire.  
+● En parallèle, les barorécepteurs situés dans les carotides et les reins 
+ne sont pas stimulés. Il n’y a donc pas de réponse sympathique et 
+aucune activation du système rénine-angiotensine-aldostérone 
+(SRAA), qui sont normalement impliqués dans la rétention de so-
+dium. Cela permet au sodium de passer plus facilement dans les 
+urines. 
+● De plus, les volorécepteurs, qui réagissent en cas de baisse de vo-
+lume, ne sont pas stimulés, ce qui empêche la libération d’ADH 
+(hormone antidiurétique). En conséquence, la diurèse augmente. 
+ 
+ 
+ 
+ 
+
+---PAGE---
+22 / 38 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+C) Hyperhydratation extracellulaire isolée (HEC) 
+Causes de la HEC 
+ 
+Les pertes de sodium sont inférieures aux apports = bilan positif de Na+ 
+(avec rétention d’H2O pour normaliser l’osmolarité) 
+● Normalement, lorsque les entrées sont augmentées (par exemple 
+lors des fêtes de fin d’année), le rein s'adapte. Il augmente la  
+natriurèse en mettant en jeu le FAN et donc il y a une correction 
+rapide.  
+Ainsi chez le sujet sain, si on augmente les apports en sel, on va 
+avoir une hypervolémie transitoire et puis finalement on va ex-
+créter l'excès de sodium qu'on avait apporté par l'alimentation. 
+● Le problème se pose généralement lorsque la réponse rénale est 
+inadaptée : les reins ne parviennent pas à éliminer suffisamment 
+de sodium, la natriurèse (l’élimination du sodium dans les urines) 
+sera anormalement basse. → Les sorties ne sont pas adaptées 
+aux entrées. 
+ 
+● Il y a plusieurs cas de figures où l’élimination rénale du sodium est 
+inférieure aux apports :  
+○ 
+Insuffisance rénale avec une diminution du débit de fil-
+tration glomérulaire (DFG) et donc anomalie de la ba-
+lance  glomérulo-tubulaire et réabsorption exagérée de 
+sodium : les insuffisants rénaux ont du mal à excréter au-
+tant d’osmoles qu’ils devraient. 
+○ 
+Hyperaldostéronisme chronique avec une production 
+excessive d’aldostérone qui conduit à une réabsorption 
+excessive de sodium → la natriurèse reste basse avec un 
+rapport Na/K urinaire < 1. L’hyperaldostéronisme peut 
+être primaire ou secondaire :  
+ 
+ 
+ 
+ 
+
+---PAGE---
+23 / 38 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+C) Hyperhydratation extracellulaire isolée (HEC) 
+Hyperaldostéronisme 
+primaire 
+(rare) 
+ 
+Hypersécrétion d’aldostérone due à une tumeur bénigne de la cortico-
+surrénale = syndrome de Conn. 
+ Il y a une hypersécrétion d’aldostérone malgré la diminution de 
+l'activité rénine plasmatique (ARP). 
+ 
+ 
+Signes cliniques : 
+● Œdèmes discrets ++ 
+● Hypertension artérielle (HTA) ++ due à une augmentation de la  
+volémie  
+ 
+Signes biologiques :  
+● L’ionogramme sanguin montre une hypokaliémie et une alcalose 
+métabolique puisque l’aldostérone stimule la kaliurèse et l'excrétion 
+acide urinaire 
+● Pas de signes d’hémodilution  
+● Initialement, le rapport Na/K urinaire < 1, puis, en raison d’un phé-
+nomène d'échappement puisque le facteur atrial natriurétique 
+(FAN) va finir par être mis en jeu, le rapport Na/K urinaire > 1. 
+● Besoin de dosages hormonaux pour en faire le diagnostic puisqu'il 
+faut mettre en évidence l’hyperaldostéronisme malgré la diminu-
+tion de l'activité rénine plasmatique (ARP). 
+ 
+ 
+ 
+ 
+
+---PAGE---
+24 / 38 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+C) Hyperhydratation extracellulaire isolée (HEC) 
+Hyperaldostéronisme 
+secondaire 
+(très fréquent) 
+C’est la mise en jeu inadaptée du système rénine-angiotensine-
+aldostérone (SRAA) liée à une diminution apparente ou réelle du vo-
+lume sanguin circulant alors qu’il y a une hyperhydratation intersti-
+tielle :  
+● Diminution apparente du volume circulant :  
+○ 
+Insuffisance cardiaque droite : diminution du débit car-
+diaque et donc le volume sanguin artériel efficace + la 
+pression hydrostatique veineuse augmente, donc on a 
+une fuite de fluide dans l'interstitium (œdèmes périphé-
+riques). Puisque la perfusion rénale n’est pas suffisante, 
+les reins activent le SRAA. 
+○ 
+Cirrhose hépatique : globalement une hypervolémie 
+mais la répartition du volume n’est pas homogène. Il 
+peut y avoir une séquestration splanchnique du volume 
+sanguin,  et donc une perfusion rénale qui est insuffi-
+sante. 
+● Diminution réelle du volume circulant :  
+○ 
+Syndrome néphrotique : on a une atteinte de la mem-
+brane glomérulaire (= glomérulopathie) qui ne reste pas 
+imperméable aux protéines. Les protéines passent dans 
+le fluide tubulaire et il y a apparition d'une protéinurie. 
+Ainsi, leur concentration plasmatique diminue, et donc 
+une hypoprotidémie ou hypoalbuminémie. Au niveau du 
+secteur plasmatique, cela crée une diminution de la 
+pression oncotique et donc un transfert de liquide dans 
+l’interstitium (œdèmes périphériques). Cela fait dimi-
+nuer la perfusion rénale, ce qui entraîne une mise en jeu 
+du SRAA. 
+○ 
+Autres causes d'hypoalbuminémie sévère : cirrhose sé-
+vère,  entéropathies exsudatives (= maladies rares du 
+tube digestif avec des diarrhées dans lesquelles il y a des 
+protéines).   
+ 
+
+---PAGE---
+25 / 38 
+ 
+Hyperaldostéronisme 
+secondaire 
+(très fréquent) 
+Signes cliniques :  
+● Œdèmes importants ++ :  
+○ 
+Soit par augmentation de la pression hydrostatique (in-
+suffisance cardiaque), 
+○ 
+Soit par diminution de la pression oncotique (syndrome 
+néphrotique ou autres hypoalbuminémies sévères) 
+● ± Hypertension artérielle (HTA) :  
+○ 
+Si hypervolémie répartie de manière inhomogène avec 
+une hypoperfusion rénale (insuffisance cardiaque ou cir-
+rhose), il peut y avoir une HTA. 
+○ 
+Si hypovolémie (syndrome néphrotique), pas d’HTA. Il 
+peut même y avoir une hypotension artérielle. 
+● Prise de poids ++ 
+ 
+Signes biologiques :  
+● Hypoprotidémie (syndrome néphrotique et cirrhose) 
+● Hématocrite (ça dépend un peu de la volémie)  
+● ↑ Aldostéronémie 
+● ↑ Activité rénine plasmatique (ARP) 
+● Na/K urinaire  < 1 
+ 
+ 
+
+---PAGE---
+26 / 38 
+II. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation extracellulaire 
+C) Hyperhydratation extracellulaire isolée (HEC) 
+En résumé 
+ 
+ 
+Dans l'hyperaldostéronisme primaire, la natriurèse est initialement basse, puis comme 
+il y a un échappement avec le FAN qui finit par être mis en jeu, elle finit par devenir 
+égale aux apports mais il y a une hypervolémie qui persiste. 
+ 
+Dans l’hyperaldostéronisme secondaire, on a une réponse rénale inadaptée persistante 
+sans échappement donc la natriurèse reste basse. 
+ 
+ 
+ 
+
+---PAGE---
+27 / 38 
+III. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation intracellulaire 
+A) Généralités sur les troubles de l’hydratation intracellulaire 
+Généralités 
+● Un trouble de l'hydratation intracellulaire est associé à un change-
+ment de la natrémie (c'est-à-dire de l'osmolalité) et est donc lié à 
+une perturbation du bilan de l'eau dans un sens ou dans un autre. 
+● Le rapport U/Posm est l'élément essentiel pour déterminer si la ré-
+ponse du rein aux perturbations est adaptée ou non 
+● Le dosage de l'ADH (s'il est possible) permet également de préciser 
+l'étiologie. 
+● On étudie cette fois les variations non proportionnelles, non isoto-
+niques. Il y a 4 cas de figures possibles.  
+ 
+ 
+
+---PAGE---
+28 / 38 
+4 cas de figures possibles 
+Gain hypotonique 
+(eau > sodium) 
+ 
+ 
+→ Si on a un gain d’eau supérieur à un gain de sodium (gain hypotonique), 
+cela augmente le volume du compartiment EC tout en diminuant son 
+osmolalité. Cela provoque un passage d’eau de l’EC vers l’IC, où l’osmolalité 
+est plus élevée, afin d’équilibrer les osmolalités. On obtient donc une 
+hyperhydratation globale, affectant à la fois l’IC et l’EC, et une baisse de 
+l’osmolalité plasmatique et de la natrémie, ce qui indique un trouble au 
+niveau du compartiment IC. 
+Gain hypertonique 
+(sodium > eau) 
+ 
+ 
+ 
+→ Dans ce cas, on apporte plus de sodium que d’eau, ce qui est un gain 
+hypertonique. Cela augmente le volume du compartiment EC et, par 
+conséquent, l’osmolalité de l’EC. En réponse, l’eau passe du compartiment 
+IC vers l’EC pour rétablir l’équilibre osmotique. Cela entraîne une 
+hyperhydratation du compartiment EC et une déshydratation du 
+compartiment IC. L’osmolalité et la natrémie augmentent, ce qui montre 
+que la natrémie ne reflète pas toujours uniquement le compartiment EC. 
+
+---PAGE---
+29 / 38 
+ 
+ 
+Perte hypotonique 
+(eau > sodium) 
+ 
+ 
+→ Dans ce cas-là, on perd plus d’eau que de sodium. Cela réduit le volume du 
+compartiment EC et augmente l’osmolalité de l’EC, puisque plus d’eau est perdue 
+que de sodium. En réponse, l’eau passe de l’IC vers l’EC pour rétablir l’équilibre. 
+Cela provoque une déshydratation globale des deux compartiments. L’osmolalité 
+et la natrémie augmentent.  
+ 
+Cas de figure fréquent avec des causes en commun avec la déshydratation 
+extracellulaire isolée. 
+Perte hypertonique 
+(sodium > eau) 
+ 
+ 
+→ On perd plus de sodium que d’eau. Cela diminue le volume du compartiment 
+EC et son osmolalité. En conséquence, l’eau passe de l’EC vers l’IC. Cela provoque 
+une déshydratation du compartiment EC et une hyperhydratation du 
+compartiment IC. Les deux compartiments auront une osmolalité plus faible, avec 
+une diminution de l’osmolalité plasmatique et de la natrémie. 
+ 
+ 
+ 
+
+---PAGE---
+30 / 38 
+III. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation intracellulaire 
+B) Déshydratation intracellulaire (DIC) 
+Définition 
+La déshydratation intracellulaire (DIC) est diagnostiquée par une hyperos-
+molalité ou une hypernatrémie. Dans ce cas-là, différents scénarios peuvent 
+se présenter :  
+- 
+Déshydrataion EC associée : Perte d’eau supérieur à la perte de so-
+dium (perte hypotonique). 
+- 
+Déshydratation IC isolée, VEC normal : Perte d'eau isolée. 
+- 
+Hyperhydratation EC associée : Gain de sodium supérieur au gain 
+d’eau (gain hypertonique). 
+ 
+ 
+
+---PAGE---
+31 / 38 
+Signes cliniques 
+● Soif +++ : L'augmentation de l’osmolalité stimule les centres de la 
+soif 
+○ 
+Concernant la soif : c'est une question qui est facile à poser 
+mais elle ne peut pas être communiquée dans certaines 
+conditions :  
+- 
+Chez le nourrisson qui ne parle pas encore 
+- 
+Chez le patient qui a des troubles de la conscience  
+- 
+La sensation de soif peut être diminuée notamment 
+chez les personnes âgées 
+● Sécheresse des muqueuses de la cavité buccale :  
+○ 
+Dans la face interne de la joue, sous la langue, dans le sillon 
+linguo-gingival (entre la langue  
+○ 
+Aspect de langue rôtie : la langue est toute sèche et beau-
+coup moins souple qu'elle ne l'est habituellement. 
+● Signes neuropsychiques si hypernatrémie sévère ou brutale : obnu-
+bilation, confusion, coma. 
+● Fièvre : surtout chez le nourrisson mais aussi chez le sujet âgé. 
+Il faut apprécier l'état d'hydratation du secteur extracellulaire qui peut 
+être normal, augmenté ou diminué. 
+Signes biologiques 
+● Hypernatrémie ++ : sodium plasmatique  > 145 mmol/L (mais sou-
+vent significativement élevée > 150)  
+● Hyperosmolalité plasmatique  
+⚠ En général, il n’y a pas besoin de doser l’osmolalité plasmatique 
+mais parfois, il peut y avoir une discordance entre natrémie et os-
+molalité (hyperosmolalité sans hypernatrémie). 
+→ Exemples : hyperglycémie ou hyperurémie. Le glucose et l'urée ne 
+sont normalement pas osmotiquement actifs sauf quand c’est pré-
+sent en trop grande quantité. 
+● Ionogramme urinaire : étude de la réponse rénale. 
+ 
+ 
+ 
+
+---PAGE---
+32 / 38 
+III. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation intracellulaire 
+B) Déshydratation intracellulaire (DIC) 
+Mécanisme de réponse 
+La composition osmolaire et ionique des urines dépend de l’étiologie :  
+● VEC normal, déshydratation intracellulaire isolée :  
+○ 
+Dans ce cas, on observe une hypernatrémie. Il s’agit 
+principalement d’une perte d’eau isolée, sans altéra-
+tion majeure du sodium. 
+○ 
+Cette situation survient fréquemment chez les patients 
+présentant un diabète insipide, soit d’origine neurolo-
+gique (baisse de l’ADH), soit néphrologique (augmenta-
+tion de l’ADH), rendant l’incapacité à concentrer les 
+urines manifeste. Le volume urinaire est augmenté et 
+les urines sont diluées (U/P osm < 1).  
+● VEC augmenté :  
+○ 
+Généralement iatrogène, par perfusion massive de so-
+lutés hypertoniques. La réponse rénale est adaptée 
+donc l’osmolalité urinaire est augmentée (U/P osm > 
+1). Ça peut aussi arriver chez les naufragés qui boivent 
+de l’eau de mer puisqu’elle est salée à plus de 9%.  
+● VEC diminué, déshydratation mixte (très fréquent) :  
+○ 
+Il s’agit d’une perte d’eau supérieure à la perte de so-
+dium, d’origine extrarénale ou rénale. 
+■ 
+Pertes extrarénales : sudation profuse, diar-
+rhées fébriles. Dans ces cas-là, la réponse ré-
+nale est adaptée donc la natriurèse est basse 
+(U/P osm > 1) avec une hyperosmolalité uri-
+naire (U/P osm > 1). 
+■ 
+Pertes rénales : diurèse osmotique. La réponse 
+rénale est inadaptée donc la natriurèse reste 
+haute ([Na+]u > 20 mmol/L) et osmolalité uri-
+naire = osmolalité plasmatique (U/P osm = 1). 
+ 
+ 
+ 
+
+---PAGE---
+33 / 38 
+III. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation intracellulaire 
+C) Hyperhydratation intracellulaire (HIC) 
+Définition 
+L'hyperhydratation intracellulaire (HIC) correspond toujours à une hypo-
+osmolalité plasmatique (et pas toujours à une hyponatrémie puisqu’il peut 
+y avoir discordance entre l’osmolalité et l’hyponatrémie).  
+ 
+Les différentes situations du volume extracellulaire (EC) peuvent varier :  
+● Hyperhydratation EC associée (hyperhydratation globale) : Gain 
+d’eau supérieur au gain de sodium (gain hypotonique).  
+● Hyperhydratation IC isolée, VEC normal : Gain d’H2O isolé. 
+● Déshydratation EC associée : Perte de sodium supérieure à la perte 
+d’eau (perte hypertonique). 
+Signes cliniques 
+Comme pour la déshydratation intracellulaire (DIC), les signes varient selon 
+la rapidité d’installation :  
+● Dégoût de l’eau et éventuellement, nausées et vomissements. 
+● Signes neuropsychiques (si sévère et rapide) : torpeur, confusion, 
+coma. 
+Comme pour la DIC le secteur intra cellulaire, il faut évaluer l’état d'hydrata-
+tion du secteur extracellulaire.  
+Signes biologiques 
+● Hyponatrémie hypotonique avec [Na+] < 135 mmol/L de plasma et 
+osmolarité <280 osm/kg H2O 
+ 
+ 
+ 
+
+---PAGE---
+34 / 38 
+III. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation intracellulaire 
+C) Hyperhydratation intracellulaire (HIC) 
+« Fausses » 
+hyponatrémies iso- ou 
+hypertoniques 
+ 
+On va éliminer les situations de « fausses » hyponatrémie iso- ou 
+hypertonique 
+● Hyponatrémie isotonique :  « fausse hyponatrémie » avec osmo-
+larité plasmatique normale 
+○ 
+Dans cette situation, la natrémie (concentration de so-
+dium dans le plasma) est < 135 mmol/L, mais si on me-
+surait l’osmolalité plasmatique, elle serait normale. Cela 
+peut se produire lorsque des molécules (comme des pro-
+téines ou des lipides en excès) occupent une trop grande 
+place dans le plasma, réduisant l’espace disponible pour 
+l’eau. 
+Cela 
+arrive 
+notamment 
+dans 
+les 
+cas 
+d’hyperprotidémies ou d’hyperlipidémies importantes. 
+Dans ce cas, la natrémie n’est pas un bon reflet de 
+l’osmolalité plasmatique, qui reste normale. 
+○ 
+On a des formules pour corriger la natrémie en fonction 
+de la protidémie sur l’ionogramme ou du bilan lipidique 
+sans même attendre un dosage de l'osmolalité plasma-
+tique. 
+● Hyponatrémie hypertonique : situation où la natrémie ne reflète 
+pas l’osmolarité plasmatique 
+○ 
+On a une hyponatrémie sur l’ionogramme plasmatique, 
+mais elle est associée à une hypertonicité plasmatique. 
+Par exemple, dans le diabète, l’hyperglycémie peut aug-
+menter l’osmolalité plasmatique, provoquant un trans-
+fert d’eau du compartiment intracellulaire (IC) vers le 
+compartiment extracellulaire (EC) (le plasma). Cela dilue 
+la concentration en sodium, et la natrémie semble plus 
+basse qu’elle ne l’est réellement. Dans ce cas, la natré-
+mie ne reflète pas correctement l’osmolalité plasma-
+tique, car il y a une forte concentration de molécules 
+(comme le glucose) dans le plasma. Cela se voit aussi en 
+cas d’hyperurémie (= augmentation du taux d'urée dans 
+le sang) importante dans l’insuffisance rénale. 
+○ 
+Là encore, sans attendre le dosage de l’osmolalité plas-
+matique, on a des formules pour corriger la natrémie. 
+ 
+
+---PAGE---
+35 / 38 
+ 
+III. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation intracellulaire 
+C) Hyperhydratation intracellulaire (HIC) 
+Raisonnement devant une 
+hyponatrémie 
+hypotonique 
+Si on a éliminé les fausses hyponatrémies et que l’hyponatrémie de-
+vant laquelle on se trouve correspond bien à une hyperhydratation 
+intracellulaire, il faut :  
+ Mesurer l’osmolalité urinaire 
+ Apprécier l'état d'hydratation extracellulaire 
+ 
+● Si l’osmolalité urinaire est appropriée, c'est-à-dire que c'est 
+une hyperhydratation intracellulaire avec en excès d'apport en 
+eau :  
+○ 
+C’est un apport excessif en eau, donc si le rein fonc-
+tionne bien, il y a correction rapide par augmentation 
+du volume urinaire avec des urines diluées. Dans ce cas, 
+l’ADH est très diminuée. 
+○ 
+Peut se voir chez le sujet dénutri, dans certaines mala-
+dies psychiatriques ou dans la potomanie 
+○ 
+Définition de la potomanie (issue des commentaires du 
+prof) : habitude d'absorber des grandes quantités d'eau 
+sans apport osmotique.  
+ 
+● Si l’osmolalité urinaire est inappropriée (beaucoup plus fré-
+quent) :  
+○ 
+L’osmolalité urinaire reste élevée (> 150 mosm/L), la 
+réponse urinaire est inappropriée donc on a une anti-
+diurèse inappropriée à l’hypo-osmolalité plasmatique. 
+Ça peut correspondre à :  
+■ 
+Une altération rénale des mécanismes de dilu-
+tion/de concentration des urines (maladie ré-
+nale). 
+■ 
+Une anomalie de la réponse rénale à certaines 
+hormones ou à une sécrétion inappropriée 
+d'hormone anti-diurétique (SIADH). 
+■ 
+Il y a 3 sous-cas de figures : 
+ 
+ 
+ 
+ 
+
+---PAGE---
+36 / 38 
+III. Signes cliniques et biologiques, démarche diagnostique et étiologies 
+des troubles de l’hydratation intracellulaire 
+C) Hyperhydratation intracellulaire (HIC) 
+Raisonnement devant une 
+hyponatrémie 
+hypotonique 
+3 cas de figure de l’hyponatrémie avec antidiurèse inappropriée : 
+ 
+⯈ Hyperhydratation intracellulaire (IC) avec déshydratation extracellulaire 
+(EC) :  
+● Dans ce cas, il y a un  déficit qui prédomine sur le sodium. On a une 
+hypovolémie vraie, ce qui stimule la sécrétion de l'hormone antidiu-
+rétique (ADH).  
+● Causes : Pertes extrarénales (diarrhées, vomissements, hémorra-
+gies) ou rénales (insuffisance surrénale, abus de diurétiques).  
+● C'est ce qu'on appelle les « hyponatrémies de déplétion » (atten-
+tion, terme qui peut être trompeur car c'est une déplétion du sec-
+teur extracellulaire). 
+● Ne pas hydrater avec uniquement de l’eau pure mais donner des 
+osmoles ++ 
+ 
+⯈ Hyperhydratation mixte (intra- et extracellulaire) :  
+● Dans ce cas, il y a plus de gains d'eau que de sodium. 
+L’hyponatrémie résulte de la dilution due à la rétention excessive 
+d’eau et de sodium. On parle ici d’ « hyponatrémie de dilution ». 
+● Il y a des signes d'hyperhydratation extracellulaire (œdèmes) et du 
+fait d’une hypovolémie efficace, l’hormone antidiurétique (ADH) et 
+l’aldostérone sont mises en jeu → hyperaldostéronisme secondaire.  
+● Causes (les mêmes que l’hyperaldostéronisme secondaire) : insuffi-
+sance cardiaque, syndrome néphrotique. 
+● Faible volume urinaire, faible excrétion urinaire de Na+, mais avec 
+tout de même une osmolarité urinaire élevée. 
+ 
+⯈ Hyperhydratation intracellulaire avec VEC normal :  
+● Il y a un gain isolé en eau pure. Ce cas correspond à une sécrétion 
+inappropriée d’ADH (SIADH), où l’ADH est sécrétée de manière ex-
+cessive, entraînant une réabsorption excessive d’eau, ce qui dilue la 
+natrémie sans affecter le volume extracellulaire.  
+● Causes :  
+○ 
+Paranéoplasique (notamment les cancers bronchopulmo-
+naires qui peuvent être secondaires à d'autres maladies 
+pulmonaires); 
+○ 
+Affections pulmonaires 
+○ 
+Atteinte centrale 
+○ 
+Iatrogène : médicaments qui peuvent générer une sécrétion 
+inappropriée d’ADH (diurétiques, vincristine, cyclophos-
+phamide...) 
+ 
+
+---PAGE---
+37 / 38 
+ 
+Conclusion 
+ 
+ 
+ 
+
+---PAGE---
+38 / 38 
+ 
+
+---PAGE---

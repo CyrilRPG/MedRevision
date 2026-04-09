@@ -1,0 +1,1226 @@
+ 
+RT : Aylin AKDAS et NaëlLe BOUKHRIS 
+RL : Ouassima CHETTAB 
+ 
+ 
+UE6– Hématologie  
+ 
+Hématologie 
+Cours n°13 
+Dr Roudot– 17/03/2026 – 10h15 
+ 
+Syndrome hémorragique d’origine hématologique et 
+thrombose veineuse profonde 
+ 
+ 
+PLAN DU COURS 
+I. 
+Examen clinique  
+A. Interrogatoire  
+B. Examen physique  
+C. Critères clinique  
+D. Définitions 
+II. 
+Anomalies de l’hémostase primaire (thrombopathies) 
+A. Anomalies acquises  
+B. Anomalies constitutionnelles 
+III. 
+Maladie de Willebrand (hémostase primaire)  
+A. Introduction 
+B. Approche diagnostic  
+C. Type 1 et type 2    
+D. Traitement et prise en charge  
+IV. 
+Anomalies de la coagulation  
+A. Anomalies acquises  
+a) CIVD 
+b) Fibrinolyse aiguë primitive  
+c) Hypovitaminose K 
+d) Insuffisance hépatique  
+e) Inhibiteur de facteurs  
+B. Anomalies constitutionnelles  
+a) Hémophilies 
+b) Thrombophilie  
+1) Généralités 
+2) Thrombose veineuse  
+3) Démarche diagnostique  
+4) Bilan de thrombophilie 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 2 sur 25 
+ 
+ 
+ 
+ 
+ 
+I. Examen clinique   
+A. Interrogatoire  
+ 
+ 
+L’examen se déroule en 2 parties. : 
+- 
+L’interrgatoire  
+- 
+L’examen physique  
+ 
+ 
+ 
+ 
+ 
+On commence par trouver la localisation des saignements, c’est la 
+première question à poser au patient : 
+- Cutané : ecchymose (= un bleu), pétéchie ou purpura (=petites taches 
+violacées sur tout le corps) - Muqueux : épistaxis (= nasal), 
+gingivorragie(=bouche, gencives), règle (métrorragie) 
+- Ostéoarticulaire 
+- Hémarthrose (saignement à l’intérieure des articulations) : pas 
+fréquent 
+- Hématome profond (saignement musculaire) 
+- Ou sinon des saignement un peu plus grave (intracrânien, intra 
+péritonéale par exemple). 
+ 
+Dans quelles circonstances sont présents les saignement :  n’est pas la 
+même chose si c’est spontané ou provoqué par un choc (accident, ...). 
+Le caractère spontané est un critère de gravité supérieure par rapport 
+au provoqué. gravité supérieure par rapport au provoqué. 
+ 
+La fréquence : Combien de fois ? à demander au patient. Ça peut être 1 
+foi par jour, 1fois par semaine, 1fois par mois. Nous avons des scores de 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 3 sur 25 
+ 
+cotation pour savoir si c’est grave ou pas. Donc les saignements très 
+rares ne sont pas graves généralement.  
+ 
+Question : C’est à partir de combien de saignement par mois qu’on 
+considère que c’est grave ? Ça devient significatif quand c’est au moins 1 
+fois par semaine pour l’épistaxis. Si le patient te dis qu’à chaque 
+brossage de dent il saigne ce n’est pas normal alors que s’il te dit de 
+temps en temps j’ai des traces de sang alors ce n’est pas médicalement 
+significatif. 
+ 
+L’abondance : Ce n’est pas la même chose entre un patient qui vous dit 
+j’ai eu une goutte de sang que j’ai saigné pendant 1 heure. Donc c’est 
+un critère d’évaluation la durée du saignement et son abondance. 
+ 
+La durée d’évolution : à partir de quand c’est apparu. Un patient qui dit 
+je saigne depuis l’enfance (il a 20 ans ajd) ça s’oriente vers une 
+pathologie constitutionnelle. Un patient de 40 ans, ça fait 6 mois qu’il 
+commence à avoir des bleus on s’orientera vers une pathologie acquise 
+(on verra plus tard dans le cours acquise et constitutionnelle) 
+ 
+Les antécédents familiaux, toujours les repérer pendant l’interrogatoire 
+pour aboutir à un arbre généalogique. On regarde qui dans la famille a 
+une symptomatologie hémorragique. Type unique ou multiples, 
+autosomique ou dominant, lié à X les garçons sont atteints... 
+ 
+Les antécédents chirurgicaux et obstétricaux, permet de savoir s’il y a 
+des symptomatologies provoquées, des contres indications pour des 
+opérations, ... 
+ 
+Les médicaments : les fonctions plaquettaires à connaitre par cœur 
+(antiagrégant, aspirine, Plavix ) , les anticoagulants (provoque des 
+saignements). 
+ 
+ 
+ 
+ 
+ 
+ 
+B. Examen physique 
+ 
+ 
+Toujours prendre la FC (fréquence respiratoire), le pouls, tension artérielle, 
+la saturation. Ca permet d’évaluer l’état du patient (état de choc ou pas). 
+On vérifie tous les téguments, s’il y a des ecchymoses, purpura et leur 
+localisation ( m.inf , m.sup,...), la bouche pour voir s’il y a des bulles (signe de 
+gravité.) 
+Examen spécialisé en ORL si le patient présente uniquement des épistaxis ( ca 
+peut être la coagulation mais aussi un problème vasculaire au niveau du nez 
+simplement). 
+Examen neurologique, si c’est bien toléré par le patient ou pas. 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 4 sur 25 
+ 
+ 
+Examen spécialisé si une seule localisation récidivante ; exemple consultation 
+gynécologique si métrorragie. 
+                             C. Critères de gravité  
+ 
+ 
+Pour un saignement aigu : hypotension, tachycardie, un peu de confusion ça 
+nous oriente vers un tableau de choc avec une mauvaise tolérance 
+hémodynamique à la perte sanguine. 
+Vous avez eu un cours sur la thrombopénie et on vous a parlé d’un score pour 
+évaluer la gravité d’un PTI et vérifier si c’est une urgence ou pas. 
+Ensuite l’orientation diagnostic, on veut savoir si c’est une anomalie de : 
+- L’hémostase primaire qui concerne les plaquettes ; la qualité, la quantité et 
+Facteur Willebrand. Alors on trouvera des saignements muqueux et cutanés 
+(épistaxis, gingivorragie, ecchymoses). 
+- La coagulation avec un déficit de facteur. Alors on trouvera des hématomes 
+(saignement intramusculaire, saignement profond et provoqué). 
+ 
+ 
+ 
+                   D. Orientation clinique (à connaître +++) 
+ 
+ 
+(Il a juste lu le diapo) 
+La différence entre pétéchies et purpura, c’est la taille : pétéchie (petites 
+taches <2mm ) et purpura ( plus grand). 
+Et les hémorragies des muqueuses on peut en retrouver dans les anomalies 
+de coagulation mais seulement post traumatique. Dans l’hémostase primaire 
+ça serait du spontané alors que coagulation c’est du provoqué. 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 5 sur 25 
+ 
+ 
+ 
+ 
+ 
+                         E. Définitions  
+ 
+ 
+Les définitions qu’on doit connaitre, il a lu les définitions en rajoutant 
+quelques petites infos en plus : 
+ 
+- Les bulles hémorragiques sont des complications qu’on peut avoir 
+dans les PTI sévère. C’est pour ça il faut regarder la bouche des patients 
+(critère de gravité !) 
+ 
+- Ménorragie : compliqué d’estimer l’abondance par la patiente. Donc 
+on a fait des scores pour savoir si les règles sont abondantes; c’est le 
+score de HIGHAM. Ça permet de savoir le volume de sang perdu à 
+chaque cycle : ▪Si on perd – de 100ml/mois = pas abondant. 
+ 
+- Si on perd + de 100ml/mois = abondant 
+- Hématurie (hématie dans le sang) à ne pas confondre avec 
+hémoglobinurie (Hb dans le sang). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 6 sur 25 
+ 
+ 
+ 
+ 
+       II. Anomalies de l’hémostase primaire (thrombopathies) 
+ 
+ 
+ 
+ 
+C’est une plaquette avec : 
+ 
+- Des récepteurs importants pour le bon fonctionnement GP Ib/IX/V 
+(récepteur du facteur de Willebrand) et GP IIb/IIIa (récepteur du 
+fibrinogène) A BIEN CONNAÏTRE ! 
+- Des granules 
+ 
+Qu’est-ce qui pourrait mal fonctionner sur une plaquette ? tout... 
+ 
+On peut avoir des déficits (nombres diminués) en récepteurs (GP 
+Ib/IX/V ou GP IIb/IIIa). Déficit sévère, modéré, ou mineur. 
+ 
+     On peut avoir des déficits en granules avec des dysfonctionnements : 
+cela concerne plutôt des anomalies constitutionnelles. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 7 sur 25 
+ 
+ 
+ 
+A. Anomalies acquises  
+ 
+ 
+(Note RT : Une anomalie constitutionnelle est présente dès la naissance 
+(génétique) alors qu’une anomalie acquise apparaît au cours de la vie a cause 
+d’un facteur externe ou d’une maladie.) 
+ 
+La cause n°1 en France sont les médicaments, qui perturbe le fonctionnement 
+des plaquettes : 
+- Volontairement avec les antiagrégants 
+- Effet secondaire associé au AINS 
+- IRS : antidépresseur avec des effets secondaires connus qui peut donner des 
+symptomatologieshémorragiques 
+ 
+On peut avoir des thrombopathies acquises du a des maladies ; 
+- Gammapathie monoclonal (trop de production de IgG ou IgM) 
+- SMP (hyperplaquethose, les plaquettes reconnaissent trop les facteurs de 
+Willebrand) 
+ - SMD (cellules de mauvaise qualités) 
+ 
+Pour le diagnostic des thrombopathies acquises on va faire différents 
+examens et on s’attend à ce que : 
+- Le temps d’occlusion plaquettaire soit allongé (perturbé) 
+- La numération plaquettaire soit normale ou anormale (dépend de la cause ) 
+- Le frottis sanguin normal (en dehors du SMD) 
+- Le facteur de Willebrand normal 
+- TP, TCA, Fibrinogène normal 
+ 
+ 
+ 
+ 
+ 
+ 
+B. Anomalies constitutionnelles  
+ 
+ 
+C’est une anomalie héritée des parents. Qui peut être de l’autosomique 
+dominant ou du récessif. Extrêmement rare (en dessous de 1 cas pour 100 
+000 personnes) 
+Si c’est de l’autosomique dominant tout le monde dans la famille sera 
+malade. Alors que si c’est du récessif on a 1 chance sur 2. 
+C’est une pathologie à syndrome hémorragiquecutanéo-muqueux, épistaxis, 
+gingivorragie, ménorragie DES L’ENFANCE. 
+Les perturbations attendues sont : 
+- Le temps d’occlusion plaquettaire soit allongé (le plus souvent) surtout si 
+c’est grave  
+- La numération plaquettaire en fonction du type normale ou diminué 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 8 sur 25 
+ 
+- Le frottis sanguin normal ou perturbé 
+- Le facteur de Willebrand normal 
+ 
+Pour le diagnostic on va faire : 
+- Des études fonctionnelles pour le caractérisé : Aréométrie (de l’agrégation 
+plaquettaire) Cyrtométrie en flux (compter le nb de récepteur sur la 
+membrane des plaquettes) 
+- Etude génétique 
+(la suite n’est pas à savoir mais il en parle quand même ☺) 
+Les pathologies fréquentes dans les thrombopathies :  
+Le Bernard-Soulier perte du récepteur GP Ib-IX-V. Le déficit peut être sévère 
+et donc une symptomatologie hémorragique importante. On peut avoir une 
+hypothèse diagnostic sur le frottis sanguin des plaquettes avec 
+la taille d’une hématie. La transmission c’est du récessif. Syndrome 
+hémorragique +++ ça saigne très très bien en spontané et provoqué. 
+Le Glanzmann (à connaître de nom) perte du récepteurGP IIb/IIIa. Il n’y a plus 
+de liaison avec le fibrinogène. La fréquence identique au Bernard-Soulier 
+(1/100 000). Sur frottis sanguin les plaquettes apparaissent normales. 
+Transmission autosomique récessif (consanguinité). La symptomatologie 
+hémorragique sera très très sévère. 
+Pour la fréquence c’est celle en France, il y a certaines ethnies où la fréquence 
+est augmenté et France il y a une variance le « GYPSY » 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 9 sur 25 
+ 
+ 
+ 
+Toujours pas à connaitre !! (il n’y aura pas de questions dessus) 
+ 
+Le MYH9 c’est une protéine qui joue sur le cytosquelette et ça va entrainer 
+des petites anomalies de fragmentations des plaquettes et on va se retrouver 
+avec une thrombopénie +/- marqué. Les plaquettes auront une taille 
+anormale. Fréquence 1 cas sur 300 000. Transmission autosomique dominant 
+(parent, grand-parent atteint) 
+ 
+La symptomatologie hémorragique variable pcq ça dépend du taux de 
+plaquettes. Une surdité, Insuffisance rénale peuvent être associés. 
+ 
+Le Wiskott Aldrich, très rare. Anomalie du gène Wasp toujours le 
+cytosquelette et on va avoir des anomalies des plaquettes (1/4 de la taille 
+habituelle) toutes petites sur le frottis sanguin. Également associé à d’autre 
+anomalie (eczéma, déficit immunitaire ...) Transmission lié à X. 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 10 sur 25 
+ 
+On finit avec les anomalies de sécrétions : Syndrome des plaquettes grises. Au 
+laboratoire les plaquettes apparaissent complètement décolorées. 
+ 
+ 
+ 
+                           III. La maladie de Willbrand  
+A. Introduction 
+ 
+ 
+On reprend les diapo à connaître : 
+ 
+C’est une maladie de transmission autosomique généralement c’est du 
+dominant. (à retenir) Exceptionnellement ça peut être récessif. C’est la plus 
+fréquente des pathologies de l’hémostase que vous allez rencontrer dans 
+votre activité. 1 personne sur 100 est porteur de la maladie de WB. Pas 
+symptomatique dans la majorité des cas mais la fréquence en termes de gens  
+qui saignent est autour de 1 pour 1000. 
+ 
+Le facteur de Wb possède 2 rôles : 
+- L’adhésion plaquettaire en interagissant avec le collagène quand il y a une 
+brèche vasculaire, ça sert de récepteur à la GP Ib-IX-V, 
+- Transporter le facteur VIII pour le protéger et augmenter sa disponibilité  
+ 
+On a plusieurs types : (à connaître) 
+ 
+-> Type 1 : c’est le plus fréquent et le plus simple à identifier. Il s’agit d’un 
+déficit quantitatif partiel en facteur Willebrand (WB). Autrement dit, on a 
+moins de facteur dans le sang, mais celui qui est présent fonctionne 
+normalement. 
+ 
+ - On observe donc une diminution de l’antigène (vWF:Ag) et de l’activité 
+(vWF:RCo). Comme il s’agit d’un déficit quantitatif, la qualité du facteur est 
+conservée : il n’y a pas d’anomalie fonctionnelle, et le rapport 
+activité/antigène reste normal. 
+ 
+ - L’efficacité globale est diminuée simplement parce qu’il y a moins de 
+facteur disponible, et non parce qu’il fonctionne mal. 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 11 sur 25 
+ 
+- On retrouve aussi une diminution du facteur VIII proportionnelle à la 
+baisse du vWF, puisque le vWF joue un rôle de transporteur et de protecteur 
+du facteur VIII dans le sang. 
+- Tout est diminué de façon homogène 
+ 
+-> Type 3 : l’autre déficit quantitatif, plus simple à repérer car il n’y a plus de 
+facteur circulant.  
+- On observe donc une diminution majeure voire absence en dessous de 5 : 
+- de l’antigène (vWF:Ag) 
+- de l’activité (vWF:RCo) 
+- Le facteur VIII est aussi très fortement diminué, car il n’est plus protégé 
+par le vWF  
+ 
+-> Type 3 = TYPE RECESSIF 
+  
+On avait vu que c’était rarement récessif, parce que pour arriver à avoir 0% 
+de facteur de WB circulant il faut que les deux parents soient porteurs d’une 
+maladie de WB et que chacun transmette un gène altérer. 
+ 
+-> Type 2 : déficit qualitatif. On peut avoir des associations entre un facteur 
+WB diminué et anormal. Il y a plusieurs raisons qu’il ne fonctionne pas, il 
+peut : 
+- Augmenter ou diminuer son affinité pour GP Ib-IX-V 
+- Augmenter ou diminuer son affinité pour le facteur VIII 
+ 
+- Globalement on a un facteur qui fonctionne moins bien 
+ 
+- Il existe un sous type « type 2n » ; facteur WB avec un taux normal mais qui 
+ne sait pas reconnaitre le facteur VIII (= hémophile A). 
+ 
+->Pour faire la distinction entre 2 et 2n il faut faire pleins de test 
+compliqué… 
+ 
+ 
+ 
+B.Approche diagnostic   
+ 
+ 
+Donc c’est une maladie de l’hémostase primaire on en revient avec la même 
+composition ; saignement muqueux (épistaxis, gingivorragies, 
+ménométrorragies) et cutanés (ecchymoses) spontanés ou pour des 
+microtraumatismes. 
+ 
+Les saignements per-opératoire ou post opératoire, on peut saigner pendant 
+le geste on aura un petit caillot comme cicatrice et on a une chute d’escarre 
+(chute du petit caillot qui s’est formé). 
+ 
+Le diagnostic est fait chez des patients jeunes quand ils commencent à être 
+symptomatique. Pourquoi c’est mieux pour les médecins ? pour bien 
+différencier entre acquises et constitutionnelles. 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 12 sur 25 
+ 
+Si on a un patient de 40, 50, 60 ans et qu’il a une maladie vivante depuis la 
+semaine dernière (ça peut être vrai qu’on soit passer a coter pendant ses 40-
+60ans) alors ca serait du acquis du a d’autres pathologie. Bien faire 
+l’interrogatoire pour savoir l’évolution. 
+ 
+Pour le diagnostic : 
+- TCA, TCK normal ou allongé (selon le taux du facteur VIII) si 45% de facteur 
+VIII = TCA normal , si 15% de facteur VIII le TCA allongé 
+- Temps d’occlusion plaquettaire allongé 
+- Dosage du facteur de WB (activité et antigène) les 2 systématiquement 
+- Dosage du facteur VIII 
+- SI type2, pour savoir le sous type il existe pleins de test complémentaire à 
+faire au laboratoire. 
+ 
+ 
+ 
+ 
+  C. Les 2 types  
+ 
+ 
+Les sous types ne sont pas à connaitre mais faut savoir faire la différence 
+être un type 1 et 2 : 
+ 
+Dans un type 1 : 
+ 
+- Deficit en facteur de WB = taux < 50% 
+SI groupe sanguin O (moins que les autres physiologiquement) <40% 
+ 
+- Ratio VIII/antigène (pour savoir si facteur WB est capable de transporter le 
+facteurVIII) > 0,7 (bonne capacité jusqu’à 70%) 
+ 
+- Ration activité/antigène (pour la qualité du facteur WB) > 0,7  
+ 
+Dans un type 2 : 
+ 
+- Ration activité/antigène (pour la qualité du facteur WB) < 0,7 +++ ça montre 
+une mauvaise qualité du facteur WB. Ce qui permet de faire la distinction 
+entre type 1 et 2 
+ 
+- Ratio VIII/antigène < 0,7 exceptionnellement que dans un sous type 
+(différentielle avec hémophilie A) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 13 sur 25 
+ 
+ 
+ 
+                 D. Traitement et prise en charge (à connaître aussi)  
+ 
+ 
+ 
+En 1ere intention, on évite de donner des médicaments qui font saigner 
+aux patients qui ont des pathologies hémorragiques. Ce sont 
+notamment (aspirine, antiagrégants, anti-inflammatoire et anti- 
+coagulant) 
+ 
+- Si le patient avec la maladie de WB a une embolie pulmonaire, il faut la 
+traiter donc la seulement on peut donner des anticoagulant (ne pas 
+traiter sera plus dangereux). 
+ 
+- 
+La 2e règle, est qu’il faut un avis spécialisé et faut avoir une indication 
+formelle au traitement.  
+ 
+- 
+Contre-indication aux injections intra musculaires 
+ 
+- 
+Si maladie de von Willebrand constitutionnelle : pas de traitement au 
+long cours pour corriger définitivement le déficit, mais on a des 
+traitements qui permettent d’assurer une bonne hémostase ; on fait 
+surtout de la prévention : par exemple, si on sait que le patient va aller 
+au bloc opératoire, on va corriger son déficit. 
+ 
+→ On a deux options : 
+- Soit on lui apporte directement des facteurs de von Willebrand : c’est 
+un traitement de substitution. 
+- Soit on lui donne de la desmopressine, qui est un analogue de 
+l’hormone antidiurétique (ADH). 
+ 
+La DESMOPRESSINE va mobiliser le stock de facteur WB dans les 
+plaquettes (libération). Il faut faire des tests pour voir si ça fonctionne 
+bien chez le patient qui sont définitif. Bien comprendre que ça ne 
+produit pas, ça les libère. 
+ 
+➔Contre-indication absolue de la desmopressine au type 2b car ça 
+provoque une thrombopénie majeure rapidement. 
+ 
+La tachyphylaxie à connaitre, ça correspond à une perte rapide 
+d’efficacité de la desmopressine par épuisement des stocks de WF. 
+ 
+La tolérance au traitement, généralement ça se passe bien mais comme 
+analogue da ADH on peut avoir des poussées hypertensives ou des 
+hyponatrémies sévères. A surveiller au moment du traitement. 
+ 
+On en enfin finit avec l’hémostase primaire, maintenant on va parler de 
+la coagulation. 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 14 sur 25 
+ 
+ 
+IV. Anomalies de la coagulation  
+A. Anomalies acquises  
+a) CIVD 
+CIVD (coagulation intravasculaire disséminée) 
+ 
+Cela correspond à une activation diffuse de la coagulation du a un excès de 
+facteur tissulaire généré par les cellules (macrophage, cellules tumorales) 
+Donc on provoque la formation de caillot, et on aura plus de facteurs du a 
+l’utilisation massive. On a l’association d’une pathologie thrombotique à une 
+pathologie hémorragique. 
+ 
+Dans la CIVD il y a toujours un facteur causal : infection bactériennes sévère 
+(bacille gram-, méningocoque, parasitaire) cancer agressive, pathologie 
+obstétricales, chirurgie lourdes (poumon, prostate), venin … 
+ 
+Cliniquement on peut reconnaitre la CIVD, par une association de 
+saignements cutanéomuqueux et de microthrombie (atteinte rénale, 
+hépatique, cérébrales, ...) 
+ 
+Lésion à reconnaître ; le purpura fulminans (purpura + fébrile) avec des 
+lésions nécrotiques au niveau de la peau. Urgence ! 
+ 
+Pour le diagnostic biologique on aura : 
+- TP diminué + 
+- Facteur V diminué + 
+- Fibrinogène diminué + 
+- Les autres facteurs aussi seront diminuées, mais les trois principaux (TP, 
+Facteur V et fibrinogène) sont à connaître dans la CIVD 
+- Thrombopénie 
+- D-dimères (marqueur de fibrinolyse) augmenté 
+ 
+ 
+ 
+ 
+ 
+    
+b)Fibrinolyse 
+ 
+Fibrinolyse aigu primitive : 
+  
+C’est une activation diffuse du plasminogène. On se retrouve avec pleins de 
+plasmines fonctionnels et il n’y aura rien pour les contrôler car les inhibiteurs 
+de la plasmine sont en quantités limités ils vont être dépasser. Et donc la 
+plasmine va dégrader le fibrinogène, la fibrine et tous les facteurs de la 
+coagulation 
+ 
+Le point de départ sont : les chirurgies lourdes pulmonaire, cancers , 
+grossesses mal vécu. 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 15 sur 25 
+ 
+Dans la fibrinolyse il n’y aura pas de micro caillot donc saignement de 
+partout ++++ 
+ 
+Dans le diagnostic biologique : 
+- Diminution du fibrinogène < 1g/l 
+- TP diminué 
+- Diminution facteur V 
+- MAIS l’examen qui fait le diagnostic c’est le temps de lyse des euglobulines 
+< 30 MINS ( on forme un caillot in vitro et on regarde au bout de combien de 
+temps il est degradé. La plupart des gens dégrade en 3heures mais avec cette 
+pathologie on dégrade en 30min). 
+ 
+ 
+ 
+ 
+C)Hypovitamin
+-ose K 
+ 
+Elle cause un déficit en facteurs de la coagulation vitamine K dépendant (II, 
+VII, IX, X, protéine C, protéine S) 
+➔ les autres facteurs sont normaux !!!  
+ 
+Présence de plus ou moins de saignements 
+. 
+Qu’est-ce qui cause l’hypovitaminose K ? 
+ 
+• Le nouveau-né -> foie immature = taux de facteurs un peu plus bas + 
+carence d’apport en vitamine K ➔ saignement majeur dès les premières 
+semaines de vie (aujourd’hui, tout enfant en France à la naissance est sensé 
+recevoir de la vitamine K per os à la naissance pour éviter cela) ; 
+• Si prise d’anti-vitamine K 
+• Mort au rat (glauque un peu...) 
+• Arrêt d’alimentation 
+• Antibiotique -> élimine les bactéries du tube digestif qui produisent de la 
+vitamine K 
+• Malabsorption 
+ 
+DIAGNOSTIC BIOLOGIQUE : 
+• TP bas (par manque de facteurs VII, IX, X) 
+• TCA allongé 
+• Numération plaquettaire normale 
+ 
+Médicaments : 
+• Injection de PPSB = contient des facteurs de la coagulation (produit en 
+5min) 
+➔ Rapide, mieux que donner de la vitamine K qui prennent du temps à être 
+synthétisée (environ 24h). 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 16 sur 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D) Insuffisance 
+hépato-
+cellulaire 
+ 
+L’Insuffisance hépato-cellulaire :  
+• Pathologies hépatique (là où sont synthétisé tous les facteurs de la 
+coagulation) ➔ ICI TOUT DIMINUE, à l’inverse de l’hypovitaminose 
+• Aiguë (viral, médicaments, thrombose vasculaire...) 
+• Chronique (hépatite, alcool, cirrhose...) 
+ 
+DIAGNOSTIC BIOLOGIQUE : 
+• Temps de Quick s’allonge 
+• TP diminue 
+• Diminution homogène des facteurs de la voie exogène (II, V, VII, X) 
+• Allongement du TCA 
+• Cas chronique : Cirrhose -> cause un hypersplénisme donc séquestration 
+des plaquettes -> 
+thrombopénie 
+• Cas aigue : taux de plaquettes normales 
+• Marqueurs de cytolyse = transaminase augmente 
+ 
+ 
+ 
+ 
+E) Inhibiteur 
+des facteurs  
+ 
+Les inhibiteurs de facteurs : Anticorps dirigés contre nos protéines de la 
+coagulation 
+(on peut fabriquer des anticorps contre toutes les protéines de la 
+coagulation) ; mais le plus fréquent = anti-facteurs VIII 
+• Fréquence = 1/1M (rare) 
+• 10-20% de taux de mortalité 
+• Rare que ce soit l’inhibiteur qui tue mais plutôt les pathologies associées/ le 
+traitement 
+• Énorme saignement => hématome, ecchymose, hématuries, digestif, 
+provoqués 
+➔ Gestes invasifs = saignement +++ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 17 sur 25 
+ 
+ 
+Ça touche qui ? 
+• La femme jeune qui vient d’accoucher (jusqu’à 1 an après l’accouchement) 
+• Personnes âgées (60ans<) 
+Quelle en est la cause ? : 
+• Cancer sous-jacent 
+• Maladie auto-immun 
+• Maladie de système (lupus) 
+DIAGNOSTICS BIOLOGIQUE : 
+• TCA allongé 
+• Facteur VIII très bas (<5%) 
+• FW normal 
+• TP normal 
+• Présence d’inhibiteur anti-facteur VIII 
+TRAITEMENT : 
+• Cancer -> on traite le cancer 
+• Lupus -> immunosuppresseur 
+• Neutraliser l’inhibiteur -> immunosuppresseur 
+• Novoseven = stoppe le saignement, active la coagulation 
+• Emicizumab = en cours de développement, reconstitution du facteur VIII 
+afin de passer du facteur IX à X 
+ 
+ 
+ 
+ 
+           B. Anomalies constitutionnelles (dès la naissance) 
+A) Hémophilies  
+ 
+ 
+Maladie liée au chromosome X (hommes malades, femmes conductrices) 
+• Fréquence (1/1M) -> rare ++ -> suivit par des centres spécialisés 
+• 1/3 nouveaux cas dans leur famille 
+• Saignements musculaires/ articulations 
+• 30% de cas novo 
+ 
+❖ Hémophilie A 
+• déficit en facteur VIII (<40%) 
+• 1/5 000 (naissance masculine) 
+• Traitement : administration de facteurs VIII 
+• FW normal 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 18 sur 25 
+ 
+❖ Hémophilie B 
+• déficit en facteur IX (<40%) 
+• 1/30 000 (naissance masculine) 
+• Traitement : administration de facteurs IX 
+        
+A savoir qu’il existe des déficits pour chaque facteurs (VII, V, X...) :  
+ 
+ 
+DIAGNOSTICS BIOLOGIQUE : 
+• TCA allongé 
+• PFA normal (FW normal) 
+• Hémophilie À = QUE facteur VIII diminué 
+• Hémophilie B = QUE facteur IX diminué 
+ 
+3 formes différentes : 
+Sévère <1% de facteur circulant 
+ Modérée <5% 
+Mineure <40% 
+ 
+➔ La sévérité clinique dépend directement du taux de facteurs circulants 
+(sévères = manifestations graves et précoces) ; 
+ 
+COMPLICATIONS, (si pas traitée) : 
+• Si cas sévère : Saignements se manifestent dès l’âge où on commence à 
+marcher (articulations en tensions) -> saignements : chevilles/ genoux/ là où 
+on tombe 
+• Si saignements souvent au même endroit -> inflammations répétées -> 
+arthropathies 
+• Hématomes cérébraux -> complications locales (compressions optiques) 
+• Saignements non contrôlables 
+ 
+Patient sans prévention de risques hémorragiques = gestes vulnérables (ex : 
+chirurgie) à risques majeurs 
+ 
+TRAITEMENT : 
+• Hémophilie À = apport de facteur VIII (beaucoup de stock en hôpitaux) pour 
+corriger le 
+saignement 
+• Hémophile B = apport de facteur IX 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 19 sur 25 
+ 
+A) Thrombophilies  
+1)Généralités 
+ 
+ 
+Cette partie est bcp plus détailéle que l’année derniere ! 
+ 
+Il existe des thromboses artérielles et veineuses. Elles n’ont pas le mêmes 
+mécanismes physiopathologique, pas les mêmes traitements et pas la même 
+prévention. 
+ 
+Thrombose artérielle = lésion endothéliale et vasculaire du au gras 
+(athérosclérose). La coagulation est activée au niveau de la plaque 
+d’athérome lorsqu’une brèche se forme. 
+ 
+Ainsi les plaquettes sont activées à cette endroit. Elle peut causer des 
+infarctus et AVC. 
+ 
+ 
+ 
+ 
+Elle peut être coronaire, cérébrale ou dans les artères périphériques 
+ 
+FDR : âge, sexe (hommes plus que les femmes), ATCD familiaux de thromboses 
+artérielle (AVC, infarctus), tabagisme, TA, diabète, surpoids, sédentarité. 
+ 
+Mais la thrombose qui nous intéresse aujourd’hui c’est la veineuse. 
+ 
+ 
+2) Thrombose 
+veineuse  
+ 
+Thrombose veineuse = stase veineuse du à l’immobilisation ; d’un patient 
+alité, un vol d’avion... Cela entraine une altération de la coagulation, une 
+hyper-coagulation du sang. Elle peut aussi se former avec un caillot qui se 
+loge dans une veine et qui ralentit le débit. 
+ 
+Fréquence = 1/1000 (moins fréquent que l’artérielle) 
+ 
+Elle peut être : 
+-périphérique 
+-profondes (phlébite) 
+-superficielle 
+-proximales (genoux-veine cave) => la plus grave, à traiter ++ risque d’embolie 
+pulmonaire -distales (sous le genoux) 
+-membre supérieur (rare) 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 20 sur 25 
+ 
+-membre inférieur => majoritaire 
+-cerveaux 
+-système digestifs 
+ 
+FDR : 
+-thrombocytémie essentielle (rare) 
+-maladie de Vaquez (rare) 
+-syndrome inflammatoire chronique (ex : cancer) 
+-maladie de système 
+-femme enceinte (pic d’œstrogène favorise la survenue de caillot) -traitement 
+hormonal (contraception oestroprogrestative) 
+ 
+FDR biologique : 
+-âge 
+-ATCD familiaux 
+-ATCD personnel (si j’ai déjà fait un épisode de thrombose j’ai plus de risques 
+de refaire un épisode) -surpoids/ obésité 
+ 
+➔  La thrombose veineuse représente une urgence thérapeutique et 
+diagnostique car elle peut tuer des gens assez rapidement => 
+embolie pulmonaire. 
+ 
+Une des complications de la thrombose veineuse est l’embolie pulmonaire 
+(EP) : 
+ 
+L’EMBOLIE PULMONAIRE : 
+• évènement initial OU secondaire à une phlébite 
+• Caillot dans l’artère pulmonaire 
+• On peut décompenser => arrêt de la pompe cardiaque.... (mort) 
+• 50000-100000casparan 
+• Mortalité de 10% 
+ 
+DIAGNOSTIQUE CLINIQUE : 
+• Douleur thoracique 
+• Essoufflement (à l’effort puis au repos) 
+• Tachycardie 
+• Petite fièvre 
+ 
+ 
+3) Outils 
+diagnostique  
+ 
+On recommande des SCORE diagnostique en fonction de ce que nous dit le 
+patient afin de le classer en probabilité faible , intermédiaire ou élevée la 
+survenue d’une phlébite ou d’embolie pulmonaire (ex : score de wells, score 
+de Geneve) 
+ 
+Si probabilité élevé -> on ne fait pas de D-dimères (on est certain que le 
+patient a fait un épisode thrombotique donc ça sert à rien de faire d’autres 
+tests) 
+➔ On fait direct une imagerie (jambes -> Doppler /// EP -> angioscanner ou 
+scintigraphie pulmonaire) 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 21 sur 25 
+ 
+ 
+ Si probabilité intermédiaire, faible -> dosage de D-dimères 
+D- dimères = fragments produits quand un caillot est détruit. En gros : 
+formation d’un caillot → fibrine -> dégradation du caillot (fibrinolyse) → 
+libération de D-dimères. 
+ 
+Le seuil est de 500ng/ml (à savoir) et on adapte ce seuil en fonction de l’âge 
+du patient 
+Si < 500ng/ml -> on exclue la thrombose 
+Si > 500ng/ml -> excès de fibrine = possible thrombose 
+ 
+C’est un test assez sensible pour diagnostiquer une phlébite/ EP, la valeur 
+prédictive négative est excellente. 
+ 
+Si la probabilité clinique n’est pas forte et qu’après le test les D-dimères sont 
+inférieurs à 500ng/ml, on exclut la thrombose et on explore d’autres 
+hypothèses (ça représente bien la valeur prédictive négative élevée). 
+ 
+Attention : ca peut être faussé car les personnes avec des D-dimères élévées 
+n’ont pas forcément fait un événement thrombotique, là on a une valeur 
+prédictive positive basse. C’est pour cela qu’on doit faire un examen 
+d’imagerie pour confirmer l’hypothèse. 
+ 
+Qui a des D-dimères augmentés ? :  
+ 
+-personnes âgées (c’est pour ça que leur seuil est un peu plus élevés que 
+500ng/ml) 
+ 
+-syndrome inflammatoire (cancer, infections, auto-immun) augmente les D-
+dimères sans pour autant d’épisodes thrombotique 
+ 
+-femme enceinte (augmente avec l’évolution de la grossesse) -Insuffisance 
+rénale 
+ 
+Chez qui on fait une enquête ?? (À savoir ++) 
+  
+-1er épisode proximal OU EP, d’un homme jeune qui a moins de 50ans et n’a 
+aucun FDR (thrombose spontanée - > on se pause des questions) 
+ 
+- Si on fait un deuxième épisode en dessous de 50ans 
+-si vous êtes une femme en dessous de 50ans, sans varice 
+-si localisation inhabituel de thrombose (digestif, Membre supérieur, cérébral) 
+ 
+-thrombose distal : 
+*Homme = on dit c’est pas grave, on fait pas le test (RIP...) 
+*Femme, sous contraceptif ou enceinte = enquête QUASIMENT 
+SYSTÉMATIQUEMENT (elle risque de retomber enceinte à nouveau -> a-t-elle 
+des FDR qui pourraient lui refaire un 2ème épisode ?) 
+ 
+À contrario, si varices, FDR, âgé -> on se dit que c’est normal les épisodes de 
+thrombose donc on ne fait pas d’enquête. 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 22 sur 25 
+ 
+ 
+Maintenant on cherche les CAUSES de thrombophilie. 
+ 
+Bilan de thrombophilie = ensemble d’analyses sanguines qu’on fait chez un 
+patient qui a fait une thrombose (par exemple une phlébite ou une embolie 
+pulmonaire), pour essayer de comprendre pourquoi il a fait ce caillot. Ici 
+aussi, on fait cet examen seulement dans les situations vu précédemment 
+(patient jeune, sans facteur de risque évident…). Ceci afin de moduler notre 
+prise en charge et la prévention. 
+ 
+FDR acquis : 
+ 
+Syndrome des anti-phospholipides = anticorps dirigés contre les 
+phospholipides plaquettaires => activation des plaquettes, des cellules 
+endothéliales et des monocytes. Les 3 en même temps augmentent le risque 
+de caillot veineux et de thrombose artérielle + pathologies placentaire 
+(dangereux pour les bébés). 
+ 
+Il peut être : primaire, associé à d’autres maladies auto-immun (lupus), 
+associé à d’autres maladies de système, associé à d’autres hémopathies 
+(cancer, VIH).  
+ 
+➔ On peut faire une recherche de ces anticorps sans contexte de 
+thrombose, ni pathologies obstétricales. 
+ 
+Surtout si on cherche maladies auto-immun diffuse (ex : thrombopénie 
+chronique -> on suspect une maladie auto-immun) 
+ 
+Critères cliniques du syndrome des phospholipides (il en faut au moins 1) : 
+-thrombose veineuse ou artérielle inexpliquée (ex : personne jeune) 
+-Mort fœtale chez la femme enceinte sans cause (de plus de 10 semaine 
+aménorrhée) 
+-bébé prématuré avant 34 semaines avec éclampsie ou lésion placentaire 
+-3 fausses couches précoces non expliquées. 
+ 
+Critères biologique du syndrome des phospholipides (il en faut au moins 1) : 
+-présence d’anticoagulant type lupique qui fausse les résultats (mis en 
+évidence avec un test de venin de vipère de Russel ou un TCA 
+phosphosensible avec Index de Rosner > 15. Tout ces tests ne sont pas 
+développés par le prof). 
+-mise en évidence d’anticorps : anticardiolipides IgG/ IgM ou antibeta2GP1 
+IgG/IgM 
+  
+➔ Il faut au moins 1 de ces critères pour entrer dans la case syndrome 
+des anti-phospholipides. 
+ 
+Il faut aussi que ce soit persistant (3 mois après on doit avoir le même 
+marqueur biologique qu’initialement) !! 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 23 sur 25 
+ 
+ 
+*FDR constitutionnels (= influence la prise en charge de nos parentés) : 
+ 
+1) déficit en anti-thrombine :  
+Le taux peut diminuer : chez les petits, la femme enceinte, si insuffisance 
+hépato-cellulaire, syndrome néphrotique (anti-thrombine dans les urines), 
+sous héparines et sous L-asparginase. 
+ 
+- c’est le déficit le plus rare, le plus sévères (pénétrante de 100% -> tout le 
+monde est symptomatique). 
+ 
+2) déficit en protéine C 
+-souvent hétérozygote (autosomique dominant) et exceptionnellement 
+homozygote (viable mais symptomatique dès les premières heures de vie -> 
+purpura) 
+-pénétrante variable (pas obligé de thromboser si on est porteur, ni de 
+récidiver si on a déjà eu un épisode) 
+-taux de protéine C bas chez les nouveaux-nés et peu être augmenté chez la 
+femme enceinte 
+ 
+-cause : insuffisance hépatique, sous ADK, carence en vitamine K 
+ 
+ on fait le dépistage pour prévenir la récidive et faire l’enquête familiale 
+ 
+3) déficit en protéine S 
+-transmission autosomique dominante (si cas de déficit homozygote = même 
+tableau que pour la protéine C homozygote) 
+-pénétrante variable (comme la C) 
+-diminuée chez le nouveau née 
+-causes : insuffisance hépato-cellulaire (vitamine K dépendante), carence en 
+vitamine K (toujours vitamine K dépendante) 
+-grossesse : Les œstrogènes ne font pas bon ménage avec la protéine S -> 
+diminution du taux de protéine S 
+circulant en cas de grossesse et sous contraceptif 
+> on fait le dépistage pour prévenir la récidive et faire l’enquête familiale 
+ 
+4) Mutations du facteur II « G202010A » 
+-transmission autosomique dominante 
+-mutation unique : « G202010A » 
+-FDR de thrombose (on ne thrombose pas obligatoirement) 
+-taux de facteur II normal ou augmenté, la mutation modifie juste la fonction 
+ 
+-> pas de dosage de protéine mais étude génétique (de polymorphisme). 
+ 
+ 
+5) Mutation du facteur V « Leiden » 
+-hétérozygotes (certains cas homozygotes) 
+-population caucasienne 
+-1 seule mutation connu : « Leiden » 
+-taux de facteur V est normal, la mutation modifie juste la fonction pas le 
+taux circulant ! 
+-risque de thrombose faible, risque de récidive faible 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 24 sur 25 
+ 
+ 
+ 
+Ce qu’il faut tirer de ce tableau c’est que : 
+-> antithrombine = le plus rare et le plus sévère (RR à 50) 
+-> protéine C et S = même prévalence 
+-> mutation II et V = 3 à 5 % de la population qui portent une mutation II ou V 
+à l’état hétérozygote (c’est le plus fréquent des FDR constitutionnels). 
+ 
+À l’état hétérozygote, ce sont des facteurs de risques faibles (RR à 5-10) 
+À l’état homozygotes, c’est sévère (RR à 50) 
+ 
+ 
+ 
+Note de la RT : J’essaie de vous expliquer ce tableau avec MES PROPRES MOTS 
+parce que ce que dit le prof est peu détaillé et brouillon… (allez à 1:36:35 de 
+l’enregistrement si jamais vous voulez l’écouter) : 
+ 
+Normalement, dans le sang, il existe un équilibre entre ce qui fait coaguler (les 
+facteurs de coagulation) et ce qui empêche la coagulation (l’antithrombine, la 
+protéine C et la protéine S). Si cet équilibre est rompu, on peut faire 
+des caillots facilement. Le bilan de thrombophilie sert donc à vérifier s’il 
+manque des “freins” à la coagulation (ex : protéine C), ou si il y’a une 
+anomalie génétique qui favorise les caillots (ex : mutation II). 
+ 
+On se pause alors la question : A quel moment on fait le bilan chez les patients 
+et à quel moment ça ne sert à rien ? 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Dr. ROUDOT – Syndrome hémorragique d’origine hématologique et 
+TVP 
+Page 25 sur 25 
+ 
+ 
+ 
+Pendant un épisode aigu, le corps est en train de fabriquer et de détruire des 
+caillots, donc il consomme certaines protéines comme l’antithrombine, la 
+protéine C et la protéine S pour réguler la situation. 
+ 
+-> le taux de ces protéines baissent donc car elles sont utilisées. Si on les dose 
+à ce moment-là, on risque de croire à tort que le patient a un déficit 
+chronique, alors que c’est juste une consommation transitoire. => faux 
+positif, on diagnostique à tord une maladie du à un manque de protéine 
+anticoagulante à ce moment. 
+ 
+Les traitements anticoagulants qu’on donne pour soigner la thrombose 
+modifient eux aussi les résultats. Par exemple : les AVK bloquent la vitamine K 
+et font baisser la protéine C et la protéine S (elles sont K dépendante) => faux 
+positif (persistent pendant 3 semaines) 
+ 
+Les AOD bloquent les facteurs de coagulation -> protéines apparaissent 
+faussement normales ou élevées => faux négatif (persiste 4j), on pense qu’il 
+n’y a pas de problèmes. 
+ 
+Héparines = amplifie l’action de l’antithrombine -> antithrombine plus utilisée 
+donc baisse => faux positif 
+ 
+Les anomalies génétiques (ex : mutations des facteurs de coagulation), ne 
+changent pas avec le temps, ni avec la thrombose, ni avec les traitements. Ce 
+sont des caractéristiques inscrites dans l’ADN, transmissent par nos 
+parents. Donc ces tests-là peuvent être faits à n’importe quel moment sans 
+fausser les résultats. 
+ 
+Pour la femme enceinte, il n’y a pas de soucis pour doser l’antithrombine et la 
+protéine C par contre la protéine S peut se voir diminuer. 
+ 
+En résumé : il ne faut pas faire de bilan de thrombophilie en phase aiguë NI 
+sous traitement anticoagulant.  
+ 
+On attend que la situation soit stabilisée et que les médicaments soient 
+arrêtés pour avoir des résultats fiables (sauf pour les mutations). 
+ 
+!! À savoir que pour les études génétiques constitutionnelles comme dans le 
+cas de mutations II et V, il faut demander l’accord du patient et SIGNÉ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---

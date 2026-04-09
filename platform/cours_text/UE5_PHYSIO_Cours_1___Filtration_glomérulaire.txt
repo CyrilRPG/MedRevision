@@ -1,0 +1,1074 @@
+ 
+RT : Wissal Boukerker, Léa Makhlouf 
+RL : Vell Pillay Samoo 
+ 
+ 
+UE5– VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN  
+ 
+PHYSIOLOGIE 
+Cours n°1 
+Pr Carole Planès – 02/03/2026 – 8h30-10h 
+FILTRATION GLOMÉRULAIRE 
+PLAN DU COURS 
+I.​
+FONCTIONS DU REIN 
+II.           STRUCTURE DU REIN 
+A.​ Macrostructure du rein 
+B.​ Unité fonctionnelle du rein : le néphron 
+C.​ Le Glomérule 
+D.​ L’appareil juxta-glomérulaire 
+E.​ Vascularisation 
+      III.           DÉBIT SANGUIN RÉNAL (DSR) ET DÉBIT PLASMATIQUE RÉNAL (DPR) 
+              A.    DSR 
+              B.    DSR et filtration glomérulaire 
+      IV.           FILTRATION GLOMÉRULAIRE  
+A.​  Débit de filtration glomérulaire DFG 
+B.​
+Force à l’origine du mouvement d’eau à travers la membrane glomérulaire 
+       V.           REGULATION DU DSR ET DFG 
+              A.    Mécanismes d’ajustement du DSR et du DFG 
+              B.    Présentation des mécanismes de régulation 
+C.​
+Régulation intrinsèque 
+D.​
+Régulation extrinsèque 
+       VI.           Physiopathologie : sténose de l’artère rénale 
+ 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+I. FONCTIONS DU REIN 
+Les différentes 
+fonctions 
+→ Il est impliqué dans la régulation du volume et la 
+composition du compartiment extracellulaire = 
+homéostasie du milieu intérieur.  
+→ Participe à l’équilibre acido-basique avec l’appareil 
+respiratoire → Fonction d’émonctoire : excrétion des déchets 
+de l’organisme comme les déchets protéique (urée), déchets 
+nucléiques (acide nucléique), déchet métabolique (musculaire 
+avec la créatinine…)  
+→ Fonction endocrine : production d’hormone  
+▪ Rénine : contrôle de la PA  
+▪ Érythropoïétine (EPO) : intervient dans la production des 
+GR. Lors de situation d’Hypoxie, les fibroblastes du tubule 
+rénale sécrètent de L’EPO pour augmenter la production des 
+GR est donc le transport de l’O2.  
+▪ Le calcitriol (forme active de la vitamine D) 
+ 
+II. STRUCTURE DU REIN 
+A.​Macrostructure du rein 
+Organisation 
+cortico-médullai
+re du rein 
+ 
+On distingue :  
+▪ Le cortex : partie la plus périphérique dans laquelle vont se 
+situer les glomérules. 
+▪ La médullaire : plus interne où plongent les tubules.  
+Le rein est divisé en lobules rénaux : ils contiennent dans le cortex les 
+glomérules des néphrons, ces glomérules donnent ensuite les tubules 
+rénaux qui s’enfoncent plus en interne dans la médullaire, pour former 
+les pyramides de Malpighi.  
+Page 2 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+ 
+II. STRUCTURE DU REIN 
+A. Macrostructure du rein (suite) 
+Organisation 
+cortico-médullai
+re du rein 
+(suite) 
+Entre ces lobules rénaux, on a du tissu conjonctif : ce sont les 
+colonnes de Bertin. Chaque lobule rénale est vascularisé par une 
+artère interlobaire.  
+ 
+L'urine se forme dans le néphron.  
+A la fin du tubule rénal, l’urine est dans sa forme définitive : elle est donc 
+arrivée dans la partie la plus interne de la médullaire au niveau des papilles 
+et elle n’est plus modifiée. Elle est ensuite déversée dans les calices puis le 
+bassinet et enfin l’uretère.  
+Ce qu’il faut retenir ! La fin de la transformation de l’urine se trouve au 
+niveau des papilles et il faut distinguer le cortex (avec les glomérules) 
+de la médullaire (ou plongent les tubules rénaux).  
+B. Unité fonctionnelle du rein : le néphron 
+Le néphron 
+L’unité fonctionnelle du rein s’appelle le néphron. Il y en a à peu près 1 
+million par rein. Les néphrons sont formés : 
+- D’un glomérule (structure sphérique) qui est la structure d’interface entre 
+la circulation sanguine et l’espace urinaire. Ils sont situés dans le cortex plus 
+ou moins profondément. C'est à ce niveau que la filtration glomérulaire va 
+avoir lieu, une partie du plasma va passer dans l’espace urinaire et va être 
+recueilli dans la capsule de Bowman. - D’un tubule rénal formé de plusieurs 
+zones qui va descendre plus profondément. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+II. STRUCTURE DU REIN 
+B. Unité fonctionnelle du rein : le néphron (suite) 
+Schéma 
+ 
+● La première partie de ce tubule rénale est le tubule contourné proximal : 
+toujours situé au niveau du cortex, il est très enchevêtré.  
+● Ensuite le tube droit proximal qui s’enfonce dans la médullaire rénale. 
+● L’Anse de Henlé : branche descendante fine, puis branche ascendante 
+fine et branche ascendante large (ou tube droit distale). Elle forme un 
+trajet en épingle à cheveux qui plonge dans la médullaire puis remonte 
+dans le cortex vers le glomérule.  
+● Tube contourné distal qui est en contact avec le glomérule, dont une 
+structure histologique particulière : la macula densa (tache sombre).  
+● Le canal connecteur très court  
+● Le canal collecteur : à la fin de ce canal, l’urine est définitive et elle ne 
+sera plus modifiée. Le canal plonge vers la médullaire au niveau de la papille 
+(Puis calice bassinet etc…).  
+ 
+Page 4 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+II. STRUCTURE DU REIN 
+B. Unité fonctionnelle du rein : le néphron (suite) 
+Les deux types 
+de néphrons 
+ 
+Il existe 2 types de néphrons : Les néphrons superficiels et les néphrons 
+profonds.  
+ 
+Peu importe le néphron, leur glomérule est TOUJOURS situé dans le cortex. 
+Ce qui diffère, c’est la longueur de l’anse de Henlé.  
+➔ Pour les néphrons superficiels, le glomérule est plutôt externe dans le 
+cortex et les branches descendantes fines et ascendantes fines sont courtes 
+voire inexistantes. Elles plongent très peu dans la médullaire et sont plutôt 
+dans sa partie externe.  
+➔ Les néphrons profonds présentent des glomérules plus internes dans le 
+cortex et cette fois une grande branche descendante fine et ascendante fine 
+qui atteignent la médullaire interne. Ils contribuent à la 
+concentration/dilution de l’urine. 
+ 
+Page 5 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+II. STRUCTURE DU REIN 
+C. Le Glomérule 
+Schéma 
+C’est dans le glomérule que se produit la filtration glomérulaire, c’est donc 
+une zone de contact entre la circulation sanguine (plasma) et l’espace 
+urinaire : 
+ 
+Dans chaque glomérule, le sang arrive par l’artériole afférente (venant de 
+l’artère arquée). Elle donne lieu à un capillaire glomérulaire enchevêtré qui 
+s’appelle le flocculus. Ce capillaire revient vers la haut et se jette dans 
+l’artériole efférente où le sang filtré repart. Ce réseau de capillaire 
+glomérulaire baigne dans l’espace urinaire délimité par des cellules 
+épithéliales : on parle de la capsule de Bowman.  
+Dans le capillaire, on retrouve le sang et autour du capillaire, on retrouve 
+l’urine primitive formée à partir de la filtration de ce sang. 
+ 
+Ce capillaire glomérulaire est recouvert du côté urinaire (coté extérieur) par 
+des cellules épithéliales: les podocytes avec leurs prolongements les 
+pédicelles (qui vont enserrer ce capillaire glomérulaire).  
+Puis l’ensemble des capillaires donnent naissance à une artériole 
+EFFÉRENTE (celle qui sort).  L’espace urinaire s’ouvre sur le tube contourné 
+proximal (fait suite à la capsule de Bowman). 
+Page 6 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+II. STRUCTURE DU REIN 
+C. Le Glomérule (suite) 
+Membrane 
+basale 
+glomérulaire 
+Au MEB, on observe :  
+▪ Les capillaires,  
+▪ Les podocytes autour des capillaires.  
+▪ Au milieu, des cellules conjonctives que l’on appelle les cellules mésangiales 
+: ce sont des cellules contractiles qui peuvent réduire la zone d’échange entre 
+le capillaire et l’espace urinaire.  
+ 
+La membrane basale glomérulaire est l’interface entre le capillaire fenêtré et 
+les pédicelles (du podocyte). 
+Dans l’ordre, en allant de la lumière du capillaire (espace plasmatique) vers 
+l’espace urinaire, on retrouve : La cellule endothéliale fenêtrée => la 
+membrane basale =>les pédicelles des podocytes => l’espace urinaire.  
+Dans le processus de filtration glomérulaire = on a l’eau + les substances 
+dissoutes qui vont devoir franchir cette barrière pour aller du côté urinaire.  
+D. L’appareil juxta-glomérulaire 
+Schéma 
+ 
+ 
+Page 7 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+II. STRUCTURE DU REIN 
+D. L’appareil juxta-glomérulaire (suite) 
+Schéma (suite) 
+Les tubules distaux présentent des cellules sombres qui forment la macula 
+densa qui sont au contact des 2 artérioles.  
+Dans l’artériole Afférente, il y a des cellules musculaires lisses mais aussi des 
+cellules « juxta glomérulaire » ou « Myoépithéliales » = cellules musculaires 
+lisses particulières (n’existent pas dans l’artériole efférente) qui ont la capacité 
+de produire et sécréter de la rénine. Elles ont la particularité de jouer le rôle 
+de barorécepteurs intra-rénaux, ce qui fait qu’elles sont sensibles aux 
+variations de volume et donc de pression au niveau de l’artériole afférente (on 
+en reparlera).  
+L’artériole efférente possède elle des cellules musculaires lisses MAIS N’A PAS 
+DE CELLULES MYOÉPITHÉLIALES.  
+E. La vascularisation 
+Schéma 
+ 
+On reconnait un néphron à sa structure particulière.  
+Le sang y circule selon un trajet précis : artère arquée -> artériole afférente -> 
+capillaire glomérulaire (1er système capillaire) -> artériole efférente 
+ 
+On remarque que l’artériole efférente ici donne naissance à un second réseau 
+capillaire, le capillaire péri tubulaire qui va venir irriguer le tubule rénal.  
+Donc on a deux réseaux de capillaire en série ce qui forme un système porte 
+artériel. La veine arrive seulement à la fin du capillaire péritubulaire. 
+ 
+ 
+ 
+ 
+Page 8 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+II. STRUCTURE DU REIN 
+E. La vascularisation 
+Vascularisation 
+des néphrons 
+Sur le schéma ci-dessous, on a les 2 types de néphrons: superficiels (à gauche) 
+et profonds (à droite) :  
+ 
+▪ Pour les néphrons profonds (avec toujours 2 réseaux capillaires), on 
+retrouve des vaisseaux particuliers qui viennent accompagner parallèlement 
+le tubule descendant vers la médullaire. Ces vaisseaux rectilignes s’appellent 
+les VASA RECTA = vaisseaux droits. Ces vaisseaux vont longer l’anse de Henlé 
+pour l’irriguer.  
+ 
+Ils n’existent pas dans les néphrons superficiels car ils ne disposent pas 
+d’anse de Henlé qui descende très bas.  
+▪ Pour les néphrons superficiels (plus court), on retrouve toujours les 2 
+réseaux capillaire avec la structure que l’on connait, mais il n’y a pas de vasa 
+recta.  
+▪On a donc plus de vaisseaux dans le cortex que dans la médullaire.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 9 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+III. DÉBIT SANGUIN RÉNAL ET DÉBIT PLASMATIQUE RÉNAL 
+A.​Le débit sanguin rénal (DSR) 
+Hémodynamiqu
+e rénale 
+ 
+Le débit sanguin rénal (DSR) représente 20% du débit cardiaque soit 
+1200ml/min.  
+Le débit plasmatique rénal (DPR) = DSR*(1-l’hématocrite) soit 
+600ml/min pour un hématocrite physiologique de 50% (donc 1200/2).  
+(Petit rappel : L’hématocrite c’est le volume occupé par les GR dans le sang et 
+justement le plasma c’est la partie liquide du sang qui ne contient donc pas 
+les globule rouge). 
+C’est un débit très élevé si on le rapporte à la masse des organes ce qui 
+signifie que les reins sont très vascularisés.  
+Cette vascularisation va diminuer drastiquement du cortex (90% du sang) a 
+la médullaire (10%).  
+ 
+Le débit sanguin rénal (DSR) est déterminé par la pression artérielle de 
+perfusion des reins et les résistances vasculaires rénales.  
+ 
+ 
+Évolution des pressions vasculaire dans les reins :  
+ 
+▪ Début de l’Artériole afférente : on a une pression moyenne qui correspond 
+à la pression moyenne systémique (100-120mmHg), dans l’artériole afférente 
+on a des résistances vasculaires qui vont entrainer une chute de pression 
+entre le début et la fin de l’artériole. 
+ 
+▪ Capillaires glomérulaires : pression entre 40-60mmHg donc très diminuée 
+par rapport au début de l’artérioles afférente car entre temps les résistances 
+ont « agi ». La pression reste très élevée pour un capillaire mais utile pour la 
+filtration on le reverra. Au sein du capillaire, il n’y pas de résistance donc la 
+pression reste constante. 
+ 
+Page 10 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+III. DÉBIT SANGUIN RÉNAL ET DÉBIT PLASMATIQUE RÉNAL 
+A. Le débit sanguin rénal (DSR) (suite) 
+Hémodynamiqu
+e rénale (suite) 
+ 
+▪ Artériole efférente : cellule contractile qui induisent des résistances qui 
+font chuter la pression à nouveau.  
+▪ Capillaire post-glomérulaire : a une pression habituelle pour un capillaire.  
+Donc le siège des résistances est les artérioles afférentes et 
+efférentes là où la pression chute.  
+Il faut bien avoir en tête que la pression du capillaire glomérulaire est 
+physiologiquement haute pour un capillaire et reste constante.  
+ 
+B. DSR et filtration glomérulaire 
+Explication 
+Pourquoi le DSR est très élevé par rapport à la masse de l’organe ? 
+▪ Ce n’est pas pour les besoins métaboliques du rein (seul 10 à 15% de 
+l’oxygène apporte par la vascularisation rénale sont effectivement 
+consommé par les reins)  
+ 
+▪ C’est pour permettre d’assurer la filtration glomérulaire, processus 
+par lequel une partie de l’eau et des substances dissoutes contenues 
+dans le plasma passe du capillaire vers l’espace urinaire pour 
+constituer l’urine primitive (ultrafiltrat du plasma).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 11 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+IV. FILTRATION GLOMÉRULAIRE 
+A.​Débit de filtration glomérulaire 
+Explication 
+1/5 du débit plasmatique rénal va traverser la membrane du capillaire 
+glomérulaire pour former le filtrat glomérulaire et suivre le trajet que l’on a 
+décrit.  
+ 
+Donc le liquide glomérulaire est un ultrafiltrat du plasma et est présent dans 
+la capsule de Bowman . La composition de l’ultrafiltrat est à peu près 
+identique à celle du plasma pour les petites molécules, à l’exception ( 
+importante ) des grosses protéines qui auront une masse moléculaire à 60KDA 
+et qui ne pourront pas franchir la membrane basale glomérulaire. Donc toutes 
+les petites molécules comme l’urée, le glucose, les ions passent mais les 
+grosses protéines (albumine…) sont retenues et restent dans le plasma sauf 
+en cas de pathologie. ( À l’équilibre de Gibbs-Donnan Près ( rappel de p1 ))  
+La membrane basale glomérulaire joue un rôle filtre mécanique. Mais joue 
+aussi un rôle de filtre électrique car elle est chargée négativement et va en 
+ce sens favoriser le passage des charges positives plutôt que négatives.  
+Le schéma ci- dessous montre la filtration glomérulaire en fonction de la taille 
+des particules et en fonction de leur charge : 
+Pour cette expérience, on utilise le Dextran (polymère de sucre) de taille et 
+de charge différente : 
+ 
+▪ Courbe bleue : dextran neutre  
+▪ Courbe rouge charge positive avec bcp de filtration  
+▪ Courbe noire : dextran de charge - moins de filtration  
+De la même manière que la charge, la taille influence la 
+filtration du dextran de sorte plus sa taille est grande moins il 
+est filtré. (rappelez-vous l’albumine qui est recalée…)  
+ 
+Page 12 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+IV. FILTRATION GLOMÉRULAIRE 
+A. Débit de filtration glomérulaire (suite) 
+Schéma 
+Débit de filtration glomérulaire (DFG)  
+Sur ce schéma : 
+ 
+- Les gros ronds = protéines de haut poids moléculaires  
+- Les petits points = électrolytes et petites substances qui passent  
+ 
+- Le DPR entrant dans l’artère afférente = 600ml/min. Chaque minute 1/5 de 
+ce débit passe dans la capsule de Bowman, ce qui entre va donc être de l’eau 
+et des petites substances les grosses protéines sont retenues.  
+ 
+- Le DPR sortant dans l’artère efférente est de 480ml/min (600 – 120) Donc 
+on a un certain débit plasmatique qui passe dans le tube urinaire qui 
+correspond au débit de filtration glomérulaire, qui est de 120ml/min soit 
+180l/min (évidemment on n’urine pas 180L par jour, donc l’essentiel est 
+réabsorbé).  
+ 
+- Si la concentration du glucose est de 5 mmol/L dans l’artériole afférente, elle 
+sera aussi de 5 mmol/L dans l’artériole efférente car le glucose ne se 
+concentre pas. Il y a autant de glucose que d’eau qui sort, il en va de même 
+pour les ions (à l’équilibre de Gibbs Donan près).  
+- Par contre, la concentration des protéines augmente car on a toujours la 
+même quantité de protéines entre l’artériole afférente et efférente (les 
+protéines ne sont pas filtrées). Cependant, on a moins d’eau, le volume a 
+diminué et les protéines voient leurs concentrations augmenter entre les 2 
+artérioles : la pression oncotique est donc augmentée.  
+ 
+Page 13 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+IV. FILTRATION GLOMÉRULAIRE 
+B. Force à l’origine du mouvement d’eau à travers la membrane 
+glomérulaire 
+Facteurs 
+influençant le 
+débit de 
+filtration 
+glomérulaire 
+ 
+L’équilibre des forces de Starling qui permet un passage de l’eau est 
+électrolytes à travers la membrane.  
+Le débit d’eau dépend du Kf :  
+Coefficient de filtration kf = surface de filtration (d’échange) * la 
+perméabilité hydraulique du capillaire.  
+Et dépend aussi des équilibres de pressions dans le capillaire et la capsule de 
+Bowman (pression d’ultrafiltration) :  
+▪ La Pcap : pression hydrostatique dans le capillaire glomérulaire. Elle est de 
+45mmHg (ce qui est élevée pour un capillaire ) donc elle pousse l’eau vers la 
+capsule de Bowman  
+ 
+▪ πplasm : pression plasmatique oncotique (20mmHg) formée par les 
+protéines au sein du capillaire qui ont tendance à retenir l’eau dans le 
+capillaires  
+ 
+▪ Pbow : pression hydrostatique qui règne dans la capsule de Bowman 
+(10mmHg)  
+ 
+▪ πbow : pression oncotique dans la capsule de Bowman qui n’existe pas car 
+il n’y pas de protéine 
+ 
+Page 14 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+IV. FILTRATION GLOMÉRULAIRE 
+B. Force à l’origine du mouvement d’eau à travers la membrane 
+glomérulaire (suite) 
+Analyse (suite) 
+Pour simplifier : Le débit d’eau qui va traverser la membrane du capillaire c’est 
+la différence entre la P hydrosatique dans le capillaire ( 45 mmhg ) à laquelle 
+on enlève la P hydrosatique dans la capsule de Bowman ( 10mmhg ) et la 
+pression ocntique dans le capillaire ( 20 mmhg ) ( qui retient l’eau ), c’est ce 
+qu’on appel la pression d’ultratfiltration. Ainsi le DFG dépend essentiellement 
+de la pression d’ultrafiltration (et du Kf). La pression capillaire (Pcap) 
+glomérulaire est décisive pour la filtration glomérulaire car c’est elle qui 
+permet de « pousser » l’eau vers la capsule de Bowman, alors que la pression 
+oncotique au contraire tente de retenir l’eau. (Les valeurs sont à connaitre)  
+ 
+ 
+- DeltaP hydrostatique : c’est la différence de pression hydrostatique (Pcap- 
+Pbow= 45-10). Elle ne varie pas, elle reste stable entre le début et la fin du 
+capillaire glomérulaire.  
+- La pression oncotique va augmenter : à mesure que le sang traverse le 
+capillaire glomérulaire, il perd son eau (car filtré) donc les protéines (dont 
+la quantité n’a pas changé) sont contenues dans un volume plus petit, elles 
+se concentrent. Elle augmente progressivement dans le capillaire à 
+mesure que l’eau passe dans la capsule de Bowman.  
+ 
+ 
+ 
+Page 15 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+IV. FILTRATION GLOMÉRULAIRE 
+B. Force à l’origine du mouvement d’eau à travers la membrane 
+glomérulaire (suite) 
+Analyse (suite) 
+- A un moment donné, vers la fin du capillaire, elle devient égale à la 
+différence de pression hydrostatique soit à DeltaP hydrostatique (35mmHg) 
+et dès lors la filtration s’arrête, il n’y a plus de flux net.  
+-> Donc, pour favoriser le DFG, il est très important que la Pcap (qui 
+permet de pousser l’eau vers la capsule de Bowman) soit haute et 
+stable, et cela est permis grâce à l’action 
+des résistances vasculaires et notamment l’artériole efférente qui, 
+lorsqu’elle est contractée, permet d’augmenter la Pcap en amont.  
+ 
+ 
+V. RÉGULATION DU DSR ET DFG  
+A.​Mécanismes d’ajustement du DSR et du DFG 
+Présentation 
+Le DSR et le DFG des grandeurs extrêment régulées. Le bon fonctionnement 
+du rein dépend DFG, qui lui-même dépend du DSR. Une diminution du DFG 
+va entraîner une insuffisance rénale, le rein ne peut plus fonctionner. Le 
+rôle majeur de la circulation rénale est de donc de protéger le DFG contre 
+des variations de la pression artérielle systémique. Ce DSR et DFG font 
+l’objet de nombreuses régulations. 
+ 
+Quels sont les mécanismes d’ajustements pour maintenir le DSR et donc le 
+DFG ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 16 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+V. RÉGULATION DU DSR ET DFG 
+A.​Mécanismes d’ajustement du DSR et du DFG (suite) 
+Vascularisation 
+glomérulaire 
+Voici une représentation très schématique de la vascularisation glomérulaire 
+qui est un système porte artériel constitué d’une artériole afférente, d’une 
+artériole efférente qui sont à la jonction de l’artère et de la veine rénale: 
+ 
+o Sur la gauche, on voit la pression dans l’artère rénale => puis en dents de 
+scie l’artériole afférente (capable de résistance).  
+o Le capillaire glomérulaire entre Raa et Rae dont la variable régulée est Pcap 
+déterminant donc le DFG (puisque si Pcap est trop basse il n'y a plus de flux).  
+o L’artériole efférente (capable de résistance)  
+o La pression dans la veine à droite du schéma. 
+ 
+Le débit sanguin rénal DSR va dépendre de la différence de pression entre 
+l’artère rénale et la veine rénale que divise la somme des résistances des 
+artérioles (afférente et efférente).  
+→ Si les deux résistances vasculaires rénales augmentent trop, le DSR aura 
+tendance à chuter.  
+Mais ce qui nous intéresse là, c’est la balance des résistances artériolaires 
+afférentes (Raa) et efférentes (Rae) qui va déterminer la pression capillaire 
+glomérulaire qui est situé au milieu entre les deux: 
+ 
+ 
+ 
+Page 17 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+V. RÉGULATION DU DSR ET DFG 
+A.​Mécanismes d’ajustement du DSR et du DFG (suite) 
+Vascularisation 
+glomérulaire 
+(suite) 
+ 1ere situation: Situation Favorable  
+ 
+Il y a: 
+- Diminution des Résistances de l’a.a→ Donc bien ouvert à l’entrée. 
+- Augmentation des Résistance artériole efférente à la sortie => Donc bien 
+serré à la sortie.  
+→ Cela signifie que la pression capillaire glomérulaire est bonne donc cette 
+situation FAVORISE la filtration glomérulaire   
+- 2eme situation : défavorable  
+ 
+- Augmentation des Résistance AA à l’entrée  
+- Diminution des Résistance AE à la sortie  
+-> Donc Pcap glomérulaire chute et cette situation-là n’est pas 
+favorable à une bonne filtration car pour que ça filtre bien il 
+faut que ça ouvre à l’entrée et ferme un peu à la sortie.  
+Or si on a l’inverse : Je ferme à l’entrée et j’ouvre à la sortie, la 
+Pcap ne sera pas maintenue et donc la filtration diminue.  
+On verra donc que la plupart des ajustements seront liés à ces 2 résistances.  
+ 
+ 
+ 
+Page 18 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+V. RÉGULATION DU DSR ET DFG 
+A.​Mécanismes d’ajustement du DSR et du DFG (suite) 
+Résistances 
+vasculaires 
+On observe un graphique avec le débit de filtration glomérulaire en fonction 
+des variations de résistances de l’A.E donc à la sortie: 
+ 
+- Situation normale: si j’augmente les Résistances de l’a.e seulement, j’ai une 
+augmentation de la filtration glomérulaire  
+Image en bas :  
+- Si je fais les mêmes choses avec l’a.a, si j'augmente x2 les Résistances, là la 
+filtration glomérulaire chute.  
+Maintenant, on peut se demander : Quelles seraient les conséquences de 
+modifications importantes du débit sanguin rénal ?  
+→ Si il y a une chute de pression importante, donc une diminution de 
+perfusion du rein il y aura une diminution du DSR et forcément du DFG 
+et par conséquent résulte à une insuffisance rénale fonctionnelle car le 
+rein n’est pas assez vascularisée comme lors d’un état choc, la pression 
+chute et le rein n’est plus perfusé donc celui-ci filtre moins et donc on a 
+une insuffisance rénale fonctionnelle.  
+ 
+ 
+Page 19 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+V. RÉGULATION DU DSR ET DFG 
+A.​Mécanismes d’ajustement du DSR et du DFG (suite) 
+Résistances 
+vasculaires  
+(suite) 
+ 
+→ À l’inverse si on a une augmentation prolongée de la Pression artérielle 
+systémique comme l’HTA, cela entraînera progressivement (=de manière 
+chronique) des lésions des vaisseaux rénaux et par la suite une néphro- 
+angiosclérose (durcissement des vaisseaux) et même une glomérulosclérose 
+cela signifie que le glomérule devient fibreux et là il fonctionne plus. Donc là 
+aussi, cela peut être la cause d’une insuffisance rénale chronique. 
+B. Présentation des mécanismes de régulation 
+Régulation 
+intrinsèque et 
+extrinsèque 
+( la prof insiste sur le fait qu’il faut les connaître )  
+Donc, il est très important de maintenir le débit sanguin rénal et DFG dans 
+certaines limites, donc il y a toute une régulation qui s’occupe de cela.  
+D’abord, il y a une régulation intrinsèque:  
+1) c’est à dire qui se produit au niveau du rein: on va appeler cela 
+L'AUTORÉGULATION RÉNALE avec 2 mécanismes qui en sont responsables:  
+- le mécanisme myogénique  
+- le rétrocontrôle tubulo glomérulaire  
+2) Et puis en plus de cela, il ya d’autres systèmes qui font appel à des 
+SUBSTANCES AUTACOÏDES, c’est à dire des substances qui vont être 
+synthétisées par certaines cellules du rein et qui vont agir sur les cellules 
+voisines (paracrine):  
+- système rénine-angiotensine rénale  
+- NO  
+- Système kinine-kallicréine  
+Et puis en plus de cette régulation intrinsèque extrêmement importante, il y a 
+aussi la régulation extrinsèque qui fait appelle:  
+- Système nerveux autonome  
+- l’hormone Facteur atrial natriurétique (ANF) : est produit par le coeur  
+lorsqu'on a une distension des oreillettes.  
+ 
+ 
+ 
+Page 20 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+V. RÉGULATION DU DSR ET DFG 
+C. Régulation intrinsèque 
+Autorégulation 
+du DSR 
+On observe dans le schéma ci-dessous les 3 courbes d’évolution de 3 
+variables en fonction de la Pam (pression artérielle moyenne).  
+Les 3 variables suivantes : le DSR (en haut), le DPR (débit plasmatique rénal 
+au milieu, on ne calcule pas trop) et le DFG (en bas). 
+ 
+On voit que pour des variations de pression artérielle systémique 
+moyenne, qui vont de 80 à 140 mmHg, les 3 variables restent parfaitement 
+stables: le DSR, le DPR et le DFG reste stables pour une pression variant de 
+80 à 140 mmHg, ils restent STABLE et NE VARIENT PAS en MÊME TEMPS 
+QUE la pression artérielle. 
+ 
+EXCEPTION→ Quand la Pression artérielle chute pour des valeurs de 
+PRESSION TROP BASSE : état de choc, on ne peut plus rien faire, le rein ne 
+sera plus correctement vascularisé et la filtration va diminuer : IR aigue 
+d’origine hémodynamique.  
+Comment cette stabilité du DSR fonctionne ?  
+ 
+ 
+ 
+ 
+ 
+ 
+Page 21 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+V. RÉGULATION DU DSR ET DFG 
+C. Régulation intrinsèque (suite) 
+Autorégulation 
+du DSR (suite) 
+a) mécanisme myogénique:  
+Il est sensible aux variations des résistances de l'artériole afférente.  
+→ Situation initiale : Mécanisme mis en jeu dans une situation où la 
+Pression Artérielle est trop Élevée :  
+Pression trop importante → Pression de l’artériole afférente augmente→ 
+Distension des cellules musculaires lisses de l’A.A→ Flux de calcium dans le 
+cytosol des cellules par des canaux voltages dépendants induit par la 
+distension→ Contraction des cellules musculaires lisses de L’A.A( dû au 
+Ca2+--> Diminution de Pcap glomérulaire (dû à la contraction car R plus 
+importante)  
+--> Diminution DFG. 
+ 
+Donc, l’effet de cette vasoconstriction réflexe de l’A.A en réponse à cette 
+augmentation de pression/perfusion induit une augmentation des R de l’A.A 
+provoque une diminution de pression du capillaire glomérulaire donc 
+diminution du DFG et DSR.  
+ 
+b) le rétrocontrôle tubulo glomérulaire:  
+Il est sensible aux variations des résistances de l'artériole afférente.  
+→ Situation initiale: Trop ou Pas assez de Pression (mécanisme va dans 
+les 2 sens cette fois)  
+ 
+Pression trop importante→ Pression de l’artériole afférente augmente→ 
+Augmentation de la Pression capillaire glomérulaire→ Augmentation de la 
+Filtration glomérulaire (rappel composition filtrat glomérulaire= eau +ions)--> 
+Augmentation de la quantité de filtrat →Eau et ions (du filtrat) suivent le 
+chemin du tubule jusqu’au tubule distale au niveau de la macula densa qui est 
+le lieu d'absorption des ions Na+ et Cl-: cette réabsorption consomme de 
+l’énergie, de l’ATP et un des produit de la dégradation de l’ATP est l’adénosine 
+donc la concentration d’adénosine dans les cellules de la macula densa va 
+augmenter (car plus d’ions réabsorbés). L’adénosine DANS LE REIN a une 
+action VASOCONSTRICTRICE sur l'artériole afférente qui est toute proche→ 
+contraction de l’A.A→ Diminution du capillaire glomérulaire → Correction 
+de la Filtration glomérulaire qui avait tendance à augmenter = désordre 
+évité.  
+ 
+ 
+Page 22 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+V. RÉGULATION DU DSR ET DFG 
+C. Régulation intrinsèque (suite) 
+Autorégulation 
+du DSR (suite) 
+→ Cela peut arriver si seulement les cellules du tubule distal sont très 
+proches de la vascularisation: c’est tout l'intérêt.  
+Vice versa:  
+Diminution de la Pression dans l’A.A→ Chute Pcap glomérulaire→ Chute de 
+la filtration→ Moins d’ions Na+ et Cl- filtrés→ Moins d’ions adsorbés par les 
+cellules de la macula densa→ Moins d’ATP consommé→ Moins d’adénosine 
+produits→ A.A sera plutôt dilaté.  
+→ Le rétrocontrôle tubulo-glomérulaire fonctionne dans les 2 sens.  
+Substances 
+autacoïdes 
+a) Le système rénine-angiotensine intrarénal SRA: À CONNAÎTRE car joue un 
+rôle très important 
+Fonctionnement:  
+● Angiotensinogène= protéine produit par le foie et se balade dans la 
+circulation en général  
+● Rénine = enzyme produite par les cellules juxtaglomérulaires à côté de l’A.A 
+et qui va cliver cet angiotensinogène en Angiotensine I : ETAPE LIMITANTE. 
+++++ ( la prof a vraiment insisté )  
+● En effet pour la production de la rénine, il y a 3 stimulus:  
+- Diminution de la pression de l’A.A: Les cellules juxta glomérulaires servent 
+de barorécepteurs intrarénal et perçoivent bien la pression de perfusion 
+dans l'Artériole Afférente →Pression diminue (moins que la normale): 
+LIBÉRATION RÉNINE  
+- Diminution débit ions Na+ et Cl- perçus par les cellules de la macula 
+densa lors de la réabsorption→ signifie que DFG chute aussi→ Production 
+RÉNINE par l’artériole afférente.  
+- Stimulation sympathique beta (stimulus extrinsèque) : Production 
+RÉNINE par cellules juxta-glomérulaire  
+ 
+ 
+ 
+ 
+ 
+ 
+Page 23 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+V. RÉGULATION DU DSR ET DFG 
+C. Régulation intrinsèque (suite) 
+Substances 
+autacoïdes 
+(suite) 
+-> Angiotensine I qui se balade dans le capillaire glomérulaire et va subir la 
+réaction suivante : Angiotensine I → Angiotensine II par une autre enzyme 
+qu’on appelle l’enzyme de conversion de l'angiotensine (ECA) qui est 
+exprimée par des cellules endothéliales du cap glomérulaire et est toujours 
+présente en quantité (donc pas étape limitante)  
+Question élève: L'angiotensinogène n’est pas limitante?  
+→ non, si le foie fonctionne bien, il y en a tout le temps, ce qui est limitant, 
+c’est la disponibilité de rénine pour transformer l’angiotensinogène en 
+angiotensine I après même l’enzyme de conversion de l’angiotensine est 
+disponible en grande quantité. Tout dépend vraiment de la disponibilité de la 
+Rénine seulement. 
+ 
+● Angiotensine II = très puissant vasoconstricteur via des récepteurs 
+musculaires et les vaisseaux rénaux qui sont très très sensibles à 
+l’angiotensine II et pour des concentrations extrêmement faibles de l’ordre de 
+“10 puissance -12”. Ces concentrations sont insuffisantes pour contracter les 
+autres lits vasculaires, en d’autres termes de toutes petites concentrations 
+d’angiotensine II ont seulement une action locale sans agir sur les vaisseaux 
+périphériques et c’est cela qui est important.  
+ 
+● Ainsi, à cette petite concentration, l’angiotensine II va conduire à une 
+vasoconstriction qui va prédominer sur l’artériole efférente. Et l’artériole 
+afférente alors ? Elle va être protégée, mais je ne spoile pas comment, 
+attendez un peu !  
+ 
+ 
+ 
+Page 24 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+V. RÉGULATION DU DSR ET DFG 
+C. Régulation intrinsèque (suite) 
+Substances 
+autacoïdes 
+(suite) 
+● Donc dans une situation où la pression à l’entrée est faible = 1 des 3 
+stimulus de la production de rénine→ système produit de la Rénine→ 
+induction d’une petite fermeture à la sortie: l’artériole efférente se 
+vasoconstricte un peu mais pas l’afférente, qui elle, est protégée, (patience 
+on va l’expliquer)  
+→ Maintien de la Pcap correcte et de la concentration hormonale dans une 
+situation où la Pression du rein est en train de chuter.  
+● Si l’angiotensine II a une action vasoconstrictrice prédominante sur 
+l'artériole efférente, elle va aussi induire la production locale au niveau du 
+cortex rénal de Prostaglandines (dérivent du métabolisme de l'acide 
+arachidonique) 
+et 
+notamment 
+de 
+Prostacyclines 
+PGI2 
+qui 
+est 
+VASODILATATRICE et elle va protéger l’artériole afférente de la 
+vasoconstriction de l’angiotensine II. 
+Question d'élève: Pourquoi la PGI2 ne fait pas effet sur l’a.efférente? C’est 
+très local et ça n’agit que sur l’a.afférente alors peut être que les récepteurs à 
+la PGI2 sont moins importants sur l’efferenente qui est déjà occupé avec 
+l’angiotensine II mais on ne connaît pas vraiment le mécanisme ! 
+ 
+● Il y a une classe de médicaments qui sont les AINS = anti-inflammatoire non 
+stéroïdiens (L’ibuprofène…), (chef de file l'indométacine) à laquelle il faut 
+faire TRÈS ATTENTION pour les sujets âgés quand il a une perfusion rénale un 
+peu limite car ces médicaments-là inhibent la cyclo oxygénase, une enzyme 
+qui contribue à la synthèse de la PGI2. Donc imaginez votre sujet âgé dont le 
+rein est mal perfusé (à cause d’une plaque d’athérome par exemple), le rein va 
+se dire « oula ma perfusion n’est pas top, je vais produire de la rénine pour 
+qu’elle m’aide à remonter tout ça »  
+● Mais RAPPELEZ VOUS ; l’AINS inhibe la PGI2 … l’artériole afférente n’est 
+donc pas protégée donc elle va se contracter et là cela entraîne une 
+insuffisance rénale fonctionnelle . C’est un phénomène secondaire classique 
+qui arrive lorsque l’on administre les AINS à des individus avec le rein mal 
+perfusé. C’est scandaleux d’après la prof. 
+ 
+Page 25 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+V. RÉGULATION DU DSR ET DFG 
+C. Régulation intrinsèque (suite) 
+Substances 
+autacoïdes 
+(suite) 
+Question élève: Les AINS ont aussi d’autres effets néfastes sur notre 
+organisme? Oui c’est plein d’effets secondaires mauvais, là on parle des 
+conséquences au niveau rénal, mais c’est aussi pas bon au niveau 
+gastrique… Il ne faut pas en abuser mais c’est surtout pour ceux qui ont une 
+perfusion rénale pas terrible. 
+ 
+● AGII agit également sur les cellules mésangiales (cellules contractiles à 
+l'intérieur de l’axe capillaire) dans le sens d’une contraction ce qui a 
+tendance à diminuer le coefficient de filtration Kf ce qui n’est pas idéal.  
+Globalement, quand on met en place le SRA, on va maintenir dans un 1er 
+temps le DFG, et puis on va un peu diminuer le DSR sous la contraction des 
+cellules mésangiales et de l’AE (le débit dépend de la somme des résistances 
+des 2 Artérioles) mais DFG va être préservée car on conserve Pcap 
+glomérulaire.  
+● Donc le rapport DFG/DPR → Fraction filtrée augmente (en règle générale, 
+elle vaut 20% (120 mL/600 Ml)) sous l’action du SRA.  
+Autres substances autacoïdes : (pas détaillé mais à connaître)  
+- Système kinine-kallicréine: protéase synthétisée dans le tube distal et qui va 
+cliver une substance : le kininogène en bradykinine vasodilatatrice. 
+- NO : l’oxyde nitrique libéré par les cellules endothéliales des artérioles 
+afférentes en réponse à l’AG II : vasodilatateur en même temps que la PGI2, 
+protège de la contraction de l’AA par l’AG II.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 26 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+V. RÉGULATION DU DSR ET DFG 
+D. Régulation extrinsèque 
+Le système 
+rénine- 
+angiotensine 
+intrarénal (SRA) 
+ 
+● Le rein est innervé UNIQUEMENT PAR LE SYSTÈME SYMPATHIQUE, donc a 
+pour neuromédiateur: la noradrénaline.  
+● 2 types d’effets peuvent avoir lieu selon la stimulation:  
+➔ Effet indirect de beta 1: Libération de Rénine par les cellules 
+juxtaglomérulaires.  
+ 
+➔ Effet direct Alpha 1:  
+→ Effet vasoconstricteur pour les 2 artérioles.  
+→ Mis en jeu lors d’une TRÈS FORTE diminution de la pression 
+artérielle, perçues par les barorécepteurs systémique qui vont 
+activer le système sympathique alpha et donc vasoconstriction 
+pour prioriser la perfusion du cerveau et du coeur et négliger celle 
+du rein pour la survie de l'organisme. (pas dingue pour le rein)  
+2) Hormone Facteur atrial natriurétique (ANF) 
+ 
+L’ANF est un petit peptide de 28 AAs libéré par les myocytes auriculaires 
+(oreillettes) lorsqu’ils sont distendus. Ils sont distendus quand le volume 
+sanguin circulant (volémie) est à la hausse donc dans une situation de 
+surcharge soit une pression artérielle élevée → donc le natriurétique va faire 
+uriner le sodium et l’eau pour se débarrasser de l’excès de volume.  
+Page 27 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+V. RÉGULATION DU DSR ET DFG 
+D. Régulation extrinsèque 
+Le système 
+rénine- 
+angiotensine 
+intrarénal (SRA) 
+(suite) 
+ 
+Pour y parvenir, l’ANF va faire en sorte de favoriser la filtration glomérulaire : 
+● par une vasodilatation de l’artériole afférente 
+● une vasoconstriction de l’artériole efférente  
+● Augmentation du coefficient de filtration Kf  
+● Inhibition de libération de Rénine  
+Si à l’issue de ce processus, la baisse de pression est trop importante, il peut 
+avoir aussi une stimulation sympathique beta pour produire de la Rénine avec 
+modération. Mais il faut bien comprendre que l’ANF et la rénine ne sont pas 
+censés cohabiter : le premier est mobilisé lorsque le volume sanguin 
+circulant diminue, et la rénine elle, agit pour diminuer la pression !!!  
+ 
+VI. PHYSIOPATHOLOGIE : STÉNOSE DE L’ARTÈRE RÉNALE  
+La sténose est due à une plaque d’athérome qui vient boucher l’une des artères rénales qui 
+entraîne la diminution de la pression de perfusion du rein en aval de la sténose → baisse de la 
+Pression artériole afférente Paa perçu par le rein  
+→ en réponse: mise en jeu du système Rénine angiotensine afin de préserver le DFG. 
+Mais comme cette baisse de pression est constante (car sténose toujours présente) : le système 
+rénine-angiotensine est préservé en permanence car le rein est toujours mal perfusé.  
+On atteint donc une haute concentration de rénine dans la circulation générale.  
+Par conséquent, une quantité importante d’angiotensine II est produite et va dans la 
+CIRCULATION GENERALE et cela va impacter les vaisseaux périphériques !!!  
+Alors que normalement, l’angiotensine II a un impact seulement sur l'hémodynamique rénale. => 
+Vasoconstriction générale, donc une augmentation des Résistances périphériques.  
+De plus, le SRA induit la production de l'aldostérone par la surrénale. L’aldostérone a pour 
+conséquence l’augmentation du volume sanguin circulant (hypervolémiante) en augmentant la 
+réabsorption rénale de sels.  
+=> Donc ces 2 facteurs:  
+-vasoconstriction par la rénine et AGII  
+-volume sanguin élevé dû à l’aldostérone  
+entraînent…  
+→ risque d’ une HTA qu’on appelle HTA réno-vasculaire qui provient d’une sténose 
+anormale d’une artère rénale= CAUSE HTA SECONDAIRE  
+Sémiologie: quand quelqu’un arrive avec une HTA, on fait TOUJOURS un examen des vaisseaux 
+rénaux pour essayer de détecter une plaque d’athérome qui peut compromettre la perfusion du 
+rein.  
+Page 28 sur 29 
+ 
+
+---PAGE---
+ 
+UE5 – Physiologie – Filtration Glomérulaire – Pr Planès – 25/11/2025 
+ 
+TAKE HOME MESSAGES   
+ 
+« Take home messages » (=CCL)  
+ 
+▪ Le DSR est élevé (20% du débit cardiaque) afin de permettre la filtration glomérulaire, première 
+étape de la formation de l’urine.  
+ 
+▪ La filtration glomérulaire permet à une partie de l’eau plasmatique (environ 20% du DPR) et à une 
+partie des substances dissoutes de traverser la membrane basale glomérulaire pour former l’urine 
+primitive.  
+ 
+▪ Les DSR et DFG sont maintenus à des valeurs presque constantes pour des valeurs de PA moyenne 
+allant de 80 à 140 mmHg par plusieurs mécanismes de régulation intrinsèque (autorégulation et 
+substances autacoïdes dont le système rénine-angiotensine intra-rénal) et extrinsèque (nerveuse et 
+hormonale : ANF). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 29 sur 29 
+ 
+
+---PAGE---

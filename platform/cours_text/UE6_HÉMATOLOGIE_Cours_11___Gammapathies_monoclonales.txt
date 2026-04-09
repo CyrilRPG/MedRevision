@@ -1,0 +1,880 @@
+                                RT : Rihème Saidane / Rania Saidane RL : Ines HAMDI  
+ 
+      
+          UE 6 – Hématologie 
+ 
+                                     Dr Lazarian Grégory– 12/03/2026 – 13h45 - 15h15 
+  
+                 Gammapathies monoclonales 
+ 
+  
+                                               PLAN DU COURS  
+I. Définition  
+II.  Rappel Physiologique 
+    III.  Diversité et structure de l’immunoglobuline (Ig)   
+    IV.   Notion de clonalité   
+     V.  Physiopathologie 
+      A. Première situation 
+      B.  Deuxième situation   
+    VI.  Diagnostic d’une Ig monoclonale : l’immunofixation 
+A. Deux examens biochimiques indispensables 
+A. Autres examens biologiques 
+B. Gammapathies à chaînes légères 
+   VII. Etiologie des gammapathies 
+A. Circonstances de découverte 
+B. Ig de type non IgM 
+A. Ig de type Ig 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+1   
+                                                                   I. INTRODUCTION  
+N.B. : le prof précise que ce cours sur les gammapathies est une partie de l’item « myélome ». Ce 
+cours nous permettra d’acquérir des notions de biologie, diagnostic et sémiologie nécessaires pour 
+comprendre l’item entier qui sera traité l’an prochain, contrairement aux items sur la 
+thrombopénie et l’anémie. Concernant la question de savoir s’il faut faut réviser le collège ou les 
+cours, voici la réponse du prof : on sera interrogé uniquement sur ce qui a été vu en cours.  
+Il précise que pour les items qui ne seront pas traités l’année prochaine (anémies et 
+thrombopénies), ce sont des items d’internat donc il a quasiment tout repris pour faire le cours. 
+Cependant, il insiste sur le fait que les questions posées seront sur ce qui a été vu en cours donc il 
+n’y aura pas de questions du collège en dehors de ce qui a été traité en classe.  
+ 
+I.  Définiton 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gammapathie monoclonale : anomalie protidique liée à la production en 
+excès de la même immunoglobuline (= monoclonale) en quantité 
+suffisamment importante pour être détectable dans le sang et/ou les urines. 
+ 
+Ajout de l’ancienne RT : 
+Une immunoglobuline est une glycoprotéine produite par les plasmocytes et 
+ayant une fonction d’anticorps. C’est elle qui permet de faire l’immunité 
+humorale lors d’une infection bactérienne, en produisant des anticorps qui se 
+dirigeront contre certains antigènes (Ag) pour pouvoir neutraliser la bactérie. 
+Ces anticorps ont une structure d’immunoglobuline et lorsqu’on en détecte en 
+très grande quantité dans le sang, cela peut être révélateur d’une situation 
+pathologique. 
+  
+· Diagnostic 
+Le diagnostic repose sur deux examens biochimiques fondamentaux ++ 
+- l’électrophorèse des protides (EPP) : qui permet de détecter que l’on a 
+l’immunoglobuline (Ig) monoclonale en grande quantité dans le sang (qui 
+migre en « Gamma ») 
+- l’immunofixation : qui détermine le type d’Ig (IgG, A, E…) 
+ 
+Il existe 3 types de pathologie en fonction du type d’Ig détecté : 
+- le MGUS : Gammapathie monoclonale de signification indéterminée (GMSI 
+en français) 
+- le myélome : d’origine tumorale 
+- le Syndrome lymphoprolifératif : d’origine tumorale mais moins fréquent 
+(Maladie de Waldenström, LLC) 
+
+---PAGE---
+II. Rappels 
+Physiologiques 
+     Les gammapathies résultent d’un problème de lymphocytes B (=LB) et de 
+plasmocytes. 
+Rappel sur la lymphopoïèse :   
+ 
+  
+1) Les lymphocytes B prennent naissance dans la moelle osseuse à partir d’un 
+précurseur (cellule souche immature) qui va se différencier et s’engager dans 
+la lignée lymphoïde pour donner un LB.  
+  
+Ce qui définit les LB c’est qu’ils portent à leur surface un récepteur :  le 
+récepteur B à l’antigène (BCR = B-cell receptor). Ce récepteur possède une 
+structure particulière de type immunoglobulines. Cette Ig est associée à la 
+membrane du LB, l’objectif final étant une reconnaissance spécifique.  
+  
+2) Lorsque qu’un LB atteint le stade mature, il quitte la moelle osseuse et 
+porte donc son récepteur à l’antigène mais ne l’a encore jamais rencontré. Le 
+lymphocyte est dit « naïf ». Il va donc persister et circuler dans l’organisme un 
+certain temps, jusqu’à être exposé à l’agent infectieux dont l’antigène lui est 
+spécifique. Cet Ag va être reconnu par le BCR pour activer le lymphocyte.  
+  
+3) Le LB activé va donc migrer dans les organes lymphoïdes les plus proches, 
+au niveau des ganglions (principalement). 
+  
+4) Dans ces organes lymphoïdes périphériques, le LB subit une deuxième 
+étape de maturation qui consiste dans un premier temps en une prolifération 
+intense des LB pour amplifier la réponse immunitaire : on obtient un clone 
+lymphocytaire qui prolifère.   
+  
+5) Apres une étape de sélection (que le prof ne développe pas), l’objectif est la 
+différenciation en deux types de cellules : 
+- lymphocytes B mémoires : gardent une mémoire immunologique de cette 
+infection pour simplifier le processus en cas de ré infection par le même Ag 
+(plus rapide et efficace) 
+
+---PAGE---
+- plasmocytes : stade ultime de maturation du LB.  
+  
+6) Le plasmocyte va sécréter l’Ig qui constituait le BCR. On obtiendra ainsi les 
+anticorps produits par les plasmocytes, qui permettent de se lier aux 
+antigènes reconnus par les LB, pour ensuite induire leurs destructions par 
+phagocytose ou par utilisation des compléments. Donc toute Ig provient de la 
+sécrétion d’un plasmocyte. 
+  
+7) Ces plasmocytes ne restent pas dans les ganglions mais vont se localiser 
+dans la moelle osseuse +++ (lieu de résidence finale). 
+  
+On cherche donc toujours les plasmocytes dans la moelle osseuse (on ne doit 
+pas en détecter dans le sang car leur passage est très furtif, <1-2%). Quant aux 
+Ig qu’ils sécrètent, on peut les détecter dans le sang et éventuellement dans 
+les urines. 
+  
+Question concernant la distinction IgM et non IgM (elle vient plus tard dans la 
+suite du cours mais le prof est revenu sur cette diapo pour répondre. Je vous la 
+mets ici car ça permet de mieux comprendre la suite) 
+Réponse : quand un lymphocyte rencontre l’Ag, rentre dans les ganglions, et 
+prolifère dans les centres germinatifs, il subit des phénomènes qui permettent 
+d’augmenter l’affinité de son Ig envers l’Ag. Un lymphocyte naïf (qui sort de la 
+MO et n’a jamais rencontré d’Ag), exprime toujours une IgM. En cas 
+d’infection, l’Ag se lié au récepteur et le lymphocyte sécrète directement l’Ig 
+=réponse immunitaire 1e, rapide, peu efficace, pas durable. Donc lymphocyte 
+suit un processus de maturation pour que l’Ig augmente son affinité++, il se 
+produit un changement de classe (la partie variable de type M va être 
+remplacé par une chaîne G, A, D ou E) = plus efficace, durable, reproductible 
+lors d’une ré infection. 
+Donc, les plasmocytes clonaux et tumoraux ne sécrètent que des Ig de type G, 
+A, D, E et pas M (secrété par les lymphocytes) 
+2 situations différentes : plasmocyte = symptomatologies d’un myélome  
+Lymphocyte = symptomatologie d’un lymphome) 
+  
+ 
+
+---PAGE---
+III. Diversité et 
+structure de l’Ig 
+·       Structure et propriétés  
+Immunoglobuline : protéine à structure particulière composée de 2 chaînes 
+lourdes et 2 chaînes légères identiques :  
+o   chaîne lourde (en bleu sur le schéma) : de type G, E, A ou D 
+o   chaîne légère (en rose) : de type Kappa ou Lambda 
+  
+Chaque chaîne est divisée en : 
+o   un domaine variable = site de reconnaissance de l’Ag (la seule partie qui 
+change) 
+o   un domaine constant (le reste de la chaîne) est le même pour toutes les 
+Ig.    
+  
+Cette variabilité est acquise dans la moelle osseuse pendant que le LB est en 
+cours de différenciation.  
+  
+Dans une Ig, on ne peut posséder qu’un seul type de chaîne lourde et qu’un 
+seul type de chaîne légère.  
+Ainsi, tout au long de sa vie un plasmocyte ne va sécréter qu’un seul type d’Ig 
+= définit un clone qui sera dirigé vers un seul Ag spécifique. Il n’existe pas de 
+changement de reconnaissance. 
+ 
+ 
+ 
+ 
+ 
+Question d’élève concernant le rôle des chaînes légères.  
+Réponse : elles permettent de rajouter de la variabilité au site de 
+reconnaissance. Imaginons si l’on produirait des Ig constituées uniquement de 
+chaînes lourdes on aurait ce domaine variable qui reconnaît l’Ag. Le fait de 
+l’associer à une chaîne légère qui sera Kappa ou Lambda permet de doubler les 
+possibilités de reconnaissance d’Ag. En termes de diversité de reconnaissance 
+on passe de 10^9 à 10^12 (à titre informatif). 
+  
+  
+
+---PAGE---
+·       Différents types d’Ig 
+  
+Il existe différents type d’Ig et c’est la nature de la chaîne lourde qui va 
+donner l’isotype (IgM, IgD, IgA, IgG, IgE). C’est donc la chaîne lourde qui va 
+donner sa fonction à l’Ig. Elles ont globalement toutes un rôle dans 
+l’immunité, mais elles vont avoir de petites variations :  
+o   IgM : produite lors de la phase primaire de l’infection. Généralement, ce 
+sont des Ig de faible affinité pour l’antigène 
+o   IgG : fraction la plus abondante des Ig. Elles sont impliquées dans 
+l’immunité durable et ont une affinité forte pour l’antigène 
+o   IgA : sécrétée au niveau des muqueuse. Elles jouent un rôle important dans 
+l’immunité des muqueuses 
+o   IgE : impliquées dans les processus allergiques 
+o   IgD : impliquée dans l’activation lymphocytaire 
+   
+ 
+  
+Dans l’organisme, dans les conditions physiologiques, on produit une diversité 
+très importante de lymphocytes B (et par conséquent de plasmocytes), de 
+façon à pouvoir produire une diversité importante d’Ig, chacune spécifique à 
+l’antigène : c’est le principe de répertoire de notre immunité. 
+  
+Au cours de notre vie, on est exposé à une multitude d’antigène, donc il faut 
+que l’on soit capable de produire une diversité importante de LB préconçues, 
+pour pouvoir reconnaître de façon aléatoire ces antigènes ; cela se compte en 
+milliards et constitue une diversité très importante. 
+Donc on peut considérer qu’une population lymphocytaire, et plasmocytaire 
+par conséquent, est dite polyclonale. 
+  
+Il est essentiel de savoir qu’il y a différents types d’Ig pour pouvoir 
+comprendre la notion de clonalité. 
+  
+
+---PAGE---
+ 
+ 
+                                                            VI. Notion de clonalité  
+ 
+L’Ig est le reflet d’une prolifération clonale plasmocytaire, c’est un marqueur indirect.  Dans une 
+population physiologique polyclonales, on a plein de clones de plasmocytes qui coexistent dans la 
+moelle osseuse, chacun produisant une Ig dirigé contre un Ag spécifique.  
+ 
+ 
+ 
+Donc si on étudie l’ensemble d’Ig produites, on aura une population d’Ig polyclonale. 
+ 
+Pour étudier de façon simple les Ig, on réalise un examen biochimique :  
+l’électrophorèse des protéines plasmatique ou sérique. 
+ 
+Cet examen consiste à prélever le sang du patient, à recueillir son plasma et à faire migrer les 
+grosses protéines contenues à l’intérieur grâce à un champ électrique. Ces protéines vont se 
+déplacer en fonction de leurs tailles et de leurs charges. Lorsque les protéines migrent, on intègre 
+le signal de migration et cela donne un tracé d’électrophorèse.  Globalement on sait à quelles 
+vitesses et à quels endroits migrent les protéines. 
+ 
+Sur une droite partant de la gauche vers la droite (cf. schéma), un certain nombre de courbes vont 
+se dessiner : 
+ 
+• 
+le premier pic situé à gauche correspond à l’albumine, c’est la protéine la plus abondante 
+et la plus lente 
+ 
+• 
+puis on va avoir plusieurs groupes de protéines qui vont migrer par zones : a1, a2, b1, b2 et 
+γ (gamma) 
+                C’est dans la zone gamma que l’on va trouver toutes les Ig. 
+ 
+En temps normal, chacune de ces zones font à peu près la même taille, mais dans le cas où on a 
+une prolifération d’un clone plasmocytaire, dû à un processus tumoral par exemple (=prolifération 
+massive) ; le clone va produire et sécréter son Ig qui sera donc détectée en grande quantité dans 
+le sang. 
+Dans ce cas-là, si on réalise l’EPP : les protéines vont migrer et l’on détectera dans la zone des 
+gammaglobulines, qui au lieu d’avoir une allure normale (en cloche), formera pic étroit nommé « 
+pic d’allure monoclonale ».  
+ 
+C’est ce qui permettra de faire suspecter la présence d’une Ig dans le plasma  
+en très grande quantité. 
+Donc l’EPP constitue l’examen essentiel pour suspecter la présence d’une Ig qui est peut-être 
+monoclonale.  
+Attention : on ne peut pas le confirmer avec l’EPP seule. 
+
+---PAGE---
+III. Physiopathologie 
+ 
+Lorsqu’on obtient un pic monoclonal, c’est là qu’on parle de gammapathie. 
+Gamma représente la zone des gammaglobulines, c’est de là que provient le terme de 
+gammapathie. La production d’une Ig monoclonale peut être rencontrée dans deux situations. 
+ 
+                                              A. Première situation  
+ 
+ 
+La prolifération plasmocytaire : un plasmocyte est devenu tumoral ou prolifère de manière 
+anormale et produit son Ig, ce qui donne l’allure monoclonale à la courbe. 
+ 
+Cette prolifération va correspondre à deux entités : 
+ 
+• 
+La gammapathie monoclonale de signification indéterminé (MGUS) 
+• 
+Le myélome 
+ 
+Dans ces deux cas-là, c’est quasiment tout le temps des Ig de type non IgM, ce seront alors des 
+IgG, IgA, IgE et IgD mais jamais des IgM +++ 
+ 
+On aura alors tendance à séparer les pics IgM des pics non IgM 
+ 
+ 
+ 
+ 
+                                              B. Deuxième situation  
+ 
+La prolifération lymphocytaire : On aura un pic IgM qui reflètera la prolifération, non pas d’un 
+plasmocyte, mais d’un lymphocyte qui est bloqué juste avant le stade de différenciation en 
+plasmocyte ; c’est ce que l’on appelle un lympho-plasmocyte (stade intermédiaire). Il va donc 
+proliférer à ce stade et sécréter son Ig de façon pathologique qui sera de type IgM. 
+Particularité : la prolifération sera ganglionnaire (alors qu’un plasmocyte prolifère dans la 
+moelle) 
+Révélateur d’une pathologie type hémopathie lymphoïde, syndrome lymphoprolifératif 
+(maladie de Waldenström, leucémie lymphoïde) 
+
+---PAGE---
+ 
+ 
+ 
+ 
+  
+ 
+  
+VI. Diagnostic d’une Ig monoclonale 
+A. Deux biochimiques indispensable 
+ 
+ 
+- À retenir ++ : l’EPP seule permet uniquement de suspecter une gammapathie monoclonale par 
+la mise en évidence du pic étroit dans la zone gamma. 
+Ce n’est pas une preuve suffisante pour le diagnostic donc on réalise un second examen :  
+• 
+l’immunofixation ou immunotypage. 
+  
+Pour réaliser l’immunofixation, on dépose du sérum, on fait migrer et on étudie des anticorps anti-
+gamma (G), anti-alpha (A), anti-mu (M), anti-kappa (k), anti-lambda (l) ; et si ces protéines sont 
+présentes cela fera une réaction colorée qui se manifestera par une bande violette. 
+
+---PAGE---
+Cet examen va permettre de détecter les différentes chaînes lourdes et légères qui existent 
+(gamma, kappa, mu, …). Normalement dans un sérum si on a une population polyclonale de 
+gammaglobuline, on attend de pouvoir détecter toutes les chaînes lourdes et légères. 
+ 
+Certaines bandes sont plus intenses que d’autres, les gamma (G) par exemple sont beaucoup plus 
+fortes car en réalité elles représentent la fraction la plus abondante. On a beaucoup de gamma (G), 
+un peu d’alpha (A) et un peu moins d’IgM (M). 
+ 
+Pour les kappas c’est pareil, on a essentiellement des Ig associées à des chaînes kappa et un peu 
+moins associées à des chaînes lambda. 
+ 
+1 - Cas normal (schéma de gauche) 
+Quand on a cette immunofixation (tous les types de chaînes), on peut dire que l’on a une 
+population de gammaglobuline qui a l’air polyclonale. 
+ 
+2 - Cas pathologique (à droite) 
+En revanche, si nous faisons l’immunofixation chez un patient qui a un type d’allure monoclonale (à 
+droite), nous allons détecter en très grande quantité une chaine lourde (ici gamma) et une chaine 
+légère (ici kappa). 
+Donc ici, le patient a une immunoglobuline monoclonale de type IgG-kappa. 
+Ainsi, pour confirmer la monoclonalité d’une immunoglobuline, il est indispensable de détecter un 
+seul type de chaîne lourde et un seul type de chaîne légère. 
+ 
+ 
+· Résumé 
+Deux examens biochimiques essentiels permettent ce diagnostic, 
+1. L’électrophorèse des protéines : permet de suspecter une immunoglobuline monoclonale en 
+mettant en évidence un pic dans la zone des gammaglobulines. 
+2. L’immunofixation : confirme la monoclonalité et identifie la nature de l’immunoglobuline 
+concernée. 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+ 
+Remarque : ici le pic monoclonal du schéma est de très forte intensité et dans ce cas là on sera 
+quasiment certains d’avoir une monoclonalité (on fait quand même le 2ème examen) mais 
+l’intensité est variable donc le pic peut être moins marqué (importance ++ de réaliser 
+l’immunofixation) 
+ 
+Question : « est-il possible d’avoir plusieurs types de clones plasmocytaires qui prolifèrent ? » 
+Réponse : Ça peut exister mais c’est rarement le cas, concernant l’identification c’est trop complexe 
+donc il ne faut pas « s’embrouiller » l’esprit avec ça car on verra que ça peut correspondre à un 
+myélome mais souvent c’est de signification indéterminée.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+B. Autres examens biologiques    
+ 
+D’autres examens complémentaires sont utiles pour le diagnostic mais surtout pour le suivi des 
+patients, car une production excessive d’immunoglobulines entraîne leur accumulation et leur 
+catabolisme dans l’organisme. Ils ne sont jamais réalisés en 1ère intention. 
+ 
+• 
+Dosage pondéral des Ig 
+ Une fois que le diagnostic est posé, il est possible de réaliser un dosage pondéral des Ig afin de 
+doser chaque classe d’Ig (IgG, IgA, IgM, IgD, IgE).  
+L’électrophorèse des protéines ne permet pas de distinguer précisément chaque classe 
+d’immunoglobulines.  
+On obtient uniquement un signal global correspondant aux gammaglobulines. 
+Le principe est que lorsque l’on a un clone plasmocytaire qui prolifère, le reste des plasmocytes 
+polyclonaux vont diminuer en proportion. Ainsi, si on enlevait le pic monoclonal on se rendrait 
+compte qu’il y a une hypogammaglobunémie c’est à dire une diminution des autres Ig polyclonales 
+résiduelles (non visible sur le tracé de l’EPP).  
+C’est important car un patient qui aura un pic monoclonal de grande intensité sera sensible aux 
+infections car il ne produira pas assez d’Ig polyclonales dans son organisme.  
+Ce phénomène est appelé déficit immunitaire humoral à restriction de synthèse des autres classes 
+d’Ig. 
+ 
+ 
+• 
+Dosage des chaînes légères libres dans le sérum 
+Lorsqu’il existe une gammapathie monoclonale, le catabolisme de l’Ig entraine l’accumulation de la 
+chaines légères Kappa ou Lambda (selon le type d’Ig monoclonale) dans le sang. Ces dernières sont 
+plus petites et plus mobiles que les chaînes lourdes. Ainsi une autre façon de suivre ces patients 
+est de doser les chaines légères libres dans le sérum et calculer le ratio Kappa/Lambda. 
+En principe, ce ratio (R) est constant, avec une proportion d’environ deux tiers de kappa pour un 
+tiers de lambda. 
+- Si R augmenté : chaine K libre en excès dans le sérum 
+- Si R diminué : chaine L libre en excès dans le sérum 
+Ce dosage est particulièrement utile pour le suivi des patients, car il évite de devoir réaliser une  
+électrophorèse à chaque contrôle. 
+ 
+ 
+• 
+Immunofixation urinaire 
+ 
+Contrairement aux chaînes lourdes et aux Ig complètes, les chaînes légères (de par leur petite 
+taille) peuvent traverser le filtre glomérulaire rénal et être éliminées dans les urines. Elles peuvent 
+
+---PAGE---
+donc être détectées dans les urines mais en très faible quantité, on ne s’attend pas à en trouver 
+en condition physiologique. 
+Une immunofixation urinaire révélant uniquement des chaînes légères lambda en grande quantité 
+suggère une production excessive d’immunoglobulines monoclonales, suivie d’une dégradation et  
+d’une élimination urinaire. 
+La présence de ces chaînes légères dans les urines signe une protéinurie de Bence-Jones, 
+caractéristique de certaines gammapathies monoclonales. 
+ 
+ 
+Utilisation de bandelettes urinaire 
+Souvent quand on veut évaluer la fonction rénale rapidement, on réalise une bandelette urinaire et 
+on regarde si au niveau de la détection des protéines on observe un changement de couleur. Or 
+dans le cas d’une protéinurie de Bence-Jones, la quantité de chaînes légères est dans la plupart 
+des cas trop faible pour positiver le test. Donc ce n’est pas un bon test pour détecter les chaînes 
+légères libres dans les urines. Son importance est surtout chez les patients qui ont un myélome car 
+on pourra détecter une lésion rénale.  
+ 
+Question : « la lésion rénale ce sera une conséquence de la gammapathie ? » 
+Réponse : oui l’atteinte rénale est une conséquence du myélome et donc si la bandelette est positive 
+ce sera à cause de cette atteinte et non pas à cause de la présence des protéines (sauf si quantité 
++++) 
+  
+À retenir : le seul test qui permet de détecter les chaînes légères dans les urines = 
+immunofixation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+                  C. Particularité des gammapathies à chaîne légères  
+Parfois, le clone plasmocytaire produit une immunoglobuline incomplète = sécrétion 
+uniquement d’une chaîne légère kappa ou lambda (éliminées dans les urines) 
+ 
+On parle alors de gammapathie à chaînes légères kappa ou lambda. 
+  
+Ces chaînes légères sont de petite taille, ce qui leur permet d’être rapidement éliminées par le 
+rein. 
+• 
+Conséquences sur l’électrophorèse 
+ 
+ 
+Lorsqu’on réalise une électrophorèse des protéines (EPP) dans le sang, ces chaînes ne migrent 
+pas  
+dans la zone des gammaglobulines, contrairement aux immunoglobulines complètes. 
+ 
+• 
+Une hypogammaglobulinémie peut être observée : la zone des gammaglobulines est 
+aplatie, car la majorité des immunoglobulines visibles ont disparu. 
+• 
+Cette hypogammaglobulinémie est trompeuse, car elle masque en réalité une 
+production excessive de chaînes légères qui ne sont pas détectées par cet examen. 
+ 
+· Comment poser le diagnostic ? 
+  
+- Dosage des chaînes légères kappa et lambda dans le sérum (ratio) 
+ 
+- Immunofixation urinaire ++ pour confirmer la présence des chaînes légères libres dans les 
+urines. 
+ 
+ 
+Lorsque l’électrophorèse montre une hypogammaglobulinémie inexpliquée, il faut donc penser 
+à doser les chaînes légères pour détecter une éventuelle gammapathie à chaînes légères. 
+ 
+ 
+Attention : une hypogammaglobulinémie ne signifie pas toujours une gammapathie à chaînes 
+légères kappa ou lambda. Tous les déficits immunitaires vont donner ce tracé là. 
+ 
+ 
+ 
+
+---PAGE---
+ 
+                                        VII. Etiologie des gammapathies 
+ 
+ · Circonstances de découverte 
+ 
+Les gammapathies monoclonales sont découvertes : 
+• 
+Majoritairement de manière fortuite ++ 
+ 
+ 
+Lors d’un bilan biologique de routine : Électrophorèse des protéines sériques, mise en évidence 
+des pics monoclonaux chez des patients asymptomatiques 
+ 
+• 
+A cause de complications liées à l’immunoglobuline monoclonale 
+ 
+• pic : son activité et sa quantité (hyperviscosité, signes neurosensoriels) 
+• myélome : Signe dits « CRAB », Infections bactériennes à répétition ou sévères liées à  
+l’hypogammaglobulinémie 
+• cas d’une IgM : syndrome lymphoprolifératif (syndrome tumoral, ADP/SMG) 
+ 
+ 
+ 
+· Étiologies 
+ 
+• Gammapathie Monoclonale de Signification Indéterminée = GMSI ou MGUS (monoclonal 
+gammopathy of undetermined significance) 
+ 
+• Hémopathies malignes : myélome ou syndrome lymphoproliferatif B (ex : Macroglobulinémie 
+de Waldenström) 
+ 
+ 
+ 
+Démarche diagnostic dépend du type de gammapathies : 
+ 
+Gammapathies non-IgM (IgG, IgA, chaîne légère) : MGUS ou Myélome 
+Gammapathies IgM : Hémopathies lymphoïdes (rechercher surtout la maladie de Waldenström) 
+ 
+A. Ig de type non IgM 
+• 
+MGUS :  
+ 
+• Prolifération clonale sans critères de malignité (pics monoclonaux “bénins”) 
+• Fréquente > 70 ans, incidence augmente avec l’âge 
+• Découverte fortuite d’un pic à l’EPP : Pic IgG et IgA++ 
+• Risque d’évolution vers un myélome -> état prémyélomateux 
+Seulement 1% par an des patients progressent vers un myélome (surveillance clinique et 
+biologique annuelle) 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Critères diagnostiques : 
+ 
+Faible taux d’Ig monoclonale (< 30 g/L) 
+Plasmocytose médullaire < 10% 
+ 
+Absence de critère CRAB = symptomes du myélome : 
+Calcémie normale, fonction Rénale et, absence d’Anémie et de lésion osseuse (Bone=os en 
+anglais) 
+ 
+ 
+ 
+Examen :  
+ 
+- Surveillance clinique et bilan biologique car risque d’évolution : Hémogramme, fonction 
+rénale, calcémie, protéinurie et EPP 
+- Pas d’exploration médullaire systématique (pic modéré, âge <70ans, pas de signe qui évoque 
+un  
+myélome) 
+En cas d’évolution (signes cliniques) 
+- Imagerie : rechercher des lésions osseuses 
+- Myélogramme : infiltration plasmocytaire dans la moelle 
+ 
+ 
+ 
+ 
+ 
+2. Myélome 
+ 
+• Hémopathie maligne, du sujet âgé, rare (10% des cancers hémato) 
+• Prolifération d’un clone de plasmocytes tumoraux envahissant la moelle osseuse : visible au  
+myélogramme, toujours précédé de la phase proliférative du MGUS. 
+• Infiltration responsable de la symptomatologie : atteintes osseuses douloureuses ++ et  
+complications hemato, métabolique, rénale, infectieuse 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Complications :  
+ 
+• Anémie ++ : MO infiltrée de plasmocytes s’accompagne de cytopénies (insuffisance 
+médullaire) 
+ 
+• Atteinte osseuse (symptômes pcp, d’emblée ou évoluent au fur et à mesure de la maladie) : 
+Les  
+plasmocytes anormaux activent les ostéoclastes impliqués dans la dégradation de la matrice  
+osseuse. Hyperstimulation => résorption osseuse => fragilité osseuse. 
+ 
+• Hypercalcémie : Os= pool important de réserve calcique -> hyper résorption osseuse : 
+libération de Ca2+ -> complication cardiaque, métabolique 
+ 
+• Syndrome d’hyperviscosité - complications sensorielle, déficit immunitaire immoral, 
+infections :  
+production excessive de protéines monoclonales dans les gammapathies (surtout IgG, IgA, 
+chaînes  
+légères) 
+ 
+• Insuffisance rénale : Chaînes dégradées et éliminer par les urines -> altération de la fonction 
+rénale + hypercalcémie -> tubulopathie et maladies à dépôts 
+ 
+ 
+ 
+ 
+Critères diagnostiques : 
+ 
+ 
+ 
+ 
+ 
+Deux formes de myélome :  
+ 
+• 
+Myélome indolent (asymptomatique) : 
+ 
+• Taux d’Ig monoclonale ≥ 30 g/L. 
+• Plasmocytose médullaire ≥ 10 % = pose le diagnostic d’un myélome 
+• Absence de symptômes CRAB. 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+• 
+Myélome symptomatique (myélome multiple ou maladie de Kahler) : 
+ 
+• Présence d’au moins un critère CRAB 
+C : Hypercalcémie 
+R : Insuffisance Rénale 
+A : Anémie 
+B : Lésions osseuses (fractures, tassements vertébraux) 
+ 
+ 
+Critère de malignité : 
+• 
+Taux de plasmocytes ≥ 60% = diagnostic symptomatique 
+• 
+Ratio chaîne légère libre >100 
+• 
+Liaisons focales à l’IRM au niveau musculaire  
+ 
+ 
+ 
+ 
+ 
+Question : pourquoi on va avoir une anémie et pas plutôt une autre cytopénie ? 
+C’est au début de la maladie que l’anémie prédomine mais plus on a un stade avancé, plus il y’a 
+de 
+cytopénies. 
+ 
+ 
+ 
+Conduite à tenir devant un pic autre que IgM -> Rechercher la symptomatologie du myélome : 
+ 
+ 
+ 
+Signes cliniques : 
+ 
+ 
+• AEG (altération de l’état général) 
+ 
+• syndrome anémique, hémorragique ou infectieux 
+ 
+• signes osseux ++ : osteopenie globale (douleurs osseuses, fractures pathologiques), lésions ou  
+tassement vertébrales 
+ 
+• signes neurologiques (compression médullaire -> urgences chir) 
+ 
+• signes d'hypercalcémie (signe cardiaque) 
+
+---PAGE---
+ 
+• syndrome d'hyperviscosité 
+ 
+• Pas de tuméfaction des organes hématopoïétiques (jamais d’adénopathies/splénomégalie) 
+ 
+ 
+ 
+Examen : 
+ 
+Imagerie +++ indispensable au diagnostic et pour rechercher les complications médullaires 
+ 
+ 
+ 
+ 
+Radiographie standard :  
+Permet de détecter des lésions osseuses caractéristiques du myélome : 
+• 
+Géodes ou lacunes osseuses à l’emporte-pièce (zones de lyse osseuse) 
+• 
+Tassements vertébraux 
+ 
+ 
+De moins en moins utilisé, manque de sensibilité pour détecter des lésions précoces. 
+Scanner = examen de référence 
+• Examen + sensible que la radiographie pour détecter les lésions ostéolytiques 
+• Sans injection de produit de contraste, car les patients atteints de myélome peuvent avoir une 
+atteinte rénale qui serait aggravée par les produits iodés. 
+ 
+IRM 
+• Indiqué pour rechercher des lésions focales dans la moelle osseuse. 
+Utilisé en cas de suspicion  
+ 
+ 
+Biologie du myélome (signes du critère CRAB) 
+•  Hypercalcémie : Due à la résorption osseuse excessive induite par les plasmocytes tumoraux. 
+Peut provoquer des troubles neurologiques, digestifs et rénaux. 
+• 
+Insuffisance rénale : Provoquée par l’élimination massive de chaînes légères 
+monoclonales → dépôts glomérulaires et tubulopathie. 
+• 
+Anémie normocytaire normochrome dans la majorité des cas (hémogramme) : Résulte 
+de l’envahissement médullaire par les plasmocytes tumoraux. 
+• 
+Hématies en rouleaux (frottis sanguin) : Ig monoclonale entraîne une viscosité des GR, 
+formant des piles d’hématies visibles  
+
+---PAGE---
+   
+  
+Myélogramme (examen clé pour le diagnostic)   
+Recherche d’une plasmocytose médullaire > 10 %. 
+Plasmocytes dystrophique caractéristiques du myélome, noyau excentré. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Ig de type IgM 
+ 
+ 
+1. MGUS à IgM 
+ 
+•15-20% des MGUS sont des IgM 
+•Susceptibles d’évoluer vers une prolifération lymphoplasmocytaire ou un lymphome 
+• Absence de signe cliniques et IgM (<15 g/L) 
+•Pas d’infiltration lymphocytaire ou lymphoplasmocytaire 
+ 
+ 
+ 
+2.Accompagnant un Syndrome lymphoprolifératif B chroniques (lymphomes de bas grades) 
+ 
+• maladie de Waldenström (LLC, lymphome zone marginale) 
+• Sécrétion de l’IgM de surface par le clone qui prolifère 
+ 
+ 
+Conduite à tenir : 
+ 
+-> Rechercher un syndrome lymphoprolifératif ++ 
+ 
+ 
+ 
+Signe clinique :  
+ 
+• AEG 
+• Syndrome tumoral : adénopathies, splénomégalie (pas de signes osseux!!!) 
+ 
+ 
+ 
+
+---PAGE---
+Examen biologique :  
+ 
+Hémogramme 
+Anémie, Hyperlymphocytose, Immunophénotypage lymphocytaire, Cryoglobulinémie, 
+Agglutinines froides 
+Biopsie ostéomédullaire 
+Infiltration lymphocytaire 
+-> Rechercher des manifestations cliniques liées à l’activité et la quantité de l’IgM 
+(macromolécule= pentamère) 
+ 
+ 
+ 
+ 
+• Syndrome hyperviscosité : Céphalées, vertiges, obnubilation, syndrome confusionnel ou  
+neuropathies périphériques, Rétinopathie avec troubles visuels (examen du fond d'œil), risque  
+d’hémorragies rétiniennes 
+ 
+• Syndrome hémorragique : Activité anti-facteur VIII ou Facteur Willebrand, Thrombopathie 
+ 
+• Signes liés à une activité cryoglobulinique : manifestations cutanées (purpura, phénomène de  
+Raynaud, voire nécrose des extrémités), des polyarthralgies, des mono ou multinévrites, des  
+néphropathies glomérulaires 
+ 
+• Maladie des agglutinines froides : Hémolyse après exposition au froid (Activité anti-i ou anti-I 
+=  
+antigènes érythrocytaires) 
+ 
+• Neuropathie liée à l’activité anti-MAG : Protéine neurale, principalement la Myelin Associated  
+Glycoprotein 
+ 
+ 
+ 
+                                CONCLUSION (reprise du cours de l’an dernier) 
+ 
+ 
+ 
+Ce qu’il faut retenir : 
+ 
+• Le diagnostic d’une gammapathie repose sur l’electrophorèse des protéines et 
+l’immunofixation 
+ 
+• Important de distinguer les gammapathies non-IgM vs IgM 
+ 
+• Le MGUS est très fréquent, non malin, mais risque d’évolution vers myélome 
+ 
+• Chercher les signes CRAB devant un pic non-IgM 
+ 
+• Jamais d’adénopathie/splénomégalie dans le myélome 
+ 
+• Pic IgM oriente vers une hémopathie lymphoïde mature (syndrome 
+lymphoprolifératif/lymphome 
+
+---PAGE---
+ 
+
+---PAGE---

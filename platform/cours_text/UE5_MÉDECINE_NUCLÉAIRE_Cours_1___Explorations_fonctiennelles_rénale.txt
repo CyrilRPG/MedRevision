@@ -1,0 +1,463 @@
+RT: Eloïse Hardy, Emma Sanches Luis
+RL
+   : Noa Delatour
+ 
+ 
+UE 5 – REINS, VOIES URINAIRES ET APPAREILS GENITAUX
+MEDECINE NUCLEAIRE
+Cours n°1
+Pr Soussan– 27/02/2026 – 15h30/17h00
+EXPLORATIONS FONCTIONNELLES RENALES
+PLAN DU COURS
+I.
+Introduction
+    A. Rappel
+    B. Etude du débit de filtration glomérulaire
+    C.  2 types d’explorations scintigraphiques
+II.
+Scintigraphie rénale dynamique
+    A. Objectifs, indications et principe
+    B. Néphrogramme isotopique : aspect normal
+    C. Exemple
+    D. Fonction rénale relative
+    E. Evaluation de l’excrétion
+    F. Grades d’obstructions
+III.
+Scintigraphie rénale statique
+                      A. Principe
+                      B. Cas normal
+IV.
+Cystographie isotopique
+                      A. Principe
+V.
+Scintigraphie rénale au captopril
+   A. Rappels
+   B. Action du système rénine-angiotensine dans la génèse de l’HTRV 
+   C. Action du captopril sur l’HTRV
+   D. Physiopathologie de la sténose rénale et déroulement de 
+l’examen
+VI.
+Uro-IRM
+   A. Principe et limites
+   B. Exemple
+VII. A retenir
+HTRV : hypertension réno-vasculaire.
+Page 1/19
+
+---PAGE---
+I. Introduction
+A. Rappel
+Rôles du rein
+Physiologiquement, les reins assurent deux grandes fonctions dans l'organisme:
+●
+une fonction homéostasie; via la filtration glomérulaire et en gardant un 
+équilibre hydro-électrolytique, acido-basique et tensionnel
+●
+une fonction endocrine; via la sécrétion d’une hormone (l’EPO) et par la 
+production de la vitamine D sous sa forme active
+I. Introduction
+B. Etude du débit de filtration glomérulaire
+Fonction rénale
+globale
+Le debit de filtration glomerulaire (DFG) reflète la fonction rénale. Exprimé en mL/min, 
+il correspond au volume de liquide filtré par le rein par unité de temps.
+Pour l’estimer, on utilise ces deux methodes de référence :
+•
+Par la méthode de Clairance de l'Inuline. En pratique, l’inuline est utilisée car 
+elle est uniquement filtrée par le glomérule, sans être réabsorbée ni sécrétée, 
+ce qui permet de mesurer exactement le DFG.
+•
+Mais elle est  de plus en plus remplacée par clairance de EDTA 51 Cr (molecule 
+d’EDTA marquee par du chrome 51)
+En pratique courante, ces deux techniques sont rarement effectuees.
+Ce DFG est obtenu grâce à une estimation et non par une mesure (car il est assez 
+approximatif). Il est estimé à partir de la clairance de la créatinine. Cependant, une 
+petite fraction de la créatinine n'est pas uniquement filtrée par le rein (elle est aussi 
+légèrement sécrétée), ce qui rend cette estimation approximative. Malgré cet 
+inconvénient, cette méthode reste essentielle et est utilisée quotidiennement en 
+médecine nucléaire.
+La clairance du DFG est calculee grâce à ces deux methodes:
+•
+Cockcroft : calcul de la clairance de la créatinine (en mL/min) (peu précis)
+•
+Formule CKD-EPI : pour estimer le DFG à partir de la créatininémie.(méthode 
+recommandée par la HAS)
+Page 2/19
+
+---PAGE---
+I. Introduction
+B. Etude du débit de filtration glomérulaire
+Pathologies et
+fonctions
+rénales
+différentielles
+En cas de pathoplogie néphrologiques, il peut être intéressant de mesurer la fonction 
+rénale totale et la fonction rénale differentielle (de chaque rein séparement). Cela 
+permettra de déterminer si un rein est plus affecté que l’autre dans le cadre d’une 
+pathologie.
+Pour garder un équilibre entre les deux reins, elle doit se trouver entre 45 et 55%.
+L’imagerie est le seul moyen d’évaluation non invasive
+Examen de référence = scintigraphie rénale
+Uro-IRM: alternative qui est :
+• Non irradiante
+• Donne des informations anatomique et fonctionnelle
+I. Introduction
+C. Deux types de scintigraphie
+Rappels
+•
+Dans le cas de la scintigraphie, on regarde le patient avec une vue postérieure, 
+c’est à dire que tout ce qui est à droite reste à droite et inversement pour le 
+côté gauche.
+•
+De plus, le prof ne l’a pas reprécisé cette année mais c’est important, avec un 
+DFG <  30 mL/min, on ne peut pas administrer de produit de contraste iodé au 
+patient.
+La scintigraphie
+dynamique
+Le principe est d’acquérir des images succesives au cours du temps pour obtenir un 
+néphrogramme (avec en ordonnée l’activité et en abscisse le temps). Dans ce cas là, on 
+utilise un traceur qui s’élimine avec l'excrétion rénale: MAG3 ou DTPA. 
+Les images sont réalisées durant l’injection d’un traceur ayant une forte excrétion 
+rénale, sous la caméra, et durent 40 minutes.
+On peut les coupler a des diurétiques rapides (furosemide=lasilix) ou des anti-
+hypertenseurs.
+La scintigraphie
+statique
+Les images sont réalisées 3 à 4 heures après l’injection d’un traceur ayant une fixation 
+parenchymateuse élevée et stable, et durent environ 15 minutes.
+On utilise un traceur (le DMSA) qui reste au niveau du rein, qui n’est donc pas excrété. 
+Ce type de scintigraphie est utilisée davantage pour des séquelles rénales et permet 
+d’obtenir des images plus nettes/une vision anatomique des reins.
+Tous ces traceurs sont marqués au technétium.
+Page 3/19
+
+---PAGE---
+II. Scintigraphie rénale dynamique
+A. Objectifs, indications et principe
+Objectifs
+•
+déterminer la fonction rénale relative (celle de chaque rein).
+•
+déterminer l’excrétion rénale lors d’un syndrome obstructif.
+•
+permettre de guider la future prise en charge thérapeutique.
+Indications
+La scintigraphie dynamique permet de vérifier la fonctionnalité des reins via plusieurs 
+aspects :
+•
+Dans le cadre d'obstacles des voies urinaires, de type : Syndrome de la jonction 
+pyélo-urétérale (SJPU), calculs obstructifs.
+•
+dans le cadre de contrôle post-greffe.
+•
+dans le cadre HTA réno-vasculaire (HTRV).
+Principe
+Le type de traceur utilisé en scintigraphie dynamique est éliminé dans les urines. On 
+retrouve le NéphroMAG et le Technescan DTPA.
+Le DTPA est un traceur éliminé dans l'urine principalement par filtration glomérulaire. 
+Le NéphroMAG est sécrété par les tubules proximaux MAIS NON FILTRÉ. Les deux 
+seront excrétés dans les cavités pyélocalicielles.
+On peut aussi y ajouter un diurétique (lasilix) 20 min après injection. En provoquant 
+une hyperdiurèse, il augmente fortement la production d'urines. Ainsi, en cas de 
+suspicion d'obstacle (par exemple une sténose de la jonction pyélo-urétérale) 
+empêchant la bonne évacuation des urines, le rein peut capter le traceur sans que 
+celui-ci ne s'élimine correctement. L'administration de Lasilix permet alors d'évaluer le 
+caractère de l'obstruction.
+La scintigraphie rénale consiste à placer le patient sous une gamma-caméra et à 
+injecter par voie intraveineuse un traceur radioactif, filtré puis excrété par les reins 
+pendant environ 40 minutes. 
+Page 4/19
+
+---PAGE---
+II. Scintigraphie rénale dynamique
+B. Néphrogramme isotopique : aspect normal
+Néphrogramme
+Le néphrogramme isotopique représente une quantification du radiotraceur et 
+l'évolution de la quantité du radiotraceur au niveau du rein en fonction du 
+temps. 
+On peut le découper en 3 phases :
+1. Phase vasculaire: portion ascendante (jusqu’à « half »), représente la 
+perfusion.
+2.
+Phase fonctionnelle : montée plus progressive jusqu’au pic, représente la 
+filtration/sécrétion.
+3.
+Phase exrétoire : portion descendante, représente l’excrétion du radiotraceur.
+On note que T1/2 excrété doit être < à 10mins et que la RCA doit être < à 30%.
+Page 5/19
+
+---PAGE---
+II. Scintigraphie rénale dynamique
+C. Exemple
+On voit que la courbe du néphrogramme du rein droit (flèche verte) est similaire à celle
+d’un rein normal : une première partie de montée rapide, une montée ensuite plus 
+progressive et une phase descendante jusqu’à excrétion quasi complète, alors que celle
+du rein gauche a un aspect anormal : il n’y a pas de partie descendante → obstacle. Le 
+radiotraceur reste dans le rein et n’est pas excrété. (obstacle dans la jonction pyélo-
+urétérale).
+Console de
+traitement
+NB : Le prof l’a juste montré
+Page 6/19
+
+---PAGE---
+II. Scintigraphie rénale dynamique
+D. Fonction rénale relative
+Principe
+A partir des néphrogrammes, on peut déterminer la fonction rénale relative ( % de 
+fonction de chaque rein).
+Pour cela, on regarde le néphrogramme, lors des premières minutes après injection, 
+entre la 2ème et la 3ème minutes, on va étudier l’intégrale de la courbe (l’aire sous la 
+courbe) et la calculer.
+Sur cet exemple, on voit que l’aire sous la courbe rose (du rein gauche) > l’aire sous la 
+courbe bleue (rein droit). Le rein gauche est estimé à 57,36 % tandis que le droit est 
+estimé à 42,64 %.
+Néphrogramme anormal car les % sont pas compris entre 45 et 55 %.
+Question d’une élève : du coup il ne faut pas prendre l’air sous la courbe totale ?
+« Il faut regarder le segment fonctionnel qui correspond le plus à la fonction rénale. Si 
+on regarde l’air sur la courbe trop tôt, il y a trop de perfusion mise en jeu. »
+Question d’une élève, elle ne comprend pas pour la scintigraphie dynamique pourquoi 
+on fait l’air sous la courbe après 2-3min
+Nous avons une captation au niveau du début de la phase fonctionnelle, puis on a la 
+filtration et la sécrétion rénale qui sont plus représentatives de la fonction rénale. Cette 
+comparaison avec cet indice la permet d’estimer une fonction rénale relative de chaque 
+rein.
+Page 7/19
+
+---PAGE---
+II. Scintigraphie rénale dynamique
+E. Evaluation de l’excrétion
+On va examiner la partie distale de la courbe, une fois qu’on a passé le pic.
+Il est possible d’utiliser des diurétiques qui permettent d’accélérer la vidange rénale 
+pour savoir si l’obstacle est important (on dit complet ou incomplet).
+Sur la courbe rouge, on voit que l’aire sous la courbe est quasiment la même que la 
+courbe bleue, ce qui veut dire que la fonction rénale relative est équilibrée. Sauf qu’il y 
+a une stagnation sous la courbe rouge jusqu’à l’injection de diurétiques, l’obstacle s’est 
+ensuite levé et le rein est revenu normal. C’était donc un obstacle modéré (ou 
+incomplet).
+Sur un obstacle complet, les diurétiques n’auront aucun effet.
+II. Scintigraphie rénale dynamique
+F. Grades d’excrétion rénaux
+Les grades vont de l’aspect normal (grade 0) au grade 5 ou la fonction rénale n’existe 
+quasiment plus.
+La courbe bleue a une excrétion retardée et incomplète. La courbe rouge est encore 
+plus retardée, la courbe orange traduit une fonction rénale altérée.
+Page 8/19
+
+---PAGE---
+II. Scintigraphie rénale dynamique
+F. Grades d’excrétion rénaux (suite)
+Critères de
+O’Reilly
+•
+Groupe 1 : Aspect normal. Effet du lasilix est superflu
+•
+Groupe 2 : Obstacle complet. Le lasilix n’a pas d’effet
+•
+Groupe 3a : Stase (pas vraiment un obstacle, vessie dilaté). Lasilix 
+indispensable.
+•
+Groupe 3b : Obstruction partielle. Lasilix indispensable
+Page 9/19
+
+---PAGE---
+III. Scintigraphie rénale statique
+A. Principe
+La scintigraphie rénale statique est réalisée avec un marqueur le 99mTc-DMSA. 
+Ici le marqueur n’est ni filtré ni secrété mais capté au niveau du tube contourné
+proximal et reste au niveau du rein avec une image bien nette.
+Pour se faire : on va réaliser une image statique (pendant 10min), 3 à 4h après 
+l’injection du 99mTc-DMSA. Cette méthode permet d’évaluer la masse corticale
+fonctionnelle, mais on peut aussi, comme dans le cas de la scintigraphie rénale 
+dynamique, évaluer la fonction rénale relative : non pas avec une aire sur la 
+courbe comme dans le cas de la scintigraphie dynamique mais avec l’évaluation 
+de la fixation totale dans le rein.
+Cet examen est utilisé en pédiatrie notamment pour mettre en avant la 
+présence d’un retentissement fonctionnel des uropathies malformatives. On 
+peut aussi mettre en évidence la présence de cicatrices corticales à distance 
+d’une une pyélonéphrite aiguë (qui est une infection rénale) ou bien le 
+retentissement fonctionnel d’un obstacle.
+Page 10/19
+
+---PAGE---
+III. Scintigraphie rénale statique
+ B. Cas normal
+Cas normal :
+fixation
+homogène et
+symétrique.
+Exemple : Avec un enfant de 3ans qui a eu des infections à répétition, on peut observer 
+la présence de « cicatrices infectieuses » importantes (en gros le rein a du mal à 
+fonctionner). Pour le rein droit nous avons un fonctionnement à 88% et pour le rein 
+gauche à 12%.
+Ici on ne mesure pas l’air sur la courbe sous un segment mais on mesure juste l’activité 
+radioactive notamment en faisant une mesure de l’activité totale. L’avantage est qu’on 
+pourra mieux visualiser les lésions anatomiques.
+ Question d’une élève : pour la scintigraphie statique par le biais de l’examen on peut 
+déduire la fonction rénale ou pas ?
+Oui justement avec l’image statique non dynamique on mesure l’activité/radioactivité 
+sur l’image sur un rein par rapport à l'autre rein
+ Question d’une élève : si jamais y’a un obstacle y’aura un examen normal ?
+S’il y a un obstacle avec une fonction rénale altérée, alors oui, mais sinon si elle n’est 
+pas altérée, alors non on ne verra pas de retentissement. C’est surtout pour les grands 
+obstacles que l’on voit mais pour les fonctions rénales présentées avec petit obstacle on 
+ne verra pas.
+Page 11/19
+
+---PAGE---
+IV. Cystographie isotopique
+A. Principe
+Cet examen est utilisé en radio et médecine nucléaire. Il est surtout utilisé en pédiatrie 
+pour diagnostiquer un reflux vésico-urétéral.
+Principe :
+•
+On injecte le traceur (ici du 99mTc-pertéchnétate, ou -colloïde ou -DTPA) avant 
+miction en piquant dans la vessie
+•
+Puis on fait des acquisitions d’images dynamiques pendant la miction
+Pendant la miction, on pourra visualiser les uretères et pyélons puis il y aura une 
+stagnation au niveau de la vessie. Sur l’image la plus a droite, on peut voir un reflux et 
+on peut qualifier son impact.
+Page 12/19
+
+---PAGE---
+V. Scintigraphie au captopril
+A. Rappels
+L’HTA est le plus souvent essentielle, mais elle peut aussi être d’origine reino-vasculaire
+(HTRV) ce qui est curable :
+•
+Dans 75% des cas elle est de type athéromateuse
+•
+Dans 25% des cas fibrodysplasique
+Il faut donc lever la sténose pour protéger le rein et faire disparaitre la HTA.
+La scintigraphie rénale est donc non invasive et peu irradiante, elle permet de savoir si 
+le rein est incriminé dans l’HTA. Mais on peut très bien aussi avoir une sténose qui n’est
+pas originaire de l’HTA.
+Page 13/19
+
+---PAGE---
+V. Scintigraphie au captopril
+ B. Action du système rénine-angiotensine dans la génèse de l’HTRV
+Rappel
+Mécanisme de stimulation et action du système rénine-angiotensine (RAA) dans l’HTA :
+ La cascade hormonale : avec au départ l’angiotensinogène qui sous l’effet de la rénine 
+(produite par l’appareil juxta-glomérulaire du rein) va se transformer en angiotensine I 
+(AI) Puis l’enzyme de conversion qui va la transformer en angiotensine II (AII).
+Celle-ci a deux effets :
+•
+Un effet systémique avec la vasoconstriction.
+•
+Et au niveau rénal : vasoconstriction de l’artériole efférente avec une rétention 
+hydrosodée ce qui contribue à l’HTA.
+Il existe les inhibiteurs de l’enzyme de conversion (IEC) pour casser la transition 
+angiotensine I et II.
+Page 14/19
+V. Scintigraphie au captopril
+
+---PAGE---
+C. Action du captopril sur l’HTRV
+Mode d’action
+Action du captopril sur l’HTRV :
+On a un glomérule avec deux artères : afférente et efférente.
+RAS = sténose de l’artère rénale.
+On a une pression de perfusion rénale diminuée par la sténose, le rein va secréter de 
+la rénine ce qui va activer la cascade avec la formation d’angiotensine II et cela va vers 
+l’HTA. Le rein va donc provoquer une HTA mais quand on va donner un IEC, ici le 
+captopril par exemple, cela va casser la cascade au niveau de la transition AI vers AII. 
+Mais un rein avec une sténose permet d’activer l’AII qui va vascoconstricter l’AE pour 
+maintenir le débit de perfusion. Avec l’IEC le mécanisme de compensation est cassé et 
+la fonction rénale va faire chuter la pression de perfusion ce qui va entraîner un risque
+d’insuffisance rénale et effondrer le DFG.
+Note de RT : c’est un peu compliqué a comprendre mais si vous regardez bien le schéma
+cela va vous paraitre plus clair.
+Le but de la scintigraphie est donc de faire une comparaison avec et sans captopril pour
+voir ce qui se passe sur le néphrogramme :
+•
+Si le néphrogramme est pathologique avec un effondrement alors la sténose 
+est en cause
+•
+S’il n’y a aucun effet alors la sténose n’est pas en cause de l’HTA.
+Page 15/19
+
+---PAGE---
+V. Scintigraphie au captopril
+D. Physiopathologie de la sténose rénale et déroulement de l’examen
+Bases
+physiopathologi
+ques
+Les effets d'une sténose rénale évoluent en deux phases successives dans le 
+temps :
+•
+En phase initiale : baisse de la pression de perfusion avec hyperproduction de 
+rénine en état de sténose. Quand on met un IEC on fait effondrer le DFG de 
+façon unilatérale ce qui permet de lever l’HTA si on lève la sténose l’HTA 
+disparaîtra.
+•
+En phase tardive : le DFG est effondré, le traitement de la sténose n’aura pas 
+d’effet sur la HTA.
+En pratique : la
+préparation des
+patients
+•
+Les traitements anti-hypertenseurs peuvent influencer le résultat de la 
+scintigraphie rénale en modifiant la sécrétion de rénine, ou l'hémodynamique 
+intra-rénale (risque de faux positifs et faux négatifs).
+•
+Préférable de réaliser le test après arrêt de tout traitement.
+•
+Le patient arrête les IEC et diurétiques absolument, ainsi qu’arrêter son régime 
+sans sel (s’il en a un).
+Déroulé de
+l’examen
+On fait une scintigraphie dynamique rénale sans rien. Et une seconde partie (5h après 
+l’injection du matin) le même jour ou lendemain : on donne un IEC per os (captopril) et 
+on réalise des images à 1h de la réalisation des images. On compare ensuite les deux 
+néphrogrammes réalisés.
+Exemple : Sténose bilatérale visualisée par angiographie (qu’on ne fait plus maintenant)
+: on voit deux sténoses. La scintigraphie montre deux néphrogrammes plus ou moins 
+normaux avec peu de différences entre les deux reins mais après captopril : le rein 
+gauche est effondré donc là on peut conclure que la sténose de côté gauche est 
+incriminé dans l’HTA, on avait alors un mécanisme de compensation du côté gauche.
+Important à retenir : le captopril va casser la boucle de maintien de pression dans le 
+rein concerné (Le prof dit de revoir à tête reposée après les cours de néphro).
+Page 16/19
+
+---PAGE---
+VI. Uro-IRM
+A. Principe et limites
+Présentation
+C’est une technique non irradiante avec une séquence IRM au gadolinium et une 
+acquisition d’image.
+• Etude de la captation et de l’excrétion rénales
+• Par acquisitions répétées pendant 40 minutes
+• Après injection d’un produit de contraste à élimination rénale : Gadolinium – DTPA
+• Avec une injection de Lasilix® à la 20ème minute
+Limites
+Mais l’uro-IRM a une limite. Ici, on a des courbes avec une petite différence c’est qu’en 
+scintigraphie la concentration du traceur est liée de manière linéaire à la radioactivité 
+en image : plus c’est noir plus y’a de la radio plus le traceur est concentré. En IRM c’est 
+différent : jusqu’à une certaine limite c’est linéaire mais quand c’est trop concentré on a
+une chute de l’effet.
+Page 17/19
+
+---PAGE---
+VI. Uro-IRM
+B. Exemple
+On a ici de belles images : avant injection, au temps précoce, temps parenchymateux 
+avec le pyelon, l’uretère etc.
+Dans le néphrogramme, nous avons :  une montée rapide avec un pic et une descente 
+avec une portion brutale et fugace, mais aussi un pic vasculaire, pic glomérulaire et 
+chute progressive avec une excrétion.
+Ce qui est surtout à retenir : cet examen n’est pas irradiant mais pas trop utilisé.
+Question : le P level c’est dû à quoi ?
+Le prof dit de laisser tomber, on n’a pas besoin de retenir ça et on ne sera pas interrogé 
+dessus. Ce qui est surtout à retenir c’est que c’est un examen pas irradiant et avec de 
+bonnes images mais qu’il est limité.
+Page 18/19
+
+---PAGE---
+VII. A retenir
+Note de RT : le prof a juste lu la diapo.
+Page 19/19
+
+---PAGE---

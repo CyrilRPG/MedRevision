@@ -1,0 +1,812 @@
+ 
+RT : Chaden ACHBAKOU et Sarah LOUATI 
+RL : Hajar MEROUANE 
+ 
+ 
+UE6 – Tissu sanguin 
+ 
+Hématologie 
+Cours n°9 
+Pr SCHISCHMANOFF – 06/03/2026 – 10h15 
+Globule rouge et sa membrane 
+Objectifs : 
+● Connaître les caractéristiques du GR et de sa membrane 
+● Connaitre les principales protéines et interactions protéiques membranaires 
+● Connaitre la physiopathologie de l’elliptocytose héréditaire 
+PLAN DU COURS 
+I. 
+Les caractéristiques du globule rouge 
+A. Vie et mort du globule rouge 
+B. Forme prise par les globules rouges dans la circulation 
+C. Résistance et déformabilité 
+II. 
+Organisation de la membrane 
+A. Composition lipidique 
+B. Composition glucidique 
+III. 
+Les protéines membranaires 
+A. Les protéines intégrales 
+B. Les protéines d’ancrage 
+C. Vue générale du squelette membranaire 
+D. Détail du squelette membranaire 
+IV. 
+Types d’interactions protéiques 
+A. Interactions horizontales 
+B. Interactions verticales 
+C. Protéomique 
+D. Modèle de déformation réversible de la membrane du globule rouge 
+V. 
+Elliptocytose héréditaire 
+A. Physiopathologie de l’elliptocytose 
+B. Réseau et déficit en spectrine 
+C. Déficit en Protéine 4.1 
+D. Biologie 
+E. Ektacytométrie 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 2 sur 22 
+ 
+I. Les caractéristiques des globules rouges 
+Il y en a 5 x 1012/L (ou T/L). Ils ont une durée de vie de 120 jours (équivalent à 4 mois). 
+Ses grandes fonctions sont : 
+- 
+délivrer l’oxygène aux tissus 
+- 
+récupérer le CO2 et le ramener vers les poumons pour qu’il soit éliminé 
+A. Vie et mort du globule rouge 
+Vie du GR 
+Il est produit dans la moelle, puis délivré dans le sang. Au départ c’est un 
+réticulocyte puis devient un GR lorsque le noyau est expulsé. 
+Il travaille 24h/24 pendant 120 jours, il passe dans des vaisseaux sanguins de 
+calibre standard. Arrivé dans le cœur il subit des pressions fortes, et dans les 
+capillaires il passe dans des vaisseaux avec un calibre plus petit, il doit donc 
+s’étirer. Cet étirement est important car il augmente la surface de contact 
+entre le GR et les parois de l’endothélium vasculaire et donne une grande 
+surface d’échange. Il subit un examen de passage dans la rate, et doit passer 
+dans les sinus spléniques qui sont des petites cavités vasculaires, pour pouvoir 
+sortir.  
+Si jamais le GR n’est pas assez déformable et résistant il ne pourra pas sortir et 
+sera dégradé par des macrophages et en principe ce mécanisme arrive au bout 
+de 4 mois vers la fin de vie des GR. Mais dans certaines pathologies, il est plus 
+fragile et passe moins de temps, c’est ce qu’on appelle une hémolyse intra-
+splénique. Quand il n’y a pas d’anomalies, il sort de la rate pour rejoindre le 
+sang pour travailler, puis il repasse dans la rate et ainsi de suite. 
+Forme du GR 
+On observe au microscope électronique, un GR au repos.  Il est biconcave avec 
+un centre clair et rond. En réalité c’est un artefact car il n’a pas cette forme 
+dans la circulation sanguine et il sera amené à se déformer. 
+Cela sert au biologiste à faire des examens biologiques et à dire que le GR a une 
+forme et une taille normale. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 3 sur 22 
+ 
+I. Les caractéristiques des globules rouges 
+B. Forme prise par les GR dans la circulation 
+Ce dessin correspond à ce qu’on voit dans 
+un vaisseau sanguin avec des GR empilés, 
+lorsqu’ils rencontrent par exemple un 
+macrophage ils se déforment pour se 
+faufiler. 
+Certains vaisseaux ont calibre plus petit que 
+les GR donc ils doivent être capable de se 
+déformer. 
+ 
+I. Les caractéristiques des globules rouges 
+C. Résistance et déformabilité 
+Répartition 
+membranaire 
+Il faut qu’ils soient capables : 
+- 
+d’être déformables pour aller au plus profond des tissus et exercer leur 
+activité. 
+- 
+de résister aux contraintes  
+3 éléments permettent cela :  
+1. L’organisation particulière de la membrane du GR  
+Il y’a une bicouche lipidique et surtout un squelette protéique sous-jacent avec 
+des protéines différentes qui vont, par leur propriété et leur organisation, 
+conférer des propriétés à la fois d'élasticité et de résistance. Ces propriétés vont 
+être transmises par la suite à la bicouche lipidique. 
+2. La géométrie de la cellule  
+C’est la seule cellule qui a un rapport surface sur volume élevé. 
+Le VGM d'un globule rouge est d’environ 90 fL, la surface d'une sphère est de 100 
+µm et la surface réelle d'un globule rouge est de 140. Donc, il y a à peu près 40% 
+de surface en plus par rapport au volume d'une sphère de même volume. Il y’a 
+donc un excès de surface par rapport au volume. 
+Expérience de Denis Dichère:  
+Il a collé un globule rouge au bout 
+d'une micropipette et a induit une 
+dépression dans celle-ci. Il a aspiré 
+une partie du GR et on arrive à voir 
+la membrane qu’il a réussi à étirer. 
+Il s’est servi de cette méthode pour 
+utiliser des anticorps marqués et 
+étudier la mobilité des protéines dans la membrane. 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 4 sur 22 
+ 
+I. Les caractéristiques des globules rouges 
+C. Résistance et déformabilité (suite) 
+Répartition 
+membranaire 
+(suite) 
+Ex : ballon de baudruche pour illustrer  
+Vous le gonflez le ballon un peu, il est extrêmement déformable.  
+Vous le gonflez un peu plus, il devient plus gros, mais moins déformable.  
+Vous le gonflez à fond, il devient extrêmement tendu, extrêmement dur, 
+extrêmement rigide. Plus vous le gonflez, plus son rapport surface sur volume 
+va diminuer. Il arrive un moment où si vous appuyez ou si vous gonflez un peu 
+plus, ça va exploser.  
+3. Fluidité du contenu cytoplasmique  
+Cette fluidité va essentiellement dépendre de la qualité de la concentration en 
+hémoglobine. Les solutions protéiques concentrées sont visqueuses, donc à 
+l’état normal le GR est visqueux. Dans certaines pathologies comme la 
+drépanocytose, on peut avoir dans des conditions d’hypo-oxygénation, l’HbS qui 
+va s’agréger en polymère et qui induit la falciformation de l’hématie, qui sera en 
+forme de faux allongé. Lorsque HbS précipite, ça forme des cailloux non 
+déformables qui au niveau de la microcirculation forment des microthrombi qui 
+bloquent la circulation du sang, et génèrent des crises vaso-occlusives très 
+douloureuses. 
+Donc, pour que les globules rouges soient déformables, il faut qu'ils aient un 
+rapport surface sur volume important. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 5 sur 22 
+ 
+II. Organisation de la membrane 
+A. Composition lipidique 
+ 
+ 
+Répartition 
+membranaire 
+Elle s’organise avec un film fin de lipides (46%) et de protéines (46%) liés par des 
+liaisons non covalentes. 
+La bicouche lipidique est une structure de mosaïque fluide (modèle de Singer et 
+Nicholson) avec une répartition asymétrique des constituants entre l'extérieur 
+et l'intérieur. C’est une modélisation en 2D, avec les molécules d'eau en haut et 
+en bas, et les phospholipides vers le milieu.  
+Les phospholipides sont orientés : les têtes rouges hydrophiles vers l'extérieur, 
+donc vers les molécules d'eau, et puis les chaînes hydrogénocarbonées à 
+l'intérieur. 
+A noter : il y’a des molécules d'eau qui viennent se retrouver un peu au niveau 
+des têtes hydrophiles des phospholipides car c’est vivant ça bouge un peu. Par 
+contre il n'y a plus du tout de molécules d'eau au niveau des parties 
+hydrogénocarbonées ⇒ bien étanche donc le contenu du cytoplasmique ne 
+risque pas de sortir facilement. 
+C’est composé de 60% de phospholipides et ¼ de cholestérol. 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 6 sur 22 
+ 
+II. Organisation de la membrane 
+A. Composition lipidique (suite) 
+Répartition 
+membranaire 
+(suite) 
+On va retrouver des répartitions membranaires des phospholipides qui sont 
+assez proches de ce qu'on observe dans d'autres types de cellules avec 
+notamment les phosphatidyléthanolamines et les phosphatidylsérines qui sont 
+plutôt du côté interne. 
+Dynamique des 
+phospholipides 
+au sein de la 
+membrane 
+Ils peuvent subir des mouvements de : 
+- 
+ flexion, ce qui augmente la 
+déformabilité (par contre 
+les doubles liaisons sont 
+moins déformables car elles 
+obligent les atomes à être 
+dans le même plan dans 
+l’espace), 
+- 
+rotation (tourner sur eux-
+mêmes), 
+- 
+diffusion latérale, 
+- 
+et plus rarement passer d’un feuillet à un autre (= flip-flop). 
+Question étudiant : est ce que les doubles liaisons limitent tous les 
+mouvements qu’on a vu ?  
+Réponse : elle limite beaucoup, notamment la flexion et la rotation. 
+La fluidité dépend de la composition en lipides. Le cholestérol lui accroît la 
+rigidité parce que le cholestérol est une molécule amphipathique. 
+Il va placer sa tête hydrophile vers les têtes hydrophiles des phospholipides et il 
+stabilise la région médiane de la membrane et accroit ses propriétés de barrière. 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 7 sur 22 
+ 
+II. Organisation de la membrane 
+B. Composition glucidique 
+Rôles des 
+glucides dans la 
+membrane 
+Les glucides représentent 8% de la masse membranaire, ils sont le plus souvent 
+liés aux protéines (93%), un petit peu lié aux sphingolipides (7%). 
+Ils ont des rôles extrêmement importants : 
+- 
+Récepteurs : on va aussi retrouver à la membrane du globule rouge, il a 
+des réactions avec des récepteurs membranaires et il y a des pathologies 
+où les globules rouges vont augmenter leur adhésion à l'endothélium 
+vasculaire ce qui peut donner des thromboses rétiniennes. 
+- 
+Immunogènes : déterminants des groupes sanguins au niveau de ces 
+molécules (soit glycolipides ou glycoprotéines…) 
+ 
+III. Les protéines membranaires 
+Les protéines de la membrane érythrocytaires sont de deux types : 
+- 
+Les protéines intégrales, c'est-à-dire les protéines qui sont intégrés dans la bicouche lipidique 
+- 
+Les protéines du squelette membranaire 
+A. Les protéines intégrales 
+Rôle des 
+protéines dans 
+la membrane 
+Les protéines intégrales vont traverser la membrane, elles possèdent : 
+1. Domaine extracellulaire : impliqué dans des interactions avec d'autres 
+molécules, d'autres cellules, et avec l'endothélium vasculaire, 
+2. Domaine membranaire : permet des transferts de composés donc des 
+échanges avec le milieu extérieur, 
+3. Domaine cytoplasmique : interaction avec les protéines du cytosquelette 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 8 sur 22 
+ 
+III. Les protéines membranaires 
+A. Les protéines intégrales (suite) 
+Rôle des 
+protéines dans 
+la membrane 
+(suite) 
+• 
+Les principales protéines intégrales : Glycophorines A, C 
+• 
+Protéine bande 3 : c’est une protéine qui peut exister à l'état dimérique 
+ou à l'état tétramérique. A l'état tétramérique elle joue un rôle très 
+important dans les échanges entre les chlores et les bicarbonates, entre 
+l'intérieur et l'extérieur et un rôle aussi dans la respiration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 9 sur 22 
+ 
+III. Les protéines membranaires 
+B. Les protéines d’ancrage 
+Electrophorèse 
+des protéines 
+de la 
+membrane 
+érythrocytaire 
+En dessous de la membrane on retrouve le squelette érythrocytaire qui se 
+comporte comme un réseau bidimensionnel qui est accolé à la bicouche 
+lipidique.  Une fois qu’on s’est débarrassé des lipides, on s’est mis à étudier les 
+protéines à l’aide de l’électrophorèse. 
+Il y’a plusieurs systèmes d’électrophorèse : 
+- 
+à gauche le système Fairbanks qui permet de bien séparer les protéines 
+de grande taille 
+- 
+à droite celui de Laemmli qui est plus courant et permet de bien voir ce 
+qui se passe en bas  
+Pour étudier les protéines d’un GR, on doit d’abord éliminer les protéines qui ne 
+sont pas dans le GR. On prend les GR et on les met dans un tampon isotonique 
+et on les rince. Et si on veut s’intéresser aux protéines de la membrane du GR, 
+on doit éliminer l’hémoglobine. 
+Les différentes bandes et protéines observés : 
+• 
+Les spectrines bande 1 (α spectrine) et bande 2 (β spectrine), 
+• 
+Ankyrine, qui a une petite bande fine 
+• 
+Bande 3 = AE1 pour anionic exchanger 
+• 
+Bande 4.1 et 4.2 ont gardé leur nom 
+• 
+Bande 4.9 = dématine 
+• 
+Bande 5 = actine  
+• 
+Bande 6 = G3PDH 
+• 
+Bande 7 = stomatine (dans certaines pathologies rares, il y n’a pas de 
+stomatine dans le GR et quand il y’en a pas et qu’on les observe au 
+microscope ils ont une forme de bouche qui se dit stoma en grec) 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 10 sur 22 
+ 
+III. Les protéines membranaires 
+C. Vue générale du squelette membranaire 
+Face interne de 
+la membrane 
+érythrocytaire 
+Si on revient à notre squelette érythrocytaire, à partir du moment où ils ont 
+réussi à extraire les protéines, les purifier, ils ont pu les injecter à des protéines 
+des animaux pour obtenir des anticorps pour ensuite faire des marquages au 
+microscope pour savoir à quels endroits de la membrane se trouvaient les 
+protéines. 
+Avec des anticorps anti-spectrine, on obtient ça au microscope électronique. On 
+voit un beau squelette de spectrine, très dense. Le dessin en bas nous permet de 
+mieux comprendre. On observe bien un maillage. A l’intérieur d’une toute petite 
+portion de la membrane d’un globule rouge, on a une structure très dense, avec 
+très peu de régions libres. C’est donc très solide. 
+Ultrastructure 
+du squelette 
+érythrocytaire 
+étiré 
+D’autres chercheurs ont commencé à l’étirer. On retrouve plusieurs formes : des 
+pentagones, heptagones, qui forment ensemble un maillage. 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 11 sur 22 
+ 
+III. Les protéines membranaire 
+D. Détail du squelette érythrocytaire 
+Complexe de 
+jonctions 
+Puis on a voulu reconnaître les protéines de ce maillage grâce aux anticorps. 
+La spectrine est une molécule assez fine et allongée. Au milieu de chaque 
+spectrine, on a de l’ankyrine (ancrage). Les plus gros points sont des complexes 
+de jonction, situées aux sommets des côtés du polygone. 
+On retrouve (complexes de jonctions) : 
+• 
+Actine (comme dans les muscles mais pas la même), 
+• 
+Protéine 4.1 
+• 
+Tropomoduline 
+• 
+Tropomyosine 
+• 
+Adducine 
+La spectrine forme les côtés du polygone, et on a des points où s’accrochent un 
+certain nombre de protéines, et permettent à ce réseau de s’étendre tout au long 
+de la face interne du globule rouge. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 12 sur 22 
+ 
+IV. Types d’interactions protéiques 
+A. Interactions horizontales 
+Complexe de 
+jonctions 
+Ces interactions ont lieu à l’intérieur du squelette membranaire. On en a identifié 
+2 types : 
+• 
+L’association de 2 dimères de spectrine en 1 tétramère 
+Au niveau du site d’auto-association de la spectrine. Il y a 2 gènes de spectrine : 
+α et β (les 2 bandes du haut à l’électrophorèse). L’α et β s’associent pour former 
+un dimère, et deux dimères vont former un tétramère de spectrine. 
+• 
+Interactions des extrémités des tétramères aux complexes de jonction  
+Le filament d’actine est beaucoup plus court que ceux du muscle. D’autres 
+protéines vont l’empêcher de s’allonger de façon indéfinie (tropomoduline, 
+tropomyosine). Cette association permet le maintien de la structure bi-
+dimensionnelle. On retrouve dans ces complexes entre 5 et 7 tétramères. Quand 
+un tétramère de spectrine interagit avec de l’actine, la Protéine 4.1 vient 
+stabiliser l’interaction. S’il y a moins de Protéine 4.1, ce sera moins stable. On 
+retrouve aussi parfois l’adducine, qui elle aussi joue un rôle stabilisateur. 
+(Le prof dit qu’il n’a pas vu trop de pathologies évolutives liées à un déficit en 
+adducine donc c’est possible qu’elle ait un rôle moins important.) 
+Ces interactions horizontales sont les garantes de la stabilité du globule rouge. 
+Question étudiant : les sites d’auto-association c’est entre les dimères ou 
+tétramères de spectrine ? 
+Réponse prof : Entre deux dimères de spectrine qui forme un tétramère. 
+Le prof a montré une vidéo où on voyait le complexe de jonction avec toutes les 
+protéines. 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 13 sur 22 
+ 
+IV. Types d’interactions protéiques 
+B. Interactions verticales 
+Ancrage de la 
+bicouche au 
+squelette 
+Pour que le GR reste résistant et déformable, il faut que les propriétés 
+mécaniques du squelette soient transmises à la bicouche lipidique, c’est là 
+qu’interviennent les interactions verticales. 
+Elles permettent l’ancrage de la bicouche lipidique au squelette grâce à 
+l’interaction entre les protéines transmembranaires et les protéines du 
+squelette. 
+2 principales interactions : 
+• 
+β-spectrine / ankyrine / bande 3 + protéine 4.2 qui stabilisent. Dès 
+qu’une d’entre elles manque, ça devient moins stable. Le déficit en 
+protéine 4.2 est une pathologie hémolytique qu’on trouve 
+essentiellement au Japon, et donne une sphérocytose héréditaire. C’est 
+l’interaction majeure.  
+• 
+Glycophorine C / actine + Protéine 4.1 et protéine p55 qui stabilisent 
+C’est un modèle plus récent mais les principes restent les mêmes.  
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 14 sur 22 
+ 
+IV. Types d’interactions protéiques 
+C. Protéomique 
+Modèle 
+protéomique 
+de la 
+membrane 
+Le prof raconte que quand il est arrivé ici, il avait un collègue qui avait monté une 
+structure de protéomique. Il lui a dit que c’était trop bien, que lui il travaillait sur la 
+membrane des GR, lui le protéome, et qu’ils pourraient faire un truc ensemble. Mais son 
+collègue lui a dit non parce que dans la membrane des GR y’a trop de lipides c’est trop 
+compliqué. Mais plus tard d’autres chercheurs y sont arrivés, et ils ont trouvé encore plus 
+de protéines dans la membrane. 
+Ne pas retenir tous ces détails mais il faut savoir que des modèles très simples au départ, 
+deviennent de plus en plus complexes.  
+Récemment, des chercheurs ont démontré que ce squelette pouvait être ancré 
+à la bicouche lipidique par des interactions avec les radeaux lipidiques (RAFT).  
+Il a montré une autre vidéo : on voit la bicouche lipidique et la spectrine et on 
+voit que c’est très fin, bien en deux dimensions. 
+ 
+ 
+Note de la RL : 
+Protéomique : étude de l’ensemble des protéines d’un organisme (ici de la 
+membrane du GR). 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 15 sur 22 
+ 
+IV. Types d’interactions protéiques 
+D. Modèle de déformation réversible de la membrane du globule rouge 
+Ancrage 
+La déformabilité du globule rouge peut se concevoir qu’à surface constante.  
+Que se passe-t-il quand des globules rouges sont soumis à un stress ?  
+- 
+Schéma A : le GR est au repos 
+- 
+Schéma B : le GR est soumis à un flux, il commence à s’allonger un peu 
+dans le sens du flux. La surface est constante, elle ne peut pas augmenter, 
+donc si on a une élongation dans un sens, on aura une compression dans 
+l’autre sens.  
+- 
+Schéma C : le GR est soumis à un stress mécanique encore + intense. Il 
+se déforme encore plus jusqu’au maximum. L’élongation et la 
+compression sont au maximum mais la surface reste la même.  
+La surface des 4 losanges en situation A, B et C reste constante. Cela met en 
+évidence les points névralgiques du GR. Quand on tire un filet de pêche au 
+maximum, ça résiste. Mais si on tire très fort, à un moment ça casse. C’est ce qui 
+se passe quand les interactions entre les protéines sont anormalement faibles à 
+cause de mutations qui affaiblissent les sites de tétramérisation ou les 
+interactions au niveau de complexes de jonction.  
+Réponse du prof à quelqu’un qui n’avait pas compris comment le GR s’étire :  
+A force de tirer, on va se retrouver à un moment de tension maximum. Pour 
+un sujet normal, les GR sont capables de supporter cette tension, comme 
+dans l’aorte en cas de systole. Un sujet qui a des anomalies de gènes qui 
+codent pour ces protéines, aura des GR qui vont hémolyser.  
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 16 sur 22 
+ 
+IV. Types d’interactions protéiques 
+D. Modèle de déformation réversible du globule rouge (suite) 
+Répartition 
+membranaire 
+(suite) 
+Question étudiant : A l’usure des 120 jours, quelles sont les protéines qui 
+s’abîment le plus vite.  
+Réponse prof : Je n’ai pas la réponse, je pense que c’est assez global. 
+Pendant les 120 jours, le stock enzymatique du GR s’abîme, parmi les 
+éléments très importants on a le stress oxydant. L’hémoglobine porte 
+beaucoup de molécules d’oxygène donc potentiellement on aura un en 
+composante oxydative assez importante. Pour lutter contre ça, les GR ont 
+des enzymes, comme la G6PDH, ont des moyens de générer du glutathion 
+réduit avec un effet anti oxydant. Au bout de qq mois, les enzymes 
+finissent par vieillir et n’ont plus de facultés de protéger les différents 
+composants de la membrane du GR alors qu’il y a toujours de l’oxygène et 
+le stress oxydant continue. C’est ce qui fait qu’au bout d’un moment le GR 
+perd en déformabilité. C’est surtout la perte de déformabilité dans le 
+mécanisme de sénescence qui fait que le GR va rester bloqué dans la rate. 
+Mais je ne peux pas vous dire lesquelles sont les + sensibles. J’aurais 
+tendance à dire que ce sont les plus longues, car il y a plus de sites 
+d’oxydation, comme la spectrine peut être mais je n’ai pas de raison 
+scientifique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 17 sur 22 
+ 
+V. Elliptocytose héréditaire 
+Le prof est passé assez vite sur cette partie. 
+C’est une anémie hémolytique corpusculaire. Il y a une 
+hémolyse, les GR se dégradent, qui provient d’une cause 
+intrinsèque.  Elle est décrite dans toutes les ethnies.  
+Fréquence : 1/5000 en Europe et États-Unis. 
+Maladie de transmission dominante. 
+Les formes sont de sévérité extrêmement variable : 
+de l’anasarque fœto-placentaire, à la mort in utero, à quelque 
+chose de découvert de manière fortuite à 80 ans. 
+Elle est associée à une fragilité mécanique du GR et le plus souvent pas de signes cliniques.  
+Sur le frottis : proportion variable de GR de forme elliptique. Quand on réalise le frottis, on met une 
+goutte de sang sur une lame de verre, on l’étire avec une lamelle pour avoir une couche mono 
+cellulaire. Par cet acte, on exerce une contrainte. Les GR normaux résistent mais les GR elliptocytaires 
+sont fragiles mécaniquement donc vont prendre une forme allongée.  
+ 
+V. Elliptocytose héréditaire 
+A. Physiopathologie de l’elliptocytose 
+Déficit en 
+protéines et 
+sévérité 
+Cette maladie est liée à une anomalie des interactions horizontales : 
+• 
+Déficit en protéine ou protéine non fonctionnelle : séquence protéique 
+modifiée 
+• 
+Affaiblissement des interactions horizontales  
+• 
+Baisse de la résistance mécanique membranaire 
+• 
+Fragmentation in vivo dans les formes sévères  
+La sévérité dépend de : 
+• 
+Gravité de l’anomalie moléculaire comme dans toutes les maladies 
+héréditaires  
+• 
+Capacité du deuxième allèle à compenser ou non 
+Deux grandes protéines touchées : 
+• 
+α-spectrine : 60% 
+• 
+protéine 4.1 : 40% 
+Rares : 
+• 
+β-spectrine 
+• 
+glycophorine C/D 
+ 
+Elliptocytes 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 18 sur 22 
+ 
+V. Elliptocytose héréditaire 
+B. Réseau et déficit en spectrine 
+Anomalies de la 
+spectrine 
+En microscopie, on voit les molécules de spectrine isolées, elles ressemblent à 
+des élastiques. Elle est résistante en jouant sur la déformabilité et en même 
+temps avec les interactions au niveau des 2 dimères et avec les complexes de 
+jonction elle contribue à la résistance.  
+On la retrouve dans 60% des cas d’elliptocytose héréditaire avec la chaîne α. 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 19 sur 22 
+ 
+V. Elliptocytose héréditaire 
+B. Réseau et déficit en spectrine (suite) 
+Anomalies de la 
+spectrine 
+ (suite) 
+On retrouve la spectrine sur les côtés des hexagones.  
+Sur le site d’association : des hélices α sont collées l’une à l’autre et permettent 
+l’interaction des deux dimères. Plus les interactions au niveau des hélices sont 
+fortes, plus on aura une stabilité de la membrane. Si on a une mutation au 
+niveau des hélices α qui diminue la stabilité, on aura quelque chose d’anormal, 
+avec une diminution de la tétramérisation de la spectrine, donc de la stabilité 
+du réseau, et donc une hémolyse. 
+ 
+ 
+ 
+A gauche : sujet normal, forte densité du 
+réseau de spectrine 
+A droite : sujet avec anomalie de 
+tétramérisation de la spectrine, grandes 
+plages de squelette sans interactions, 
+beaucoup moins dense 
+ 
+Dans l’elliptocytose héréditaire, les GR, au bout d’un moment, sont moins 
+stables. Plus la mutation responsable aura des conséquences, plus on aura une 
+sévérité clinique importante. 
+ La proportion de dimères est directement corrélée à la sévérité clinique 
+Question étudiant : C’est une hémolyse intravasculaire ou au niveau de la 
+rate ? 
+Réponse prof : C’est une hémolyse au niveau de la rate. Les GR sont moins 
+résistants et moins déformables. 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 20 sur 22 
+ 
+V. Elliptocytose héréditaire 
+C. Déficit en Protéine 4.1 
+Anomalies de la 
+Protéine 4.1 
+ 
+ 
+Le déficit en Protéine 4.1 représente 40% des cas. C’est une transmission 
+dominante. 
+Sur l’électrophorèse de la membrane, à gauche on a un sujet normal et a droit 
+un sujet avec absence signal au niveau de la Protéine 4.1. 
+La Protéine 4.1 est la première protéine pour laquelle on a mis en évidence des 
+isoformes, donc une lecture différente d’un même gène donnant des transcrits 
+différents avec des protéines différentes. 
+Que ce soit avec la spectrine ou la Protéine 4.1, on a les mêmes conséquences, 
+mais pas les mêmes causes.  
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 21 sur 22 
+ 
+V. Elliptocytose héréditaire 
+D. Biologie 
+Tableau 
+clinique de 
+l’elliptocytose 
+héréditaire 
+Signes cliniques d’anémie hémolytique chronique : 
+- 
+anémie, 
+- 
+ictère, 
+- 
+splénomégalie 
+Frottis sanguin : présence d’elliptocytes  
+Taux de réticulocytes élevé qui affirme le caractère régénératif. 
+On peut avoir un taux d’Hb normal mais des réticulocytes augmentés, c’est qu’on 
+a une augmentation de production de globules rouges par la moelle pour 
+compenser quelque chose, et ici c’est une hémolyse.  
+Examens complémentaires : la plupart du temps on ne fait rien. Dans les labos 
+de recherche spécialisés, on peut étudier la fragilité mécanique des GR (c’est 
+l’ektacytométrie). 
+ 
+V. Elliptocytose héréditaire 
+E. Ektacytométrie 
+Mesure de la 
+fragilité 
+mécanique 
+érythrocytaire 
+C’est un dispositif où on met les globules rouges dans un viscosimètre. On a un 
+cylindre en plastique, où on met un deuxième un petit plus petit. Dans l’intervalle 
+entre les deux on peut mettre une solution. On fait tourner un des cylindres, ça 
+induit des contraintes mécaniques, et on peut mesurer la viscosité de la solution.  
+ 
+
+---PAGE---
+UE6 – Hématologie – Globule rouge et sa membrane – Pr. SCHISCHMANOFF – 06/03/2026 
+Page 22 sur 22 
+ 
+V. Elliptocytose héréditaire 
+E. Ektacytométrie (suite) 
+Mesure de la 
+fragilité 
+mécanique 
+érythrocytaire 
+(suite) 
+On a mis des globules rouges entre les deux, dans une solution assez visqueuse, 
+la polyvinylpyrrolidone (PVP), ça maintient l’isotonicité donc les GR ne vont pas 
+éclater. Le cylindre intérieur entraine le liquide, qui entraine les GR, qui vont 
+commencer à s’allonger et avec un laser on aura une image de diffraction, on va 
+mesurer la largeur et l’épaisseur et ça nous donnera un indice de déformabilité 
+des GR. 
+On peut jouer sur la vitesse de rotation pour induire un stress + ou – intense. 
+ 
+Le graphique représente les contraintes de cisaillement en fonction du temps. 
+On se met à des contraintes de cisaillement qui font qu’un GR normal finit par 
+éclater.  
+- 
+Chez un sujet normal (courbe rouge), la déformabilité augmente un peu, 
+et au bout d’un moment elle diminue car les GR finissent par éclater. 
+- 
+Chez un sujet avec un déficit hétérozygote en Protéine 4.1 (courbe du 
+milieu), a environ 50% de Protéine 4.1 dans sa membrane, on arrive à 
+une fragmentation assez importante. 
+- 
+Chez un sujet qui a un déficit homozygote en Protéine 4.1, il aura aucun 
+stock dans sa membrane, donc dès qu’on commence, la déformabilité 
+chute directement.  
+ Ça objective bien la résistance mécanique et l’importance de la Protéine 
+4.1 dedans.  
+Question étudiant : Un déficit en spectrine ce sera à peu près le même 
+résultat ? 
+Réponse prof : Oui, tout à fait. Ça peut être polygénique, plusieurs gènes 
+différents qui induisent des effets cliniques très proches. 
+ 
+
+---PAGE---

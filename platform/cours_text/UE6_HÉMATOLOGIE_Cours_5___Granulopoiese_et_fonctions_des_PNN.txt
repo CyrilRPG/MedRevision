@@ -1,0 +1,890 @@
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+ 
+RT : MARIONEAU MIKA et LLÉANA JOVANOVIC.                                       RL : Asma AHMED YAHIA  
+ 
+ 
+UE 6 - TISSUS SANGUIN  
+ 
+HÉMATOLOGIE  
+Cours n° 
+ 
+Pr BENBOUBKER - 26/02/2026 -10h15/11h  
+ 
+ 
+GRANULOPOÏÈSE ET LES FONCTIONS DES 
+POLYNUCLÉAIRES NEUTROPHILES (PNN) 
+ 
+ 
+PLAN DU COURS  
+I. 
+Hematopoïèse  
+A) Localisation physiologique  
+B) Généralités sur l’HMTP 
+C) Mécanismes de régulation  
+D) Notion de niche hématopoïétique  
+E) Les méthodes d’exploration  
+II. 
+Granulopoïèse et Monocytopoïèse  
+A) Généralités  
+B) Les étapes de maturation  
+III. 
+Granulopoïèse et maturation terminale  
+A) Les granulations  
+IV. 
+Fontions des PNN  
+A) Répartition cellulaire  
+B) Chimiotactisme  
+C) Migration et Diapédèse  
+ 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+C) Chimiotactisme intratissulaire  
+D) Phagocytose 
+E) Bactéricidie  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+I.Hématopoïèse  
+A) Localisation physiologique  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Déroulement de 
+L’HMTP 
+Au sujet de l’hématopoïèse (HMTP) , les cellules du tissu sanguin se 
+forment en plusieurs étapes.  
+Les cellules souches ont la capacité d’auto-renouvellement et de 
+différenciation.  
+ 
+En fonction de l’âge, l’HMTP se déroule à différents tissus, mais tout le 
+temps dans un tissu spécialisé tel que :  
+- Le sac vitellin, les ilots de Wolff et Pander  
+- Hépato splénique : A partir du 2e mois de la vie utérine jusqu’au 7e 
+c’est le foie et rate qui prennent le relai.  
+- Moelle osseuse : au bout du 7e mois que l’HMTP se fait à ce niveau.   
+  
+ATTENTION : l’HMTP va se dérouler exclusivement au niveau médullaire 
+après la naissance,  
+- Dans la moelle rouge des os, dans tous les os jusqu’à l’âge de 5 ans 
+et puis passé l’âge de 5 ans, elle se situe (la moelle rouge) surtout 
+au niveau des os plats (sternum et os iliaque par exemple) et 
+courts par la suite.  
+  
+⇨ Chez la souris, elle a lieu dans la moelle et la rate comparé à 
+l’Homme. 
+ 
+ 
+ 
+I.Hématopoïèse  
+B) Généralités sur l’HMTP  
+ 
+ 
+Caractéristiques 
+des CSP 
+Tout démarre de la cellule souche pluripotente qui possède des qualités de 
+: 
+- Auto-renouvellement 
+- Différenciation 
+Elle ne possède pas un niveau de prolifération important, en effet elle est à 
+l’état quiescent. Cela permet à la cellule une protection contre la 
+chimiothérapie, qu’elle reste intacte et ne produise pas de cellules 
+pathologiques.  
+  
+Par la suite, cette CSP (cellule souche pluripotente) donne une cellule 
+2 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+souche multipotente CSM assez rare dans le compartiment médullaire 
+(0,01 à 0,05%) + ne sont pas visibles lorsque l’on veut explorer la moelle 
+osseuse de manière traditionnelle (il ne s’étale pas sur le sujet ce n’est pas 
+important).  
+⇨ Elles ne sont pas caractérisables morphologiquement, il faut une 
+culture à long terme, il faut les isoler.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Différenciation 
+et mise en 
+évidence des 
+CS   
+ 
+Des pathologies existent au sein des cellules souches durant l’HMTP telles 
+que la LMC chromosome Philadelphie (il ne l’a pas détaillé).  
+ 
+Par ailleurs, des expériences existent datant des années 60 de Till et Mc 
+Culloch : sur la transplantation de cellules souches de moelle osseuse sur 
+des souris pour essayer de voir si on obtenait la maturation classique 
+jusqu’à l’aboutissement de la production de cellules matures sanguines 
+(PNN, monocytes…).  
+- Greffe à des souris après irradiation à dose léthale,  
+- Reconstitution du tissu HMTP  
+- Lui-même capable de reconstituer une HMTP après greffe 
+secondaire.  
+  
+Par la suite, ces CSM, donnent naissance, par division, à deux progéniteurs 
+majeurs :  
+⇨ Myéloïdes : aboutissant aux précurseurs érythrocytaires, 
+mégacaryocytaires et granuleux.  
+⇨ Lymphoïdes : (sera abordé dans un cours prochain). 
+ 
+ 
+I.Hématopoïèse  
+C) Mécanismes de régulation  
+ 
+ 
+Les précurseurs ont une capacité proliférative moins importante que les 
+progéniteurs mais une plus forte capacité de différenciation. Cela permet 
+3 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+Précurseurs 
+hématopoïétiques 
+de créer une lignée plus précise telle que la lignée myéloïde. On peut les 
+caractériser au microscope.  
+ 
+Il existe différents précurseurs qui vont donner différentes lignées (ex : 
+lignée granulocytaire ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Facteurs de 
+croissance  
+Cette HMTP est très finement régulée. En effet elle se fait via des facteurs 
+de croissance (FC)  
+= protéines reconnues par un récepteur membranaire d’une cellule et qui 
+va entrainer des modifications membranaires ou enzymatiques, activer 
+des cascades de signalisation et favoriser la multiplication, la survie ou la 
+différenciation.  
+On différencie 2 FC :  
+- FC de différenciation terminale (EPO,TPO…) => important dans 
+fabrication cellules matures.  
+- FC actifs en amont (SCF stroma cell factor, IL3, IL6 qui sont des 
+cytokines) => ont pour rôle la régulation la CSH (cell souche 
+hématopoïétique). 
+ 
+ 
+Chacun de ces facteurs ont des récepteurs, au niveau des progéniteurs ET 
+précurseurs. Les progéniteurs ayant moins de capacité de différenciation, 
+vont posséder un nb de récepteurs différent selon le type.  De même pour 
+les précurseurs, ils ne vont pas posséder le même nb de récepteurs et à 
+des qtté différentes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Une fois que le facteur de croissance est fixé à son récepteur sur la 
+cellule = déclenchement d’une cascade de signalisation ayant pour but 
+d’activer des gènes clés, qui sont important dans la diff cellulaire pour 
+orienter vers une lignée précise.  
+  
+4 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Facteurs de 
+transcription  
+ 
+ 
+  
+Exemple : la lignée erythro-méga, on a le récepteur commun, la 
+cascade de signalisation et par la suite plus précisément pour cette 
+lignée le FT(GATA1). Ce GATA1 oriente les précurseurs vers des cellules 
+matures erythro-méga.  
+Ils vont agir en avalet vont réguler la transcription des gènes ou groupe 
+de gènes.  
+  
+Ces facteurs de transcription sont des protéines ayant un domaine de 
+liaison à l’ADN et régulant la transcription d’un gène ou groupe de 
+gènes.  
+  
+Bien faire la différence entre FC et FT. Ils sont complémentaires. Les FC 
+déclenchent cette cascade de signalisation et font intervenir par la 
+suite les FT.  
+  
+ 
+ 
+ 
+I.Hématopoïèse  
+D) Notion de niche HMTP 
+ 
+ 
+ 
+ 
+ 
+Généralités   
+*HMTP :  processus continu de prod° des cellules sanguines grâce à 
+l’auto-renouvellement, la différenciation et la prolifération régulées des 
+CSH, survenant dans la moelle osseuse et suivis par la libération des 
+cellules matures dans le sang. (au sein de la moelle osseuse !).  
+  
+Au sein de l’environnement médullaire, on aura un ensemble de cellules 
+stromales (=cellules souches mésenchymateuse : à l’origine du stroma 
+cellulaire).  
+- CSH quiescentes  
+- Auto renouvellement  
+- Étroites relations avec le microenvironnement médullaire  
+5 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+- Production hématopoïétique régulée  
+- Réponses aux besoins 
+Il n’y pasf  que les CSH qui existent mais bel et bien un ensemble de 
+cellules souches mésenchymateuses (CSM) qui sont à l’origine du stroma 
+médullaire pour réguler les cellules souches HMTP. 
+ 
+ 
+ 
+I.Hématopoïèse  
+E) Méthode d’exploration  
+ 
+ 
+ 
+Exploration des 
+cellules matures  
+Énième rappel : il existe 3 compartiments!! progéniteurs, précurseurs et 
+lignée mature.  
+ ⇨ De façon routinière, on s’intéresse toujours des cellules matures circulantes  
+en premier.  
+Examen de première intention : la NFS et surtout le frottis sanguin (étalement 
+sanguin sur une lame). En fonction des cytopénies, si on fait l’hypothèse 
+quelles sont d’origine centrale donc on va dans la moelle osseuse. On 
+caractérise comme ça de manière qualitative et quantitative.  
+ 
+ 
+ 
+ 
+ 
+ 
+Exploration des 
+cellules 
+immatures  
+Si on fait l’hypothèse que les cytopénies sont d’origine médullaire, alors on va 
+vouloir prélever dans la MO donc :  
+⇨ Myélogramme (1ere intention) pour voir les précurseurs un peu plus 
+différenciés (mégacaryocytes pour les plaquettes par exemple, ne se seront 
+pas vus au myélogramme).  
+⇨ Pour voir des ENCORE plus précoce, on fait un frottis médullaire et immuno- 
+phénotypage (ce n’est pas une étude morphologique) ce sont des lasers qui 
+vont permettre de reconnaitre des marqueurs qui sont à la surface des 
+cellules, et chaque précurseur ont des marqueurs différents.   
+⇨ Ou alors culture particulière,en milieu solide à partir du sang ou de la 
+moelle, avec des FC, en milieu semi solide on laisse ça 3 semaines, formation 
+de colonies et à partir de la morphologie de cette colonie au sein de la culture 
+6 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+et sa durée on va pouvoir si le progéniteur à un soucis ou non.  
+  
+Question 
+élève 
+: 
+dans 
+quel 
+contexte 
+utilisons-nous 
+la 
+biopsie 
+ostéo-médullaire (BOM) ou le myélogramme ?  
+⇨ Le myélogramme est très rapide, les résultats tombent en 5/10 min, on 
+peut évaluer le compartiment médullaire, pour les pathologies 
+myéloïdes (première intention). De plus dans certains types de 
+pathologies ce dernier ne suffit pas, il nous faut une BOM, on 
+récupère un bout d’os (c’est un domaine de l’anapath et qui va étudier 
+l’architecture de cet os).  
+On retient que dans environ 90% des cas c’est le myélogramme qui sera préféré 
+(% du prof donc c’est une estimation. Et pour les pathologies lymphoïdes on 
+privilégiera surtout les biopsies car on va avoir une infiltration dans les 
+différents ganglions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Réalisation du 
+myélogramme  
+D’un point historique  : 1920-1927 Arinkin et 1935 Mallamé 
+ 
+● Sites de prélèvement pour le myélogramme : 
+-Enfant : dans les os courts et plats surtout crête iliaque antérieure 
+-Adulte : dans le sternum (1ère intention) et crête illiaque postérieure ( 
+second recours) 
+-Le site sternal est toutefois évité en cas d'antécédent de cancer du sein ( 
+par exemple) , car la moelle peut y être appauvrie en cellules, ou chez les 
+patients ayant subi une sternotomie afin de ne pas fragiliser la zone et 
+prévenir les complications. 
+⇨ On ne le fait pas dans tous les cas, on le fait pour les cytopénie 
+chronique 3-6 mois et inexpliquée, donc pas de geste inutile.  
+ 
+●  Comment on prélève :  
+Le geste est réalisé à l'aide d'un trocart dont la longueur, généralement 
+comprise entre 20 et 50 mm, est adaptée à la morphologie du patient. Au 
+niveau du sternum, le prélèvement se situe précisément entre la 
+fourchette sternale et l'angle de Louis. Un positionnement inadéquat 
+présente des risques rares mais graves, comme une perforation de l'aorte 
+si trop bas ou un pneumothorax si l'on se situe trop haut. 
+ 
+7 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+L'anesthésie s'effectue en deux étapes :  
+⇨ d'abord par l'application d'un pansement local pour la surface 
+cutanée, puis par une infiltration de lidocaïne à 10 % pour une 
+action locale rapide. Bien que la zone soit anesthésiée, le patient 
+peut ressentir la traversée de l'os.  
+⇨ Une fois le trocart inséré, on procède à l'aspiration de la moelle, 
+qui se distingue du sang par sa viscosité et son aspect granuleux. 
+Le suc médullaire est ensuite étalé pour réaliser un frottis 
+médullaire permettant l'étude des différentes lignées cellulaires. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analyse 
+microscopique du 
+myélogramme  
+La moelle osseuse est très hétérogène, donc le fait de voir des grains nous 
+montre que notre geste est réussi.  
+Après coloration au May‑Grünwald‑Giemsa (MGG), le frottis médullaire 
+est observé au microscope avec différents grossissements. 
+● Au faible grossissement (×10) : on évalue la richesse cellulaire de 
+la moelle osseuse et on repère les grosses cellules, notamment les 
+précurseurs mégacaryocytaires. 
+● La richesse cellulaire dans la MO est plus importante chez les 
+sujets jeunes et diminue physiologiquement avec l’âge 
+● À fort grossissement (x50/x100) :on étudie les différentes lignées 
+cellulaires afin de vérifier l'équilibre de l'échantillon.  
+On observe pendant la maturation des cellules que  : 
+- 
+Le cytoplasme diminue (moins abondant + rétrécit en taille + 
+s’éclaircit) 
+- 
+Les cellules immatures possèdent encore des ARN, ce qui explique 
+leur teinte bleue caractéristique (donc cellule mature moins bleue) 
+- 
+ La chromatine évolue d'un aspect fin vers une structure très 
+dense  
+- 
+Les renforcements deviennent plus abondants  
+ 
+ 
+  Comment on sait que c’est un myéloblaste :  
+-grosse cellule, cytoplasme abondant, très basophile, noyau rond et 
+8 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+chromatine fine et des nucléoles donc signes d’immaturité.  
+ 
+Ce myéloblaste est censé devenir un prométoblaste, sa chromatine 
+devient plus mature, les grains de sécrétions etc...  
+Entre le métamyélocyte et le myélocyte, on voit que le noyau se courbe(au 
+stade métamyélocytes), par la suite il donnera ce noyau plurilobé du 
+polynucléaire neutrophiles (PNN). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Myélogramme 
+anormal  
+Myélogramme anormal :  
+  
+Cas de la leucémie aiguë : Au lieu d'avoir à la fois des promyélocytes, des 
+myélocytes, des métamyélocytes et des polynucléaires neutrophiles, on 
+aura uniquement des myéloblastes. C’est pas normal, ça signifie qu’il y a 
+un blocage de la maturation qui se fait et qui empêche aux myéloblastes 
+de passer au stade de promyélocytes et d’arriver in fine au stade de 
+polynucléaires neutrophiles.  
+Quand on a plus de 20% de myéloblastes, on pose le diagnostic de 
+leucémie aiguë.  
+ Mais à la fois, lorsque persiste la maturation par exemple dans une 
+leucémie aiguë où on aurait  70% de myéloblastes, 10% de PNN et 5% 
+métamyélocytes , on peut observer dans ces métamyélocytes et PNN qui 
+persistent, des anomalies qualitatives :  
+  
+-1ère image :  
+PNN normal : Il a 3 lobes, un cytoplasme clair un peu rosé avec des 
+granulations azurophiles. On voit également, la chromatine avec des 
+renforcements denses, c’est une chromatine mature et dense, c’est ce 
+qu’on s’attend à voir dans une cellule mature.  
+-2e image :  
+On a plus qu’un seul lobe bien rond, on perd ce caractère trilobé et ça c’est 
+une anomalie nucléaire.  
+9 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+-3e image :  
+Ici, on a une anomalie cytoplasmique, on observe un cytoplasme 
+dépourvu de granulations, on parle de PNN dégranulé.  
+ 
+ 
+  
+Il existe plusieurs autres types d'anomalies et le but est de savoir si elles 
+sont d’origine nucléaire ou cytoplasmique. Par exemple un PNN avec 2 
+lobes c’est pas normal aussi, on parlera de PNN hyposegmenté. Cela 
+permet de sous classifier une partie de l’hémopathie. 
+ 
+ 
+ 
+V. 
+Granulopïèse et Monocytopïèse  
+A) Généralités  
+ 
+ 
+ 
+ 
+ 
+ 
+Lignée granuleuse  
+ 
+Le myéloblaste est le précurseur le plus immature qu'on puisse 
+identifier.  
+ Le monocyte par rapport au PNN, a une plus grande taille et un noyau 
+en fer à cheval, c’est un noyau qui reste entier. Au niveau du 
+cytoplasme, il est moins rosé.  
+On parle de cytoplasme en ciel d’orage pour décrire le cytoplasme des 
+monocytes. 
+ 
+ 
+ 
+ 
+La durée de vie du PNN qui passe dans le sang est de 24h, et puis il y a 
+un renouvellement constant à partir du secteur médullaire.  
+ 
+Donc dans la moelle, il y  a une production de 50 gigas de PNN par jour 
+10 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Durée de vie  
+en situation physiologique. Ce besoin peut augmenter jusqu’à 100 gigas, 
+c’est ce qui se passe par exemple lors d’une infection.  
+ 
+ 
+Les CFU (Colony Forming Units) correspondent à des progéniteurs 
+hématopoïétiques. Il s’agit de cellules immatures que l’on ne peut pas 
+identifier directement à l’œil nu ou au microscope.  
+Leur identification se fait par des tests de culture : lorsqu’on place ces 
+cellules dans des conditions particulières, notamment en présence de 
+facteurs de croissance, une cellule progénitrice va se multiplier et donner 
+naissance à une colonie de cellules. 
+ 
+L’aspect de la colonie peut être diffus ou plus compact, ce qui reflète le 
+degré de maturation des cellules issues du progéniteur. 
+Le progéniteur myéloïde commun est à l’origine de plusieurs lignées 
+cellulaires : la lignée granulocytaire, la lignée monocytaire, la lignée 
+érythroïde et la lignée mégacaryocytaire. 
+Un marqueur important de l’immaturité cellulaire est le CD34.  
+Précision : L’association CD34+ CD38− correspond à un stade 
+d’immaturité très élevé et caractérise notamment les cellules souches 
+hématopoïétiques. 
+Il existe un progéniteur commun aux lignées granulocytaire et 
+monocytaire. Cela permet d’expliquer certaines situations 
+physiopathologiques.  
+Par exemple, lors d’une infection, l’augmentation des polynucléaires 
+neutrophiles peut être associée à une augmentation des monocytes, car 
+ces deux lignées partagent un précurseur commun. 
+De la même manière, lors d’une carence martiale(= carence en fer) , on 
+observe une anémie associée à une thrombocytose.  
+La cellule souche hématopoïétique (CSH) s’adapte au besoin de 
+l’organisme en orientant sa différenciation vers la lignée 
+mégacaryocytaire. 
+ 
+ 
+11 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+VI. 
+Granulopoïèse et Monocytopoïèse  
+B) Les étapes de maturation  
+ 
+Lignée 
+monocytaire  
+Concernant la lignée monocytaire, les principaux précurseurs sont le 
+monoblaste, et le promonocyte. Cette lignée comporte moins d’étapes de 
+maturation que la lignée granulocytaire, ce qui explique un délai de 
+maturation plus court, d’environ 5 jours. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lignée 
+granulocytaire 
+ 
+La lignée granulocytaire nécessite environ 10 jours pour aboutir à une 
+cellule mature.  
+Elle est organisée en deux compartiments: 
+-Le compartiment de prolifération et de différenciation comprend les 
+stades immatures, avec une forte activité de multiplication cellulaire. Le 
+passage du progéniteur au stade de myélocyte dure environ 5 à 6 jours. 
+-Le compartiment de maturation et de stockage comprend les 
+métamyélocytes et les polynucléaires neutrophiles. Ce compartiment est 
+quantitativement très important : il contient environ 8 fois plus de 
+polynucléaires neutrophiles que le sang périphérique. Il constitue un 
+réservoir rapidement mobilisable en cas de besoin, notamment lors d’une 
+infection. 
+Dans certaines situations infectieuses, la monocytose peut précéder la 
+polynucléose neutrophile, car la lignée monocytaire nécessite un temps 
+de maturation plus court pour libérer les cellules dans la circulation 
+sanguine. 
+ 
+ 
+ 
+Pour réguler la granulopoïèse et  monocytopoïèse , il y aura les facteurs de 
+croissance . En amont, on a le CSM et le GM-CSF qui à partir du 
+12 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Régulation par les 
+facteurs de 
+croissance  
+progéniteur commun vont donner le progéniteur granuleux. 
+Par exemple, un type de facteur de croissance (CSF) qui va se fixer sur son 
+récepteur (CD117) qui va induire une dimérisation de ce récepteur, un 
+recrutement d'une protéine kinase qui va activer les facteur de 
+transcription (ici spécifique à la lignée granuleuse) 
+Suite pas à connaître par coeur, notion à quand même avoir. 
+ 
+ 
+ 
+ 
+ 
+VII. 
+Granulopoïèse et maturation terminale  
+A) Les granulations  
+ 
+Rôle des 
+granulations  
+Les granulations contiennent des substances bactéricides, des protéases, 
+les enzymes permettant de produire des dérivés oxygénés toxiques. 
+ Elles assurent le rôle fonctionnel principal du polynucléaire neutrophile : 
+destruction des pathogènes. 
+ 
+ 
+ 
+ 
+ 
+ 
+4 types de 
+granulations au 
+cours de la 
+maturation  
+13 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+ 
+ 
+ 
+VIII. 
+Fonctions des PNN  
+A) Répartition cellulaire  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Circulation des 
+PNN 
+3 secteurs : 
+- secteur circulant : compartiment sanguin qui dure 24h 
+- secteur marginé : au niveau des capillaire, poumon et rate 
+=> pool rapidement disponible 
+- secteur réserve médullaire : comprend les métamyélocyte 
+et le PNN.  
+Pour remplir leur fonction, ils vont passer dans le tissu et exercer 
+leur activité. Une fois leur rôle terminé, ils sont adressés à la moelle 
+et sont détruits. et renouveler tous les jours.
+ 
+ 
+14 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonctions et 
+propriétés des 
+PNN 
+ 
+ 
+ 
+IX. 
+Fonctions des PNN  
+B) Chimiotactisme  
+ 
+Rôle  
+=> Réponds aux besoins de PNN au niveau d'un site inflammatoire 
+tissulaire. ils sont d’abord recruter, passant du compartiment circulant 
+(sang) au compartiment tissulaire (tissu), phénomène d’attraction. 
+ 
+ 
+ 
+ 
+ 
+Mécanisme  
+1) Sécrétion de chimiokines par les cellules activées (endothéliales, 
+stromales) réalisant un gradient chimique (Platelet Activating 
+Factor PAF, leucotriènes LTB4, interleukine 8 IL-8 (mais ne sont pas à 
+connaître, juste savoir qu’il y a des chimiokine) 
+2) Reconnaissance par des récepteurs de la superfamille des 
+récepteurs à 7 domaines transmembranaires par les 
+polynucléaires neutrophiles pour ensuite aboutir à la migration du 
+PNN pour arriver dans les tissus. 
+ 
+ 
+ 
+X. 
+Fonctions des PNN  
+C)  Migration et diapédèse  
+ 
+ 
+Mécanisme  
+ -Dépendante de récepteurs de type sélectine  et intégrine  
+pas besoin d’apprendre ça par coeur, c’est pour schématiser la suite 
+  
+1ere étape : mise en jeu des sélectines pour ralentir les PNN 
+ 
+-  E et P sélectines exprimées par les cellules endothéliales activées 
+15 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+- interagissent avec la L-sélectine et PSGL-1(P Selectin Glycoprotein 
+Ligand1) exprimées par les polynucléaires neutrophiles 
+  
+2eme étape : mise en jeu des intégrines pour stopper les PNN 
+-  Les cellules endothéliales expriment des ligands pour les intégrines 
+- Les polynucléaires neutrophiles expriment les intégrines  
+La liaison des intégrines va entraîner une cascade de signalisation, et un 
+changement morphologique des PNN pour pouvoir traverser le tissu 
+endothélial. 
+  
+3éme étape : migration transendothéliale selon 2 modèles 
+  
+Migration paracellulaire (entre) 
+Migration transcellulaire (dans) 
+Les PNN guidés vers les jonctions 
+intercellulaires 
+Les leucocytes testent les cellules 
+endothéliales à la recherche d'une 
+zone plus perméable 
+  
+ 
+ 
+ 
+XI. 
+Fonctions des PNN  
+D) Phagocytose  
+ 
+Rôle  
+ 
+=> ce qui permet aux PNN d’ingérer et de déverser son contenu granulaire 
+ 
+ 
+ 
+ 
+ 
+Mécanisme  
+Présence de deux familles de récepteur :  
+-  Récepteur des fragments constants des immunoglobulines 
+(FCyRIIIB=Rc fonctionnel et FCyRIIA=corécepteurs ) 
+- Récepteur des fractions du complément (CR1=corécepteurs et 
+CR3=Rc fonctionnel)  
+Ces récepteurs vont permettre d'activer une voie de signalisation (voie 
+d’immunoglobulines et voie complément) qui va permettre par la suite 
+d'aboutir à la formation d’un phagosome et d’internaliser la bactérie.  
+16 
+
+---PAGE---
+UE6-Hématologie : Granulopoïèse et les fonctions des polynucléaires neutrophiles-Pr 
+BENBOUBKER 
+ 
+XII. 
+Fonctions des PNN  
+E) la Bactéricidie  
+Rôle  
+=> Libération des granulations azurophiles et 
+spécifiques dans le phagosome pour assurer la 
+bactéricidie 
+Mécanisme  
+● 
+Système myéloperoxydase (important à connaître): l’activation de la 
+NADPH oxydase conduit à la formation d’anion superoxyde, puis de 
+peroxyde d’hydrogène et d’acide hypochloreux 
+● 
+ Protéines bactéricides:  Bactericidal/permeability increasing protein 
+(BPI) reconnaissant le LPS ,Défensines permettant la perméabilisation 
+des membranes , Cathelicidin , Lactoferrine chélatant le fer 
+● 
+Protéases : Sérines protéases,Cathepsine G, Elastase et Protéinase 3 
+ 
+ 
+ 
+POINTS IMPORTANTS  
+ 
+ 
+17 
+
+---PAGE---

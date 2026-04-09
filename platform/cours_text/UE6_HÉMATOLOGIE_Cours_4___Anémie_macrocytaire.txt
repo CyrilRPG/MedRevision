@@ -1,0 +1,729 @@
+RT : Yassine LAMLILI - Youssef FONTAINE 	
+RL : Margaux LAPLACE 
+Hématologie 
+Cours n°4 
+Dr Grégory LAZARIAN– 27/02/2026 – 9h30-10h15 
+ANÉMIE NORMO/MACROCYTAIRE  
+Objectifs : 
+ Argumenter les principales hypothèses diagnostiques et justifier les examens complémentaires 
+pertinents.  
+UE6– HÉMATOLOGIE 
+PLAN DU COURS
+      I.        DÉFINITIONS-RAPPELS
+      II.         ANÉMIE NORMO/MACROCYTAIRE RÉGÉNÉRATIVE
+1.
+ Principaux récepteurs d’anémie régénérative 
+       2.     Mécanismes de l’anémie hémolytique 
+       3.     Tableau biologique de l’anémie hémolytique  
+       4.      Etiologie des anémies hémolytique
+       5.     Démarche diagnostique
+       6.     Drépanocytose
+       7.      Sphérocytose héréditaire
+       8.     Déficit en G6PD
+       9.     Anémie corpusculaire acquise
+      10.    Complication à long terme des anémies hémolytiques
+      III.          ANÉMIE NORMO/MACROCYTAIRE ARÉGÉNÉRATIVE
+1.
+Anémies macrocytaires arégénératives 
+2.
+Étiologie des anémies centrales
+3.
+Autres causes d’anémies normo/macrocytaires arégénératives 
+4.
+Démarche diagnostique
+       5.    Myélogramme 
+       6.    Rôle de la vitamine B12 et des folates (B9)
+       7.    Cas des anémies macrocytaires par carence en vitamine B9/B12
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+      8.    Métabolisme de la vitamine B9
+      9.    Métabolisme de la vitamine B12
+     10.   Carence en vitamine B9/B12
+     11.   Étiologies par carence
+     12.   Maladie de Biermer
+     13.   Traitement d’une anémie par carence en B9/B12
+Page  sur 
+ 
+2
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+I. Définitions - Rappels
+ Anémie régénérative : normo ou légèrement macrocytaire, 
+régénérative donc réticulocyte > 120 G/L. La cause est donc 
+périphérique et repose soit par excès de perte soit par 
+raccourcissement pathologique de la durée de vie des hématies.  
+Question du prof : A votre avis, pourquoi ces anémies sont-elles 
+macrocytaires ?  
+Réponse du prof : Lorsqu’on a une hyperréticulocytose, ces 
+réticulocytes sont légèrement plus gros que les hématies et les 
+automates de numérations qui mesurent le volume de chaque globule 
+rouge ne fait pas la distinction entre les hématies et les réticulocytes. 
+Donc en moyenne ça donne un volume globulaire moyen (VGM) un peu 
+plus gros.  
+Pour rappel : pour caractériser l’anémie, ce qui est important c’est le 
+VGM :  
+• VGM < 80 fL —> anémie microcytaire  
+• 80 < VGM < 100 fL —> anémie normocytaire  
+• VGM > 100 fL —> anémie macrocytaire  
+Ainsi, les anémies régénératives sont soit normocytaire soit légèrement 
+macrocytaire mais c’est un phénomène transitoire et qui n’est pas lié à 
+un problème de production dans la moelle osseuse.  
+VGM: 
+Page  sur 
+ 
+3
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+II. Anémie normo/macrocytaire régénérative 
+1.  
+ Principaux 
+mécanismes 
+d’anémie 
+régénérative  
+Les 3 principaux mécanismes d’anémie régénérative sont :  
+- 1 : Perte (hémorragie aiguë)  
+- 2 : Hémolyse pathologique (extra corpusculaire ou corpusculaire)  
+- 3 : Régénération après qu’une anémie centrale ait été corrigée (post 
+carentielle ou post chimiothérapie)  
+A noter que l’hyperréticulocytose n'apparaît que 5 à 7 jours après le 
+processus initial car il faut un certain temps pour que les précurseurs se 
+divisent et se transforment en réticulocyte.  
+Pour les anémie Hémorragique aiguë :  
+● On recherche des saignements, souvent digestifs.  
+● Attention au début de l’hémorragie le taux d’Hb ne reflète pas l’anémie 
+car on saigne à hématocrite constant (GR + plasma) donc la proportion 
+d’Hb par rapport au plasma ne diminue pas. Le diagnostic repose 
+surtout sur le contexte clinique.  
+Page  sur 
+ 
+4
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+2.  
+ Mécanisme 
+de l’anémie 
+hémolytique 
+Liée à l’exagération de l’hémolyse et le raccourcissement de la 
+durée de vie des hématies.  
+Rappel GR :  
+Cellule sans noyau, avec une membrane déformable car riches en 
+protéines flexibles. Contient de l’hémoglobine (Hb) et des enzymes 
+contre l’oxydation comme la G6PD et la PK.  
+Durée de vie : 120 jours  
+En condition physiologique :  
+● Quand les GR vieillissent, ils perdent leur stock d'enzymes et finissent 
+par s’hyperhydrater. Cela leur enlève leur capacité de déformation et 
+ils sont par la suite captés par les macrophages spléniques.  
+● Ces GR vont être lysés et libérer de la lactate déshydrogénase 
+(LDH).  
+● Il y a également de l’hémoglobine qui va être libérée et dissociée en 
+globine + hème.  
+● L’hème se dégrade en bilirubine et la bilirubine est transportée par 
+l’albumine dans les hépatocytes pour subir un phénomène de 
+conjugaison et pouvoir être éliminée dans les voies biliaires.  
+● Donc en condition physiologique : pas d’Hb libre.  
+Pathologique :  
+● L’hémolyse est augmentée donc les GR sont lysés en Hb libre mais 
+étant donné que les macrophages spléniques sont déjà saturés, ce 
+phénomène a lieu dans la vascularisation.  
+● La présence d’Hb libre dans le sang est appelée hémoglobinémie.  
+● Cependant, l’Hb libre est délétère pour les tissus donc cette Hb est 
+rapidement prise en charge par une protéine : l’haptoglobine. Cette 
+haptoglobine finit elle aussi par être saturée et l’excès d’Hb libre va 
+s’accumuler dans les reins pour y être éliminé par les voies rénales.  
+● Puis le rein finit aussi par saturer et cela provoque de l’hémoglobinurie 
+(Attention ce n’est pas du sang dans les urines mais de l’hémoglobine), 
+des tubulopathies et des insuffisances rénales (car l’excès d’Hb est 
+toxique pour le rein).  
+ 
+Page  sur 
+ 
+5
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+Hémolyse chronique:  
+● Intra-tissulaire = phagocytose permanente des GR par macrophages 
+tissulaires puis catabolisme de l’Hb  
+● Symptôme : Anémie, Ictère, Splénomégalie.  
+Hémolyse aiguë:  
+● Intra-vasculaire = destruction des hématies dans la circulation 
+sanguine.  
+● Symptôme : Douleur abdominale et lombaire, insuffisance rénale, 
+urine couleur porto, pâleur, parfois un tableau de choc pouvant aller 
+jusqu’au coma.  
+● Urgence vitale !!! 
+3. Tableau 
+biologique de 
+l’anémie 
+hémolytique
+A l’hémogramme :  
+● Anémie normo ou macrocytaire.  
+● Régénérative > 120 G/L  
+Le frottis :  
+● Dans les anémies hémolytiques ce qui va être primordial c’est 
+l’analyse du frottis sanguin.  
+● L’aspect et la forme des GR permet d’orienter vers une cause (par 
+exemple : drépanocyte, schizocyte, infection par parasite plasmodium, 
+etc)  
+Sur le plan biochimique : bilan d’hémolyse positif :  
+● Hyperbilirubinémie  
+● Augmentation des LDH car hémolyse des GR  
+● Haptoglobine diminuée ou effondrée.  
+● Dans les hémolyses aiguës on a en plus sur le plan biologique de 
+l’hémoglobinémie et de l’hémoglobinurie.  
+Page  sur 
+ 
+6
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+4. Étiologie des 
+anémies 
+hémolytiques
+Extra-corpusculaire (Cause extrinsèque au GR, souvent acquise) 
+- Immunologique :  
+● ex : Auto immune ou allo immune (auto ou allo anticorps)  
+●
+Test de Coombs pour la mettre en évidence  
+- Mécanique (fragmentation des GR)  
+● GR se fragmente dans les microvaisseaux au contact de microthrombi 
+(qui ont été généré de façon pathologique)  
+● ex : microangiopathie thrombotique (MAT)  
+●
+Présence d'hématie fragmenté sur frottis = schizocyte  
+- Infectieuse  
+● ex : paludisme (infection par plasmodium visible au frottis)  
+- Autres  
+●
+toxiques, venins, médicaments, etc  
+Corpusculaire (anomalie du GR, souvent familial) 
+- Anomalie qualitative de l’Hb :  
+● ex : Drépanocytose (on fait électrophorèse de l’Hb et frottis)  
+- Déficit en enzyme du GR :  
+● ex : Déficit en G6PD ou en PK (on fait dosage des deux enzymes)  
+- Anomalie de la membrane du GR :  
+● ex : sphérocytose héréditaire (examen : ektacytométrie)  
+Page  sur 
+ 
+7
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+5. Démarche 
+diagnostique
+Démarche diagnostique : Examens biologiques indispensable à réaliser :  
+● NFS + frottis  
+● Test de Coombs  
+● Si fièvre : on fait en plus hémoculture et recherche de paludisme sur le 
+frottis.  
+A l’analyse du frottis sanguin :  
+● Schizocyte = Hématie en forme de casque et témoigne d’une 
+hémolyse mécanique.  
+● Lorsqu’on voit des schizocytes au frottis associés à une 
+thrombopénie on suspecte une microangiopathie thrombotique = 
+URGENCE  
+●
+Destruction des GR au contact de microthrombi => thrombopénie 
+associé + défaillance organe (IR, trouble neurologique)  
+ 
+Test de Coombs 
+- Ce test détecte les AC fixés à la surface des hématies  
+- Si positif : anémie hémolytique auto immune (les plus fréquentes de 
+AH d’origine extra corpusculaire) :  
+●
+Forme asymptomatique :  
+○ Souvent reliées à une hémolyse intra tissulaire  
+○ Ictère, Splénomégalie  
+○ Anémie d’importance variable, parfois absente  
+●
+Forme symptomatique :  
+○ Souvent liée à une crise hémolytique intra vasculaire  
+○ Pâleur, fièvre, douleur abdominal, état de choc, etc  
+○ Urgence hématologique = déglobulisation brutale  
+Page  sur 
+ 
+8
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+On peut également déterminer si les anticorps sont hémolysants plutôt à 
+une température faible ou élevée  
+ 
+- Anémie hémolytique à test de Coombs positif mais non auto immune :  
+●
+Maladie hémolytique néonatale : allo immunisation foeto-
+maternelle  
+○ incompatibilité Rhésus entre la mère Rh- et le foetus Rh+  
+○ Immunisation maternelle avec apparition d’anticorps anti-Rh  
+○ Risque d’hémolyse lors de la grossesse suivante si le foetus est RH+  
+●
+Immuno allergie médicamenteuse  
+●
+Accident transfusionnels  
+- Si Coombs négatif ET absence de schizocyte : - Selon le contexte on 
+suspecte :  
+● Causes médicamenteuses, infections  
+● Paludisme  
+● Septicémie à C. perfringens  
+● Causes hémolytiques corpusculaires (drépanocytose, anomalie de 
+membrane, anomalie d’enzyme).  
+Page  sur 
+ 
+9
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+6. 
+Drépanocytose
+7. Sphérocytose 
+héréditaire
+● Autosomique dominante  
+● GR perdent leur déformabilité et ont un aspect de sphérocyte  
+Clinique :  
+● Splénomégalie, Ictère  
+● Anémie d’importance variable, chronique, en poussée  
+● Lithiase vésiculaire  
+Diagnostic :  
+● Contexte familiale (forme sporadique possible)  
+● Présence de sphérocytes sur le frottis sanguin  
+● Etude de la membrane des GR en ektacytométrie  
+● Maladie constitutionnelle autosomique récessive  
+● Mutation AA chaîne B de globine → production Hb anormal = 
+Hémoglobine S (HBS)  
+● HBS se polymérise et est à l'origine d’une déformation des GR.  
+● La polymérisation de HBS peut être causé par toutes les causes 
+aboutissant à une diminution de O2 (déshydratation, altitude, effort, etc)  
+● Et cela provoque une crise chez les drépanocytaires  
+● La drépanocytose peut provoquer : hémolyse, ischémie, inflammation, 
+défaillance d’organes, etc  
+● Les premiers signes de drépanocytose apparaissent vers 6 mois car il 
+possède beaucoup d’hémoglobine F qui le protègent à la naissance. Mais 
+cette hémoglobine F diminue par la suite.  
+●
+Seuls homozygotes SS sont malades  
+ 
+Page 
+ sur 
+ 
+10
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+8. Déficit en 
+G6PD
+9. Anémie 
+corpusculaire 
+acquise
+- Il y a une cause d’anémie corpusculaire qui n’est pas constitutionnelle 
+mais acquise : c’est l’Hémoglobinurie paroxystique nocturne (HPN)  
+● Maladie rare  
+● Anomalie acquise d’ancrage des protéines membranaires.  
+●
+Ce déficit en protéine ancré dans la membrane va induire une 
+sensibilité des GR à la lyse par le Complément et entraîner une 
+hémolyse.  
+Diagnostic : Cytométrie de flux 
+10. 
+Complication à 
+long terme des 
+anémies 
+hémolytiques 
+● Patients originaire d’Afrique et Méditerranée  
+● Transmission liée à l’X (seul les hommes sont atteints, les femmes 
+sont conductrices)  
+●
+De l’anémie hémolytique chronique dès naissance aux accidents 
+hémolytiques déclenchés  
+ 
+Page 
+ sur 
+ 
+11
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+III. Anémie macrocytaire arégénérative. 
+1. 
+ Anémie 
+macrocytaire 
+arégénérative 
+Anémie : diminution du taux d’Hb (selon âge et sexe)  
+Arégénérative : Réticulocytes < 120 G/L  
+Normocytaire : VGM 80-100Fl ; Macrocytaire : VGM >100Fl  
+Situation particulière : Macrocytose physiologique du nouveau-né 
+(105-125fL) 
+Page 
+ sur 
+ 
+12
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+ 2. 
+ Étiologies 
+des anémies 
+centrales 
+ 
+ 
+(NB: le prof a juste lu mot pour mot ces diapos…)
+Page 
+ sur 
+ 
+13
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+3.  
+ Autres 
+causes 
+d’anémie 
+normo/
+macrocytaire 
+arégénérative 
+Les causes d’anémies normocytaire et macrocytaire sont 
+similaires, bien que certaines soient plus macrocytaires (ex : 
+carence et SMD).  
+Insuffisance thyroïdienne  
+o Hormones thyroïdiennes : rôle dans l’érythropoïèse  
+o Anémie : normo- ou légèrement macrocytaires  
+Cirrhose  
+o Mécanisme multifactoriel complexe  
+o Alcoolisme chronique entraîne une macrocytose  
+o Macrocytose possible même sans cirrhose, dû à l’interférence de 
+l’alcool sur le métabolisme des folates  
+Certains médicaments intervenant dans le métabolisme des 
+folates  
+o Chimiothérapie  
+o Sulfamides  
+o Anti-épileptiques  
+o Anti-rétroviraux  
+Page 
+ sur 
+ 
+14
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+4. 
+ Démarche 
+diagnostique 
+ 
+Interrogatoire  
+o Age  
+o Contexte : Insuffisance rénal ? Maladies auto-immunes ? 
+inflammatoire ? digestive ?  
+o Consommation d’alcool  
+o Prises médicamenteuses  
+o Régime alimentaire  
+Hémogramme  
+Si macrocytaire, oriente vers une carence en B9/B12  
+Pour les anémies normo-macrocytaires, il est important de 
+regarder les zones cliniques. Autant pour les anémies 
+hémolytiques ce qui est important est de regarder la tête des 
+globules rouges, autant pour les anémies normo/macrocytaires 
+arégénératives ce qui est important c’est le reste.  
+Dans les anémies arégénératives, on regarde le frot:  
+- Est-ce qu’il y’a des cellules anormales qui circulent ? Blastes, 
+lymphocytes atypiques, oriente vers une hémopathie  
+- Est-ce qu’il y’a des PNN hypersegmentés ? Oriente vers une 
+carence en folate/B12  
+- Est-ce qu’il y’a des anomalies qualitatives ? Oriente vers un SMD  
+ 
+Réponse prof (à une question d’élève qu’on n’entend pas bien, 
+mais qui concerne la cirrhose et l’anémie…) : « Une cirrhose non 
+pas toujours, c’est très complexe. En fait il y’a plusieurs choses qui 
+rentrent en compte : toxicité sur l’érythropoïèse, toxicité via les 
+hémorragies de varices oesophagiennes. C’est dû au fait que dans 
+la cirrhose on a une splénomégalie qui fait des varices 
+oesophagiennes (qui peuvent saigner), donc quand il y a de l’alcool 
+il y a une toxicité liée à l’absorption de vitamines. Tu vois c’est 
+compliqué de te systématiquement au cas par cas si tu aboutis ou 
+pas à une anémie. »  
+Page 
+ sur 
+ 
+15
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+Eliminer les causes évidentes  
+A envisager en 1er lieu :  
+Ethylisme/Cirrhose : Bilan hépatique, dosage des gamma-GT 
+(enzymes qui augmentent quand on prend de l’alcool)  
+IRC : Bilan rénal (dosage créatinémie, clairance de la créatinine)  
+Syndrome inflammatoire : dosage CRP  
+Hypothyroïdie : Bilan thyroïdien, dosage TSH  
+Carence en vitamine (surtout si VGM très augmenté) : Dosage B9 
+et B12  
+Si le bilan étiologique est négatif, alors on effectue un 
+myélogramme. Surtout si d’autres lignées sont atteintes 
+(bictopénie, pancytopénie) ou s’il y’a suspicion d’hémopathie : 
+présence de cellules atypiques sur le frottis sanguin (blastes, 
+cellules lymphomateuses) ou signes de dysplasie.  
+Le but du myélogramme est de regarder si on a un(e) :  
+- Envahissement médullaire par une hémopathie (leucémie, 
+myélome, lymphome, métastase de cancer solide)  
+- Syndrome myélodysplasique (SMD)  
+- Aplasie médullaire  
+- Erythroblastopénie  
+Page 
+ sur 
+ 
+16
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+5. 
+Myélogramme
+ 
+Cet examen, souvent effectué en hématologie, correspond à une 
+ponction à travers le sternum ou l’os iliaque grâce à un trocart de 
+Mallarmé pour récupérer une petite quantité de moelle osseuse 
+(car c’est ici que s’effectue l’hématopoïèse). Cette moelle osseuse 
+sera étalé sur une lame pour réaliser un frottis médullaire, ensuite 
+coloré au MGG, puis analysé au microscope pour regarder ce qu’il 
+y’a dans la moelle.  
+On va évaluer la richesse, identifier les éléments (précurseurs), 
+effectuer un décompte des éléments puis on va faire une analyse 
+qualititative pour voir s’il y’a des blastes, des cellules 
+myélomateuses, des cellules cancéreuses ou des anomalies 
+qualitatives.  
+Globalement, le myélogramme nous indique si la moelle est 
+pauvre, ou si la moelle est normal/riche.  
+Page 
+ sur 
+ 
+17
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+6.  
+ Rôle de la 
+vitamine B12 
+et des folates 
+(B9) 
+7. Cas des 
+anémies 
+macrocytaires 
+par carence en 
+vitamine B9/
+B12
+- Anomalies des mitoses (défaut de synthèse ADN, anomalie 
+nucléaire)  
+- Asynchronisme de maturation nucléo-cytoplasmique  
+- Arrêt précoce des mitoses => Macrocytose  
+Ces vitamines sont indispensables à la synthèse de l'ADN (en 
+particulier des bases puriques) et donc à la multiplication 
+cellulaire. Ce qu’on peut voir dans ce schéma (ci-dessous) où B9 et 
+B12 sont impliqués dans ce processus biochimique qui permet de 
+produire des bases puriques (importante pour la synthèse de 
+l’ADN).  
+ 
+Page 
+ sur 
+ 
+18
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+8. Métabolisme 
+de la vitamine 
+B9
+ 
+- Source : Légumes verts, céréales, foie, viandes  
+- Absorption principalement dans le jéjunum  
+- Stockage dans tous les tissus  
+- Réserves faibles (s’épuisent rapidement : 2 à 4 mois)  
+Page 
+ sur 
+ 
+19
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+9. Métabolisme 
+de la vitamine 
+B12
+ 
+- Source : Viandes, poisson, oeuf, laitage  
+- Nécessité de se lier au facteur intrinsèque (FI) produit par les 
+cellules pariétales de l’estomac  
+- Transport vers l’iléon terminale et absorption (pas d’absorption 
+sans FI)  
+- Réserves hépatiques considérables : pour 4 ans  
+Page 
+ sur 
+ 
+20
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+10. Carence en 
+vitamines B9/
+B12
+ 
+La carence en vitamine B9/B12 va provoquer la perturbation de la 
+synthèse d’ADN, et donc des tissus à renouvellement rapide 
+(hématopoïètique ou digestif). On a donc une macrocytose qui est 
+souvent importante (VGM>110fL), une anémie arégénérative, et 
+des signes d’hémolyse intra-medullaire parce que les éléments 
+qui sont produits dans la moelle osseuse seront fragiles et vont 
+facilement rentrer en apoptose. Et donc de la même façon que 
+toute hémolyse, on va libérer des LDH, augmenter la bilirubine, et 
+avoir une hapto qui peut être diminuée ou basse.  
+Question prof : Dans la carence en vitamine c’est pareil, on a un 
+bilan d’hémolyse positif. C’est quoi la différence entre les deux ? 
+Parce qu’on aura une anémie dans les deux cas.  
+Réponse : Dans ce cas-là il y aura pas de réticulocytes, c’est une 
+anémie centrale donc les réticulocytes vont être bas. Dans les 
+anémies hémolytiques périphériques les réticulocytes sont élevées, 
+mais on aura aussi un bilan d’hémolyse positif.  
+Cette carence en vitamine ne touche pas que les GR. Elle touche 
+en 1er la lignée érythroblastique, mais peut aussi toucher la lignée 
+plaquettaire, la lignée granuleuse, donc on peut avoir une 
+pancytopénie.  
+Sur le frottis sanguin on va retrouver des PNN hypersegmenté 
+(signe de carence en B9/B12), et des anomalies des GR 
+Page 
+ sur 
+ 
+21
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+11. Diagnostic 
+d’une anémie 
+par carence en 
+B9/B12
+ 
+ 
+ 
+Signes biologiques d’hémolyse intramédullaire  
+- LDH très augmentées  
+- Bilirubine élevées  
+- Haptoglobine diminuée (mais réticulocytes bas, contrairement aux 
+anémies hémolytiques)  
+Dosages sérique vitamine B12 / Folates  
+- Se fait avant tout traitement  
+- Abaissé selon la carence  
+-
+Folates érythrocytaires = état des réserves  
+Page 
+ sur 
+ 
+22
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+12. Etiologie par 
+carence
+Page 
+ sur 
+ 
+23
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+13. Maladie de 
+Biermer
+- = Carence en B12 due au déficit en facteur intrinsèque (FI)  
+- Rare et prédominance féminine : 50-60ans  
+- Maladie auto-immune lié à un déficit en FI (anticorps dirigés 
+contre le FI et/ou contre les cellules pariétales de l’estomac) : peu 
+de production de FI => plus d’absorption de B12 => anémie 
+macrocytaire  
+Associé à d’autres maladies immunologiques : thyroïdites, diabète, 
+vitiligo  
+Clinique  
+● Syndrome anémique : Installation progressive. Pâleur + 
+ictère (hémolyse intra médullaire)  
+● Signes digestifs Glossite atrophique dépapillante (Hunter), 
+dysphagie, diarrhées  
+● Signes neurologiques : inconstants  
+● Paresthésies (fourmillement, engourdissement)  
+Formes évoluées : Sclérose combinée de la moelle = syndrome 
+pyramidal avec troubles sensitifs (quadriparésie, incontinence)  
+Manifestations neuropsychiatriques possibles, qui sont 
+irréversibles en l’absence de traitement  
+Diagnostic  
+Recherche d’auto-anticorps dirigés :  
+● Anti-facteur intrinsèque (50% des cas, très spécifique)  
+● Anti-cellules pariétales (90% des cas mais moins spécifique)  
+Fibroscopie gastrique :  
+Mise en évidence d’un aspect de gastrite atrophique = 
+inflammation chronique de la muqueuse gastrique entraînant une 
+destruction progressive des glandes gastriques 
+Page 
+ sur 
+ 
+24
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+14. Traitement 
+d’une anémie 
+par carence en 
+folates/B12
+Anémie bien tolérée (= pas d’urgence) puisqu’elle est d’installation 
+progressive.  
+Pas de transfusion (fausse le dosage des vitamines), mais si on doit 
+transfuser alors il faut le bilan vitaminique avant la transfusion  
+Traitement d’une carence en folate  
+● Acide folique per os (5 mg/j pdt 3-6 semaines), et par voie parentérale 
+pour malabsorption  
+Traitement d’une carence en vitamine B12  
+● Si Carence d’apport : B12 per os  
+● Si Maladie de Biermer :  
+o Ne pas donner de B12 per os car absence de FI  
+o Injection d’hydroxocobalamine ou cyanocobalamine par voie IM  
+▪ Injection tous les jours (1mg/j) pdt une semaine pour reconstituer le 
+stock  
+▪ Puis injection toutes les semaines pendant un mois (1mg/semaine)  
+▪Enfin, injection tous les mois à vie (1mg/mois)  
+ 
+- Normalisation de la NFS en quelques semaines  
+- Biermer : Fibroscopie gastrique de surveillance tous les 3 ans car 
+risque augmenté de cancer gastrique  
+Page 
+ sur 
+ 
+25
+26
+
+---PAGE---
+             UE6 – Hématologie  – Anémies normo/macrocytaires 2– Dr Gregory LAZARIAN– 27/02/2026
+Page 
+ sur 
+ 
+26
+26
+
+---PAGE---

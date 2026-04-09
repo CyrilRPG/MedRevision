@@ -1,0 +1,1200 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MedRevision - Annales & Fiches</title>
+<style>
+:root {
+  --bg: #0f1117;
+  --card: #1a1d27;
+  --card2: #232735;
+  --accent: #6c5ce7;
+  --accent2: #a29bfe;
+  --green: #00b894;
+  --red: #e17055;
+  --orange: #fdcb6e;
+  --text: #dfe6e9;
+  --text2: #b2bec3;
+  --border: #2d3436;
+  --radius: 12px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Header */
+.header {
+  background: linear-gradient(135deg, #1a1d27 0%, #2d1f4e 100%);
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.header h1 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, var(--accent2), var(--accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.tab-bar {
+  display: flex;
+  gap: 4px;
+  margin-left: auto;
+}
+.tab-btn {
+  padding: 8px 20px;
+  border: none;
+  background: transparent;
+  color: var(--text2);
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: all 0.2s;
+}
+.tab-btn:hover { background: var(--card2); color: var(--text); }
+.tab-btn.active {
+  background: var(--accent);
+  color: white;
+}
+
+/* Main content */
+.main { padding: 24px; max-width: 1200px; margin: 0 auto; }
+
+/* Sidebar + Content layout */
+.layout {
+  display: flex;
+  gap: 24px;
+  min-height: calc(100vh - 80px);
+}
+.sidebar {
+  width: 280px;
+  flex-shrink: 0;
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 16px;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+  position: sticky;
+  top: 80px;
+}
+.sidebar h3 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text2);
+  margin-bottom: 12px;
+}
+.sidebar-group { margin-bottom: 16px; }
+.sidebar-group-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent2);
+  padding: 6px 8px;
+  cursor: pointer;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.sidebar-group-title:hover { background: var(--card2); }
+.sidebar-group-title .arrow {
+  transition: transform 0.2s;
+  font-size: 0.7rem;
+}
+.sidebar-group-title.open .arrow { transform: rotate(90deg); }
+.sidebar-items { padding-left: 16px; display: none; }
+.sidebar-group-title.open + .sidebar-items { display: block; }
+.sidebar-item {
+  padding: 6px 10px;
+  font-size: 0.85rem;
+  color: var(--text2);
+  cursor: pointer;
+  border-radius: 6px;
+  margin: 2px 0;
+  transition: all 0.15s;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sidebar-item:hover { background: var(--card2); color: var(--text); }
+.sidebar-item.active { background: var(--accent); color: white; }
+.sidebar-item .badge {
+  font-size: 0.7rem;
+  background: var(--card2);
+  padding: 2px 6px;
+  border-radius: 10px;
+  color: var(--text2);
+}
+.sidebar-item.active .badge { background: rgba(255,255,255,0.2); color: white; }
+
+/* Content area */
+.content {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Flashcard mode */
+.flashcard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.progress-bar {
+  width: 100%;
+  max-width: 600px;
+  background: var(--card);
+  border-radius: 20px;
+  height: 8px;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), var(--green));
+  border-radius: 20px;
+  transition: width 0.4s ease;
+}
+.progress-text {
+  font-size: 0.85rem;
+  color: var(--text2);
+  text-align: center;
+}
+.flashcard {
+  width: 100%;
+  max-width: 700px;
+  min-height: 300px;
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 28px;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+  position: relative;
+  border: 1px solid var(--border);
+}
+.flashcard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(108,92,231,0.15);
+}
+.flashcard-front, .flashcard-back { transition: opacity 0.3s; }
+.flashcard-back { display: none; }
+.flashcard.flipped .flashcard-front { display: none; }
+.flashcard.flipped .flashcard-back { display: block; }
+.flashcard .flip-hint {
+  text-align: center;
+  color: var(--text2);
+  font-size: 0.8rem;
+  margin-top: 16px;
+  opacity: 0.7;
+}
+.flashcard.flipped .flip-hint { display: none; }
+
+.q-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--accent2);
+  margin-bottom: 8px;
+}
+.q-text {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 16px;
+  white-space: pre-wrap;
+}
+.q-props { list-style: none; }
+.q-props li {
+  padding: 8px 12px;
+  margin: 4px 0;
+  background: var(--card2);
+  border-radius: 8px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  display: flex;
+  gap: 8px;
+}
+.q-props li .letter {
+  font-weight: 700;
+  color: var(--accent2);
+  min-width: 20px;
+}
+/* Back side */
+.answer-label {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.answer-letters {
+  display: inline-block;
+  background: var(--accent);
+  color: white;
+  padding: 4px 12px;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-left: 8px;
+}
+.expl-list { list-style: none; margin-top: 12px; }
+.expl-list li {
+  padding: 8px 12px;
+  margin: 4px 0;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+}
+.expl-list li.correct { background: rgba(0,184,148,0.15); border-left: 3px solid var(--green); }
+.expl-list li.incorrect { background: rgba(225,112,85,0.1); border-left: 3px solid var(--red); }
+.expl-letter {
+  font-weight: 700;
+  min-width: 20px;
+}
+.expl-list li.correct .expl-letter { color: var(--green); }
+.expl-list li.incorrect .expl-letter { color: var(--red); }
+
+/* Action buttons */
+.action-buttons {
+  display: flex;
+  gap: 16px;
+  margin-top: 8px;
+}
+.action-btn {
+  padding: 14px 32px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.btn-correct {
+  background: var(--green);
+  color: white;
+}
+.btn-correct:hover { background: #00a884; transform: scale(1.05); }
+.btn-wrong {
+  background: var(--red);
+  color: white;
+}
+.btn-wrong:hover { background: #d35400; transform: scale(1.05); }
+
+/* Completion screen */
+.completion {
+  text-align: center;
+  padding: 60px 20px;
+}
+.completion h2 {
+  font-size: 2rem;
+  margin-bottom: 16px;
+  background: linear-gradient(135deg, var(--green), var(--accent2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.completion p { color: var(--text2); font-size: 1.1rem; margin-bottom: 24px; }
+.btn-restart {
+  padding: 12px 28px;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.btn-restart:hover { background: var(--accent2); }
+
+/* Revision sheets - Premium design */
+.revision-content {
+  line-height: 1.75;
+  max-width: 860px;
+}
+.revision-content h1.revision-title {
+  font-size: 1.7rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  background: linear-gradient(135deg, #a29bfe 0%, #6c5ce7 50%, #fd79a8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 8px;
+}
+.revision-subtitle {
+  font-size: 0.9rem;
+  color: var(--text2);
+  margin-bottom: 32px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Section cards */
+.revision-section {
+  background: var(--card);
+  border-radius: 16px;
+  padding: 0;
+  margin-bottom: 20px;
+  border: 1px solid var(--border);
+  overflow: hidden;
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+}
+.revision-section:hover {
+  box-shadow: 0 4px 24px rgba(108,92,231,0.08);
+  border-color: rgba(108,92,231,0.25);
+}
+.revision-section-header {
+  background: linear-gradient(135deg, rgba(108,92,231,0.08) 0%, rgba(162,155,254,0.04) 100%);
+  padding: 20px 28px;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  user-select: none;
+  transition: background 0.2s;
+}
+.revision-section-header:hover {
+  background: linear-gradient(135deg, rgba(108,92,231,0.12) 0%, rgba(162,155,254,0.06) 100%);
+}
+.revision-section-num {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--accent), #7c6cf0);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+.revision-section-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  flex: 1;
+}
+.revision-section-toggle {
+  color: var(--text2);
+  font-size: 0.85rem;
+  transition: transform 0.3s ease;
+  flex-shrink: 0;
+}
+.revision-section.collapsed .revision-section-toggle {
+  transform: rotate(-90deg);
+}
+.revision-section-body {
+  padding: 24px 28px 28px;
+  overflow: hidden;
+  transition: max-height 0.4s ease, opacity 0.3s ease, padding 0.3s ease;
+}
+.revision-section.collapsed .revision-section-body {
+  max-height: 0 !important;
+  opacity: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* Typography inside sections */
+.revision-section h3 {
+  color: var(--accent2);
+  font-size: 1.05rem;
+  margin: 24px 0 12px 0;
+  font-weight: 700;
+  padding: 8px 14px;
+  background: rgba(108,92,231,0.06);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  letter-spacing: -0.01em;
+}
+.revision-section h3:first-child { margin-top: 0; }
+.revision-section h4 {
+  color: var(--text);
+  font-size: 0.95rem;
+  margin: 18px 0 8px 0;
+  font-weight: 700;
+  padding-left: 4px;
+}
+
+/* Lists */
+.revision-section ul {
+  padding-left: 0;
+  margin: 8px 0;
+  list-style: none;
+}
+.revision-section > .revision-section-body > ul > li,
+.revision-section > .revision-section-body > h3 + ul > li {
+  position: relative;
+  padding: 10px 16px 10px 20px;
+  margin: 6px 0;
+  background: var(--card2);
+  border-radius: 10px;
+  font-size: 0.92rem;
+  color: var(--text);
+  line-height: 1.65;
+  border: 1px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+.revision-section > .revision-section-body > ul > li:hover,
+.revision-section > .revision-section-body > h3 + ul > li:hover {
+  border-color: rgba(108,92,231,0.15);
+  background: rgba(35,39,53,0.9);
+}
+.revision-section > .revision-section-body > ul > li::before,
+.revision-section > .revision-section-body > h3 + ul > li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 12px;
+  bottom: 12px;
+  width: 3px;
+  border-radius: 2px;
+  background: var(--accent);
+  opacity: 0.4;
+}
+.revision-section li strong {
+  color: var(--accent2);
+  font-weight: 700;
+}
+
+/* Nested lists */
+.revision-section li ul {
+  margin: 8px 0 4px 0;
+  padding-left: 0;
+}
+.revision-section li ul li {
+  padding: 5px 10px 5px 14px;
+  margin: 3px 0;
+  font-size: 0.87rem;
+  color: var(--text2);
+  background: rgba(15,17,23,0.3);
+  border-radius: 6px;
+  border: none;
+  line-height: 1.55;
+}
+.revision-section li ul li::before {
+  content: none !important;
+}
+.revision-section li ul li strong {
+  color: var(--accent2);
+  font-weight: 600;
+}
+
+/* Deeper nested */
+.revision-section li ul li ul li {
+  background: transparent;
+  padding: 2px 8px 2px 12px;
+  font-size: 0.84rem;
+  border-left: 2px solid var(--border);
+  border-radius: 0;
+  margin: 2px 0;
+}
+
+/* Keywords & highlights */
+.revision-content .keyword {
+  color: var(--accent2);
+  font-weight: 700;
+  background: rgba(108,92,231,0.08);
+  padding: 1px 6px;
+  border-radius: 4px;
+}
+.revision-content .important {
+  background: linear-gradient(135deg, rgba(108,92,231,0.1), rgba(108,92,231,0.05));
+  border-left: 3px solid var(--accent);
+  padding: 12px 16px;
+  margin: 12px 0;
+  border-radius: 0 10px 10px 0;
+  font-size: 0.92rem;
+}
+.revision-content img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 12px 0;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+}
+
+/* Table of contents */
+.revision-toc {
+  background: var(--card);
+  border-radius: 14px;
+  padding: 20px 24px;
+  margin-bottom: 24px;
+  border: 1px solid var(--border);
+}
+.revision-toc-title {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--text2);
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+.revision-toc-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.revision-toc-item {
+  padding: 6px 14px;
+  background: var(--card2);
+  border-radius: 8px;
+  font-size: 0.82rem;
+  color: var(--text2);
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 1px solid transparent;
+}
+.revision-toc-item:hover {
+  color: var(--accent2);
+  border-color: var(--accent);
+  background: rgba(108,92,231,0.08);
+}
+.revision-toc-item .toc-num {
+  color: var(--accent);
+  font-weight: 700;
+  margin-right: 6px;
+}
+
+/* Scroll to top button */
+.scroll-top-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  background: var(--accent);
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(108,92,231,0.3);
+  transition: transform 0.2s, opacity 0.2s;
+  z-index: 50;
+}
+.scroll-top-btn:hover { transform: scale(1.1); }
+.scroll-top-btn.visible { display: flex; }
+
+/* Welcome screen */
+.welcome {
+  text-align: center;
+  padding: 80px 20px;
+}
+.welcome h2 {
+  font-size: 1.5rem;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+.welcome p { color: var(--text2); font-size: 1rem; }
+
+/* Stats bar */
+.stats-bar {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.stat {
+  background: var(--card);
+  padding: 12px 18px;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  color: var(--text2);
+  border: 1px solid var(--border);
+}
+.stat strong {
+  color: var(--text);
+  font-size: 1.2rem;
+  display: block;
+}
+
+/* Image in flashcard */
+.q-image {
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 8px;
+  margin: 12px 0;
+  object-fit: contain;
+  background: white;
+  padding: 4px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .layout { flex-direction: column; }
+  .sidebar {
+    width: 100%;
+    position: static;
+    max-height: none;
+  }
+  .header { flex-wrap: wrap; }
+  .flashcard { padding: 20px; }
+  .action-btn { padding: 12px 24px; font-size: 1rem; }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text2); }
+
+/* Hidden */
+.hidden { display: none !important; }
+
+/* Filter buttons */
+.filter-bar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.filter-btn {
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text2);
+  border-radius: 20px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.filter-btn:hover { border-color: var(--accent); color: var(--accent2); }
+.filter-btn.active { background: var(--accent); border-color: var(--accent); color: white; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>MedRevision</h1>
+  <div class="tab-bar">
+    <button class="tab-btn active" onclick="switchTab('annales')">Annales</button>
+    <button class="tab-btn" onclick="switchTab('fiches')">Fiches de r&eacute;vision</button>
+  </div>
+</div>
+
+<div class="main">
+  <div class="layout">
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar"></div>
+    <!-- Content -->
+    <div class="content" id="content">
+      <div class="welcome">
+        <h2>Bienvenue sur MedRevision</h2>
+        <p>S&eacute;lectionnez un cours dans le menu &agrave; gauche pour commencer</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script src="revision_ue5.js"></script>
+<script src="revision_ue6.js"></script>
+<script>
+// ============ STATE ============
+let currentTab = 'annales';
+let currentUE = null;
+let currentCourse = null;
+let deck = [];       // Current flashcard deck
+let deckIndex = 0;   // Current position
+let mastered = 0;    // Count of mastered cards
+let totalCards = 0;  // Total cards in session
+let flipped = false;
+
+// Persistence: store mastered question IDs in localStorage
+function getMastered() {
+  try { return JSON.parse(localStorage.getItem('medrev_mastered') || '{}'); } catch { return {}; }
+}
+function setMastered(obj) {
+  localStorage.setItem('medrev_mastered', JSON.stringify(obj));
+}
+
+// ============ TAB SWITCHING ============
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  currentUE = null;
+  currentCourse = null;
+  buildSidebar();
+  showWelcome();
+}
+
+// ============ REVISION DATA ============
+function getRevisionData() {
+  const data = {};
+  if (typeof REVISION_UE5 !== 'undefined') {
+    data['UE5'] = REVISION_UE5;
+  }
+  if (typeof REVISION_UE6 !== 'undefined') {
+    data['UE6'] = REVISION_UE6;
+  }
+  // Fallback to old data if new revision files not loaded
+  if (Object.keys(data).length === 0 && APP_DATA.cours) {
+    return APP_DATA.cours;
+  }
+  return data;
+}
+
+// ============ SIDEBAR ============
+function buildSidebar() {
+  const sb = document.getElementById('sidebar');
+  sb.innerHTML = '';
+
+  if (currentTab === 'annales') {
+    buildAnnalesSidebar(sb);
+  } else {
+    buildFichesSidebar(sb);
+  }
+}
+
+function buildAnnalesSidebar(sb) {
+  const source = APP_DATA.annales;
+  for (const ueKey of Object.keys(source).sort()) {
+    const courses = source[ueKey];
+    const group = document.createElement('div');
+    group.className = 'sidebar-group';
+
+    const title = document.createElement('div');
+    title.className = 'sidebar-group-title';
+    title.innerHTML = `<span class="arrow">&#9654;</span> ${ueKey}`;
+    title.onclick = () => title.classList.toggle('open');
+
+    const items = document.createElement('div');
+    items.className = 'sidebar-items';
+
+    // Sort keys but put "Tous" first
+    const sortedKeys = Object.keys(courses).sort((a, b) => {
+      if (a === 'Tous') return -1;
+      if (b === 'Tous') return 1;
+      return a.localeCompare(b);
+    });
+    for (const courseKey of sortedKeys) {
+      const course = courses[courseKey];
+      const item = document.createElement('div');
+      item.className = 'sidebar-item';
+      const validQ = course.questions.filter(q => q.answers || q.is_schema).length;
+      const displayName = course.name.charAt(0).toUpperCase() + course.name.slice(1);
+      const isTous = courseKey === 'Tous';
+      if (isTous) item.style.fontWeight = '700';
+      item.innerHTML = `<span>${displayName}</span><span class="badge">${validQ}</span>`;
+      item.onclick = () => {
+        document.querySelectorAll('.sidebar-item').forEach(i => i.classList.remove('active'));
+        item.classList.add('active');
+        currentUE = ueKey;
+        currentCourse = courseKey;
+        startFlashcards(ueKey, courseKey);
+      };
+      items.appendChild(item);
+    }
+    group.appendChild(title);
+    group.appendChild(items);
+    sb.appendChild(group);
+  }
+}
+
+function buildFichesSidebar(sb) {
+  const revData = getRevisionData();
+  for (const ueKey of Object.keys(revData).sort()) {
+    const subjects = revData[ueKey];
+    const group = document.createElement('div');
+    group.className = 'sidebar-group';
+
+    const title = document.createElement('div');
+    title.className = 'sidebar-group-title';
+    title.innerHTML = `<span class="arrow">&#9654;</span> ${ueKey}`;
+    title.onclick = () => title.classList.toggle('open');
+
+    const items = document.createElement('div');
+    items.className = 'sidebar-items';
+
+    for (const subjKey of Object.keys(subjects).sort()) {
+      const subj = subjects[subjKey];
+      const item = document.createElement('div');
+      item.className = 'sidebar-item';
+      item.innerHTML = `<span>${subj.name}</span>`;
+      item.onclick = () => {
+        document.querySelectorAll('.sidebar-item').forEach(i => i.classList.remove('active'));
+        item.classList.add('active');
+        currentUE = ueKey;
+        currentCourse = subjKey;
+        showRevision(ueKey, subjKey);
+      };
+      items.appendChild(item);
+    }
+    group.appendChild(title);
+    group.appendChild(items);
+    sb.appendChild(group);
+  }
+}
+
+function showWelcome() {
+  document.getElementById('content').innerHTML = `
+    <div class="welcome">
+      <h2>Bienvenue sur MedRevision</h2>
+      <p>S\u00e9lectionnez un cours dans le menu \u00e0 gauche pour commencer</p>
+    </div>
+  `;
+}
+
+// ============ FLASHCARD SYSTEM ============
+function startFlashcards(ue, course, resetMastered=false) {
+  const courseData = APP_DATA.annales[ue][course];
+  const masteredIds = getMastered();
+
+  if (resetMastered) {
+    // Clear mastered for this course
+    courseData.questions.forEach(q => { delete masteredIds[q.id]; });
+    setMastered(masteredIds);
+  }
+
+  // Filter questions with answers and not yet mastered
+  const available = courseData.questions.filter(q => (q.answers || q.is_schema) && !masteredIds[q.id]);
+  const allValid = courseData.questions.filter(q => q.answers || q.is_schema);
+
+  if (available.length === 0) {
+    showCompletion(ue, course, allValid.length);
+    return;
+  }
+
+  // Shuffle
+  deck = shuffle([...available]);
+  deckIndex = 0;
+  mastered = allValid.length - available.length;
+  totalCards = allValid.length;
+  flipped = false;
+
+  renderFlashcard();
+}
+
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function renderFlashcard() {
+  if (deckIndex >= deck.length) {
+    // All cards in deck done, check if more to review
+    const remaining = deck.filter(q => !getMastered()[q.id]);
+    if (remaining.length === 0) {
+      showCompletion(currentUE, currentCourse, totalCards);
+      return;
+    }
+    deck = shuffle(remaining);
+    deckIndex = 0;
+  }
+
+  const q = deck[deckIndex];
+  flipped = false;
+
+  const content = document.getElementById('content');
+  const pct = Math.round((mastered / totalCards) * 100);
+
+  content.innerHTML = `
+    <div class="flashcard-container">
+      <div class="stats-bar">
+        <div class="stat"><strong>${mastered}/${totalCards}</strong>Ma\u00eetris\u00e9es</div>
+        <div class="stat"><strong>${deck.length - deckIndex}</strong>Restantes</div>
+        <div class="stat"><strong>${pct}%</strong>Progression</div>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div style="text-align:right;width:100%;max-width:600px">
+        <button onclick="startFlashcards('${currentUE}','${currentCourse}',true)" style="background:none;border:1px solid var(--border);color:var(--text2);padding:4px 12px;border-radius:6px;font-size:0.75rem;cursor:pointer">Tout recommencer</button>
+      </div>
+      <div class="flashcard" id="flashcard" onclick="flipCard()">
+        <div class="flashcard-front">
+          <div class="q-label">Question ${q.num}</div>
+          <div class="q-text">${escapeHtml(q.question)}</div>
+          ${q.images && q.images.length > 0 ? q.images.map(img =>
+            `<img class="q-image" src="images/${escapeHtml(img)}" alt="Image question" onerror="this.style.display='none'">`
+          ).join('') : ''}
+          ${renderPropositions(q)}
+          <div class="flip-hint">Cliquez pour voir la r\u00e9ponse</div>
+        </div>
+        <div class="flashcard-back">
+          ${q.is_schema ? '' : `<div class="answer-label">R\u00e9ponse : <span class="answer-letters">${escapeHtml(q.answers)}</span></div>`}
+          ${q.answer_images && q.answer_images.length > 0 ? q.answer_images.map(img =>
+            `<img class="q-image" src="images/${escapeHtml(img)}" alt="Schema corrige" style="max-width:100%;max-height:500px;border-radius:8px;margin:12px 0;background:white;padding:4px" onerror="this.style.display='none'">`
+          ).join('') : ''}
+          ${renderExplanations(q)}
+        </div>
+      </div>
+      <div class="action-buttons" id="actionButtons" style="display:none">
+        <button class="action-btn btn-correct" onclick="markCorrect(event)">\u2705 Je savais</button>
+        <button class="action-btn btn-wrong" onclick="markWrong(event)">\u274c Je ne savais pas</button>
+      </div>
+      <div id="reviewBtn" style="display:none;margin-top:8px">
+        <button onclick="reviewQuestion()" style="background:var(--card2);border:1px solid var(--border);color:var(--accent2);padding:10px 20px;border-radius:10px;font-size:0.9rem;cursor:pointer;transition:all 0.2s">Revoir la question</button>
+      </div>
+    </div>
+  `;
+}
+
+function renderPropositions(q) {
+  if (!q.propositions || q.propositions.length === 0) return '';
+  let html = '<ul class="q-props">';
+  for (const p of q.propositions) {
+    html += '<li><span class="letter">' + p.letter + '.</span><span>' + escapeHtml(p.text) + '</span></li>';
+  }
+  html += '</ul>';
+  return html;
+}
+
+function cleanExplText(text) {
+  if (!text) return '';
+  // Remove leading VRAI/FAUX markers that leaked into text
+  text = text.replace(/^[A-E][\.\)]\s*(?:VRAI|FAUX|VRAi)[,:\s]*/i, '');
+  // Remove leading colon/comma/spaces
+  text = text.replace(/^[,:\s\u200b\u200c]+/, '');
+  // Remove zero-width chars
+  text = text.replace(/[\u200b\u200c]/g, '');
+  return text.trim();
+}
+
+function renderExplanations(q) {
+  const answers = q.answers || '';
+
+  // Build a complete A-E explanation list using both explanations and answer letters
+  if ((q.explanations && q.explanations.length > 0) || answers) {
+    // Create a map of explanations by letter
+    const explMap = {};
+    if (q.explanations) {
+      for (const e of q.explanations) {
+        explMap[e.letter] = { correct: e.correct, text: cleanExplText(e.text) };
+      }
+    }
+    // Ensure all proposition letters have an entry
+    for (const p of q.propositions) {
+      if (!explMap[p.letter]) {
+        const isCorrect = answers.includes(p.letter);
+        explMap[p.letter] = { correct: isCorrect, text: '' };
+      }
+    }
+
+    const letters = Object.keys(explMap).sort();
+    return `<ul class="expl-list">
+      ${letters.map(letter => {
+        const e = explMap[letter];
+        const isCorrect = answers.includes(letter);
+        const cls = isCorrect ? 'correct' : 'incorrect';
+        const icon = isCorrect ? '&#10003;' : '&#10007;';
+        const txt = e.text ? escapeHtml(e.text) : (isCorrect ? 'VRAI' : 'FAUX');
+        return `<li class="${cls}">
+          <span class="expl-letter">${letter}. ${icon}</span>
+          <span>${txt}</span>
+        </li>`;
+      }).join('')}
+    </ul>`;
+  } else if (q.raw_back) {
+    return `<div style="margin-top:12px;white-space:pre-wrap;font-size:0.9rem;color:var(--text2)">${escapeHtml(q.raw_back)}</div>`;
+  }
+  return '';
+}
+
+function flipCard() {
+  const card = document.getElementById('flashcard');
+  if (!flipped) {
+    card.classList.add('flipped');
+    document.getElementById('actionButtons').style.display = 'flex';
+    document.getElementById('reviewBtn').style.display = 'block';
+    flipped = true;
+  }
+}
+
+function reviewQuestion() {
+  const card = document.getElementById('flashcard');
+  card.classList.remove('flipped');
+  document.getElementById('actionButtons').style.display = 'none';
+  document.getElementById('reviewBtn').style.display = 'none';
+  flipped = false;
+}
+
+function markCorrect(e) {
+  e.stopPropagation();
+  const q = deck[deckIndex];
+  // Mark as mastered
+  const m = getMastered();
+  m[q.id] = true;
+  setMastered(m);
+  mastered++;
+  deckIndex++;
+  renderFlashcard();
+}
+
+function markWrong(e) {
+  e.stopPropagation();
+  const q = deck[deckIndex];
+  // Reinsert 5 cards later
+  const insertAt = Math.min(deckIndex + 6, deck.length);
+  deck.splice(insertAt, 0, q);
+  deckIndex++;
+  renderFlashcard();
+}
+
+function showCompletion(ue, course, total) {
+  document.getElementById('content').innerHTML = `
+    <div class="completion">
+      <h2>F\u00e9licitations !</h2>
+      <p>Vous avez ma\u00eetris\u00e9 les ${total} questions de ce cours.</p>
+      <button class="btn-restart" onclick="startFlashcards('${ue}','${course}', true)">
+        Recommencer
+      </button>
+    </div>
+  `;
+}
+
+// ============ REVISION SHEETS ============
+function showRevision(ue, courseKey) {
+  const revData = getRevisionData();
+  const subject = revData[ue]?.[courseKey];
+  if (!subject) {
+    document.getElementById('content').innerHTML = '<div class="welcome"><p>Aucune fiche disponible</p></div>';
+    return;
+  }
+  const content = document.getElementById('content');
+
+  // New format: sections with HTML content
+  if (subject.sections) {
+    let html = `<div class="revision-content">`;
+    html += `<h1 class="revision-title">${subject.name}</h1>`;
+    html += `<div class="revision-subtitle">${subject.sections.length} section${subject.sections.length > 1 ? 's' : ''} de r\u00e9vision \u2022 ${ue}</div>`;
+
+    // Table of contents
+    if (subject.sections.length > 1) {
+      html += `<div class="revision-toc">`;
+      html += `<div class="revision-toc-title">Sommaire</div>`;
+      html += `<div class="revision-toc-list">`;
+      subject.sections.forEach((section, i) => {
+        html += `<div class="revision-toc-item" onclick="document.getElementById('rev-section-${i}').scrollIntoView({behavior:'smooth',block:'start'})">
+          <span class="toc-num">${i + 1}</span>${section.title}
+        </div>`;
+      });
+      html += `</div></div>`;
+    }
+
+    // Section cards
+    subject.sections.forEach((section, i) => {
+      html += `<div class="revision-section" id="rev-section-${i}">`;
+      html += `<div class="revision-section-header" onclick="this.parentElement.classList.toggle('collapsed')">`;
+      html += `<div class="revision-section-num">${i + 1}</div>`;
+      html += `<div class="revision-section-title">${section.title}</div>`;
+      html += `<div class="revision-section-toggle">\u25BC</div>`;
+      html += `</div>`;
+      html += `<div class="revision-section-body">${section.content}</div>`;
+      html += `</div>`;
+    });
+
+    html += `</div>`;
+    html += `<button class="scroll-top-btn" id="scrollTopBtn" onclick="window.scrollTo({top:0,behavior:'smooth'})">\u2191</button>`;
+    content.innerHTML = html;
+
+    // Show/hide scroll-to-top button
+    const scrollBtn = document.getElementById('scrollTopBtn');
+    window.onscroll = () => {
+      if (window.scrollY > 400) scrollBtn.classList.add('visible');
+      else scrollBtn.classList.remove('visible');
+    };
+  }
+  // Legacy format fallback
+  else if (subject.parts) {
+    let html = `<div class="revision-content">`;
+    html += `<h1 class="revision-title">${subject.name}</h1>`;
+    html += `<div class="revision-subtitle">${subject.parts.length} section${subject.parts.length > 1 ? 's' : ''} de r\u00e9vision \u2022 ${ue}</div>`;
+    subject.parts.forEach((part, i) => {
+      html += `<div class="revision-section" id="rev-section-${i}">`;
+      html += `<div class="revision-section-header" onclick="this.parentElement.classList.toggle('collapsed')">`;
+      html += `<div class="revision-section-num">${i + 1}</div>`;
+      html += `<div class="revision-section-title">${part.title}</div>`;
+      html += `<div class="revision-section-toggle">\u25BC</div>`;
+      html += `</div>`;
+      html += `<div class="revision-section-body"><ul>`;
+      for (const line of part.lines) {
+        if (line.trim()) html += `<li>${line}</li>`;
+      }
+      html += `</ul></div></div>`;
+    });
+    html += `</div>`;
+    content.innerHTML = html;
+  }
+}
+
+function isMetadataLine(line) {
+  const l = line.trim();
+  if (!l || l.length < 2) return true;
+  if (l === '•' || l === '-' || l === '–') return true;
+  // Skip metadata patterns
+  const skipPats = [
+    /^RT\s*:/i, /^RL\s*:/i, /^Pr\s+\w/, /^Dr[\.\s]\w/, /^Prof[\.\s]/,
+    /\d{1,2}[\/\-]\d{1,2}[\/\-]\d{2,4}/, /\d{1,2}h\d{2}\s*[-–]?\s*\d{0,2}h?\d{0,2}/,
+    /^Cours\s+n[°o]\d/i, /^UE\d\s*[–\-]/, /^DFGSM/, /^DFG2/,
+    /^Ron[eé]o/i, /^ron[eé]otypeur/i, /^Page\s*\d/i,
+    /^©/, /tous droits/i, /^Diapo\s*\d/i,
+    /^\d+\s*$/, /^•\s*$/,
+    /^[–\-]\s*\d{1,2}[\/\-]\d{1,2}/,
+    /^\d{1,2}\s*(janvier|f[eé]vrier|mars|avril|mai|juin|juillet|ao[uû]t|septembre|octobre|novembre|d[eé]cembre)/i,
+    /^\d+\s+mars\s+\d{4}/i,
+    /^(?:lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)/i,
+    /^H[eé]matologie\s*$/i, /^Physiologie\s*$/i, /^Andrologie\s*$/i,
+    /^S[eé]miologie\s*$/i, /^Histologie\s*$/i, /^Pharmacologie\s*$/i,
+    /^M[eé]decine\s+nucl[eé]aire\s*$/i, /^Immunologie\s*$/i,
+    /^Objectifs?\s+du\s+cours/i, /^Plan\s+du\s+cours/i,
+    /^Sommaire\s*$/i, /^Table\s+des\s+mati[eè]res/i,
+    /^●\s*$/, /^○\s*$/,
+  ];
+  return skipPats.some(p => p.test(l));
+}
+
+function renderSectionLines(lines) {
+  // Filter metadata
+  const filtered = lines.filter(l => !isMetadataLine(l));
+  if (filtered.length === 0) return '';
+  let html = '<ul>';
+  for (const line of filtered) {
+    let formatted = escapeHtml(line);
+    // Bold text between ** markers
+    formatted = formatted.replace(/\*\*(.*?)\*\*/g, '<strong style="color:var(--accent2)">$1</strong>');
+    // Highlight arrows and key markers
+    formatted = formatted.replace(/(→|➡|=&gt;|&#x2192;)/g, '<span style="color:var(--accent2)">$1</span>');
+    // Highlight text after = or : at end of line for definitions
+    formatted = formatted.replace(/:\s*$/, '<span style="color:var(--accent2)">:</span>');
+    html += `<li>${formatted}</li>`;
+  }
+  html += '</ul>';
+  return html;
+}
+
+// ============ UTILITY ============
+function escapeHtml(str) {
+  if (!str) return '';
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+// ============ INIT ============
+buildSidebar();
+</script>
+</body>
+</html>

@@ -1,0 +1,1436 @@
+ 
+1 
+RT :  ASSOULINE Léa, EL CHOUEIRI Gregory  
+RL :  ABDAT Celena  
+  
+UE6 – TISSUS SANGUINS   
+  
+HÉMATOLOGIE  
+Cours n°7 
+Dr Carole FLEURY, – 27/02/2026 – 10h15-11h45  
+Introduction aux hémopathies  
+ 
+PLAN DU 
+COURS 
+I. 
+Hématopoïèse normale 
+A. Le système hématopoïétique  
+II. 
+L’hématopoïèse pathologique  
+ 
+A. Oncogenèse  
+III. 
+Hémopathies malignes  
+ 
+A. Définition  
+B. Conséquences cliniques  
+C. Classification des hémopathies  
+IV. 
+Dérégulation de l‘hématopoïèse  
+V. 
+Leucémies aiguës  
+ 
+A. Blocage de maturation  
+B. La granulopoïèse et la monocytopoïèse  
+C. LA  
+D. Myélogramme  
+E. Diagnostic biologique de LA : myélogramme  
+F. LA : diagnostic différentiel  
+VI. 
+Syndromes myélodysplasiques (SMD) 
+ 
+VII. 
+Syndromes myéloprolifératifs  
+ 
+VIII. Leucémie myéloïde chronique (LMC) 
+ 
+IX. 
+Polyglobulie de Vasquez  
+ 
+X. 
+Thrombocytémie essentielle 
+ 
+ 
+
+---PAGE---
+ 
+2 
+I. Hématopoïèse normale  
+A. Le système hématopoïétique  
+Étapes de 
+l’hématopoïèse 
+ 
+***RAPPEL du cours de l’année dernière (la prof n’en a pas reparlé cette 
+année mais ça peut aider à mieux comprendre) :  
+• 
+Le système hématopoïétique est diffus dans l’organisme : 
+- Moelle osseuse : production de toutes les cellules sanguines 
+- Tissus lymphoïdes (Thymus, ganglions, rate...) : maturation des 
+lymphocytes 
+- Sang : tissu liquide dans lequel circulent les cellules matures 
+• 
+Dans la moelle osseuse, l’organisation est très pyramidale. Tout en 
+haut se trouvent les cellules souches hématopoïétiques, qui sont rares 
+et pluripotentes. Elles peuvent se différencier et proliférer pour 
+donner naissance, en fonction des besoins de l’organisme, à toutes les 
+cellules sanguines matures. 
+• 
+On distingue rapidement deux grandes voies : la lignée myéloïde et la 
+lignée lymphoïde  
+è L’hématopoïèse myéloïde correspond à tout ce qui va aboutir aux cellules 
+matures du sang sauf les lymphocytes. Quand on parle des trois lignées 
+myéloïdes, on pense généralement aux globules rouges avec l’érythropoïèse, 
+ainsi qu’aux monocytes et aux PNN. 
+***Pancytopénie = anémie + thrombopénie + neutropénie —> elle touche 
+donc les trois lignées myéloïdes (À RETENIR) 
+ 
+è De l’autre côté, on a la lymphopoïèse, avec la lymphopoïèse B qui se fait 
+dans la moelle et la lymphopoïèse T dans le thymus. Une fois dans le sang, les 
+lymphocytes matures circulent dans les organes lymphoïdes secondaires, 
+c’est-à-dire les ganglions lymphatiques et la rate. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+3 
+II. Hématopoïèse pathologique  
+A. Oncogenèse 
+Généralités 
+ 
+• 
+Oncogenèse = ensemble des étapes qui conduisent à la transformation 
+d’une cellule saine en cellule tumorale, à l’origine d’une prolifération 
+excessive et anarchique. 
+• 
+Elle repose sur la notion de clonalité : une cellule initiale donne naissance à 
+une population de cellules tumorales monoclonales, toutes identiques. 
+• 
+C’est un processus complexe qui nécessite l’acquisition et la coopération de 
+plusieurs altérations génétiques, conduisant progressivement à la 
+transformation tumorale de la cellule. 
+ 
+Explication 
+schéma 
+ 
+ 
+è Ce schéma explique la notion de clonalité. Au départ, on a des cellules normales 
+qui sont polyclonales (toutes différentes). Il apparaît ensuite une première 
+mutation (cellule jaune) qui lui confère un avantage prolifératif : elle commence à 
+proliférer de manière aberrante. Ensuite, une deuxième mutation apparaît (cellule 
+bleue), qui devient encore plus proliférative que la cellule jaune. On obtient alors 
+un clone de cellules tumorales monoclonales. 
+ 
+• 
+Ces altéra]ons géné]ques sont acquises et vont conférer à la cellule :  
+-Un avantage prolifératif : augmentation de la prolifération et autonomie 
+-Un avantage de survie : résistance à l’apoptose 
+-Une anomalie de la différenciation : blocage de la maturation (important pour les 
+LA) 
+-Une instabilité génétique conduisant à une évolution clonale 
+-Une capacité de migration et d’interférence avec les tissus normaux 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+4 
+III. Hémopathies malignes  
+A. Définition 
+Généralités 
+ 
+• 
+Les hémopathies malignes sont des pathologies malignes clonales du tissu 
+hématopoïétique (= cancers « liquides » / cancers du sang). Elles 
+constituent un ensemble de maladies très hétérogènes au niveau clinique, 
+morphologique, phénotypique et génétique. 
+• 
+Ces hémopathies sont généralement séparées en deux grands groupes, 
+selon qu’elles se développent à partir des lignées myéloïdes ou des lignées 
+lymphoïdes. Elles peuvent provenir des cellules de la moelle osseuse ou 
+d’autres organes hématopoïétiques tels que la rate et les ganglions 
+lymphatiques. (Dans ce cours, on va parler uniquement des hémopathies 
+myéloïdes.) 
+• 
+Il existe également une dérégulation de l’hématopoïèse, associée à des 
+degrés divers aux altérations génétiques, qui va entraîner : 
+-Une prolifération aberrante de cellules hématopoïétiques 
+-Des anomalies de maturation / différenciation 
+• 
+Les cellules tumorales envahissent un ou plusieurs compar]ments 
+hématopoïé]ques et empêchent leur fonc]onnement normal : 
+-La moelle osseuse ⇒ insuffisance médullaire (car envahissement de la 
+moelle osseuse, donc plus de place pour l’hématopoïèse normale) 
+-Les organes lymphoïdes secondaires (rate et ganglions) ⇒ 
+immunodépression (car splénomégalie et adénomégalie = augmentation de 
+la taille de la rate ou des ganglions) 
+-Le sang ⇒ phase leucémique (terme utilisé pour dire que les cellules 
+sortent de leur site de prolifération pour passer dans le sang) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+5 
+III. Hémopathies malignes  
+B. Conséquences cliniques  
+Insuffisance 
+médullaire  
+ 
+1. Insuffisance médullaire : 
+• 
+On observe une diminution de l’hématopoïèse normale. Elle peut être 
+liée à un envahissement de la moelle osseuse par les cellules tumorales, 
+comme dans certains types d’hémopathies tels que les leucémies aiguës 
+et le myélome. 
+• 
+Cette insuffisance médullaire peut aussi être due à des anomalies de 
+maturation et de différenciation des cellules hématopoïétiques, comme 
+dans les leucémies aiguës (LA) et les syndromes myélodysplasiques 
+(SMD). 
+• 
+Elle entraîne : 
+-une diminu]on des globules rouges, responsable d’un syndrome 
+anémique 
+-une diminu]on des globules blancs, pouvant provoquer un syndrome 
+infec]eux secondaire à une neutropénie 
+-une diminu]on des plaquedes, responsable d’un syndrome 
+hémorragique 
+ 
+Syndrome 
+tumoral 
+2. Syndrome tumoral : 
+• 
+Il correspond à l’envahissement des organes hématopoïétiques par des 
+cellules tumorales, entraînant une augmentation du volume de certains 
+organes. 
+• 
+On observe notamment : 
+-des adénomégalies (augmenta]on de la taille des ganglions 
+lympha]ques) 
+-des splénomégalies (augmenta]on de la taille de la rate) 
+-il peut également exister une inﬁltra]on d’autres ]ssus, comme le foie, 
+le SNC, les gencives, les os ou la peau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+6 
+III. Hémopathies malignes  
+C. Classification des hémopathies  
+Hémopathies 
+malignes aiguës  
+ 
+• 
+On va généralement classer ces hémopathies en fonc]on de la 
+ciné]que d'évolu]on et on va medre d'un côté les hémopathies 
+aiguës, et de l'autre, les hémopathies chroniques. 
+1) hémopathies malignes aiguës = leucémie aiguë  
+Ø Début brutal 
+Ø Blocage de maturation (blocage à un stade très immature des 
+précurseurs) : prolifération de cellules immatures (=blastes) 
+Ø Myéloïdes ou lymphoïdes : LAM/LAL 
+ 
+Hémopathies 
+malignes 
+chroniques   
+ 
+2) hémopathies myéloïdes chroniques (2 types) 
+Ø Les syndromes myélodysplasiques et les syndromes 
+myéloproliféra]fs 
+Ø Les hémopathies lymphoïdes chroniques : les syndromes 
+lymphoproliféra]fs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+7 
+ 
+ 
+IV. Dérégulation de l’hématopoïèse   
+Il existe donc deux principales dérégulations de l’hématopoïèse : 
+1) Prolifération aberrante 
+2) Problème de différenciation/maturation 
+ 
+(Petit rond bleu = cellule souche hématopoïétique / moelle = jaune (forme pyramidale de 
+maturation) / compartiment sanguin = noir) Schéma très important selon la prof  
+ 
+ 
+ 
+ 
+Explication du schéma :  
+ 
+• 
+Dans l'hématopoïèse normale : 
+- On a un renouvellement constant et régulier ⇒ équilibre dont taux de cellules matures 
+circulantes normal 
+ 
+• 
+Dans le SMP : 
+- Uniquement prolifération aberrante (pas d’anomalie de maturation !) ⇒ pyramide bcp plus 
+large : ça prolifère trop au niveau de la CSH mais comme y’a pas de pb de maturation on a juste un 
+excès de cellules matures 
+ 
+• 
+Dans la LA : 
+- Prolifération +++ ⇒ pyramide super large et à un moment donné il y a un blocage de maturation 
+à un stade très immature des précurseurs donc plus de différenciation possible 
+- Accumulation de blastes qui vont envahir tout le compartiment médullaire qui peuvent passer 
+dans le sang 
+ 
+• 
+Dans le SMD : 
+- Prolifération clonale de la CSH aberrante ⇒ grosse pyramide 
+- Anomalie de différenciation/maturation car apoptose précoce intra médullaire des précurseurs 
+(avant d’atteindre leur stade mature, les précurseurs vont mourirè cytopénie périphérique) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+8 
+ 
+V. Leucémies aiguës    
+ 
+ 
+ 
+ 
+• 
+Les leucémies aiguës correspondent à une prolifération, dans la moelle osseuse (point de 
+départ), de cellules hématopoïétiques immatures, clonales, bloquées à un stade précoce 
+de la différenciation, appelées blastes ou cellules blastiques. 
+• 
+On dis]ngue deux grandes catégories selon la cellule d’origine : 
+-Leucémies aiguës lymphoblasFques (LAL) ⇒ environ 80 % des leucémies aiguës de 
+l’enfant 
+-Leucémies aiguës myéloïdes (LAM) ⇒ environ 70 à 80 % des leucémies aiguës de l’adulte. 
+Il s’agit d’une hémopathie à évolu]on aiguë, avec une survenue brutale et grave, ce qui en 
+fait une urgence diagnos]que et thérapeu]que. 
+A. Blocage de maturation  
+ 
+• 
+Du côté des myéloïdes, le blocage de maturation survient le plus souvent au niveau de la 
+monocytopoïèse ou de la granulopoïèse ⇒ envahissement par des monoblastes ou des 
+myéloblastes (LA monoblastique ou myéloblastique). 
+• 
+Plus rarement, le blocage de maturation peut survenir au niveau de l’érythropoïèse, 
+entraînant une accumulation d’érythroblastes (LA érythroblastique), et encore plus 
+rarement au niveau de la mégacaryopoïèse, donnant une LA mégacaryoblastique. 
+
+---PAGE---
+ 
+9 
+• 
+Du côté des lymphoïdes, si le blocage se fait au niveau de la lymphopoïèse T, on aura une 
+LAL T, et s’il se fait au niveau de la lymphopoïèse B, on aura une LAL B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+10 
+V. Leucémies aiguës 
+B. La granulopoïèse et la monocytopoïèse 
+Explication 
+schéma 
+ 
+ 
+• 
+Les précurseurs ont pour caractéristique de ne pas être reconnaissables au 
+microscope, d’où l’intérêt de réaliser des frottis pour les identifier. 
+• 
+Quand on parle d’un blocage de maturation, celui-ci se situe au niveau du 
+myéloblaste ou du monoblaste (entouré en rouge). Le myéloblaste ne peut 
+plus se différencier en promyélocyte, mais au-dessus il prolifère de manière 
+intense, ce qui entraîne une accumulation de ces blastes dans la moelle, qui 
+peuvent ensuite passer dans le sang. Le même principe s’applique au niveau 
+de la monocytopoïèse. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+11 
+V. Leucémies aiguës  
+C. LA 
+Épidémiologie 
+ 
+Les leucémies aiguës (LA) sont des affections rares, avec environ 4500 cas par 
+an en France. 
+Leucémies aiguës myéloïdes (LAM) : 
+• 
+Fréquence en augmentation avec l’âge, âge médian : 70 ans 
+• 
+Représentent 70 à 80 % des leucémies aiguës de l’adulte 
+• 
+Environ 3500 cas par an en France 
+Leucémies aiguës lymphoblastiques (LAL) : 
+• 
+Représentent environ 80 % des leucémies aiguës de l’enfant 
+• 
+Constituent un tiers des cancers de l’enfant 
+• 
+Deux pics d’incidence : enfants < 15 ans et adultes > 50 ans 
+ 
+Facteurs 
+étiologiques  
+ 
+LA de novo (= LA primitive, pas de diagnostic hématologique préalable) :    
+-représente 80 % des cas, généralement sans facteur étiologique connu. 
+ 
+LA secondaire : 
+-Post-chimiothérapies (10 % des LAM) pour un cancer ou une autre 
+hémopathie, notamment après des agents alkylants ou des inhibiteurs de 
+topoisomérase II. Ces patients ont été guéris d’un cancer mais développent 
+plusieurs années plus tard une leucémie à cause des traitements reçus. 
+-Secondaires à un syndrome myélodysplasique ou myéloprolifératif. 
+ 
+Facteurs étiologiques incriminés : (la prof en a pas parlé) : 
+-Radiations ionisantes 
+-Benzène 
+-Facteurs génétiques : trisomie 21, déficit en p53 (syndrome de Li-Fraumeni) 
+ 
+Circonstances de découverte :  
+ 
+Signes cliniques : 
+• 
+Symptômes en rapport avec l’insuffisance médullaire :  
+-Symptômes d’anémie 
+-Saignements en lien avec une thrombopénie 
+-Infec]on en rapport avec une neutropénie  
+ 
+• 
+Symptômes en rapport avec l’infiltration blastique : syndrome tumoral 
+-Organes hématopoïé]ques : adénopathie, splénomégalie 
+-Autres organes : foie (hépatomégalie), gencive (typique de la LA 
+monoblas]que), peau, os, SNC, tes]cules  
+-Leucostase (syndrome neuro respiratoire) : ne se voit que quand on a 
+des cellules hyperleucocytaires (inﬁltra]on massive du sang par les 
+
+---PAGE---
+ 
+12 
+blastes modiﬁant la viscosité sanguine ce qui va donner des 
+symptômes respiratoires et neuro)   
+Anomalies de la NFS : 
+-Hyperleucocytose ou leucopénie 
+-Cytopénies, parfois pancytopénie 
+-Blastes circulants (signal d’alarme sur automates → confirmation par frottis) 
+Démarche 
+diagnostique  
+• 
+Hémogramme toujours anormal : 
+-Cytopénies liées à l’insuﬃsance médullaire (1, 2 ou 3 lignées ± 
+profondes) 
+-Anémie : normocytaire (ou macrocytaire), normochrome, 
+arégénéra]ve (centrale), jamais microcytaire 
+-Neutropénie 
+-Thrombopénie 
+-Pancytopénie 
+ 
+• 
+Rarement adeinte d’une seule lignée 
+• 
+Blastes circulants : présents le plus souvent, mais proportion variable 
+(0 à 100 %) 
+• 
+Leucocytes : variables selon proportion de blastes circulants. Les 
+blastes circulants sont comptés parmi les leucocytes, ce qui explique la 
+grande variabilité des GB au diagnostic : très élevés si nombreux 
+blastes dans le sang, normaux ou effondrés si peu ou pas de blastes 
+circulants 
+• 
+Diagnos]c déﬁni]f : repose sur le myélogramme (ponc]on médullaire) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+V. Leucémies aiguës  
+D. Myélogramme 
+Utilisation du 
+myélogramme  
+ 
+Cytologie = méthode la plus rapide (en quelques heures) 
+ 
+ 
+• 
+On utilise un trocart, qui est une petite aiguille, que l’on place soit au 
+niveau du sternum, soit au niveau iliaque postérieur, ou plus rarement 
+iliaque antérieur. Ce sont des os plats, là où l’hématopoïèse est encore 
+présente chez l’adulte. 
+• 
+On aspire le liquide médullaire contenu à l’intérieur de l’os. D’un côté, 
+on prépare des frottis médullaires que l’on observe ensuite au 
+microscope. 
+• 
+Pour la deuxième partie du myélogramme, on aspire davantage de 
+moelle que l’on répartit dans des tubes EDTA et des tubes héparinés, 
+afin de réaliser trois analyses supplémentaires dans le laboratoire 
+d’hématologie. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+14 
+ 
+V. Leucémies aiguës   
+E. Diagnostic biologique de LA : myélogramme 
+Diagnostic 
+ 
+Cytologie : diagnostic de LA = envahissement médullaire par ≥ 20% de blastes 
+dans la moelle :  
+- s’il y’a plus de 20% dans le sang on peut dire que c’est une LA 
+mais si y’en a moins on ne peut pas dire tant que je n’ai pas fait le 
+myélogramme ! 
+- description cytologique des blastes (granulations, corps d’Auer…) 
+ 
+ 
+ 
+ 
+Immunophénotypage (cytométrie de flux) :  
+- analyse de l’expression par les blastes d’antigènes membraneuses ou 
+intracytoplasmiques (clusters de différenciation CD) 
+- détermination de la lignée (myéloïde ou lymphoïdes, B ou T) et du 
+stade de différenciation en fonction l’expression de certains antigènes 
+membranaires et selon les combinaisons d’antigènes/de marqueurs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+15 
+Cytogénétique : réalisation du caryotype (24-48h pour obtenir caryotype) 
+- on prend les blastes et on les met en culture à 37° en les bloquant à 
+un stade donné de la mitose puis on va récupérer les chromosomes et 
+les classer 
+- altérations chromosomiques (anomalies de nombres ou 
+réarrangements) 
+ 
+ 
+ 
+Biologie moléculaire : 
+- on travaille sur les acides nucléiques : extraction de l’ADN/ARN puis 
+techniques de séquençage 
+- altérations génétiques (mutations somatiques, transcrits de fusion…) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+16 
+V. Leucémies aiguës  
+F. LA : diagnostic différentiel  
+Diagnostic 
+• 
+Autres causes de cytopénies (mono-, bi- ou pancytopénie) 
+• 
+Autres cellules anormales (non blas]ques) sur le fro~s sanguin (ex : 
+lymphocytes hyperbasophiles du syndrome mononucléosique) 
+ 
+ 
+• 
+Syndrome myélodysplasique : une NFS anormale avec des cytopénies +/- 
+des blastes circulants (<20%) est compa]ble avec le diagnos]c de LA ou de 
+SMD (mais aspects diﬀérents au myélogramme : <20% de blastes médullaires 
+dans les SMD) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+17 
+VI. Syndromes myélodysplasiques (SMD) 
+Définitions  
+  
+ 
+ 
+• 
+Ce sont des maladies clonales acquises de la cellule souche 
+hématopoïé]que 
+Anomalies complexes d’une ou plusieurs lignées myéloïdes : 
+- prolifération anormale de la CSH 
+- anomalie de maturation SANS blocage : excès d’apoptose intramédullaire (= 
+précurseurs très anormaux, essaient de proliférer mais ils n’y arrivent pas et 
+vont mourir) avant d’atteindre le stade de cellules matures (hématopoïèse 
+inefficace) 
+⇒ contraste entre une moelle riche et un sang pauvre (ça prolifère bcp mais ça 
+meurt après...) 
+Anomalie de production médullaire des cellules sanguines : 
+- anomalie quantitative : cytopénies périphériques (insuffisance médullaire) 
+- anomalie qualitative : dysmyélopoïèse (anomalies morphologiques et 
+fonctionnelles des cellules sanguines et médullaires) 
+- excès de myéloblastes variable selon les formes car ça prolifère beaucoup 
+mais toujours inférieur à 20% 
+Épidémiologie 
+et étiologie 
+des SMD   
+• 
+Leur incidence est croissante au delà de 65 ans, très rare que l’on en 
+diagnos]que avant 65 ans 
+SMD idiopathiques 80 à 90% (pas de facteurs favorisant) : 
+- le tabagisme est un facteur de risque 
+- sur-représentation masculine 
+- rôle probable de facteurs génétiques et de l'environnement 
+ 
+SMD secondaires ou induits à 15% (essentiellement liés à des traitements 
+préalables, anticancéreux) :  
+- chimiothérapies +++ 
+- irradiations thérapeutiques (radiothérapie) ou accidentelles 
+- exposition professionnelle 
+ 
+***Peut être utilisé ici : une patiente de 80 ans, ayant eu pendant 2 ans un 
+cancer du sein traité par chimiothérapie, elle se présente aujourd’hui comme 
+très fatiguéeèon trouve à l’hémogramme une anémie. On peut supposer une 
+SMD ou une LAM secondaire induite par le traitement 
+
+---PAGE---
+ 
+18 
+SMD : 
+Circonstances 
+de 
+découvertes  
+ Découverte souvent fortuite sur une NFS systématique : 
+ 
+- découverte d’une ou plusieurs cytopénies 
+- anémie non microcytaire inexpliquée persistante +++ (80%des patients) mais 
+possible que ça soit macrocytaire + toujours arégénérative 
+- thrombopénie et neutropénie (rarement isolées) 
+- +/- découverte de signes de dysmyélopoïèse sur le frottis sanguin 
+-ou devant des signes cliniques d’insuffisance médullaire (syndrome anémique, 
+infectieux ou hémorragique) 
+ 
+ABSENCE DE SYNDROME TUMORAL = maladie de la moelle osseuse (pas 
+d’infiltration de ganglions ni de la rate ⇒ pas d’adénopathies ni de 
+splénomégalie) 
+ 
+Diagnostic des 
+SMD : 
+myélogramme  
+• 
+Le myélogramme est indispensable pour aﬃrmer le diagnos]c 
+Il devra comprendre : 
+- des frottis (microscope) pour analyse de la morphologie des cellules 
+- des prélèvements pour cytogénétique/biologie moléculaire +++ (pronostic) 
+ 
+Le myélogramme permet d’éliminer les diagnostics différentiels : 
+- autre cause de cytopénie à moelle riche = carence vit B9, B12 
+- leucémie aiguë si > 20% de blastes 
+àIl va permettre de classer le SMD (classification OMS) et de préciser son 
+pronostic 
+SDM évolution  
+ Le Syndromes myélodysplasiques (SMD) = état pré-leucémique 
+– 
+Evolution du SMD vers une leucémie aiguë myéloïde secondaire 
+(apparition d’une nouvelle anomalie génétique qui va entraîner 
+un blocage des maturation) = transformation aiguë (>20% 
+blastes) 
+– 
+Risque très variable suivant le type de SMD (pronostic) 
+ 
+C’est pour cela que l’on fait plein d’analyses au moment du diagnostic, car en 
+fonction de la biomol et de la cytogénétique on pourra évaluer le risque de 
+transformation. 
+
+---PAGE---
+ 
+19 
+ 
+ 
+Sur ce schéma nous pouvons voir que nous avons des cellules normales qui vont 
+donner naissance à des cellules du sang normales, on a aussi des aberrations 
+génétiques qui vont donner naissance à une CSH malade porteuse de syndrome 
+myélodysplasique.  Parfois, on peut avoir une altération génétique qui va mener 
+à un blocage de différenciation => transformation en leucémie aigue secondaire 
+ 
+**Question : c’est quoi la différence entre la différentiation et la maturation ? 
+Prof : c’est la même chose, ce sont des synonymes mais il faut différentier le 
+blocage de maturation des LA et et les anomalies de différentiation/maturation 
+qu’on a dans le SMD qui aboutissent à l’apoptose intramédullaire. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+20 
+VII. Syndrome myéloprolifératif 
+Définition 
+et 
+généralités  
+• Maladies clonales acquises de la cellule souche hématopoïétique 
+ 
+• Prolifération anormale (uniquement) des lignées myéloïdes sans blocage de 
+maturation 
+Þ Accumulation de cellules matures dans la moelle et le sang 
+ 
+o Moelle riche : hyperplasie d’une ou plusieurs lignées myéloïdes 
+o Excès de cellules matures dans le sang de morphologie normale (trop de 
+PNN = neutrophilie, trop de polynucléaire basophile = basophilie, trop de 
+polynucléaire éosinophile = éosinophilie, trop de plaquette = 
+thrombocytose, trop de GR = polyglobulie) 
+ 
+ 
+ 
+Différents SMP en fonction de la lignée touchée préférentiellement : 
+ 
+o Leucémie myéloïde chronique (LMC) => lignée granuleuse, les 3 : trop de 
+neutrophiles, éosinophiles et basophiles. 
+ 
+o SMP non LMC (ou BCR-ABL néga]f) : 
+• 
+Polyglobulie primi]ve (PV) => lignée érythroïde 
+• 
+Thrombocytémie essen]elle (TE) => lignée mégacaryocytaire 
+• 
+Myéloﬁbrose primi]ve (MF) => envahissement de la moelle par un ]ssu 
+ﬁbreux empêchant l’hématopoïèse (on n’en parle pas trop) 
+ 
+Réponse à une question : On ne peut pas avoir de PV et de PO en même temps 
+ 
+
+---PAGE---
+ 
+21 
+ 
+Points 
+communs  
+• 
+AccumulaFon des cellules matures dans la moelle, le sang et la rate : 
+o Moelle riche : hyperplasie d’une ou plusieurs lignées myéloïdes 
+o Anomalies de la NFS : neutrophilie, basophilie, éosinophilie, 
+thrombocytose, polyglobulie (cellules de morphologies normales) 
+o Syndrome tumoral : splénomégalie 
+ 
+ 
+• 
+DiagnosFc biologique à faire : 
+– 
+Myélogramme +/- BOM 
+– 
+Cytogéné]que 
+– 
+Biologie moléculaire : transcrits de fusion (BCR-ABL), muta]ons 
+(JAK2) 
+ 
+• 
+Risque variable de transforma]on en leucémie aiguë secondaire. Toutes 
+les hémopathies chroniques (SMD ou SMC) peuvent de façon variable 
+évoluer vers la leucémie aiguë secondaire.  
+ 
+• 
+Diﬀérence myélogramme et BOM :  
+=> Myélogramme on aspire, on perd l’architecture de la moelle mais il y a des 
+cellules mélangées et on fait un frottis pour le laboratoire d’hémato 
+=> Biopsie ostéomédullaire (BOM) on prend une partie de l’os, on a donc 
+l’architecture et on envoie ça à l’anapath 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+22 
+VIII. Leucémie myéloïde chronique (LMC) 
+Généralités 
+• 
+Épidémiologie : 
+• Maladie rare, mais prévalence en augmentation 
+• Âge médian au diagnostic est de 60 ans (rare forme pédiatrique) 
+• Légèrement + d’hommes touchés 
+• 
+Circonstances de découverte : 
+• De façon fortuite lors d’un bilan systématique : anomalie de la NFS 
+• Splénomégalie, altération de l’état général 
+• Complications : thromboses (plus rares), crise de goutte (hyperuricémie) 
+• 
+Signes cliniques : 
+• Splénomégalie isolée (la rate est un organe hématopoïétique) => assez 
+importante et quasiment constante 
+• Signes généraux possibles : fièvre, sueurs, amaigrissement 
+Physiopathologie 
+ 
+• 
+Première pathologie avec une anomalie géné]que à l’origine de la 
+pathologie et première pathologie pour laquelle on a pu refaire 
+toute la leucémogenèse 
+• 
+Il s’agit d’une transloca]on entre les chromosomes 9 et 22 t(9;22) 
+qui entraîne : 
+ð Juxtaposition du gène BCR (situé sur le 22) et ABL 
+(situé sur le 9) 
+ð Chromosome 22 raccourci appelé «chromosome 
+Philadelphie » 
+ 
+• 
+Synthèse d’une protéine de fusion BCR-ABL avec une ac]vité 
+tyrosine kinase cons]tu]ve à la base de la dérégula]on de 
+l’hématopoïèse 
+ð ABL est une petite tyrosine kinase qui est 
+indispensable à la construction du signal à partir des 
+récepteurs aux facteurs de croissance pour induire 
+un signal de proliférations à la cellule 
+ð Dans ce cas, BCR-ABL a toujours l’activité tyrosine 
+kinase de ABL mais il a perdu sa capacité de 
+régulation négative, ainsi BCR-ABL est constamment 
+active 
+
+---PAGE---
+ 
+23 
+ 
+ 
+• 
+Il va y avoir un échange de matériel : un bout de 9 qui va se coller sur 
+le 22 et inversement. 
+• 
+Le chromosome Philadelphie va porter ce fameux gène de fusion 
+C’est donc la juxtaposi]on de deux gènes, BCR et ABL, qui vont 
+devenir un seul, et même gêne sous le contrôle d’un seul et même 
+promoteur et qui vont donc être transcrit en une fois 
+• 
+Pour faire le diagnos]c, on fait une RT PCR qui va nous permedre de 
+chercher le transcrit de fusion (= ARNm). On fait ensuite migrer le 
+produit de PCR sur gel. Si on a une bande c’est que c’est posi]f. 
+• 
+Ce transcrit de fusion est traduit en une protéine de fusion BCR-ABL 
+avec ac]vité tyrosine kinase responsable de la proliféra]on 
+aberrante. 
+(C’est la première pathologie où on a pu trouver un traitement ciblé qui va 
+venir inhiber BCR-ABL en s’y fixant, mais la prof ne veut pas trop rentrer 
+dans les détails) 
+  
+Les anomalies de 
+l’hémogramme 
+• 
+Hyperleucocytose franche (souvent > 50 Giga/L) avec : 
+-Polynucléose neutrophile prédominante 
+-Myélémie = passage dans le sang de précurseurs myéloïdes, donc 
+granuleux (normalement on a que les PNN qui arrivent à passer de la 
+moelle au sang mais quand la moelle est saturée, on a aussi des 
+précurseurs + cellules immatures qui vont passer dans le sang avant 
+même d’avoir passé le stade de PNN. Exemple de précurseurs qu’on 
+ne devrait pas avoir : métamyélocytes > myélocytes >promyélocytes 
+-Basophilie évocatrice = pe]t excès de polynucléaires basophiles (à 
+ne pas confondre avec la basophilie du cytoplasme = couleur bleue). 
+L’une des rares pathologie à entraîner une augmenta]on signiﬁca]ve 
+des basophiles.  
+-Éosinophilie = excès de polynucléaires éosinophiles 
+ 
+• 
+Thrombocytose modérée fréquente (ou plaquedes normales) 
+
+---PAGE---
+ 
+24 
+• 
+Anémie possible, normocytaire normochrome (ou Hb normale, pas 
+de polyglobulie) 
+Diagnostic positif  
+– La NFS : neutrophilie, myélémie, basophilie, éosinophilie 
+– Le myélogramme avec : 
+• 
+Une moelle très riche 
+• 
+Une hyperplasie de la lignée granuleuse 
+• 
+Sans excès de blastes 
+– La mise en évidence de l’altération génétique : 
+• 
+En cytogénétique : mise évidence de la translocation t(9;22) 
+• 
+En biologie moléculaire : mise en évidence d’un transcrit 
+BCR-ABL 
+  
+**Question : est-ce qu’il y a ici la mutation de JAk2 ? 
+Prof : la mutation de JAK 2 est propre aux 3 syndromes myéloprolifératifs non 
+LMC. Donc dans les SMP, il y a 2 grands groupes à connaître : 
+- 
+La LMC avec BCR-ABL : BCR-ABL ne se voit que dans la LMC (les 2 
+sont liés, il n’y en a pas un sans l’autre) 
+- 
+Et les non BCR-ABL (on les voit juste après) : c’est JAK2 qui est au 
+premier plan 
+  
+Diagnostic 
+différentiel  
+• 
+Autres causes d’hyperleucocytose modérée à PNN augmentées et un 
+pe]t peu de myélémie : 
+- Causes réacFonnelles (inﬂammatoires, infec]euses) 
+- Causes iatrogènes (facteur de croissance) 
+- Régénéra]on médullaire post-aplasie 
+ 
+• 
+Autres causes de thrombocytose : 
+- À ne pas confondre avec la thrombocytémie essen]elle dans 
+laquelle on a que la thrombocytose, mais on n’a pas la polynucléose 
+neutrophile, basophile et éosinophile. 
+- Causes réac]onnelles (inﬂamma]on, carence Fer) 
+ 
+• 
+Hyperleucocytose avec myélémie ET érythroblastémie : 
+- Myéloﬁbrose primi]ve ou secondaire 
+*érythroblastémie = précurseurs érythroïdes qui passent dans le sang 
+
+---PAGE---
+ 
+25 
+Evolution LMC  
+• 
+Avant les années 2000, on a découvert l’inhibiteur de BCR ABL 
+(ima]nib). 
+• 
+Avant quand on faisait le diagnos]c d’une personne de LMC, c’était 
+assez eﬀroyable comme diagnos]c. On savait qu’après une phase 
+chronique qui allait durer entre trois et cinq ans, le pa]ent allait 
+passer en phase de Leucémie aiguë myéloïde. Généralement c’était 
+aussi une leucémie aiguë avec un très mauvais pronos]c qui 
+répondait mal à la chimiothérapie et donc assez horrible. 
+ 
+• 
+Évolu]on en l’absence de traitement :  
+-Phase accélérée  
+-Transforma]on en leucémie aiguë secondaire  
+ 
+• 
+Découverte d’un traitement ciblé :  
+-La LMC est la première hémopathie dans laquelle une thérapie 
+ciblée a été découverte. Il s’agit d’un inhibiteur de l’ac]vité tyrosine 
+kinase de BCR-ABL, l’ima]nib 
+ 
+ 
+SMP BCL-ABL 
+Négatifs 
+On a 3 principaux SMP BCL-ABL Négatifs 
+o Polyglobulie primitive (PV) 
+ð Hyperplasie de la lignée érythroblastique : Hb > 165 
+g/L (H) | 160 g/L (F) ou Ht > 49% (H) | 48% (F) 
+o Thrombocytémie essentielle (TE) 
+ð Thrombocytose durable d’importance variable 
+o Myélofibrose primitive (MF) 
+ 
+•Mutations acquises : 
+– Mutation JAK2 V617F : commune aux 3 phénotypes 
+– Autres mutations : JAK2 exon 12 (PV), CALR et MPL (TE et MF) 
+ 
+La mutation JAK2 V617F :  
+• 
+Le point commun de ces trois phénotypes qui sont très diﬀérents, 
+est une muta]on commune que nous devons connaître : muta]on 
+
+---PAGE---
+ 
+26 
+qui touche une tyrosine kinase => JAK2 V617F (il s’agit d’un hot spot 
+muta]onnel) 
+ 
+• JAK2 : tyrosine kinase activée en aval du récepteur à l’EPO 
+• JAK2 V617F : activation constitutive en l’absence de l’EPO 
+ð Activation de STAT5 = facteur de transcription 
+ð Prolifération et survie 
+• Ruxolotinib : inhibiteur de tyrosine kinase 
+ 
+ 
+ 
+ 
+ 
+Explication fonctionnement de JAK2 : 
+ 
+JAK2 est une tyrosine kinase qui est activée en aval du récepteur de l’EPO. 
+On voit ici la membrane cellulaire et le récepteur de l’EPO de l’érythroblaste. 
+Quand l’EPO vient se fixer cela entraine le changement de la conformation 
+du récepteur, entraînant l’activation de JAK2 en intracytoplasmique 
+(toujours accrochée au récepteur). JAK2 s’autophosphoryle et phosphoryle 
+le récepteur et ainsi entraine le recrutement de différentes voies de 
+signalisations : STAT5, MAP kinase et PI3 kinase AKT 
+Celles-ci aboutissent au noyau avec un signal de prolifération complètement 
+anarchique s’il y a la mutation. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IX. Polyglobulie de Vasquez 
+Généralités 
+• 
+Aussi appelé polyglobulie primitive ou polycythemia Vera 
+ 
+Elle va se traduire au niveau de la NFS par une polyglobulie au cours de laquelle 
+on aura une augmentation de l’hémoglobine et de l’hématocrite. 
+La prof nous conseille de ne pas regarder forcément le taux de globules rouges, 
+car ils peuvent être augmenté de façon isolée et ça veut pas du tout dire la 
+même chose. 
+Une vraie polyglobulie, celle qui doit nous intéresser, entraîne toujours 
+l’augmentation de l’hémoglobine et de l’hématocrite. 
+Le reste peut également être augmenté, mais à moindre degré. 
+C’est plus fréquent chez l’homme, généralement de + de 50 ans 
+ 
+  
+ 
+Le diagnostic 
+type d’une 
+maladie de 
+Vasquez 
+• 
+On note des signes cliniques assez évocateurs qui peuvent être 
+spécifiques de la maladie. 
+• 
+On a une absence d’arguments pour une cause de polyglobulie 
+secondaire : quand on a une polyglobulie secondaire, dans la grande 
+majorité des cas, ça va simplement être une cause secondaire. Il faut 
+déjà éliminer les causes de polyglobulie secondaire pour pouvoir aller 
+vers le diagnostic de maladie de Vaquez. 
+• 
+Sur la NFS on va avoir une polyglobulie qui, d’après les nouveaux seuils 
+de l’OMS (revus à la baisse) : 
+-Hb > 165 g/L (H) | 160 g/L (F) 
+-ou Ht > 49% (H) | 48% (F) 
+-Hyperleucocytose avec polynucléose modérée (sans myélémie)  
+-Thrombocytose le plus souvent (augmentation des plaquettes) 
+ 
+• 
+Taux d’érythropoïé]ne sérique très bas (complètement eﬀondré), 
+cela permet de diﬀérencier la polyglobulie primaire et secondaire. La 
+polyglobulie secondaire correspond à toutes les causes de 
+l’augmenta]on de l’EPO.  
+• 
+Présence en biologie moléculaire d’une muta]on de JAK2 (V617F) 
+présente dans > 95% des cas   
+
+---PAGE---
+ 
+28 
+Polyglobulie 
+primitive ou 
+secondaire ? 
+Signes 
+cliniques et 
+biologiques  
+• Signes communs à toutes les polyglobulies (primitives ou secondaires) 
+– 
+Érythrose surtout faciale et palmaire (tout rouge surtout au niveau du 
+visage et des mains) 
+– 
+Signes en rapport avec l’hyperviscosité (trop de GR) = signes vasculaires 
+et neurosensoriels 
+• 
+Céphalées 
+• 
+Mouches volantes 
+• 
+Vertiges 
+• 
+Troubles visuels 
+– 
+Survenue d’une complication, il y a un risque de Thrombose car le sang 
+est trop épais 
+ 
+• Signes spécifiques de la polyglobulie de Vaquez +++ 
+– 
+Splénomégalie (car syndrome myéloprolifératif) 
+– 
+Prurit aquagénique = prurit à l’eau (patient qui se gratte sous la 
+douche, à l’eau chaude) 
+– 
+Erythromégalgies = douleurs des extrémités 
+– 
+NFS : thrombocytose et hyperleucocytose 
+ 
+Polyglobulie 
+de Vasquez : 
+diagnostic 
+différentiel  
+ 
+ 
+• Fausse polyglobulie = pas d’augmentation du volume globulaire (VG) 
+– 
+Hémoconcentration (diurétiques, réa) 
+– 
+Homme pléthorique 
+ 
+Une fausse polyglobulie est une situation d’hémoconcentration. 
+On est tout simplement déshydraté, on a une hémoconcentration et donc une 
+diminution du volume plasmatique mais le volume globulaire lui reste 
+identique, et ça se traduit au niveau de la numération par une augmentation du 
+volume VR et de l’hématocrite. 
+Pour la fausse polyglobulie ce seront surtout des patients en réanimation ou 
+sous diurétique (pour l'hémoconcentration). 
+ 
+Les vrais polyglobulies (trop de GR) sont pour la majorité des polyglobulies 
+secondaires qui sont dues à une augmentation de l’EPO. 
+ 
+• Polyglobulie secondaire ++ (VG augmenté, JAK2 neg, EPO élevée) (JAK2 n’est 
+jamais mutée) 
+ð Causes hypoxiques = Sécré]on EPO appropriée (les plus fréquentes) 
+ð Insuﬃsance respiratoire chronique +++ 
+
+---PAGE---
+ 
+29 
+ð Syndrome d’apnée du sommeil 
+ð Tabac+++ 
+ð Al]tude 
+ð Shunts AV, Hb hyper-aﬃne 
+ð Causes tumorales (rares ++) = Sécré]on EPO inappropriée 
+ð Certains cancers (rein essen]ellement, foie sur cirrhose, utérus et 
+ovaire) 
+ð Fibrome utérin, kyste ovaire 
+ð Hémangioblastome du cervelet 
+ð Injec]ons EPO/anabolisant : dopage  
+ 
+• 
+Polyglobulie primiFve avec JAK2 mutée et l’EPO eﬀondrée 
+ 
+  
+ 
+Schéma 
+Récapitulatif  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+30 
+ 
+ 
+ 
+X. Thrombocytémie essentielle 
+Diagnostic et 
+examens de la 
+thrombocytémie 
+• 
+Diagnos]c pouvant être fait à tout âge, plus fréquent chez la femme 
+ 
+• 
+ManifestaFons cliniques :  
+-Érythromégalie +++  
+- +/- splénomégalie (modérée) 
+-complica]ons thrombo]ques ou hémorragiques  
+ 
+• 
+NFS :  
+-Thrombocytose durable d’importance variable, isolée > 450G/L, 
+pouvant dépasser facilement 1000G/L 
+-Pas de polyglobulie (la seule SMP où on verra la 
+polyglobulie=Vasquez) 
+-Pas d’anémie 
+-Pas d’hyperleucocytose ni polynucléose à seules les plaquedes 
+augmentent 
+-Pas de myélémie  
+ 
+ 
+• 
+Biologie moléculaire  
+-50% JAK2 mutée  
+-25% muta]on de la calré]culine 
+TE : diagnostic 
+différentiel  
+• 
+Thrombocytose secondaire+++ 
+-Toujours y penser devant une thrombocytose 
+-Dépasse rarement 800 G/L 
+-Le plus souvent +/- anémie, microcytose et hypochromie 
+-2 causes essentielles à connaître : 
+àCarence martiale 
+àSyndrome inflammatoire 
+ 
+• 
+Thrombocytose de la splénectomie 
+-Par insuffisance de destruction 
+ 
+• 
+Autres syndromes myéloprolifératifs 
+-Notamment maladie de Vaquez 
+ 
+• 
+Certains syndromes myélodysplasiques s’accompagnent de 
+thrombocytose 
+ 
+
+---PAGE---
+ 
+31 
+SMP : 
+complications 
+communes  
+ Les complications sont communes avec une fréquence variable selon le 
+SMP 
+ 
+• 
+Risque vasculaire lié à l’hyperviscosité  
+-Thromboses veineuses et artérielles ++ 
+-Hémorragies (TE et PV) 
+ 
+• 
+Risque hématologique : complications à long terme  
+-Transformation en leucémie aiguë secondaire (tous les SMP) 
+-Évolution vers la myélofibrose secondaire (PV et TE) 
+ 
+ 
+ 
+è Le risque hémorragique, c’est surtout pendant la thrombocytémie et la 
+polyglobulie de Vasquez. 
+ 
+BILAN  
+ 
+ 
+ 
+***La prof conseille d’assister au cours de révision afin d’avoir une idée du 
+type de questions pouvant tomber au partiel.  
+ 
+
+---PAGE---

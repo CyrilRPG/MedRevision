@@ -1,0 +1,719 @@
+UE5 – VOIES URINAIRES ET APPAREIL GÉNITAL
+MASCULIN
+Physiologie
+Cours n°4
+9 mars 2026 à 10h15
+Physiologie : Rôle du rein dans le bilan de
+l’eau
+Objectifs :
+• Comprendre les mécanismes de concentration/dilution de l’urine :
+constitution et maintien du GCP et effet de l’ADH.
+• Connaître les mécanismes mis en jeu dans la régulation du bilan de l’eau
+(mise en jeu de l’ADH et de la soif).
+• Connaître les différents types de diurèses physiologiques et pathologiques.
+• Connaître le mode d’action des principaux médicaments diurétiques
+PLAN DU COURS
+I.
+Généralités – Règles de raisonnement
+A. Rappels et généralités
+B. Eau et osmolalité
+II.
+Bilan de l’eau : entrées et sorties
+A. Entrées d’eau
+B. Sorties d’eau
+C. Rein et excrétion d’eau
+D. Perméabilité à l’eau des segments du néphron
+III.
+Concentration/dilution de l’urine
+A. Gradient osmotique cortico-papillaire
+a. Réabsorption rénale de l’eau : rôle de l’ADH
+
+---PAGE---
+b. Synthèse et sécrétion
+c. Mode d’action sur l’organe cible
+d. ADH et osmolalité de l’urine
+B. Hormone anti-diurétique (ADH)
+C. Facteurs nécessaires
+IV.
+Régulation du bilan de l’eau
+A. Stimuli à l’origine de la sécrétion d’ADH
+B. Mise en jeu de la soif
+V.
+Les modifications de la diurèse
+A. Modifications physiologiques
+B. Modifications pathologiques
+I. Généralité – règle de raisonnement : (important)
+A. Rappels et généralités
+L’eau
+L’eau représente 60% du compartiment liquidien. C’est un composé majeur
+qui est reparti :
+- pour 1/3 en extracellulaire (60%) : liquide interstitiel (15%) et le plasma 3
+litres
+(permet les mesures biologiques d’ionogramme, c’est un reflet du milieu
+extracellulaire)
+- Liquide intracellulaire représente le plus de volume : 2/3 de l’eau de notre
+corps.
+L’eau s’échange entre ces deux compartiments de manière passif.
+
+---PAGE---
+B. Eau et osmolalité
+Osmolalité = nombres
+d’osmoles / volume de
+solvant
+Le contenu en eau pour quelqu’un qui va bien, d’un jour à
+l’autre est maintenu à peu près constant. L’organisme n’est
+pas capable de mesurer directement le contenu en eau. Mais
+ce qui est régulé c’est l’osmolalité.
+L’osmolalité c’est le rapport entre le nombre de particules
+osmotiquement actives sur un volume de solvant (l’eau).
+L’organisme est capable de mesurer l’osmolalité grâce à des
+osmorécepteurs.
+À l’état stable, si tout va bien, l’osmolalité des compartiments
+extracellulaire et intracellulaire sont égales. Autour de 300
+mosm/kg d’H20.
+Pour un contenu en osmoles de notre corps qui est à peu près
+constant d’un jour à l’autre (sans modification de notre
+alimentation), l’organisme va ajuster les entrées d’eau (soif) et
+les sorties d’eau par le rein pour maintenir un contenu en eau
+à peu près constant.
+Si jamais l’osmolalité du milieu extracellulaire varie parce que
+par exemple, on a une diarrhée, une hémorragie, à ce
+moment-là, l’organisme adapte son contenu en eau de façon
+à rétablir l’osmolalité proche de 300 mosm/kg d’H20.
+Variable régulée = homéostasie : s’écarte très peu de sa valeur
+consigne
+À l’équilibre toutes les osmolalités sont équivalentes, de
+l’ordre de 300 mosm/kg d’H20.
+En ce qui concerne les échanges entre les capillaires et le
+
+---PAGE---
+milieu interstiel :
+- À travers le capillaire l’eau sort extrêmement bien, il y a une
+très grande perméabilité ainsi que des petites molécules
+( Na+, Cl-..) la seule chose qui va pas sortir c’est les protéines
+type albumine. Les échanges sont permanents.
+Qu’en est-il des échanges entre le liquide interstitiel et le
+liquide intracellulaire ?
+En général, l’eau passe très bien parce qu’il existe des
+aquaporines dans toutes les cellules qui laissent entrée et
+sortir l’eau si jamais il existe une différence d’osmolalité : le
+mouvement d’eau se fera toujours de l’osmolalité la plus élevé
+vers l’osmolalité la plus faible = échange passif
+Il existe une particularité pour le secteur intracellulaire (qui
+n’est pas vrai pour le compartiment extracellulaire) : on
+considère que le nombre d’osmoles intracellulaires dans le
+temps reste constant mais ça ne signifie pas qu’il y a
+pas d’échanges entre le secteur intracellulaire et
+extracellulaire.
+Dans le compartiment intracellulaire, seul le volume d’eau va
+varier.
+Dans compartiment extracellulaire, on ne peut rien prévoir. Le
+nombre d’osmoles, de même que le volume d’eau, sont
+imprévisibles. Tout peut varier, et toutes les perturbations
+arrive par ce secteur.
+En d’autres termes, si osmolalité intracellulaire varie c’est que
+le volume d’eau a varié. (pas valable pour extra)
+Ce qu’on peut mesurer ou calculer ce n’est jamais
+l’intracellulaire, c’est l’osmolalité extracellulaire. L’équilibre
+est atteint très rapidement par transfert d’eau.
+Une fois qu’on a notre osmolalité extracellulaire, on connaît
+obligatoirement notre osmolalité intracellulaire. Elle est le
+reflet de l’hydratation intracellulaire car, dans le volume
+intracellulaire, le nombre d’osmoles est constant : si
+l’osmolalité varie, c’est donc le volume qui varie. (Important à
+comprendre)
+Exemple : on a une osmolalité de 280 au lieu de 300 ça voudra
+dire que notre volume cellulaire sera augmenté. Si au contraire
+
+---PAGE---
+on a 300 au lieu de 320, le volume d’eau diminue.
+(RC formule : Osmolalité = nombres d’osmoles / volume de
+solvant, le Numérateur reste fixe)
+⇨L’osmolalité extracellulaire est le reflet de l’état
+d’hydratation intracellulaire +++
+Osmolarité plasmatique
+On peut mesurer l’osmolalité plasmique avec un
+osmomètre en laboratoire. Ses valeurs normales
+sont de 295 ± 5 mosm/kg d’H2O ( par
+simplification on dit 300)
+On peut la calculer à partir d’une prise de sang en
+regardant la concentration plasmatique des
+substances les plus importantes pour déterminer
+l’osmolalité :
+• Ion sodium : qui représente pratiquement tous les
+cations à lui tout seul ≈2 x [Na+] + [glucose] +
+[urée]≈285-290 mosm/kg H20 (glucose et urée ≈
+5 mmol/L)
+En réalité, ce qui nous intéresse c’est
+l’osmolalité efficace ou tonicité, on la calcule :
+2 x [Na+]≈280 mosm/kg d’H2O (2x 140 =280)
+Chez un sujet normal, la glycémie est à 5 mmol/L et
+l’urémie est à 5 mmol/L. Le glucose et l’urée traversent
+très bien les membranes biologiques. Ce n’est pas le cas
+quand on a une pathologie type diabète.
+La natrémie c’est-à-dire la concentration plasmatique
+du sodium c’est l’élément important à surveiller. La
+natrémie est le reflet du volume intracellulaire , elle
+n’a jamais renseigné sur le volume extracellulaire
+(point MAJEUR)
+Exemple :
+• Si on a une natrémie à 160mmol/L au lieu de 140mmol/l,
+on a une hyper osmolalité plasmatique, on en déduit qu’il y
+a une déshydration intracellulaire. • Si on a natrémie à
+120mmol/L au lieu de 140 mmol/L, on a une hyper
+hydratation intracellulaire.
+
+---PAGE---
+II. BILAN D’EAU : ENTRÉES ET SORTIES
+A. Entrées d’eau
+Différents apports
+- Apport endogène : dû au métabolisme et à l’eau d’oxydation
+produite lors du métabolisme des protides, glucides, lipides.
+Environ 500 mL par jour que nos cellules produisent de manière
+stable.
+- Apport exogène : eau/ boisson et l’eau contenu dans
+l’alimentation. C’est variable d’un sujet à l’autre : entre 1-3L par
+individus.
+Les habitus jouent aussi un rôle important.
+Cela dépend aussi de l’accès à l’eau, il y a 2 population
+vulnérable à l’accès à l’eau : • nouveau né
+• Personne âgés : ressentent pas bien la notion de soif
+⇨Risque déshydrations +++
+Régulé par la sensation de soif.
+B. Sorties d’eau
+Différentes sorties
+• Sortie extra-rénales (non régulées) : ce sont les sorties
+cutanées par la sueur, les sorties respiratoires, les fèces (++ si
+diarrhée) non controlé de l’ordre de 500- 800mL /j
+• Sortie rénale (régulé) : on filtre au niveau des glomérules
+environ 180 L d’eau par jour, on urine 100x moins donc à peu
+près 1,8L /J.
+Ces sorties rénales sont hautement régulées par le rein, qui
+régule le volume d’eau excrété.
+C. Rein et excrétion d’eau
+
+---PAGE---
+Comment le rein détermine
+l’excrétion d’eau ?
+Le rein adapte le volume d’urine aux entrées d’eau de
+façon à maintenir l’osmolalité plasmatique constante.
+Le rein peut éliminer le même nombre d’osmoles dans un
+volume d’urine très variable 60 ≤Uosm ≤1200 mosm/kg
+d’H2O ni moins ni plus c’est fixe chez l’homme.
+Tous les jours même si l’on mange pas, il existe excrétion
+quotidienne d’urée de sulfates et phosphates : 600
+mosm/j. Le débit urinaire minium : 0,5L (diapo)
+Le débit urinaire est dissocié de la sortie des osmoles .
+Ce graphique montre le débit urinaire (bleu) en fonction
+des apports hydriques.
+Si on augmente les apports hydriques, on augmentera
+aussi le débit urinaire. Mais le nombre d’osmole est
+constant.
+D. Perméabilité à l’eau des segments du néphron
+
+---PAGE---
+Schéma néphron
+- tube contourné proximal : extrêmement perméable à l’eau en
+paracellulaire (PC). Il y a beaucoup d’aquaporine 1 (AQP1), l’eau
+passe comme elle veut et il y a beaucoup d’eau réabsorbée.
+- Branche de l’anse de Henlé : commence à se compliquer :
+• Branche descendante de l’anse de Henlé : Elle est perméable à
+l’eau, il y a des aquaporine 1, on peut avoir une réabsorption
+d’eau mais elle est imperméable aux solutés ( pas de réabsorbion
+de Cl-par exemple)
+• Branche ascendante de l’anse de Henlé : imperméable à l’eau en
+toute circonstance parce que les cellules n’ont pas d’aquaporine et
+les jonctions intercellulaires sont très serrées. Mais elle va être
+l’objet de réabsorption de solutés importante ( NaCl)
+• Tube contourné distal : en toutes circonstances, il est
+imperméable à l’eau mais reste perméable aux solutés.
+• Canal collecteur : +/- perméable à l’eau. Spontanément il ne l’est
+pas. Mais en présente d’hormone anti-diurétique, il va devenir
+perméable.
+RT de l’année dernière non dit cette année : PAS TOUJOURS
+perméable à l’eau, ces cellules ont des AQP 3 et 4 sur le côté
+basolatéral et sur le côté apical, elles ont ou pas des AQP 2 ça
+dépend. Elle dépend de la présence de l’hormone anti-diurétique. Si
+l’ADH est présente, les AQP 2 vont être activées en apical (en
+basolatéral, on retrouve les AQP 3 et 4 qui sont non dépendantes
+de l’ADH).
+
+---PAGE---
+Quels sont les flux
+d’eau ?
+Explication de la diapo :
+Réabsorption rénale d’eau :
+⇨180 L /J d’eau filtré par le glomérule
+• Tube contourné proximal :
+Grosse réabsorption d’eau : 60-70%,
+Réabsorption avec le Na+: réabsorption iso-osmotique. (Toujours à 300)
+• Branche descendante de l’anse de Henlé : 15-20% d’eau réabsorbée,
+Pas de soluté réabsorbé.
+• Branche ascendante de l’anse de Henlé : Réabsorption des solutés
+( NaCl ) mais pas d’eau diminution de l’osmolalité.
+• Canal collecteur : 12-20% du volume à réabsorber (dépendant de la
+présence d’ADH), réabsorption finale,
+• Urines : 1% de ce qui a été filtré.
+Maintenant, on regarde l’osmolalité tubulaire, comment elle varie. (ce
+qui est noté en rouge sur la diapo)
+Au début, on a 300 mosm/kg H20. Dans tout le proximal, il y a une
+réabsorption massives d’osmoles, mais mais comme elle s'accompagne
+d'une réabsorption d’eau proportionnelle, l’osmolalité ne varie pas.
+À la fin de l’anse de Henlé, on peut atteindre une concentration dans le
+flux tubulaire aussi élevée que 1200 mOsm/kg.
+Dans la branche ascendante, on réabsorbe pas d’eau, uniquement des
+osmoles ce qui va forcément baisser notre osmolalité tubulaire.
+Au niveau du tube contourné distal, on est à environ 150 mosm/kg
+d’H20 parce que beaucoup de sodium à déjà été réabsorbé.
+À l’entrée du collecteur, on est a peu près 100 mosm/kg d’H20.
+⇨Au final, on peut avoir une osmolalité dans les urines de 60 à 1200
+mosm/kg d’H20.
+
+---PAGE---
+Le rein possède une grande capacité d’adaptation.
+Dans le processus de concentration d’urine, la réabsorption d’eau est
+TOUJOURS passif. L’eau va du secteur ou l’osmolalité est la plus élevée
+vers le secteur ou l’osmolalité est la plus faible.
+III. CONCENTRATION / DILUTION DE L’URINE
+A. Gradient osmotique cortico-papillaire (CP)
+La concentration ou la dilution de l’urine ont lieu dans le canal collecteur grâce aux variations
+de sa perméabilité en présence d’hormone antidiurétique (ADH ou arginine vasopressine
+( AVP)).
+Il est nécessaire que les cellules du tubule laissent passer l’eau. Mais il n’est pas suffisant parce
+que, pour qu’il est réabsorption d’eau, il faut que l’osmolalité interstitielle soit supérieure à
+celle du fluide tubulaire du Tube collecteur (TC) pour permettre la réabsorption passive d’eau
+(osmose)
+⇨Repose sur le gradient interstitiel cortico-papillaire (important)
+Au niveau du cortex on a une osmolalité extracellulaire à 300 mosm/kg H20. Plus on plonge
+dans la médullaire, dans l’interstitielle rénal, plus l’osmolalité interstitielle augmente, pouvant
+atteindre au maximum 1200 mOsm/kg d’H2O.
+Rt de l’année dernière : le schéma ci-dessus représente les différentes osmolalités de
+l’interstitium rénal humain.
+o On peut voir le gradient osmotique entre le cortex et la papille.
+o Au maximum, l’osmolalité dans l’interstitium rénal (au niveau de la pupille) peut atteindre
+
+---PAGE---
+1200 mOsm/kg H2O.
+o Donc si on a de l’ADH, on peut rééquilibrer notre urine définitive avec l’osmolalité
+maximale de l’interstitium qui est de 1200 mOsm/kg H2O au niveau de la fin du canal
+collecteur.
+a) TransporteurNa+/K+/
+2Cl
+On va voir 2 choses concernant le Gradient osmotique
+interstices cortico-papillaire (CP)
+1. Création du gradient osmotique interstitiel cortico
+papillaire:
+• L’effet élémentaire c’est l’activité du co-transport Na,K-
+2Cl de la branche large ascendante de l’anse de Henlé. Il
+est inhibé par le Furosémide. • Perméabilité à l’eau
+différente entre les branches ascendantes
+(imperméable) et descendantes (perméable) de l’anse de
+Henlé
+2. Maintien du gradient cortico-papillaire : rôle des vasa
+recta
+À l’entrée de l’anse de Henle, on a déjà réabsorbé les 2/3 du
+sodium (95%) et les 2/3 de l’eau filtré (80%). À ce stade,
+l’osmolalité dans le fluide tubulaire est à 300 mosm/kg d’H20.
+Petit à petit, le fluide tubulaire se concentre pour atteindre son
+maximum (jusqu'à 1200 mOsm/kg) au fond de l'anse.
+Quand on remonte, il y a une importante réabsorption de
+sodium, la concentration de sodium dans le fluide tubulaire
+diminue fortement.
+
+---PAGE---
+b) Gradient CP et
+multiplicateur par contre-
+courant
+Comment le rein arrive a constitué ce gradient ?
+⇨Système à contre courant multiplicateur cad la branche
+ascendante et la branche descendante sont parallèles mais le
+fluide urine va dans l’autre sens. (Descend/remonte)
+Imaginons qu’au départ, il n’y ait aucun gradient : toutes les
+osmolalités sont à 300 mOsm/Kg d’H20.
+On met en œuvre l’effet élémentaire, qui est la réabsorption de
+NaCl dans la branche ascendante large via le Na+/K+/2Cl. Ce
+transport peut engendrer un gradient de 200 mOsm/Kg d’H20
+entre l’urine en cours de formation dans la lumière tubulaire et
+ce qui va être réabsorbé dans l’interstitium.
+Au niveau de la branche descendante, l’eau va être réabsorbée
+afin de rééquilibrer les osmolalités entre la branche
+descendante et l’interstitium.
+Si on fait avancer la colonne d’urine, on a une urine qui arrive
+à 300 mOsm/Kg d’H20, puis ce fluide va être poussé vers le
+fond (vers la papille) l’urine va se concentré.
+Le transport va à son tour à nouveau générer un gradient de
+200 mOsm/Kg d’H20, les osmolalités entre la branche
+descendante et l’interstitium se rééquilibrent.
+On continue le même processus pendant un certain temps, on
+amplifiera jusqu’à obtenir au maximum chez l’humain, une
+osmolalité à 1200 mOsm/Kg d’H20 au niveau de la papille. Le
+fluide descendant s’équilibre.
+
+---PAGE---
+La longueur de Hense détermine la concentration de l’urée,
+plus l’Hense longue plus on génère au niveau de l’épingle à
+cheveux une osmolalité interstiel .
+Diapo récapitulatif :
+c) Le cycle de l’urée
+Autre molécule qui participe à ce gradient cortico-papillaire :
+- l’urée suit ce qu’on appelle le cycle de l’urée. C’est une petite
+molécule librement filtrée qui descend dans l’anse de Henle,
+puis remonte.
+Les segments en rouge sont imperméable à l’urée, ce qui fait
+que la concentration d’urée est relativement élevé.
+La fin du collecteur est perméable à l’urée, elle va aller dans
+l’interstitium par diffusion puis elle va rejoindre le fluide
+tubulaire de la branche ascendante.
+Une bonne partie de l’urée re circule (une partie est excrétée).
+L’urée a tendance à s’accumuler autour de la papille. Elle
+participe pour moitié (important) à l’hyperosmolalité de
+l’interstitium dans la médullaire interne et la papille
+(l’autre moitié revient principalement au NaCl).
+
+---PAGE---
+L’hormone anti-diurétique (ADH) augmente la perméabilité à
+l’urée de la partie terminale du canal collecteur en activant des
+transporteurs spécifiques de l’urée (réabsorption passive) :
+facilite cette réabsorption d’urée
+d) Vasa recta
+Une fois le gradient osmotique cortico-papillaire constitué
+dans la médullaire rénale, il doit être maintenu pour permettre
+la concentration des urines.
+Ce maintien repose sur un système d’échange à contre-courant
+réalisé par les vasa recta.
+Rappel :
+Les vasa recta sont des capillaires droits qui longent les anses
+de Henlé des néphrons profonds pour pouvoir les irriguer.
+Les néphrons superficiels ne possèdent pas de vasa recta et ne
+participent donc pas à la concentration des urines.
+En pointillés : Tubules/ interstitium
+En rouge : vasa recta
+Fonctionnement des vasa recta
+
+À l’entrée des vasa recta :
+
+le débit sanguin est d’environ 50 L/j
+
+l’osmolalité plasmatique est de 300 mOsm/kg
+
+Lors de la descente dans la médullaire, le capillaire
+pénètre dans un interstitium de plus en plus
+hyperosmolaire ce qui a pour conséquences :
+
+sortie d’eau du capillaire vers l’interstitium
+
+entrée d’osmoles dans le capillaire
+
+Le sang dans les vasa recta devient donc plus
+concentré et de débit très faible
+
+Lors de la remontée vers le cortex, le phénomène
+inverse se produit :
+
+l’osmolalité interstitielle diminue
+
+l’eau entre dans le capillaire
+
+---PAGE---
+
+les osmoles sortent vers
+l’interstitium
+Ainsi, le sang récupère son eau et le gradient
+osmotique médullaire est préservé
+Importance du faible débit sanguin médullaire
+La médullaire reçoit seulement 10 % du débit sanguin rénal,
+contre 90 % pour la corticale.
+Ce faible débit est essentiel car :
+
+il évite le lavage du gradient osmotique médullaire
+
+Il permet le maintien du gradient cortico-papillaire, qui
+est très coûteux à produire.
+Si le débit sanguin médullaire augmente, le gradient est perdu
+et le rein perd sa capacité à concentrer les urines.
+Ce schéma montre qu’à faible débit sanguin, on arrive
+à concentrer les urines mais si on augmente le débit sanguin
+dans les vasa recta, on n’arrivera plus à concentrer nos
+urines.
+Le faible débit des vasa recta permet de bien maintenir le
+système
+e) inhibition/ altération du
+gradient cortico papillaire
+Parmis les inhibiteurs du gradient, nous avons :
+Furosémide : il inhibe le co-transport Na K 2Cl qui est à
+l’origine de ce gradient, osmotique CP. A forte dose, il permet
+de supprimer le gradient.
+C'est pour cette raison que c’est un puissant diurétique : en
+présence du furosémide, le rein, quoi qu’il fasse, ne pourra pas
+concentrer les urines
+Régimes sans protéines : l’urée fait à peu près la moitié des
+osmoles dans la médullaire qui participe à la constitution du
+
+---PAGE---
+gradient. Et l’urée est produite par le catabolisme des protides
+donc sans protides (comme dans un régime strictement
+végétarien) on a moins d’urée , et ça diminue le
+gradient osmotique CP.
+Diurèse osmotique: (pathologique) elle augmente le débit dans
+les vasa recta ce qui diminue voir abolit le gradient osmotique
+CP.
+Résumé de la partie III)A :
+Pour que l’eau soit réabsorbée au niveau du canal collecteur,
+deux conditions sont nécessaires
+
+présence d’un gradient osmotique : pour qu’il y a
+quelque chose qui attire l’eau vers l'interstitium
+
+perméabilité du collecteur à l’eau : dépend de l’ADH
+(hormone anti diurétique)
+B) Hormone anti diurétique (ADH)
+Pour que l’eau soit réabsorbée dans l’interstitium il faut que le tube collecteur soit perméable à
+l’eau et il le devient grâce à l’hormone anti-diurétique.
+Absence d’ADH
+Imaginons un gradient osmotique CP correct, comme dans l’exemple ci-dessus (il va bien jusqu’à
+1200.
+Mais sans ADH, l’ensemble du tube collecteur est imperméable à l’eau.
+
+Ce qui va se passer dans le collecteur d’un sujet sans ADH, c’est que le fluide tubulaire
+arrive à l’entrée du collecteur a une osmolalité de 100mosm/l ; on a toujours un transport
+d’osmoles avec une réabsorption donc on soustrait des osmoles mais pas d’eau, on se
+retrouve donc à une osmolalité de 60 mosm/l : les urines sont extrêmement diluées.
+
+Et pour bien éliminer les osmoles en trop ( pour bien atteindre les 900 mosm qu’il est
+sensé atteindre), le sujet en question va devoir uriner 15L/par jour
+Présence d’ADH
+Si on a de l’ADH, tout va bien je réabsorbe mon eau par osmose, j’élimine toujours 900 mOsm par
+jour mais au lieu de le faire avec une osmolalité à 60 je peux aller jusqu’à 1200 auquel cas le
+débit urinaire sera de 0,75L par jour (et non 15L).
+
+---PAGE---
+Synthès
+e et
+sécrétio
+n
+L’ADH est un petit peptide produit par des neurones de l’hypothalamus.
+1.
+synthèse dans les neurones hypothalamiques
+2.
+transport le long des axones
+3.
+stockage dans la post-hypophyse
+La post-hypophyse, très vascularisée, libère l’ADH dans le sang par exocytose selon les
+besoins de l’organisme.
+
+---PAGE---
+Mode
+d’action
+sur
+l’organe
+cible
+L’organe cible de l’ADH est le tube collecteur.
+Situation sans ADH
+La cellule possède :
+
+AQP3 et AQP4 sur la face basolatérale
+-
+
+aucune aquaporine sur la face apicale
+Donc l’eau ne peut pas entrer dans la cellule depuis la lumière tubulaire.
+Situation avec ADH
+L’ADH :
+1.
+se fixe sur son récepteur membranaire (V2)
+2.
+active l’adénylate cyclase
+3.
+augmente l’AMPc
+4.
+active la PKA
+5.
+PKA phorphoryle une protéine quelconque
+Et la protéine phosphorylée (en présence de Ca2+) permet l’insertion des
+aquaporines 2 (qui étaient stockées en intracellulaire) dans la membrane
+apicale.
+Là, l’eau peut rentrer.
+On distingue au MEB la présence d’aquaporines à la surface des cellules
+en présence de l’ADH.
+- En l’absence d’ADH : Surface apicale lisse
+- En présence d’ADH : Granuleux, apparition des aquaporines
+On voit bien que l’apparition des aquaporines est secondaire à la
+présence d’ADH.
+
+---PAGE---
+ADH et
+osmolar
+ité de
+l’eau.
+Ce graphique nous montre la concentration plasmatique en fonction
+de l’osmolalité urinaire. Cette dernière va augmenter linéairement
+avec l’augmentation de la concentration plasmatique de l’ADH jusqu’à
+atteindre un plateau au maximum de 1200mOsm/kg.
+Selon la concentration plasmatique de l’ADH les urines seront plus ou
+moins concentrées et le collecteur sera plus ou moins perméable à l’eau.
+En résumé :
+Précisions à l’oral :
+Dans le diabète insipide neurogénique (qui est assez rare), l’hypothalamus
+n’arrive plus à produire suffisamment d’ADH.
+Dans le diabète insipide néphrogénique, il y a bien de l’ADH mais la cellule
+(dû à un problème de récepteurs ou autre) ne répond pas à l’ADH
+Dans les deux cas, il y a une polyurie importante
+Info du jour
+Le terme diabète insipide signifie que les urines sont sans saveur.
+À l’inverse, dans le diabète sucré, les urines peuvent avoir un goût sucré car,
+lorsque la glycémie est trop élevée, la capacité de réabsorption tubulaire du
+glucose est dépassée. Le glucose se retrouve alors dans les urines : c’est la
+
+---PAGE---
+glycosurie. Cette présence de glucose dans le tubule entraîne une diurèse
+osmotique.
+Historiquement, au 18e siècle, lorsqu’un patient présentait une émission
+excessive d’urines et qu’il n’existait pas encore de test biologique adapté, la
+distinction entre les deux types de diabète pouvait se faire en goûtant les
+urines
+IV/. Régulation du bilan de l’eau.
+Introduction
+Pour la régulation du bilan de l’eau dans le corps, on a 2 systèmes d’alarme basés sur des
+variables régulées.
+1.
+l’osmolalité plasmatique : reflète l’hydratation du secteur intracellulaire.
+il est toujours mis en jeu mais si ça va mal, on met aussi en jeu :
+2. la volémie : reflète le secteur extracellulaire
+Les récepteurs de l’osmolalité plasmatique, qu’on nomme les osmorécepteurs, vont monitorer
+l’osmolalité plasmatique pour informer l’hypothalamus.
+Les récepteurs sensibles à la volémie sont les volorécepteurs présents dans les oreillettes. Et si la
+volémie impacte les PA, alors les barorécepteurs vont être mis en jeu.
+On a également 2 systèmes de régulation :
+
+la soif : régule les entrées
+
+le rein et l’ADH : régule les sorties
+Schéma récapitulatif :
+
+---PAGE---
+A) Stimuli à l’origine de la sécrétion de l’ADH
+Différent
+stimulus
+Premier stimulus : le stimulus physiologique principal va être l’osmolalité
+plasmatique. Elle est perçue par les osmorécepteurs présents dans
+l’hypothalamus et la libération d’ADH va augmenter linéairement avec.
+Lorsque l’osmolalité plasmatique augmente, on va produire de plus en plus
+d’ADH.
+Il existe un seuil d’apparition d’ADH dans le plasma qui est en situation
+normal de 280mOsm/L. g n’est pas synthétisée.
+Deuxième stimulus : le stimulus volémique qui apparaît en cas
+d’urgence/danger vital.
+Si notre volume sanguin circulant diminue de plus de 7%, ça va être perçu par
+des volorécepteurs de l’OD qui vont moduler le stimulus osmotique.
+C’est-à-dire que le seuil d’apparition de l’ADH va être modifié et donc l’ADH
+va apparaître pour des osmolalités plus faibles ; on produit de l’ADH alors
+même qu’on est hypo-osmolaire et en plus on en produit plus.
+Et si on a une diminution de la volémie qui est suffisamment importante pour
+perturber la PA, alors les barorécepteurs aortiques carotidiens vont aussi
+indiquer que ça ne va pas et par conséquent induire une sécrétion de l’ADH
+En situation courante ce qui régule l’ADH est l’osmolalité plasmatique et non
+la volémie.
+
+---PAGE---
+C’est donc un mécanisme d’urgence, on privilégie le maintien de la pression
+artérielle et de la volémie à l’osmolalité (ex en cas d’hémorragie brutale).
+B) Mise en jeu de la soif
+Recepteur
+Les centres de la soif sont pas loin des osmorécepteurs de l’hypothalamus.
+Ces osmorécepteurs de l’hypothalamus vont donner le signal de la soif si
+l’osmolalité plasmatique dépasse 290 mosm/kg d’eau.
+Et dans le tractus digestif supérieur, on a aussi des osmorécepteurs et, dès
+qu’on boit, ils vont inhiber les osmorécepteurs de l’hypothalamus. Cela
+permet de ne pas surcorriger l’osmolalité quand on a très soif.
+Lorsqu’on a une baisse de la volémie de + de 13%, il y a un risque
+vital.
+Les barorécepteurs intra-rénaux vont déclencher le système sympathique
+qui va déclencher la production de rénine par l’appareil juxta glomérulaire.
+La rénine va permettre de produire de l’angiotensine II qui est une molécule
+dipsogène = donne soif.
+Ce qui peut être dangereux chez les sujets âgés, c’est que la sensation de soif
+est altérée chez les sujets âgés : ils ne se rendent pas compte qu’ils sont
+déshydratés.
+Il faut faire très attention à bien leur donner des verres d’eau de temps en
+temps.
+V. Modification de la diurèse
+A). Modifications physiologiques.
+Différentes
+situations
+physiologiques
+La diurèse dépend directement des apports hydriques.
+Deux situations physiologiques existent :
+1.
+Diurèse normale
+
+---PAGE---
+En condition normale, au niveau du distal, on voit qu’il y a une réabsorption
+d’eau. On a un débit de 15L/jour qui reste à réabsorber et l’osmolalité du fluide
+tubulaire est de 100 mosm/L
+Comme on est dans une condition normale, on n’est pas déshydraté et on a
+suffisamment d’ADH : il y aura une réabsorption d’une partie de
+l’eau.
+Au final, on aura un débit d’urine à 1.5L/j avec une osmolalité de 600 mosm/L
+pour excréter 900 mosm/j.
+2.
+Antidiurèse
+Dans une situation de privation d’eau/déshydratation : il faut économiser
+l’eau qu’on a. Pour se faire, l’ADH sera au maximum pour qu’on puisse
+réabsorber le plus d’eau possible. Au maximum on obtiendra des urines
+concentrées à 1200 mosm/L avec un débit urinaire de 750 ml/j pour conserver
+l’excrétion des 900 mosm/j.
+B. Modifications pathologiques : diurèse aqueuse et osmotique
+Conditions
+pathologiques
+Cas de la diurèse aqueuse/diabète insipide :
+On a toujours la même situation de départ mais il n’y a pas d’ADH
+(soit neurogénique soit néphrogénique, vu précédemment dans le cours) et
+donc pas de réabsorption
+On se retrouve à uriner 15 L/j à une concentration de 60 mosm/L pour pouvoir
+excréter les 900 mosm/j. C’est une situation pas très fréquente, mais à risque
+de déshydratation.
+Cas de la diurèse osmotique :
+Il s’agit d’une polyurie due à la présence anormale dans le plasma d’une
+substance substance osmotiquement active qui est filtrée mais peu réabsorbée
+par le tubule rénal.
+- Substance exogène :
+°mannitol (sucre qui peut être utilisée en thérapeutique dans le cas d’oedèmes
+cérébraux par
+
+---PAGE---
+exemple)
+° produit de contraste radiologique
+- Substance endogène (à une concentration inhabituellement élevée):
+°glucose(diabète),
+°urée (levée d’obstacle)
+- >Exemple du glucose dans le diabète :
+Dans le cas d’un diabète déséquilibré (avec un glucose plasmatique
+augmentée > 2g/l ou > 10 mmol/L ), la totalité du glucose filtré ne sera pas
+réabsorbée dans le proximal parce que le transport max de glucose est atteint.
+On retrouve alors le glucose dans le tube collecteur et les urines = glycosurie.
+La présence anormale de glucose qui reste dans le fluide tubulaire devient à ce
+moment là osmotiquement active. Et cette situation perturbe la réabsorption
+correcte d’eau et de sodium dans le tube proximal ce qui est très grave, parce
+que c’est à cet endroit là que ⅔du sodium et de l’eau sont réabsorbés.
+En empêchant cette réabsorption correcte, le débit urinaire en eau à la fin du
+proximal est très élevé, il y a toujours pleins de sodium et ça ne pourra pas être
+rattrapée dans la suite du tubule. Cela induit une abolition du gradient
+osmotique CP : l'interstitium va rester à 300mosm/L du cortex de la papille car
+le débit est trop élevé dans le fluide tubulaire.
+L’osmolalité plasmatique va être élevée et l’ADH va fonctionner tant qu’elle
+peut mais le problème est comme il n’y a pas de gradient, les urines ne vont pas
+pouvoir être concentrées à plus de 300mOsm/L. Du coup on va avoir une
+polyurie iso osmotique et on va avoir beaucoup de molécules d’osmoles à
+excréter sans pouvoir concentrer = les sujets vont donc devoir uriner beaucoup
+plus. C’est un signe du diabète.
+Cette situation peut induire une déshydratation, surtout chez les personnes
+agées.
+C). Diurétiques. (vu en pharmaco)
+
+---PAGE---
+Les inhibiteurs de l’anhydrase carbonique agissent sur le proximal.
+Ils bloquent l’anhydrase carbonique donc ils bloquent la réabsorption du
+bicarbonate et du sodium qui va avec. (peu utilisé)
+
+---PAGE---
+
+---PAGE---

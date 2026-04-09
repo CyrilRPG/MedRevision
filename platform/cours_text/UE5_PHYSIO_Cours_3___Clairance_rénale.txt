@@ -1,0 +1,977 @@
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+1 
+RT : Aya Aoudjit, Mohamed Rami Boukhatem                                           RL : Remaissa Bouakkaz        
+ 
+      
+ 
+                                                   
+PHYSIOLOGIE 
+Cours n°2 
+ Dr Carole PLANÈS – 04/03/2026  
+ 
+Clairance rénale 
+ 
+ 
+PLAN DU COURS  
+I.  
+Organisa+ons fonc+onnelles des transfert rénaux   
+II.  
+Déﬁni+on des débits massique et concept de clairance   
+III.  
+Substance uniquement ﬁltrée, mesures du débit de ﬁltra+on 
+glomérulaires     
+IV.  
+Substance secrétées, mesures du débit du débits sanguin rénal  
+  
+  
+ V.  
+Substance réabsorbées, no+on de transport maximum : exemple 
+de glucose  
+  
+ VI.    Clairance osmolaires et clairance de l’eau libre  
+  
+   
+PLAN DU COUR 
+ UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN  
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+2 
+I. 
+Organisa8ons fonc8onnelles des transfert rénaux 
+ 
+Généralités :   
+Déﬁni&on : Le terme clairance vient de l’anglais “to clear” qui signiﬁe se 
+débarrasser de. 
+ 
+Rappel anatomique fonc&onnel : 
+ 
+Le néphron comprend :  
+ 
+- Une artériole aﬀérente 
+ 
+- Un glomérule (capillaires glomérulaires) 
+ 
+- Une artériole eﬀérente 
+ 
+- Un réseau capillaire péritubulaire 
+ 
+- Un tubule rénal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Au niveau tubulaire, il existe des échanges bidirec.onnels : 
+ 
+Le rôle global du rein est la ﬁltraFon glomérulaire, la transformaFon de 
+l’ultraﬁltrat le long du tubule et la formaFon de l’urine déﬁniFve.  
+Certaines substances ﬁltrées sont réabsorbées vers le capillaire péritubulaire.  
+D’autres substances passent du capillaire péritubulaire vers le tubule : elles sont 
+sécrétées.  
+La résultante de tous ces échanges correspond à l’excréEon urinaire. 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+3 
+ 
+Les diﬀérents transferts rénaux : 
+ 
+1) La ﬁltra.on glomérulaire :  
+ 
+- Processus passif (Ne nécessite pas d’énergie) 
+ 
+- Dépend des forces de Starling 
+ 
+- Moteur : pression d’ultraﬁltraFon 
+ 
+Toutes les substances ne sont pas ﬁltrables : les grosses protéines (ex : albumine) 
+ne passent pas. 
+ 
+2) La réabsorp.on tubulaire :  
+ 
+La réabsorpFon tubulaire correspond au passage d’une substance du ﬂuide 
+tubulaire vers le sang. 
+Elle traverse l’intersFFum pour rejoindre le capillaire péritubulaire. 
+Elle est majoritairement acFve et nécessite de l’énergie (ATP), mais peut parfois 
+être passive en suivant des gradients électriques ou osmoFques. 
+ 
+3) La sécré.on tubulaire :  
+ 
+La sécréFon tubulaire correspond au passage d’une substance du sang vers le 
+tubule rénal. 
+Elle passe du capillaire péritubulaire, traverse l’intersFFum, puis rejoint la 
+lumière du tubule. 
+C’est un processus acFf qui nécessite de l’énergie. 
+ 
+4) L’excré.on :  
+ 
+L’excréFon correspond à la quanFté ﬁnale retrouvée dans les urines. 
+AUenFon à ne pas confondre la sécré.on et l’excré.on. Sécré.on = transfert 
+vers le tubule ET Excré.on = quanFté éliminée dans l’urine déﬁniFve. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+4 
+ 
+II. 
+Déﬁnition des débits massique et 
+concept de clairance 
+ 
+Débit 
+massique 
+ﬁltré :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Débit 
+massique 
+excrété :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le débit massique ﬁltré correspond à la quanFté d’une substance ﬁltrée par unité 
+de temps. 
+ 
+Formule : Débit massique ﬁltré (mg/min) = ConcentraFon plasmaFque × Débit de 
+ﬁltraFon glomérulaire (DFG) 
+ 
+Le ﬂuide vecteur est ici le ﬁltrat glomérulaire. CeUe formule est parFculièrement 
+uFle pour la ﬁltraFon et l’excréFon. 
+ 
+Elle est plus diﬃcile à appliquer pour la réabsorpFon ou la sécréFon, car il n’y a pas 
+toujours de ﬂuide vecteur associé. 
+ 
+Le débit massique excrété correspond à la quanFté d’une substance éliminée par 
+minute dans les urines. 
+Formule : Débit massique excrété = ConcentraFon urinaire × Débit urinaire 
+ 
+RelaFon fondamentale : 
+Débit excrété = Débit ﬁltré − Débit réabsorbé + Débit sécrété 
+ 
+Comportement global du rein vis-à-vis d’une substance : 
+On compare toujours le débit massique ﬁltré et le débit massique excrété. 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il existe 4 situa&ons : 
+ 
+1) Substance uniquement ﬁltrée :  
+ 
+La substance est ﬁltrée au niveau du glomérule puis ne subit ni réabsorpFon ni 
+sécréFon le long du tubule. 
+On la retrouve donc intégralement dans les urines. 
+Débit excrété = Débit ﬁltré 
+Exemple : inuline, une substance exogène (peFt sucre) que l’on peut injecter et qui 
+sert de référence pour mesurer le DFG. 
+ 
+2) Filtra.on + réabsorp.on :  
+ 
+La substance est ﬁltrée puis une parFe (ou la totalité) est réabsorbée dans le 
+tubule vers le sang. 
+Débit excrété < Débit ﬁltré 
+C’est la situaFon la plus fréquente en physiologie rénale. 
+Exemples : Sodium (Na⁺) : environ 90 % est réabsorbé. 
+Glucose : chez un sujet sain, il est totalement réabsorbé au niveau du tubule 
+contourné proximal (TCP), donc normalement absent des urines. 
+ 
+3) Filtra.on + sécré.on :  
+ 
+La substance est d’abord ﬁltrée, puis une quanFté supplémentaire est sécrétée du 
+sang vers la lumière tubulaire. 
+Débit excrété > Débit ﬁltré 
+On excrète donc plus que ce qui a été simplement ﬁltré. 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Concept de 
+clairance :  
+ 
+Exemple : acide para-aminohippurique (PAH), molécule exogène uFlisée pour 
+évaluer le débit plasmaFque rénal. 
+ 
+4) Filtra.on + réabsorp.on + sécré.on :  
+ 
+La substance est ﬁltrée, puis une parFe est réabsorbée et une autre peut être 
+sécrétée. 
+Le débit excrété dépend donc de l’équilibre entre ces trois mécanismes. 
+On ne peut pas prévoir le rapport exact entre débit excrété et débit ﬁltré sans 
+connaître le contexte physiologique. 
+Exemple : potassium (K⁺). 
+Il est majoritairement réabsorbé dans le TCP, mais sa sécréFon dans le tubule 
+distal varie énormément selon les besoins de l’organisme (régulaFon ﬁne). 
+ 
+ 
+ 
+ 
+Notée C, la clairance est un débit volumique, exprimé en mL/min. 
+ 
+Déﬁni&on (à connaître par cœur) : La clairance est le volume virtuel de plasma 
+totalement débarrassé d’une substance en une minute par le rein. 
+Formule : C = (ConcentraFon urinaire × Débit urinaire) / ConcentraFon 
+plasmaFque 
+La clairance permet d’évaluer le débit de ﬁltraFon glomérulaire (DFG) si la 
+substance est uniquement ﬁltrée. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III. Substance uniquement ﬁltrée : mesure du DFG  
+ 
+ 
+Substance 
+librement 
+ﬁltrée : 
+l’inuline 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L’inuline est une substance exogène, libre dans le plasma, non liée aux protéines, ni 
+réabsorbée, ni sécrétée, ni métabolisée, ni synthéFsée par le tubule ; ainsi, tout ce 
+qui est ﬁltré est excrété, ce qui fait que sa clairance est égale au DFG et consFtue la 
+méthode de référence pour mesurer le débit de ﬁltraFon glomérulaire 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+8 
+ 
+ 
+Cas de la 
+créa>nine :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La créaFnine est une substance endogène issue du métabolisme musculaire.  
+Elle est produite de façon relaFvement constante par l’organisme et est éliminée 
+uniquement par le rein (est légèrement sécrétée au niveau tubulaire ≈ + 10% pour 
+E).  
+On considère néanmoins que le débit excrété est approximaFvement égal au débit 
+ﬁltré. 
+ 
+En praFque clinique, la créaFnine est uFlisée pour esFmer le DFG car sa mesure est 
+beaucoup plus simple que celle de l’inuline. 
+Les valeurs normales de la créaFninémie sont de 80 à 110 µmol/L chez l’homme et 
+de 60 à 90 µmol/L chez la femme. (valeurs à connaitre +++) 
+ 
+Il existe une relaFon inverse entre le DFG et la créaFninémie : le produit DFG × 
+créaFninémie est constant.  
+Ainsi, si le DFG diminue, la créaFninémie augmente.  
+Par exemple, pour un DFG normal d’environ 120 mL/min, la créaFnine est normale, 
+alors que pour un DFG à 25 mL/min, la créaFnine est fortement augmentée. Une 
+élévaFon de la créaFninémie peut donc traduire une insuﬃsance rénale. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Es>ma>on 
+du DFG :  
+ 
+ 
+ 
+Le DFG peut être esFmé à parFr de : 
+ 
+- CréaFninémie 
+ 
+- Âge 
+ 
+- Sexe 
+ 
+- ± Poids 
+ 
+Formules uFlisées : 
+ 
+-Cockcrox et Gault 
+ 
+-MDRD (plus précise chez sujet âgé ou maigre) 
+ 
+CréaFninémie = 102 μmol/L 
+ 
+CréaFnurie = 3510 μmol/L 
+ 
+Diurèse = 2,6 L /24h 
+ 
+On applique la formule : C = [créat]u . V / [créat]pl 
+ 
+Pour son âge c’est plutôt une valeur correcte, on ne dialyse pas à ceUe valeur, on 
+dyalisé à parFr de 20/25 ml/min. 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+PLAN D 
+ 
+ 
+ 
+U COURS  
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+11 
+IV. 
+Substance secrétées, mesures du débit du débit sanguin 
+rénal 
+ 
+A) Substances sécrétées 
+ 
+ 
+ATTENTION CETTE PARTIE EST IMPORTANTE POUR LES QCM ! 
+ 
+ 
+Substance par&ellement sécrétée : 
+ 
+- Mécanisme se déroule lorsque l’Acide Para-amino-hippurique (PAH) a une   
+concentraFon plasmaFque supérieure à 6mg/l 
+- Clairance supérieure à la DFG car elle conFent la DFG + la parFe secréter 
+- Clairance inferieur a la DPR car une parFe de ce qui arrive n’est pas ﬁltré et reste 
+dans la veine rénale 
+ 
+Substance en&èrement sécrétée : 
+ 
+- Lorsque l’Acide Para-amino-hippurique (PAH) a une faible concentraFon 
+plasmaFque (inférieure à 6mg/l). 
+- La substance est ﬁltrée puis sécrétée complètement. Il n’y aura plus de ceUe 
+substance dans la veine rénale donc La clairance = le DPR. (car tout ce qui arrive 
+est débarrasser de la veine rénal) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+12 
+B) Mesure du DPR 
+ 
+ 
+Le PAH à faible concentra.on va donc permeUre de calculer le DPR. 
+On peut écrire : 
+ 
+ 
+Le PAH est une substance exogène : 
+ 
+- Librement ﬁltrée 
+ 
+- Non réabsorbée 
+ 
+- Massivement secrétée, à tel point qu’à faible concentraFon, il n’y en a plus dans 
+la veine rénale 
+ 
+- Qui n’est pas métabolisée, ni synthéFsée par le tubule 
+ 
+- Qui n'est pas toxique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+13 
+V.  
+Substance réabsorbées, no8on de transport maximum : 
+exemple de glucose  
+A) Substances réabsorbées 
+ 
+ 
+ 
+Substances parFellement réabsorbées (sodium, potassium, urée...) : 
+ 
+- Majorité des substances 
+- 0<clairance< DFG 
+ 
+Substance totalement réabsorbée (glucose) : 
+ 
+- Clairance = 0 (La clairance est nulle. Le rein n’élimine absolument pas le glucose 
+chez un sujet normal) 
+- Chez le sujet non diabéFque, il n’y a pas de glucose dans les urines. La glycémie est 
+extrêmement régulée car c’est le glucose qui va donner de l’énergie, en parFculier 
+au cerveau qui ne consomme que du glucose.  
+Cela est valable pour des concentraFons de glucose normales, soit [Pglu] = 5 mmol/l. 
+ 
+Cas parFculier d’autres substances avec clairance nulle : 
+ 
+- Lorsque la molécule est liée à une subtance non ﬁltré ( EX : ALBUMINE) 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+14 
+ 
+ 
+B) No7on de trasnport maximum 
+ 
+ 
+ 
+Le transport d’une substance entre la lumière tubulaire et le capillaire péritubulaire 
+(la sécréFon ou de la réabsorpFon) peut se faire de diﬀérentes façons : 
+ 
+- Par diﬀusion simple : n’implique pas de transporteur. Ex : diﬀusion paracellulaire 
+ 
+- Par diﬀusion facilitée : la substance a besoin de transporteurs. Ex : Glucose avec les 
+glut 
+ 
+- Par diﬀusion acFve : il faut un transporteur et de l’énergie. Ex : Na/K ATPase 
+ 
+Tout ce qui va uFliser un transporteur, (facilitée ou acFf) est potenFellement limité 
+ou saturables = transport maximum. 
+On note TM = le débit massique maximum de transport par les cellules tubulaire 
+rénale de ceUe substance (mg/min) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+15 
+C) Transport maximal du glucose 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Co-transport Na+/glucose (SGLT) proximal : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- C’est un transport secondairement acFf, car il n’uFlise pas d’énergie mais proﬁte 
+d’une réacFon nécessitant de l’énergie pour exister 
+ 
+- Le glucose ﬁltré est réabsorbé en même temps que le sodium grâce à un 
+transporteur apical (cotransport Na+/glucose).  
+Il sera ensuite pris en charge par un autre transporteur qui lui permeUra de sorFr du 
+côté. 
+ 
+- Ces réacFons ont lieu grâce au gradient de concentraFon crée par la Na/K ATPase 
+ 
+Transport maximal du glucose : 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+16 
+ 
+- Si la concentraFon plasmaFque de glucose augmente on est sensé ﬁltrer plus de 
+glucose pour des concentraFon faible (5 à 10 mmol/L) on a un plateau car le 
+transport maximal par le tubule proximal est 375 mg/min.  
+Au-delà de ce seuil le glucose n’est plus réabsorbé et sera retrouver dans les urines 
+(ce qui n’es pas normal, on le voit chez les sujets diabéFques ou lors d’une perfusion 
+massive de glucose car cet état n’existe qu’au-delà d’un seuil glycémique) 
+ 
+- Seuil glycémique d’appariFon du glucose dans les urines = 10 mmol/l (1,80 g/l) 
+ 
+- La glycosurie = dosage de glucose dans l’urine 
+ 
+- Une forte concentraFon de glucose dans les urines causera des problèmes dans le 
+foncFonnement du néphron et mènera à une diurèse osmoFque (on verra ceci dans 
+des cours postérieur) 
+ 
+Donc la clairance du glucose n’est plus nul au-delà de ce seuil :  
+ 
+ 
+APen&on à ne pas confondre le transport maximum (= débit maximum de 
+réabsorp&on = 375 mg/min) avec le seuil d’appari&on du glucose dans les urines (= 
+concentra&on plasma&que supérieure à 10 mmol/l soit 1,80g/l) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+17 
+VI.    Clairance osmolaire et clairance de l’eau libre  
+ 
+A) Clairance osmolaire  
+ 
+ 
+ 
+ 
+- L’osmolalité plasmaFque normal est de 300 mosmol/L d’eau 
+ 
+- Chaque jour, le rein va éliminer l’osmoles (qui dépend de plusieurs facteurs : 
+déchets, alimentaFon…) principalement des ions (sodium, chlorure, urée.). 
+ 
+- L’élimina&on des osmole par le rein est indépendant du bilan hydrique : le rein 
+s’occupe des osmoles d’un côté et de l’eau dans un autre côté de façon indépendante 
+(important en cas de déshydrataFon pour éviter de perdre de l’eau) 
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+18 
+ 
+- Urine iso osmoFque : osmolarité urinaire = osmolarité plasmique dans ce cas-là la 
+clairance urinaire est égale au débit urinaire aussi car : 
+ 
+ 
+ 
+ 
+-  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- hypo-osmoFque (cas d’hyperhydrataFon) : on élimine l’osmole dans un grand 
+volume d’eau, donc le débit urinaire est supérieur) à la clairance osmolaire. On a 
+une osmolarité urinaire est inferieur a normal (300 mosmol/l) 
+ 
+- urine hypertonique au plasme (cas de la déshydrataFon) : concentraFon maximum 
+de l’osmole dans l’eau (1200mosmol/l = maximum de concentraFon possible par le 
+rein) soit 4 fois plus que l’osmolalité plasmaFque normal (300 mosmol/l), Le débit 
+urinaire = clairance osmolaire - la réabsorpFon d’eau 
+ 
+Clairance de l’eau libre :  
+ 
+ 
+ 
+
+---PAGE---
+ 
+    UE5 - VOIES URINAIRES ET APPAREIL GÉNITAL MASCULIN -Clairance rénale– 04/03/2026  
+ 
+ 
+ 
+19 
+ 
+- Eau libre = eau sans osmole 
+ 
+- Clairance de l’eau libre = débit urinaire - clairance osmolaire 
+ 
+- Elle permet de quanFﬁer le travail du rein 
+ 
+- La clairance de l’eau libre est nulle : La C osm est égale au débit urinaire, le rein n’a 
+pas de travail parFculier il élimine des urine iso-osmoFque 
+ 
+-La clairance de l’eau libre est posiFve : Les urines sont hypo-osmoFques, il y a une 
+évacuaFon d’osmoles et d’eau 
+ 
+- La clairance de l’eau libre est négaFve : Le rein doit économiser de l’eau 
+(déshydrataFon), les urines sont hyper-osmoFques au plasma. 
+ 
+Conclusion : un même nombre d’osmole peut être éliminer dans une quanFté 
+diﬀérente d’eau, c’est pour quoi on dit que les deux phénomènes sont indépendants 
+pour le rein. 
+Dans les 2 cas, des régulaFons hormonales diﬀérentes sont en jeux. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---

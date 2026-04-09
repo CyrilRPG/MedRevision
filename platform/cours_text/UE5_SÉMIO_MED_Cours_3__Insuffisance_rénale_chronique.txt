@@ -1,0 +1,548 @@
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 1 sur 14 
+ 
+RT : Yesmine Allad , Hady Ann                                                                                 RL : Mounir Borsali 
+ 
+                               UE5 – Voies urinaires et appareil génital masculin 
+ 
+                                          SEMIOLOGIE MEDICALE 
+                                                                              COURS n°3 
+                                            Dr BELENFANT - 12/03/2025 – 13H45 à 15H15 
+                             INSUFFISANCE RENALE CHRONIQUE 
+Objectifs du cours  : 
+ -Comprendre les mécanismes physiopathologiques expliquant l’apparition d’une 
+protéinurie en cas d’insuffisance rénale chronique  
+-Démontrer le rôle de l’angiotensine 2 en pathologie expérimentale animale  
+-Démontrer le rôle de l’angiotensine 2 en pathologie humaine 
+ -Démontrer le rôle « néphroprotecteur » des inhibiteurs de l’enzyme de conversion 
+ -Connaitre les différentes fonctions des reins 
+                                                           Plan 
+I. Définitions et rappels 
+     A) Insuffisance rénale chronique : définition 
+     B) Rappel : Créatinine plasmatique 
+     C) DFG 
+II. Modèles expérimentales In vivo 
+      A) Description Modèles expérimentaux : insuffisance rénale chronique In vivo 
+      B) Descriptions des Expérimentations 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 2 sur 14 
+ 
+ 
+     C) Conséquences 
+III. Modèles expérimentales In vitro 
+      A) Descriptions 
+      B) Conséquences 
+IV. Traitements 
+      A) Etude Diabète/ Médicament anti-tenseur 
+      B) Les pistes : antagonistes de l’aldostérone 
+      C) Conclusions 
+V. Fonctions des reins 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 3 sur 14 
+ 
+                                                               I. Définitions et rappels 
+                                                         A) Insuffisance rénale chronique  
+définition 
+Altération PROGRESSIVE et IRREVERSIBLE des fonctions rénales 
+Définition « en pratique clinique » (consensus international)  
+• Augmentation du taux de créatinine 
+plasmatique  
+• = baisse du débit de filtration glomérulaire (eDFG < 60 ml/mi,/1,73 
+m²) [eDFG = Débit de Filtration Glomérulaire estimé]  
+• depuis plus de 3 mois 
+                                                          B) Créatinine plasmatique 
+Rappel  
+Le professeur nous dit que la créatinine plasmatique est un mauvais 
+marqueur parce que nous produisons de la créatinine lorsque nos 
+muscles se renouvellent, plus on est musclé, plus notre taux de 
+créatinine sera élevé donc c’est un critère qui ne peut pas 
+s’appliquer universellement à tous les patients et cause une 
+mauvaise estimation du Débit de Filtration Glomérulaire (DF  
+                                                                  C) DFG 
+                          1-DFG : référence / clairance de la créatinine 
+Definition 
+DFG mesuré = la référence 
+ • Clairance de l’inuline  
+• Mesure isotopique du DFG 
+ • Normal = 120 ml/min/1,73 m²  
+• Clairance de la créatinine • = ([créatinine]urinaire x [volume 
+diurèse]) / [créatinine]plasmatique  
+• Clairance de la créatinine selon Cockroft et Gault = (140 – âge) x 
+poids x Coeff/ [créatinine] Avec Coeff : si femme = 0,85 / si homme 
+= 1,125 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 4 sur 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     2-DFG estimé 
+Methode  
+La créatinine est filtré par les reins, pour faire simple si nous 
+considérons que si la créatinine est élevé, les reins ne filtrent pas 
+beaucoup donc DFG basse, à l’inverse, si la créatinine est basse 
+alors les reins filtrent bien et le DFG est élevé.  
+Méthode : 
+ -Prise d’une cohorte de patient et avons mesuré leurs DFG qu’on va 
+appeler DFG réelle (cela est relativement couteux et laborieux) 
+ -Mesure de leurs [Créatinine ] plasmatique  
+- Identification d’un calcul permettant à partir de variables 
+facilement identifiables d’estimer le DFG 
+mesuré = DFG estimé = eDFG qui sera utilisé pour les futurs 
+patients et sera plus simple à découvrir (Les variables sont Sexe – 
+âge – ethnie - [créatinine]p) 
+Test réalisé : CKD-EPI (recommandations HAS – 2012) l’ancien Test 
+MDRD avait pour défaut de montrer un écart entre les DFG estimés 
+et les DFG réels pour les patients ne souffrants d’aucun trouble 
+rénale (mais était fiable pour les patients souffrants d’insuffisances 
+rénales chronique) 
+La CKD-EPI a été testé sur des patients sans troubles rénales et sur 
+des patients souffrants d’insuffisance rénale chronique et a été 
+déclaré fiable dans les 2 cas par la HAS en 2012 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 5 sur 14 
+ 
+ 
+ 
+                          II. Modèles expérimentales In vivo 
+A) Description Modèles expérimentaux : insuffisance rénale 
+chronique In vivo 
+1-Paramètres 
+mesurables In 
+vivo chez les rats 
+nous causons artificiellement une insuffisance chronique à un rat 
+en général en réduisant le nombre de ses néphrons 
+(Néphrectomie des 4/5 des néphrons) il existe d’autres causes 
+d’insuffisances rénales, nous les citons mais le prof ne s’est pas 
+attardé dessus : 
+ -néphropathie interstitielle chronique expérimentale : créer un 
+obstacle chronique sur les voies urinaires qui va pousser le rein à 
+s’épuiser 
+ -maladies vasculaires par exemple : Rat spontanément 
+hypertendu 
+ - maladie métabolique avec conséquence rénale : rat obèse 
+Zucker  
+-glomérulonéphrite expérimentale = maladie rénale 
+primitivement glomérulaire (ex : toxicité chronique du plomb 
+/néphrite de Heyman In vivo chez les rat : il est possible de mesurer 
+Paramètres cliniques (PA, poids, diurèse) Paramètres biologiques 
+(sang ; créatinine, urée, ionogramme, hormone (vitamine D, EPO, 
+PTH . . )  
+• urines : protéinurie, urée, créatinine, ionogramme)  
+ 
+Mesures au 
+niveau du 
+nephron 
+ 
+-des pressions : capillaire glomérulaire, de la chambre urinaire : 
+par cathétérisme (sous microscope), ponction 1 glomérule, 1 
+tubule, 1 capillaire 
+-la pression artérielle au niveau des artérioles pré et post 
+glomérulaires 
+-du débit urinaire dans les différents segments du tubule . . . 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 6 sur 14 
+ 
+                           B) Descriptions des Expérimentations  
+                                     1-experimentation (in vivo) 
+1 ere experience  On prend deux rats pour une expérience : 
+Rat opéré : on constricte un des deux reins pour provoquer une 
+insuffisance rénale artificielle. 
+Rat témoin : on effectue une fausse chirurgie (on ouvre le rat 
+puis on referme sans toucher au rein) pour que les conditions 
+soient identiques, sauf l’intervention réelle. 
+ 
+On compare ensuite les deux groupes : 
+Le rat opéré présente : 
+-une mortalité plus rapide 
+-un débit de filtration glomérulaire plus bas, qui diminue 
+rapidement 
+-une protéinurie plus élevée 
+-une pression artérielle plus élevée 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 7 sur 14 
+ 
+2 eme experience    Expérimentation (in vivo) + anti-HTA 
+Rat opéré + traitement anti-HTA : on applique un inhibiteur du 
+système rénine-angiotensine (anti-angiotensine) après la 
+chirurgie rénale 
+ 
+Nous observons par rapport au Rat sans traitement anti-HTA : 
+-mortalité retardée (meurt moins vite) 
+-baisse du DFG moins rapide 
+-protéinurie moins élevée 
+-pression artérielle moins élevée 
+-mais aucune valeur ne retrouve la normale → les reins restent 
+altérés 
+explication : Les néphrons restants (ou le rein restant si un rein 
+entier a été enlevé) se retrouvent hyperperfusés, c’est-à-dire 
+qu’ils doivent filtrer un volume de sang plus important pour 
+compenser la perte de néphrons. 
+Cette hyperperfusion entraîne une augmentation de la 
+pression dans les capillaires glomérulaires et donc un risque 
+d’endommagement des filtres 
+Mais Lorsque le rat reçoit un traitement anti-hypertenseur (ex : 
+anti-angiotensine) l’hyperperfusion est limitée, les pressions 
+capillaires glomérulaires sont donc moins élevées et il y a moins 
+de dommages rénaux et de complications 
+ 
+ 
+ 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 8 sur 14 
+ 
+3 eme experience  Micro-ponction in vivo : hémodynamique glomérulaire + anti-
+HTA 
+Nous réalisons des Micro-ponction dans  
+nos rats pour mesurer leurs Débits sanguin glomérulaire [DSG] 
+(qui augmente avec le débit de filtration glomérulaire) et les 
+pressions sanguines des capillaires. 
+Le rat opéré sans anti-HTA possèdes des DSG et des pressions 
+capillaires plus élevé que le rat opéré avec traitement anti-HTA 
+  
+ 
+ 
+ 
+ Conséquences 
+hémodynamiques 
+ 
+• Augmentation du débit sanguin rénal  
+• Augmentation du débit sanguin glomérulaire  
+• = augmentation de la pression hydrostatique glomérulaire 
+++++ 
+ 
+Conséquences 
+histologiques 
+ 
+ 
+ 
+En analysant au microscope les reins d’animaux sacrifiés nous 
+concluons que l’apparition d’une baisse de DFG, d’une HTA, 
+d’une protéinurie sont toutes corrélées à l’apparition d’une 
+sclérose glomérulaire (« glomérulosclérose »)  
+- Traitement anti-HTA retarde l’apparition de la sclérose 
+glomérulaire - Cet effet est d’autant + marqué que le traitement 
+est un IEC (Inhibiteur Enzyme de Conversion) ! 
+ 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 9 sur 14 
+ 
+                             III. Modèles expérimentales In vitro 
+                                                   A) Descriptions 
+Modèle  
+ 
+nous réalisons des cultures cellulaires de cellules mésangiales, 
+tubulaires, endothéliales 
+et des perfusions tubulaires in vitro en disséquant sous 
+microscope des néphrons, puis on isole un tubule (TCP, anse de 
+Henlé, TCD, collecteur), en amont et en aval, placé dans un 
+milieu avec possibilité de mesurer la composition des liquide 
+ 
+Cellules in vitro 
+ 
+nous analysons leurs Expression phénotypique : morphologie 
+des cellules  
+-Etude de l’expression des molécules membranaires par 
+exemple : étude la localisation des transporteurs des cellules 
+tubulaires  
+-Etude du métabolisme cellulaire 
+-Etude Des protéines : 
+-Etude quantitative / fonctionnelle (études des transports trans 
+tubulaire)  
+-Etude des ARN / expressions génomiques : biologie 
+moléculaire 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 10 sur 14 
+ 
+                                                  Conséquences 
+ 
+1-Conséquences 
+histologiques 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conséquences 
+tubulaires 
+ 
+cellules mésangiales + angiotensine 2 permettent la contraction 
+des cellules mésangiales et elles secrètent du TGF béta (action 
+autocrine + paracrine), si ajoute trop d’angiotensine 2 elle 
+deviennent des Myofibroblastes et pourront même synthétiser 
+du collagène. sécrétion de collagène par les cellules 
+mésangiales = fibrose glomérulaire = Altérations 
+morphologiques et fonctionnelles des cellules mésangiales 
+ 
+ 
+-Interaction protéinurie / cellules tubulaires 
+Quand il y a beaucoup de protéines dans l’urine, elles touchent 
+directement les cellules du tubule proximal, la partie du rein qui 
+récupère le filtrat. L’albumine filtrée atteint le pôle apical des 
+cellules tubulaires proximales 
+Concrètement : l’albumine (une protéine) se fixe sur la face qui 
+reçoit le filtrat des cellules tubulaires. Cela Induit la sécrétion 
+de TGF-β par les cellules tubulaires, une molécule qui est un 
+messager qui va induire la fibrose. 
+TGF-β stimule les fibroblastes interstitiels pour qu’ils produisent 
+du collagène  
+Le collagène s’accumule autour des néphrons ce qui cause une 
+fibrose interstitielle, c’est-à-dire cicatrice dans le rein qui 
+empêche le rein de fonctionner normalement. 
+-Effet amplifié par angiotensine II Si la pression ou le système 
+rénine-angiotensine est activé, l’effet TGF-β est encore plus fort, 
+donc la fibrose s’aggrave 
+ 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 11 sur 14 
+ 
+Conclusions 
+(expérimental) 
+ 
+La progression de l’insuffisance rénale chronique (baisse DFG)  
+HTA  
+Protéinurie / albuminurie  
+Hyperpression au niveau du capillaire glomérulaire  
+-Augmentation de la filtration glomérulaire = albuminurie  
+Induit une sécrétion de TFG béta (glomérules) = fibrose 
+glomérulaire  
+-Effet amplifié par angiotensine 2  
+-Limitée par un pré traitement par IEC • Induit une sécrétion de TFG 
+béta (tubules) = fibrose interstitielle  
+-Effet par : albuminurie / et angiotensine 2  
+Un pré traitement par IEC est plus efficace que les autres anti-HTA  
+-Évite l’HTA, diminue le débit d’albuminurie  
+-Ralentit la progression de l’insuffisance rénale  
+-Diminue la fibrose glomérulaire / interstitielle 
+                                                  IV. Traitements  
+ 
+Etude Diabète/ 
+Médicament 
+anti-tenseur 
+ 
+Pour une étude on prend des patients diabétiques de type 2 
+On les divise en 3 groupes de traitement (ARA2 / inhibiteur 
+calcique / placebo) 
+On suit si leur fonction rénale se dégrade (créatinine x2, 
+insuffisance rénale terminale) ou s’ils décèdent 
+On compare l’efficacité des traitements pour protéger les reins et 
+prolonger la vie 
+ARA 2 (anti-angiotensine II) était le plus efficace puis les 
+inhibiteurs calciques puis le placebo  
+ 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 12 sur 14 
+ 
+Les pistes : 
+antagonistes de 
+l’aldostérone 
+ 
+(le prof a pratiquement skip cette diapo mais voici l’explication) 
+Physiologie 
+L’aldostérone est une hormone du cortex surrénalien. 
+Elle agit sur les tubules distaux du rein pour : 
+o retenir le sodium → augmente la tension artérielle 
+o retenir l’eau → augmente le volume sanguin 
+o excrétion du potassium 
+• 
+En excès (ex : hyperaldostéronisme, néphropathie) : 
+o favorise fibrose rénale (tissus cicatriciels) 
+o augmente la protéinurie 
+o contribue à l’hypertension et à l’aggravation de l’IRC 
+  Essais cliniques 
+• 
+Les études montrent que bloquer l’aldostérone : 
+o réduit la protéinurie 
+o ralentit la progression de l’IRC 
+o protège le rein indépendamment de l’effet sur la 
+tension 
+• 
+Deux types d’antagonistes : 
+Stéroïdiens : Spironolactone,  Non stéroïdien 
+I.SGLT2 (Inhibiteurs du cotransporteur sodium-glucose de type 2) 
+Physiologie / mécanisme 
+• 
+Le SGLT2 se trouve dans le tubule proximal du rein 
+• 
+Il réabsorbe le glucose et le sodium filtrés dans le tubule 
+• 
+Inhibiteurs du SGLT2 
+o diminuent la réabsorption de glucose et sodium 
+o plus de glucose et sodium passent dans l’urine → 
+hypoglycémiant 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 13 sur 14 
+ 
+o réduit la charge sur le glomérule → hyperfiltration 
+limitée 
+o entraîne baisse de la protéinurie 
+Effets cliniques 
+-Baisse de la pression glomérulaire → protège le rein 
+-Réduction de la protéinurie 
+-Effets cardiovasculaires positifs (baisse de l’insuffisance 
+cardiaque) 
+-SGLT2 = traitement très prometteur même pour les patients non 
+diabétiques 
+Conclusion  
+ 
+Chez les patients ayant un diabète de type 2 
+-en insuffisance chronique stade 3 
+-et albuminurie 
+Un traitement par sartan comparé à un I. calcique ou placebo 
+-À contrôle de PA équivalente  
+-À moyen terme (médiane suivi 2,5 ans), diminue la progression de 
+l’insuffisance rénale 
+Le bénéfice sur les « critères durs » n’est pas démontré • 
+Insuffisance rénale terminale traitée par dialyse / transplantation 
+Décès toute cause inclus pour l’étude 
+Sartans = néphroprotecteur  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+                                            UE5 – Semiologie  medicale – IRC – 18/03/2026 
+ 
+ 
+Page 14 sur 14 
+ 
+                                         V. Fonctions des reins  
+1/ Elimination des 
+déchets 
+ 
+• Azotés : créatinine, urée, . . . .  
+• Acide nucléique : acide urique  
+ 
+2/ Equilibre hydro 
+électrolytique : 
+H20, Na, K, . . .  
+• Adaptation les sorties rénales en fonction de  
+• Apports alimentaires  
+• Des sorties extra-rénales  
+• Des besoins du métabolisme cellulaire  
+3/ Equilibre acido-
+basique (PH, 
+bicarbonate, 
+acides non 
+volatiles . . .)  
+• Réabsorption des HCO3 filtrés (TCP ++)  
+• Excrétion des acides non volatiles (NH4 / Phosphate)  
+• Régénération des HCO3 consommés Fonctions endocrines  
+ 
+4/ Régulation de 
+la PA  
+ 
+• Système Rénine – Angiotensine – Aldostérone  
+5/ Métabolisme 
+phosphocalcique  
+ 
+• Hydroxylation (1 OH) de la vitamine D  
+• Absorption digestive de Ca  
+• Os : activité ostéoclastique • Rein : réabsorption tubulaire de Ca  
+6/ Synthèse de 
+l’érythropoïétine  
+• Hémoglobine  
+• Stimulus : hypoxie s 
+7/ Médicaments 
+• Métabolisme  
+• Elimination 
+ 
+ 
+ 
+
+---PAGE---

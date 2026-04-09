@@ -1,0 +1,981 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RT: Julie Laroche et Garance Ritter 
+RL : Helena Mayoké 
+ 
+ 
+ 
+            UE6 – Tissu sanguin et système immunitaire 
+ 
+Hématologie 
+ 
+Cours n°8 
+Pr Fanny Baran-Marszak – 03/03/2026 – 10h15-11h45 
+Lymphopoïèse, ontogenèse B et T, réponse 
+immunitaire humorale 
+Conseils :  
+• Le cours a significativement changé par rapport à l’année dernière avec des parties qui 
+n’ont pas été abordées cette année mais ça peut vous aider de jeter un coup d’œil (Gg) 
+ 
+PLAN DU COURS 
+I. 
+Introduction 
+A. Lymphopoïèse 
+B. Rappels : le système immunitaire 
+C. Les lymphocytes T 
+D. Les lymphocytes B 
+II. Notion d’immunoglobulines 
+A. Gènes des immunoglobulines IGHV et BCR 
+B. Mécanismes de la diversité des immunoglobulines 
+C. Diversité des immunoglobulines 
+III. Focus sur les lymphocytes B 
+A. Régulation 
+B. Méthode d’exploration 
+C. Mécanisme et contrôle de la lymphopoïèse B 
+IV. Immunopoïèse B 
+A. Signalisation BCR 
+B. Coopération B-T 
+V. Lien avec la pathologie 
+A. Ontogenèse B en lien avec la pathologie 
+B. Intérêt thérapeutique 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+2 sur 24
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Introduction 
+A. Lymphopoïèse 
+Généralités 
+ 
+La lymphopoïèse est la différenciation d’une cellule souche hématopoïétique en 
+lignée lymphoïde, produisant dans lymphocytes T, B et N, qui maturent dans la 
+moelle osseuse, passent dans le sang et finissent leur maturation dans les 
+organes lymphoïdes secondaires (comme les ganglions). 
+ 
+ 
+ 
+ 
+ 
+Les lymphocytes 
+ 
+Les lymphocytes sont des cellules impliquées dans le système 
+immunitaire, dans la protection contre le non-soi (bactéries, virus…) et 
+contre le soi (cellules tumorales). 
+ 
+Les différentes catégories de cellules sont :  
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+3 sur 24
+ 
+- 
+LT T : expriment récepteur T à leur membrane  
+- 
+LT B : expriment récepteur B à leur membrane 
+- 
+LT NK : ne présentent pas de récepteur à l’antigène (ni T ni B) 
+La différence principale entre les LT T et B et les LT NK est l’absence de récepteur 
+à l’antigène sur les LT NK. 
+ 
+B. Rappels : le système immunitaire 
+Généralités 
+ 
+Le système immunitaire est utilisé en réponse à une agression (bactéries, virus). 
+Il est composé de 2 parties : 
+➔ Immunité innée non spécifique (macrophages, PNE, PNB, PNN, cellules 
+dendritiques) 
+➔ Immunité adaptative spécifique de l’antigène : production d’anticorps 
+spécifiques par LT 
+ 
+ 
+ 
+ 
+- 
+LT NK : immunité innée cytotoxique  
+- 
+LT T : immunité à médiation cellulaire, coopération cellulaire avec B 
+- 
+LT B : immunité à médiation humorale (anticorps) 
+ 
+C. Les lymphocytes T 
+Généralités 
+ 
+Les lymphocytes T expriment un récepteur T à l’antigène 
+– « T » pour Thymus, organe du médiastin antérieur, se développe jusqu’à la 
+puberté puis involue progressivement sans disparaître totalement 
+– Chez l’Homme la maturation T se déroule dans le thymus principalement et 
+accessoirement dans les plaques de Peyer, à partir d’un progéniteur lymphoïde T 
+provenant de la moelle osseuse 
+ 
+– Fonctions : 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+4 sur 24
+ 
+• 
+ Cellules auxiliaires coopération avec Ly-B 
+• 
+Cellules cytotoxiques 
+• 
+Cellules régulatrices 
+Ontogenèse T en 
+2 phases 
+ 
+L’ontogenèse T se déroule en 2 phases : la première dans le thymus et la 
+deuxième en périphérie. 
+ 
+ 
+ 
+La cellule souche hématopoïétique (CSH) issue de la moelle osseuse migre jusque 
+dans le thymus. Cette CSH va maturer grâce au réarrangement des gènes VDJ, 
+qui sont les gènes des récepteurs T. Au début, les LT sont doubles négatifs : CD4- 
+CD8-, et expriment un complexe TCR/CD3 non fonctionnel (LT T immatures) 
+puis, ils maturent jusqu’à devenir doubles positifs CD4+ CD8+, et expriment un 
+complexe TCR/CD3 fonctionnel (LT T matures).  
+ 
+Les LT T matures vont ensuite sortir de la moelle osseuse, pour ensuite circuler 
+dans le sang. Au moment de leur sortie de la moelle, un choix s’effectue quant à 
+la conservation du CD4 ou du CD8 (il y a 2 fois plus de CD4 que de CD8). La 
+seconde phase s’effectue donc dans les organes lymphoïdes secondaires où ils 
+poursuivent leur maturation. 
+ 
+Le saviez-vous ?  
+Le rôle du complexe TCR/CD3 est la reconnaissance par le LT T du peptide 
+antigénique en association du CMH (complexe majeur d’histocompatibilité) 
+Fonction des 
+lymphocytes T 
+ 
+En fonction de leurs marqueurs les lymphocytes T jouent un rôle différent 
+ 
+Lymphocytes T CD4                                              Lymphocytes T CD8 cytotoxiques 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+5 sur 24
+ 
+          
+  
+ 
+ 
+-Pour les LT T CD4, on a : 
+ 
+• 
+LT T auxiliaires (helpers) : coopération avec les LT B (TH1 : inflammation, 
+TH2 : allergie, TH17 : inflammation) 
+• 
+LT T régulateurs : inhibent la réponse immunitaire afin de la réguler 
+(lorsqu’elle est terminée) 
+• 
+LT T folliculaires helper : présents dans les ganglions et aident les LT B à 
+produire les anticorps 
+ 
+- les LT T CD8 jouent un rôle dans : 
+ 
+• 
+La cytotoxicité 
+• 
+La phagocytose des bactéries et des virus 
+• 
+La sécrétion des cytokines 
+• 
+L'élimination des cellules infectées 
+D. Les lymphocytes B 
+Généralités 
+ 
+Les LT B sont des lymphocytes présentateurs de récepteurs B à l’antigène sur leur 
+membrane. Ils se développent dans la moelle osseuse, puis poursuivent leur 
+maturation dans les ganglions, jusqu’à leur différenciation de plasmocytes 
+(dernier stade de maturation). 
+ 
+Ils ont pour fonction :  
+• 
+La reconnaissance d’un antigène spécifique (entrainant une réponse 
+primaire ou mémoire lorsque le lymphocyte T rencontre l’antigène une 
+seconde fois) 
+• 
+La présentation de cet antigène 
+• 
+La différenciation terminale et la production d’immunoglobulines 
+(anticorps) 
+ 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+6 sur 24
+ 
+Ontogenèse B en 
+2 étapes 
+ 
+L’ontogenèse B est le développement multi-étapes à partir d’un progéniteur 
+lymphoïde commun ayant pour but la production des LT B matures. Elle se 
+déroule en 2 parties : la première indépendante des antigènes étrangers, dans la 
+moelle osseuse, et la deuxième dépendante des antigènes étrangers, dans les 
+ganglions lymphatiques. 
+ 
+ 
+ 
+ 
+ 
+Dans la moelle osseuse, une CSH va progressivement maturer en LT B mature 
+grâce au réarrangement des gènes VDJ, qui sont les gènes des immunoglobulines 
+(Ig), le récepteur B à l’antigène en étant une. On va donc obtenir un LT B mature 
+avec un récepteur B, sur sa membrane, fonctionnel. 
+Ce LT B mature (capable de répondre à un antigène) circule dans le sang 
+jusqu’aux ganglions, y rencontre son antigène et y fini sa maturation.  
+ 
+Cette maturation se termine par une commutation de classes : changement de la 
+partie constante IgM en une autre partie constante IgA, IgE, IgG ou IgM. 
+Ensuite, il y a des mutations somatiques des gènes des Ig qui vont augmenter 
+l’affinité et la spécificité du LT B pour l’antigène.  
+ 
+Il existe donc une grande diversité immunitaire : LT B IgA, LT B IgE, LT B IgG, LT B 
+IgM… 
+ 
+II. Notion d’immunoglobulines 
+A. Gènes des Ig IGHV et BCR 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+7 sur 24
+ 
+ 
+ 
+Chaque lymphocyte B est caractérisé par un réarrangement des gènes des 
+immunoglobulines spécifiques qui s’exprime par un BCR unique  
+ 
+ 
+B. Mécanisme de la diversité des immunoglobulines 
+Généralités 
+ 
+La diversité des Ig grâce à deux mécanismes : 
+ 
+-des mécanismes médullaires (pendant la lymphopoïèse) avec : 
+ 
+• 
+La diversité combinatoire : liée au réarrangement aléatoire des gènes V, 
+D et J sur les LT B immatures. Ces gènes qui codent pour la protéine BCR 
+(qui est une Ig). Le choix de l’un des trois gènes va créer de multiples 
+combinaisons possibles ; on parle de système multigénique réarrangé 
+ 
+• 
+La diversité jonctionnelle :  liée à l’insertion de nucléotides (non codés 
+par l’ADN) par la terminal desoxynucleotidyl transférase (TdT) au niveau 
+de la jonction, et des délétions par les exonucléases. Cela permet donc 
+d’obtenir des séquences de jonction spécifiques de l’épitope reconnu. 
+ 
+• 
+La diversité d’appariement : liée à l’association de la chaîne lourde et de 
+la chaîne légère. Les gènes VDJ de la chaine lourde et VDJ de la chaîne 
+légère vont s’arranger, on a donc des chaînes différentes 
+ 
+-des mécanismes périphériques (pendant l’immunopoïèse) qui entrainent des 
+diversités additionnelles de deux types  
+• 
+Diversification isotopique : par commutation de classe (passage de IgM à 
+IgG, IgA, IgE) 
+• 
+Diversification par maturation d’affinité : mutations somatiques   
+ 
+Ces mécanismes ont lieu sur l’ADN d’un LT B mature et augmentent leur affinité 
+pour l’antigène. 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+8 sur 24
+ 
+ 
+A chaque étape, il peut y avoir des anomalies pouvant entraîner  
+- 
+Un arrêt de la maturation : si anomalie sur LT B immature 
+- 
+Leucémies aigues lymphoblastiques : si anomalie sur LT B immature 
+- 
+Lymphome B 
+ 
+ 
+Diversité des Ig 
+ 
+Le répertoire antigénique reconnu par les Ig est très diversifié. En effet chez un 
+adulte normal il existe 10^20  molécules d’Ig différentes qui reconnaissent plus 
+de 10^9 espèces moléculaires différentes (germes, bactéries…). 
+Chaque LT B porte plusieurs milliers de BCR identiques sur leur membrane, et 
+chaque BCR a une spécificité unique : il reconnait un seul épitope. Chaque LT B 
+reconnait donc un motif antigénique spécifique et tous les LT B sont différents. 
+On parle donc de répertoire lymphocytaire B. 
+ 
+Ig-récepteurs B à 
+l’antigène-
+anticorps 
+ 
+L’immunoglobuline est un tétramère avec des chaînes identiques 2 à 2 : 2 
+chaines lourdes identiques qui s’associent à 2 chaines légères identiques.  
+ 
+Elle est composée entre autres d’un fragment constant (IgA, IgM…) qui s’ancre 
+dans la membrane du LT B, envoie (en s’associant à CD 79 a et b) un signal dans 
+la cellule pour finir la maturation et continue de se transformer en plasmocyte. 
+ Elle possède aussi un fragment variable qui permet la liaison à l’antigène.  
+ 
+ 
+ 
+ 
+L’immunoglobuline porte d’autres noms :  
+- 
+BCR : récepteur B à l’antigène : Ig membranaire à la surface des LT 
+- 
+Anticorps : Ig sécrétée par les plasmocytes 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+9 sur 24
+ 
+Antigène-
+Anticorps 
+ 
+Un antigène est une molécule capable d’être reconnue par le système 
+immunitaire. Il est constitué de plusieurs épitopes reconnaissables par les 
+paratopes des LT B.   
+Ils sont reconnaissables par plusieurs BCR et donc par plusieurs anticorps 
+différents. 
+ 
+ 
+ 
+ 
+ 
+NB :  
+• 
+Un antigène constitué de plusieurs épitopes est reconnu par plusieurs 
+anticorps différents. 
+• 
+Deux antigènes différents peuvent présenter un même épitope. 
+• 
+Un épitope est un petit fragment d’antigène reconnu par le paratope de 
+l’anticorps 
+Notion 
+d’immunogène 
+ 
+Définitions de notions : 
+L’immunogénicité est la capacité à induire une réponse immunitaire humorale 
+grâce aux LT T 
+Antigénicité : capacité à être reconnu ultérieurement (se combiner) avec un 
+anticorps (à un BCR). C’est donc la capacité à être reconnu par un LT B 
+ 
+Haptène : antigène incapable d’induire une réponse immunitaire  
+ 
+Les caractéristiques requises pour devenir immunogène sont :   
+- 
+Être reconnu comme étranger (ne fait pas partie du Soi) 
+- 
+Posséder une taille moléculaire suffisante (un haptène seul n’est pas 
+immunogène) 
+- 
+Posséder une complexité chimique (Ag répétitifs) 
+- 
+Posséder la capacité à être apprêté et associé à une molécule du CMH 
+ 
+III. Focus sur les lymphocytes B 
+A. Régulation 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+10 sur 24
+ 
+Ontogenèse B 
+ 
+L’ontogenèse B est régulée par des :  
+- 
+Facteurs de croissance  
+➔ 
+SCF  
+➔ 
+IL-7 
+- 
+Facteurs de transcription qui vont orienter la CSH vers la lignée 
+lymphocytaire 
+➔ 
+PAX 5  
+➔ 
+PU1 
+ 
+ 
+ 
+Stades 
+Phénotypiques 
+ 
+Lors de l’ontogenèse B, il existe plusieurs marqueurs phénotypiques différents : 
+- 
+CD 34 
+➔ Marqueur blastique de la cellule immature (lymphoblastes : qu’ils 
+soient B ou T) 
+ 
+- 
+CD19  
+➔ Marqueur LT B immature  
+ 
+- 
+CD19, CD20, CD79 B  
+➔ LT B matures  
+ 
+- 
+CD 38, CD 138 
+➔ Marqueurs des plasmocytes  
+ 
+- 
+CD79 a et b 
+➔ Permettent au BCR de signaler à l’intérieur de la cellule  
+➔ S’expriment depuis le dernier stade avant la maturation  
+ 
+- 
+CD38, CD138 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+11 sur 24
+ 
+➔ Permettent de reconnaître les plasmocytes 
+ 
+B. Méthode d’exploration 
+Cytométrie en 
+flux 
+ 
+Les cellules expriment des déterminants antigéniques (protéines, sucres) situés 
+en surface ou en intracellulaire. 
+Ceux-ci sont classés en CD (cluster de différenciation) et on sélectionne les 
+réactifs spécifiquement à ces marqueurs. Ces réactifs sont fluorescents, couplés 
+à des fluorochromes. 
+ 
+On recueille ensuite les signaux optiques par des miroirs et des filtres et on les 
+transforme en signaux électroniques grâce à un logiciel dédié. 
+ 
+ 
+C. Mécanismes et contrôle de la lymphopoïèse B 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+12 sur 24
+ 
+Généralités 
+ 
+Stade Pré-Pro B :  les cellules sont les plus immatures dans la moëlle, elles n’ont 
+pas encore réarrangé les gènes des immunoglobulines. Elles expriment très 
+faiblement les enzymes RAG-1/2 (recombination activating gene-1/2) ainsi que 
+TdT (terminal désoxynucléotidyl transférase). 
+ 
+ Stade Pro B :  les réarrangements des gènes d’immunoglobulines commencent à 
+se mettre en place. On distingue alors les cellules Pro-B précoces où les 
+réarrangements se caractérisent par la jonction sur les deux chromosomes 14 
+d’un segment DH et un segment JH. Le marqueur CD19 apparaît à ce moment-là. 
+ 
+ Puis suivent les cellules Pro-B tardives où s’assemblent, sur un seul allèle, le 
+segment VH avec les segments DJH réarrangés. RAG-1/2 et TdT s’expriment 
+fortement. La chaîne Ig µ intracytoplasmique es alors synthétisée. 
+ 
+Il y a une sélection positive des cellules qui ont réussi à bien réarranger leurs 
+gènes d’immunoglobulines en exprimant une enzyme appelée BTK. Si cette 
+enzyme est active, elles peuvent continuer leur maturation. Si l’enzyme est 
+mutée, la maturation s’arrête là, ce qui peut créer un déficit immunitaire. 
+ 
+Il y a ensuite une sélection négative : si les Ig des cellules sont autoréactifs, ils 
+pourraient faire de l’auto-immunité et ces cellules-là vont vers l’apoptose.  
+Par la suite, les récepteurs BCR et IgM, IgD de la membrane fonctionnent bien et 
+les cellules peuvent circuler en périphérie. Il y a une tolérance car des cellules 
+avec des Ig faiblement autoréactifs peuvent passer et, à terme, développer des 
+maladies auto-immunes. 
+ 
+Note de RT : impossible de comprendre avec certitude les explications de la prof, 
+nous avons utilisé le livre bleu d’immunologie pour des “explications claires” 
+ 
+Note de RL : je vous remets le schéma pour que tout ce bla-bla vous paraisse plus 
+parlant. 
+ 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+13 sur 24
+ 
+ 
+ 
+ 
+ 
+BTK et 
+développement B 
+ 
+Le BTK est un gène situé sur le chromosome X. S’il est inactivé par mutation, cela 
+entraine une maladie génétique appelée l’agammaglobulinémie liée à l’X de 
+Bruton. Dans cette maladie, seuls les garçons sont atteints et les filles sont 
+porteuses saines. 
+ 
+Cette maladie provoque un déficit immunitaire total : il n’y a pas de cellules B 
+matures donc aucune production d’anticorps, les organes où les cellules 
+normalement prolifèrent sont atrophiques (rate, ganglions, plaques de Peyer, 
+amygdales…) et les infections ne surviennent qu’à partir de l’âge de 6 mois, 
+quand tous les anticorps maternels auront été éliminés. 
+ 
+ 
+IV. Immunopoïèse B 
+Lymphocytes B 
+transitionnels et 
+B naïfs 
+ 
+Lorsqu’ils sortent de la moëlle osseuse, les lymphocytes B expriment le CD5 
+(marqueur T) et vont subir une dernière étape de sélection dans la rate 
+(tolérance périphérique). 
+Les lymphocytes B naïfs n’ont jamais rencontré l’antigène et agissent donc des 
+récepteurs d’antigènes par leur BCR. Les BCR sont IgM et IgD. 
+Ils circulent en permanence dans les organes lymphoïdes secondaires comme les 
+ganglions et la rate à la rencontre de l’antigène que leur BCR reconnaît. 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+14 sur 24
+ 
+Immunopoïèse B 
+ 
+Le devenir des lymphocytes B normaux est déterminé par l’exposition à 
+l’antigène.  
+Les lymphocytes B matures sont capables de migrer dans les ganglions, via les 
+veinules à endothélium épais (High Endothelial Veinules).  
+En l’absence de rencontre avec l’antigène, ils ont un temps de passage court de 3 
+jours.  
+Si les cellules B rencontrent l’antigène, elles répondent par une activation, une 
+prolifération et une différentiation. 
+Lymphocytes B 
+naïfs 
+ 
+Les antigènes qui parviennent dans les tissus sont transportés dans les ganglions 
+dans les zones riches en lymphocytes B. C’est dans cette zone B qui commence 
+l’immunité humorale. 
+Il s’agit de follicules primaires. 
+Les lymphocytes T se concentrent dans les zones intermédiaires. 
+ 
+A. Signalisation BCR 
+Généralités 
+ 
+La signalisation du BCR joue un rôle très important, de même pour le 
+microenvironnement. 
+La commutation de classe IgM, IgA, IgE et IgC augmente la spécificité pour 
+l’antigène et les mutations somatiques des gènes des Immunoglobulines 
+augmente l’affinité de l’anticorps pour l’antigène. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+15 sur 24
+ 
+Reconnaissance 
+Ag-BCR et 
+activation du BCR 
+ 
+Pour provoquer un signal il faut impérativement le pontage (cross linking) des 
+récepteurs.  
+La partie CD79 A/B assure la transduction du signal par leurs motifs ITAM 
+(Immunoreceptor Tyrosine-based Activation Motifs).  
+Suivent ensuite le recrutement et l’activation de différentes protéines kinase : 
+LYN, SYK et BTK. 
+ On assiste à la formation du signalosome, il s’agit d’un complexe multiprotéique 
+contenant les kinases et centré sur le récepteur B.  
+Les facteurs de transcription sont alors activés et s’en suivent la survie cellulaire, 
+la prolifération et la différenciation. 
+Activation d’un 
+lymphocyte B naïf 
+ 
+L’activation d’un lymphocyte B naïf peut se faire de deux manières différentes :  
+ 
+• 
+De manière thymo-indépendante :  
+ 
+Dans ce cas, elle est faite par un antigène non protéique. Le lymphocyte B naïf 
+activé devient un plasmocyte en gardant IgM. 
+Les antigènes non protéiques peuvent être polysaccharides ou lipidiques car ils 
+ont facilement des motifs répétitifs permettant le pontage au BCR.  
+ 
+Une fois la liaison de l’antigène au BCR du lymphocyte naïf effectuée, celui-ci est 
+activée et on observe une prolifération de lymphocytes B et une faible sécrétion 
+d’IgM par un plasmocyte. L’IgM sécrétée est identique à l’IgM membranaire mais 
+pentavalente. 
+Lorsque l’antigène est multivalent, entraînant un pontage du BCR, ou lorsqu’est 
+activé le complément c3d, la réponse est maximale. 
+Les lymphocytes T n’interviennent pas, c’est pourquoi cette activation est dite 
+thymo-indépendante. 
+ 
+• 
+De manière thymo-indépendante 
+ 
+Dans ce cas, elle est faite par un antigène protéique et on observe la 
+commutation de classes et des mutations somatiques. Ces changements vont 
+permettre de transformer IgM en IgA, IgG ou IgE et la cellule peut devenir un 
+plasmocyte ou une cellule mémoire. 
+Les antigènes protéiques n’expriment pas, dans la majorité des cas, d’épitopes 
+répétés. Le pontage du BCR, et donc l’activation en aval, sont peu intenses.  
+ 
+Ils nécessitent l’intervention d’une autre cellule : la cellule folliculaire 
+dendritique. Ces cellules se situent dans les organes lymphoïdes secondaires et 
+sont capables de présenter l’antigène aux lymphocytes B. 
+ 
+La prolifération de cellules B à la suite du pontage BCR est très faible, de même 
+que la sécrétion d’IgM.  
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+16 sur 24
+ 
+Se forment alors des immuns complexes (IC) : des antigènes anticorps. Ils sont 
+capturés par les cellules folliculaires dendritiques FDC et sont métabolisés. Les 
+antigènes peuvent ainsi être présentés aux lymphocytes B. Lorsqu’elles 
+présentent l’antigène aux lymphocytes B, les FDC sont recouvertes de c3d : il y a 
+alors une intensification de la réponse B. 
+ 
+Les antigènes protéiques sont dits thymo-dépendants car ils nécessitent 
+l’intervention des lymphocytes T pour permettre une réponse immunitaire forte : 
+la faible réponse initiale est amplifiée par les cellules dendritiques qui sont dès 
+lors indispensables. 
+ 
+Les lymphocytes B doivent être préparés pour interagir avec les lymphocytes T. 
+Pour cela, on aura une augmentation de l’expression des molécules de 
+costimulation et des récepteurs de cytokines et une inhibition des chimiokines 
+retenant le lymphocyte B dans la zone B.   
+ 
+ 
+ 
+ 
+                                                                                     
+ 
+ 
+B. Coopération B-T 
+Rencontre B-T 
+ 
+La rencontre entre un lymphocyte B et un lymphocyte T commence par la 
+reconnaissance d’un antigène protéique. Ensuite, l’antigène est endocyté par le 
+lymphocyte B et transformé en peptides. 
+ L’antigène peptidique lié au CMH classe II est présenté et les molécules de 
+costimulation (B7) sont exprimées. Enfin, le lymphocyte T spécifique du même 
+antigène reconnaît la présentation des peptides associés aux molécules CMH de 
+classe II. Il interagit avec les molécules de costimulation correspondantes, par 
+exemple CD28 pour B7. 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+17 sur 24
+ 
+ 
+ 
+                                          Endocytose antigène transformé en peptide  
+            Antigène peptidique lié au CMH classe II présenté    
+Les cellules B 
+activent T 
+ 
+Les lymphocytes T qui activent les lymphocytes B sont une sous population de 
+lymphocytes T CD4+ appelées T folliculaires auxiliaires (TFH, H pour « helper »). 
+Elles sont nécessaires à l’immunité humorale T dépendante.  
+ 
+Il y a de nombreuses interactions entre B et TFH. Celle du lymphocyte B avec le 
+TFH induit l’expression du CD40 ligand sur les cellules TFH et la sécrétion de 
+cytokines de survie. 
+Les lymphocytes T activés activent à leur tour les lymphocytes B. 
+On assiste ensuite à une prolifération intense des lymphocytes B, à des 
+mutations somatiques des IGHV et la commutation de classe des Ig.  
+Pour finir, on a la formation de plasmocytes et des cellules B mémoire. 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+18 sur 24
+ 
+Régulation de la 
+production d’AC 
+ 
+Une fraction de cellules mémoires survit très longtemps mais la plupart des 
+lymphocytes B activés meurent par apoptose entrainant une diminution de la 
+réaction humorale. 
+ 
+ 
+Les anticorps forment des complexes immuns avec les antigènes restants.  
+L’extrémité Fc de ces immuns complexes peut se fixer sur le récepteur Fc présent 
+à la surface des lymphocytes B.  
+ 
+Cette fixation induit un signal négatif qui interrompt la production d’anticorps 
+par ces lymphocytes B. Son rôle est d’interrompre la réaction immunitaire 
+lorsque des quantités suffisantes d’anticorps ont été produites. 
+Bilan 
+ 
+Réponse aux antigènes thymo-dépendants et indépendants 
+ 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+19 sur 24
+ 
+Maturation 
+d’affinité 
+ 
+La maturation d’affinité est le processus par lequel l’affinité des anticorps 
+produits contre un antigène augmente à la suite d’une exposition prolongée ou 
+répétée à cet antigène. 
+ Cette augmentation d’affinité est due à des mutations ponctuelles dans les 
+gènes V, en particulier dans leur région hypervariable de liaison à l’antigène.  
+ 
+Ces mutations somatiques surviennent lorsque les lymphocytes B migrent dans le 
+centre germinatif après contact avec les lymphocytes T et ne sont donc que 
+provoquées par des antigènes thymo-dépendants.  
+ 
+Les lymphocytes B prolifèrent et acquièrent les mutations au cours des divisions 
+successives. Ce processus requiert l’enzyme AID (Activation-Induced Deaminase). 
+ 
+Mémoire 
+immunitaire 
+ 
+Il existe deux types de mémoires : 
+ 
+• 
+La mémoire centrale :  c’est celle des lymphocytes B mémoires. Elle 
+comprend les lymphocytes circulants dans le sang et la lymphe ainsi que 
+dans la zone marginale du follicule, un BCR de haute affinité et a les 
+capacités de produire des anticorps plus rapidement et pout une dose 
+d’antigène plus faible que lors d’une réponse primaire.  
+ 
+Le profil phénotypique est lié à la commutation de classe et la perte d’expression 
+des IgD et le profil moléculaire est lié à la maturation d’affinité et des mutations 
+somatiques des gènes des Ig. 
+ 
+• 
+La mémoire effectrice : c’est celle des plasmocytes à longue durée de 
+vie. Ils résident essentiellement dans la moëlle osseuse. Elle permet 
+l’exclusion quasi immédiate ou la destruction du pathogène lors d’une 
+nouvelle exposition. 
+ 
+V. Lien avec la pathologie 
+A. L’ontogenèse B en lien avec la pathologie 
+Généralités 
+ 
+-Un blocage de maturation entraîne une accumulation de cellules immatures, ce 
+qui se traduit en pathologie par des leucémies aiguës lymphoblastiques. 
+ 
+-Un problème au niveau des centroblastes ou centrocytes se traduit par le 
+lymphome de Hodgkin ou le lymphome B Non Hodgkinien. 
+ 
+-Un problème au niveau des cellules matures finales se traduit par un myélome 
+multiple. 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+20 sur 24
+ 
+ 
+ 
+ 
+Notion de 
+clonalité 
+On observe normalement une grande diversité au sein des lymphocytes B lié à 
+leur réarrangement VH-DH-JH. En absence de mutations somatiques, il s’agit de 
+lymphocytes B naïfs. En cas de mutations somatiques, il s’agit de lymphocytes B 
+mémoires. 
+À la suite d’évènements oncogéniques, on pourra identifier le marqueur 
+moléculaire clonal d’un lymphome B par exemple. 
+ 
+On peut repérer les marqueurs de clonalité à l’échelon cellulaire, protéique ou 
+moléculaire. 
+A l’échelon cellulaire on va utiliser l’analyse par cytométrie en flux. On recherche 
+un excès d’une chaîne légère 
+ 
+ 
+ 
+A l’échelon protéique on utilise l’analyse biochimique à la recherche d’un excès 
+d’une immunoglobuline. 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+21 sur 24
+ 
+ 
+ 
+ 
+A l’échelon moléculaire, on effectue des recherches à partir du sang, de biopsies, 
+de ponctions ou d’extraction de l’ADN.  
+En cas de suspicion de lymphome B, on cherche à confirmer la clonalité B. 
+ 
+ 
+ 
+Voici un schéma bilan sur le lymphome B et la cellule d’origine :   
+  
+ 
+B. Intérêt thérapeutique 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+22 sur 24
+ 
+Immunothérapie 
+ 
+Il en existe différents types : 
+ 
+-On utilise les immunoglobulines humaines polyvalentes en cas de déficit 
+immunitaire, thrombopénie auto-immune et hypogammaglobulinémie. 
+ 
+-Les immunoglobulines spécifiques sont utilisées via le sérum anti-lymphocytaire 
+(SAL) pour l’aplasie médullaire, via les Ig anti-Rhésus (Ig anti-D) pour la 
+prévention fœto-maternelle et enfin les Ig anti-rabique d’origine humaine ou 
+animale pour les expositions avec risques élevés.  
+ 
+-Enfin, les anticorps recombinants dirigés contre un marqueur présent sur les 
+cellules pathologiques sont monoclonaux et il en existe différentes sortes selon 
+le degré d’Humanisation des molécules : 
+ 
+ 
+ 
+ 
+ 
+ 
+Les cellules CAR-T sont des lymphocytes T avec un récepteur à l’antigène 
+chimérique et ont pour cible le CD19. 
+Les thérapies ciblées sont les inhibiteurs de la signalisation du BCR par 
+l’inhibiteur du BTK. 
+ 
+ 
+ 
+
+---PAGE---
+UE6- Hématologie-Lymphopoïèse B et T, et réponse immunitaire humorale-Pr Baran-
+Marszak-03/03/2026 
+ 
+ 
+23 sur 24
+ 
+ 
+Points essentiels 
+ 
+ 
+- 
+Les lymphocytes et leurs fonctions 
+- 
+Ontogénèse T et B 
+- 
+Le répertoire B 
+- 
+La reconnaissance de l’antigène par l’anticorps 
+- 
+La régulation de la lymphopoïèse B 
+- 
+La régulation de l’immunopoïèse  
+- 
+Réponse immunitaire humorale 
+o Activation du lymphocyte B naïf thymo-indépendante et thymo-
+dépendante 
+- 
+Lien avec la pathologie 
+o Notion de clone 
+o Lymphomes B et cellules d’origine 
+- 
+Lien avec la thérapeutique 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---

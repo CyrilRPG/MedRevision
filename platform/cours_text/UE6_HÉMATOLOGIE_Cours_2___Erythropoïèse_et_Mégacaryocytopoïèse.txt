@@ -1,0 +1,1400 @@
+  
+RT : Nithurshika Karunakaran et Roymilton Pathmarasan 
+RL : Bekka Lahna 
+  
+  
+UE6 – HEMATOLOGIE  
+  
+HEMATOLOGIE dans l’UE6  
+Cours n° 3  
+Pr DEYRA-BARAN-MARSZAK – 11/02/25 à 08h30  
+Erythropoïèse et Mégacaryocytopoïèse  
+  
+PLAN DU COURS  
+I.  
+INTRODUCTION  
+II.  
+ERYTHROPOIESE  
+A. Généralités  
+B. Les acteurs de l’érythropoïèse  
+C. Dysfonctionnements possibles de l’érythropoïèse  
+III.       FACTEURS EXOGENES  
+A. Le Fer   
+B. Acide folique et Vitamine B12  
+C. Pathologies  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 2 sur 31  
+  
+IV.       MEGACARYOCYTOPOIESE  
+A. Processus  
+B. Plaquettes et Régulation  
+C. Pathologies  
+SYNTHESE  
+  
+  
+ 
+Pour partiel : il y aura 2-3 questions basé sur les cours car certain point cours ne sont pas abordé 
+dans les collèges  
+ 
+La prof a dit que l’hématologie sera faite pendant notre P2 et D1. Donc il faut tout de suite bien s'y 
+mettre comme si vous alliez passer le concours là ! Le livre c'est « Le Collège d'Hématologie »,. 
+Cette année il y aura quand même quelques cours de remise à niveau de physiopathologie qu'il n'y 
+aura pas dans le livre, mais c'est pour avoir les bases pour comprendre ensuite tout le reste. 
+La moitié de l'examen c'est des rangs A avec une note supérieure à 13/20. Donc ça vous met dans 
+le bain et de toute façon on n'a pas le temps. La prof a clairement dit “Vous n'avez pas le temps, 
+vous n'avez que 4 ans pour tout faire, on vous a enlevé une année d'hématologie alors que c'est la 
+base. Ce que vous allez faire cette année en hémato c'est la base, ça se retrouve dans toutes les 
+matières, les anémies c'est partout, il faut savoir comment gérer une anémie, c'est vraiment la 
+base.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 3 sur 31  
+  
+ 
+I. INTRODUCTION  
+Hématopoïèse  
+  
+Hématopoïèse : Ensemble des phénomènes qui concourent à la fabrication et 
+au remplacement continu et régulé des cellules sanguines.  
+• 
+Continu car les cellules ont une durée de vie relativement courte et 
+doivent être renouvelées en permanence ;   
+• 
+Régulé pour éviter des syndromes prolifératifs.  
+Les cellules 
+sanguines  
+On retrouve dans ce tableau les cellules matures = les cellules terminales de leur 
+lignée cellulaire respective. Ce sont les cellules circulant dans le sang :  
+  
+  
+● Les globules rouges ou les hématies : sont des sacs à transporter 
+l'oxygène avec l'hémoglobine. 
+● Les plaquettes : sont des petits éléments qui servent à l'hémostase 
+primaire. 
+● Les cellules myéloïdes : les polynucléaires neutrophiles, les 
+polynucléaires basophiles, basophiles, les polynucléaires éosinophiles 
+qui servent à l'immunité. 
+● Les lymphocytes : servent l'immunité. 
+● Monocytes : phagocytose et servent à l’immunité 
+ 
+Nombre et Durée de vie des cellules sanguines  
+  
+• 
+Très différenciées :  o Eléments terminaux et fonctionnels de 
+chaque « LIGNÉE CELLULAIRE ».   
+  
+• 
+Durée de vie courte :   o GR ≈ 120 j (4 mois) o Plaquettes ≈ 7 j 
+o GB ≈ 1 j  ( on ne peut pas garder les poches de transfusion 
+très longtemps) 
+  
+• 
+Peu ou pas de possibilité de division (plaquettes et GR n’ont 
+pas de noyau) : les éléments matures ne se divisent pas dans le 
+sang.  
+  
+  
+• 
+Nombre très élevé dû à une production très importante : o 
+1013 cellules sanguines / jour o 2 millions de GR / seconde  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 4 sur 31  
+  
+Aspect des 
+cellules au MO   
+( partie pas très détaillé par la prof donc on remet celui de l’année dernière ) : 
+• 
+GR = cellules anuclées  
+• 
+Plaquettes = cellules anuclées (petites)  
+• 
+Polynucléaires neutrophiles = Plusieurs morceaux de noyaux 
+raccrochés ensemble = noyau plurilobé (Neutrophile  « plusieurs 
+noyaux »)  
+• 
+Polynucléaires 
+éosinophiles 
+= 
+Noyau 
+bilobé, 
+Granulations 
+cytoplasmiques oranges/rouges, contiennent des enzymes  
+• 
+Polynucléaires 
+basophiles 
+= 
+Granulations 
+cytoplasmique 
+pourpres/violet sombre (enzymes), avec noyau difficilement identifiable 
+• 
+Monocytes = Noyau irrégulier, « en forme de haricot », cytoplasme 
+abondant contenant de fines granulations avec des invaginations qui 
+vont aider à la phagocytose  
+• 
+Lymphocytes (T / B / NK) = Gros noyau sphérique, bordure de  
+cytoplasme bleu-clair  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 5 sur 31  
+  
+ 
+multipotents : 
+GM - CSF   
+  
+Les lignées érythroïde et mégacaryocytaire ont un progéniteur commun qu'on 
+appelle mégacaryocyte-érythropoïétique progéniteur (MEP) : 
+● La voie érythroïde : via les progéniteurs successifs BFU-E puis CFU-E. 
+● La voie mégacaryocytaire : via le progéniteur CFU-Mk. 
+Une fois cet engagement pris, les cellules perdent leur bipotence pour se 
+différencier spécifiquement dans leur lignée respective. » 
+  
+  
+  
+Lecture : CFU = Colony Forming Unit = Lignée  
+Donc les progéniteurs ici en vert et des progéniteurs multipotents qui vont 
+pouvoir donner naissance à plusieurs lignées différentes. 
+Le progéniteur commun méga-érythro qui va ensuite donner les deux lignées et 
+se terminer par les éléments matures hématies et plaquettes. 
+Le GM-CSF (Granulocyte Monocyte Colony Stimulating Factor) c'est un facteur 
+de croissance multipotent qui régule toutes les lignées myéloïdes à partir du 
+CFU-GEMM c'est-à- dire toutes les lignées y compris érythroïde et méga mais 
+pas lymphoïde. 
+ 
+Normes 
+La numération globulaire et plaquettaire : Numération globulaire + plaquettes : 
+nombre de GR, leucocytes (GB) et plaquettes par litre de sang. 
+ 
+Résultats normaux : 
+● GR : 5 ± 0.5 * 1012 /L chez l'homme 
+4.5 ± 0.5 * 1012 /L chez la femme ● Hémoglobine: 130 g/L homme 
+120 g/L femme 
+140 g/L nouveau-né (la valeur varie beaucoup, donc pas besoin d’apprendre la 
+valeur mais juste retenir que c’est plus élevé que chez la femme et l’homme) 
+● GB : 4-10 * 109/L chez l'adulte ● Plaquettes : 150-400 * 109/L 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 6 sur 31  
+  
+ 
+CFU-GEMM est la cellule progénitrice commune de 4 lignées :  
+- 
+Granulocytes (= les polynucléaires)  
+- 
+Erythrocytes  
+- 
+Monocytes  
+- 
+Mégacaryocytes.  
+  
+Elle répond au facteur de croissance multipotent GM-CSF via des récepteurs 
+membranaires (les lignées qui en descendent y répondent également).   
+Facteurs de 
+croissance  
+restreints : EPO 
+et TPO  
+Les facteurs de croissance propres à une lignée sont dits facteurs de croissance 
+restreints.  
+  
+ 
+Facteurs de 
+croissance 
+restreints EPO et 
+TOP  
+  
+  
+• 
+L’érythropoïétine (EPO) est un facteur de croissance diriger vers la 
+lignée érythroblastique.   
+• 
+La thrombopoïétine (TPO) est facteur de croissance diriger vers la lignée 
+mégacaryocytaire.  
+• 
+Le G-CSF est un facteur de croissance restreint à la lignée myéloïde et 
+monocytaire ensuite le M-CSF c’est mononcytaire.  
+• 
+Les facteurs de croissance l’IL-7 vont diriger la différenciation lymphoïde 
+Remarque : ne pas confondre cytokines et facteurs de croissance  
+• 
+Les facteurs de croissance sont des protéines qui favorisent la croissance 
+et la différenciation des cellules. Ils agissent sur les progéniteurs, qui 
+sont des cellules souches immatures peu différenciées, en les incitant à 
+se différencier en précurseurs, qui sont des cellules légèrement plus 
+différenciées dans une lignée spécifique.  
+• 
+Ex. G-CSF agit sur les progéniteurs myéloïdes pour promouvoir leur 
+prolifération et leur différenciation en granulocytes.  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 7 sur 31  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+II. ERYTHROPOIESE  
+ 
+A. Généralités  
+Définitions  
+  
+Érythropoïèse : Ensemble des mécanismes qui assurent la production 
+constante et régulée des globules rouges.  
+Globule rouge (GR) : Cellule anucléée qui contient l’hémoglobine, qui est le 
+transporteur d’O2 au tissu.  
+Hémoglobine : comprend 4 chaînes de Globine, et 4 Hèmes pour fixer l’O2.  
+Déroulement de 
+l’érythropoïèse  
+ 
+L’érythropoïèse permet de produire 2*1011 érythrocytes / jour via une 
+succession de divisions durant lesquelles les cellules :  
+ 
+ • se différencient ; 
+• se chargent en hémoglobine au fur et à mesure de la différenciation ; 
+• diminuent en taille. 
+ 
+ 
+À partir d'une cellule souche hématopoïétique on a les progéniteurs c'est-à-
+dire les cellules qui sont pas différenciables morphologiquement, ce sont des 
+cellules immatures. On a un ensemble de progéniteurs qui vont vers la 
+maturation érythroïde donc 
+- progéniteur commun myéloïde (CMP) 
+- progéniteur commun érythroméga (EMP) 
+- BFU-E 
+- CFU-E 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 8 sur 31  
+  
+ 
+ 
+ 
+Et ensuite les précurseurs qui eux sont reconnaissables de la lignée, c'est-à-
+dire qu'ils vont commencer à porter l'hémoglobine en fait au fur et à mesure 
+ça commence par : 
+1. Le proéryythroblaste avec un cytoplasme particulier qui va se 
+remplir au fur et à mesure en hémoglobine. Le proérythroblaste 
+est une grosse cellule qui diminue en taille au fur et à mesure des 
+divisions cellulaires 
+2.  l'érythroblaste basophile 
+3.  l'érythroblaste polychromatophile avec un cytoplasme 
+qui se différencie 
+4. Un érythroblaste acidophile 
+5.  réticulocytes : vont sortir de la moelle pour aller dans le 
+sang circuler et perdre leur noyau. 
+Dans le sang on n'a pas de cellules nucléées, les cellules 
+nucléées sont dans la moelle. 
+Jusqu’à présent ces cellules n’étaient pas différenciées = progéniteurs.  
+Dès lors, on passe à des précurseurs qui sont, eux, des cellules qui se 
+différencient  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 9 sur 31  
+  
+II. ERYTHROPOIESE  
+Les précurseurs  
+ 
+Les précurseurs sont les cellules juste après les progéniteurs, qui commencent 
+à se différencier.  
+ 
+ 
+Les réticulocytes se caractérisent par la présence de résidus d’acides 
+nucléiques, essentiellement de l'ARN. Ces traces permettent leur identification 
+par des techniques de coloration ; si ce marquage était autrefois réalisé 
+manuellement, il est aujourd'hui effectué par des automates pour assurer le 
+décompte précis des cellules. Bien que dépourvus de noyau, les réticulocytes 
+conservent ces résidus nucléiques qu'ils finiront par éliminer pour devenir des 
+globules rouges (érythrocytes) matures. 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 10 sur 31  
+  
+ 
+Pour ce qui est de la lignée érythroblastique : les précurseurs commencent au 
+niveau du pro- érythroblaste qui subit   
+• 
+Une 1ère mitose —> érythroblaste basophile I,  
+• 
+2ème mitose —> érythroblaste basophile II,  
+• 
+3ème mitose —> érythroblaste polychromatophile,   
+• 
+4ème mitose —> érythroblaste acidophile,  
+• 
+Il n’y a plus de mitose après ce stade mais une différenciation en 
+réticulocytes dépourvus de noyau, qui vont rejoindre le sang.  
+  
+NB : Les noms correspondent à l’aspect cytologique, qui traduit l’évolution du 
+contenu en Hb. Basophile = Cytoplasme bleu, puis Acidophile = presque la 
+couleur du Globule rouge 
+  Si tout se déroule correctement : 4 mitoses, en 7 jours, pour donner 
+16 cellules filles réticulocytes.   
+Remarque prof : le délai de 7 jours peut être raccourci si la moelle doit 
+renouveler de grandes quantités de GR 
+ 
+- Mécanisme de réponse à l'urgence (hémorragie) : Accélération de la 
+différenciation par suppression d'une étape de mitose (ex: passage direct du 
+stade érythroblaste basophile au stade suivant sans basophile II). 
+-  Conséquence morphologique : absence de réduction de taille finale. 
+-  Traduction biologique : Apparition de réticulocytes de grand volume et 
+élévation du VGM global.      
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 11 sur 31  
+  
+Marqueurs 
+de 
+différenciation : 
+CD34, CD36 et 
+REpo  
+L’érythropoièse suit une séquence de maturation morphologique 
+précise : proérythroblaste, érythroblaste basophile, 
+polychromatophile, puis acidophile, aboutissant au réticulocyte. Ce 
+processus se caractérise par trois évolutions simultanées : 
+     1. Une diminution progressive de la taille cellulaire. 
+     2. Une condensation de la chromatine menant à l'expulsion finale du noyau. 
+     3. Une synthèse croissante d'hémoglobine dans le cytoplasme. 
+                            
+Cette lignée est régulée par l'érythropoïétine (EPO), hormone agissant 
+comme un facteur de croissance spécifique. Le récepteur à l'EPO 
+commence à s'exprimer dès le stade terminal des progéniteurs (CFU-E). 
+C’est cette expression qui déclenche l’engagement irréversible vers le 
+stade proérythroblaste et initie la production d'hémoglobine. 
+ 
+Le CD34 est un marqueur blastique de cellules immatures, qui est présent sur 
+toutes les cellules immatures de toutes les lignées. C'est pas spécifique à 
+l’érythropoïèse. C’est donc un marqueur multipotent d’immaturité. 
+Le CD36 est un marqueur qui devient plus spécifique de la lignée 
+érythroïde. 
+Mais les principales sont le récepteur à l’érythropoïétine et la glycophorine A et 
+l’hémoglobine. 
+Quand il y a CD36, glycophorine A et puis récepteur à 
+l’érythropoïétine, on est dans la lignée érythropoïétique. 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 12 sur 31  
+  
+Les réticulocytes  
+Réticulocyte : étape terminale de l’érythropoïèse, reflète le niveau de production 
+de la moelle.  
+ Quantifier les réticulocytes renseigne sur le bon fonctionnement de la 
+moelle.  
+  
+• 
+Obtenu après l'expulsion du noyau de l'érythroblaste acidophile (aspect 
+de gros GR un peu bleuté).  
+• 
+Les réticulocytes quittent la moelle osseuse après 2-5 j.  
+• 
+Dans le sang ils évoluent en GR définitifs en 1- 2 j par diminution de la 
+taille et perte de l’ARN résiduel.  
+Le réticulocyte a une taille et un volume un peu supérieurs à ceux du 
+GR 125 fL ; 8 μm de diamètre), et possède encore des ribosomes et 
+des mitochondries qui se colorent et précipitent avec certains colorants 
+(permettant une quantification dans le sang). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 24/02/2026 
+ 
+  
+Page 13 sur 31  
+  
+II. ERYTHROPOIESE  
+C. Dysfonctionnements possibles de l’érythropoïèse  
+Equilibre  
+Erythropoïèse - 
+Hémolyse  
+  
+  
+En physiologie :   
+• 
+L’érythropoïèse produit les réticulocytes, qui deviennent GR.  
+• 
+A la fin de leur cycle de vie, les GR sont détruits par les macrophages 
+au niveau de la rate (hémolyse physiologique) et ce, de façon 
+équilibrée.  
+  
+En cas d’hémolyse pathologique, avec destruction augmentée des GR, il devient 
+nécessaire de produire davantage de GR.  
+EPO  
+ÉRYTHROPOÏÉTINE (EPO) : Elle est majoritairement fabriquée dans le rein 
+(90%) et un peu par le foie (10%).  
+  
+Donc si on a une insuffisance rénale, on a un déficit en érythropoïétine, 
+on a une anémie centrale. La production médullaire ne peut pas se faire.
+   
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 14 sur 31  
+  
+ 
+La production d’EPO (et donc de GR) est PO2 dépendante :  
+Si on a une PO2 tissulaire diminuée (exemple : hypoxie) un signal de production 
+d’EPO est envoyé à la moelle de produire plus de GR et de réticulocytes pour 
+augmenter le taux d'hémoglobine et d'O2 au tissu (la PO2 tissulaire étant liée 
+à [Hb]).  
+Eléments 
+nécessaires à 
+l’érythropoïèse  
+  
+  
+Eléments nécessaires à l’érythropoïèse  
+• 
+Hormone : o Erythropoïétine (EPO) pour la maturation.  
+• 
+Facteurs exogènes :  
+o Fer pour synthétiser de l’hémoglobine (Hb) L’hémoglobine c’est quatre 
+chaînes de globine, un hème avec du fer. Donc ce fer est central dans la 
+synthèse de dans la synthèse de l’hémoglobine) o Vitamines B12 et folates 
+(B9) pour synthétiser l’ADN, car la lignée érythroïde produit énormément de 
+cellule.  
+  
+Facteurs inhibant l’érythropoïèse  
+  
+• 
+Insuffisance rénale : perturbe la production d'EPO —> donc moins de 
+production de lignée érythroïde —> anémie normocytaire par défaut 
+de production médullaire.  
+  
+• 
+Carence en fer (due à des saignements chroniques, carence nutritive…) 
+: provoque une augmentation du nombre de mitoses pour arriver à une 
+concentration en Hb suffisante dans le GR —> diminue encore plus la 
+taille des GR —> VGM réduit —> anémie ferriprive microcytaire.  
+  
+• 
+Carence en B12/Folates (alimentation) : moins de mitoses, car 
+production insuffisante d’ADN —> GR augmenté en taille —> VGM 
+augmenté —> anémie macrocytaire.  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 15 sur 31  
+  
+Anémie normo / 
+macrocytaire  
+Taux normal de réticulocytes = 120 Giga/L   
+                                                      = 120 * 109 / L   
+  
+• 
+Si les réticulocytes sont > 120 G / L :  o Cela signifie que la moelle les 
+régénère suite à des pertes excessives d’hémoglobines dans le cadre 
+d’une hémorragie aiguë ou alors si on a des destructions massives dans 
+une hémolyse aiguë   
+ Cause périphérique avec bon fonctionnement de la moelle :  
+production régénérative  
+  
+• 
+Si le taux de réticulocyte est < 120 G / L, avec présence d’une anémie  
+o cela signifie que la moelle ne fonctionne pas   
+ Défaut de production central (ou médullaire) qui est cette fois 
+arégénératif.  
+Signalisation 
+intracellulaire  
+Signalisation intracellulaire de l’EPO ou de la TPO  
+  
+  
+  Le fonctionnement du récepteur à l’érythropoïétine est identique à celui de la 
+thrombopoïétine. Ces récepteurs ont la particularité de se dimériser lorsqu’ils 
+reconnaissent leur cytokine respective (ici, l’érythropoïétine). 
+● Cette dimérisation induit alors la phosphorylation de kinases spécifiques 
+associées au récepteur, appelées JAK. 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 16 sur 31  
+  
+● Les kinases JAK phosphorylent des tyrosines sur le récepteur au niveau d’un 
+motif qui s’appelle ITAM et ce motif ITAM phosphorylé va être reconnu par les 
+facteurs de transcription qui s’appellent STAT. 
+● Ces facteurs de transcription STAT vont se dimériser et directement aller 
+transcrire des gènes qui sont importants dans la prolifération et la 
+différenciation rouge. 
+● C’est une régulation très rapide puisque le facteur de transcription reconnaît 
+directement au niveau du récepteur et passe directement dans le noyau activer 
+la transcription des gènes. 
+Pathologie : 
+● Il peut y avoir des mutations qui touchent les kinases 
+JAK et qui donnent les maladies myéloprolifératives, des polyglobulies de 
+Vaquez, syndrome myéloprolifératif lié à une mutation de JAK. Les polyglobulies 
+de Vaquez ou les thrombocytémies essentielles qui est un autre syndrome 
+myéloprolifératif mais là lié au récepteur à la TPO et à la mutation JAK, c’est la 
+même mutation. 
+● On a des médicaments qui ciblent cette kinase mutée, c’est les 
+inhibiteurs de JAK. 
+Régulation de 
+l’EPO : QCM  
+Parmi les propositions suivantes, quelle ou quelles sont les propositions 
+exactes ?   
+a. 
+En cas de besoin les réticulocytes se divisent pour produire plus 
+d’hématies  
+b. 
+Le récepteur à l’érythropoïétine s’exprime dès le stade CFU-E   
+c. 
+Le marqueur GPA (Glycophorine A) est un marqueur de différenciation 
+érythroïde   
+d. 
+L’hypoxie entraine l’augmentation de l’EPO   
+e. 
+L’EPO est synthétisée par le rein et le foie  
+  
+  
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 17 sur 31  
+  
+ 
+III. FACTEURS EXOGENES  
+A. Le Fer  
+Le fer dans 
+l’organisme  
+  
+Réserves  
+  
+Dans l’organisme, le fer est essentiellement contenu dans des réserves :  
+• 
+Dans les hématies au niveau de l’hémoglobine, et dans la myoglobine 
+(dans les muscles) (3 g) ;   
+• 
+Dans les réserves en fer, sous forme de la ferritine dans le foie et sous 
+forme de transferrine qui est la voie de transport du fer dans sang (1 g)  
+• 
+Enzymes héminiques (0,01 g)  
+• 
+Plasma (0,003 g)  
+NB : le fer est présent dans l’organisme sous forme de réserves (ferritine, 
+transferrine) pour prévenir sa toxicité à l’état libre.   
+Cycle du fer  
+Normalement, le cycle du fer est auto-régulé. On absorbe peu de fer, seulement 
+1 mg par jour (et on en élimine peu aussi).  
+  
+Au bout de 120 jours, les globules rouges sont détruits dans les macrophages :  
+c’est l’hémolyse physiologique.  
+  
+Le fer de l’hémoglobine libéré par cette destruction peut, en fonction des 
+besoins :  
+• 
+soit être mis en réserve dans la ferritine ;  
+• 
+soit être réutilisé pour la synthèse des hématies. Dans ce cas, le fer 
+est libéré par les macrophages qui le contenaient, puis transporté dans le sang 
+par la transferrine jusqu’à la moelle où a lieu la synthèse de la lignée 
+érythroïde.  
+ 
+L'hepcidine régule tout cela. L'hepcidine vient inhiber la sortie du fer des 
+macrophages. Donc ça retient le fer dans les macrophages. 
+En cas de besoin, il faut que l'hepcidine diminue pour que le fer puisse sortir. Et 
+notamment dans l'inflammation, l'hepcidine elle augmente. Et donc le fer est 
+séquestré dans les macrophages. Et donc on a une anémie parce que le fer est 
+séquestré dans les macrophages. Donc l'inflammation ça entraîne une anémie 
+inflammatoire avec des réserves en fait qui sont importantes. 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 18 sur 31  
+  
+  
+ 
+  
+Dans le cas d’une hémorragie chronique, on perd un petit peu de sang tous les 
+jours (saignements digestifs, règles abondantes par exemple). On perd alors un 
+peu plus de fer que la normale, ce qui provoque une diminution des réserves 
+de fer si on ne compense pas l’absorption.   
+ Une anémie ferriprive microcytaire arégénérative survient alors.  
+  
+Dans le cas d’une grande hémorragie, la moelle va rapidement compenser et 
+ainsi, les réserves de fer ne diminuent pas.   
+ Il peut éventuellement y avoir une anémie macrocytaire régénérative.  
+  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 19 sur 31  
+  
+Vocabulaire  
+Ferritine : Réserves en fer dans les hépatocytes et les macrophages.   
+  
+Transferrine : Transporte le fer dans le sang jusqu’à la moelle.  
+  
+Hepcidine : hormone synthétisée par le foie qui régule l’absorption du fer et 
+augmente la rétention de fer dans les macrophages.  
+  
+NB : En cas d'inflammation, l'Hepcidine augmente  Rétention de fer accrue  
+Anémie microcytaire par défaut d'utilisation du fer (pas par défaut de réserves, 
+le fer est stocké dans les macrophages).  
+  
+ 
+Hémolyse physiologique : les GR sont phagocytés par les macrophages qui 
+retiennent le fer dans la ferritine et le relarguent dans la transferrine pour la 
+synthèse de nouvelles hématies.  
+  
+Si les besoins en fer augmentent, en cas d’hémorragie ou d’hémolyse par 
+exemple, la transferrine livre rapidement du fer à la moelle. Elle est donc 
+désaturée et élève le taux d’absorption. Il y a par la suite une augmentation du 
+taux de transferrine tandis que le taux d’hepcidine diminue pour relarguer le 
+fer.  
+  
+L’exploration clinique du métabolisme du fer, ou le bilan martial, repose sur :  
+• 
+le dosage de la ferritine —> 1er examen (!!!) = RESERVES EN 
+FER o 20μg/L pour les femmes  o 30μG/L pour les hommes   
+• 
+le dosage du fer sérique  o 11μM pour les femmes  o 12 à 
+34μM pour l’homme  
+• 
+associé a la capacité totale de fixation (ou de saturation) de 
+la transferrine mais plus rarement.  
+• 
+ 
+● En premier, Le bilan martial c'est le dosage de la ferritine qui va nous 
+dire si elle est normale nos réserves sont normales et voilà, si elle est 
+diminuée les réserves sont diminuées et donc c'est une anémie 
+ferriprive et si elle est augmentée c'est une anémie inflammatoire. 
+● Le dosage du fer sérique on le fait qu'en deuxième intention, et on y 
+associe toujours la capacité totale de fixation ou de saturation de la 
+transferrine. La capacité totale de fixation et la capacité de saturation 
+de la transferrine c'est des choses qui sont en miroir. Si c'est saturé on 
+peut plus fixer, si c'est désaturé on peut fixer. 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 20 sur 31  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+En clinique  
+Une perturbation du métabolisme du fer peut conduire à une anémie 
+microcytaire arégénérative via 2 mécanismes :  
+  
+• 
+Anémie ferriprive : due à une carence en fer, en cas d’insuffisance 
+d’apport alimentaire, d’augmentation des besoins ou d’exagération des pertes 
+sanguines. Les réserves de fer sont diminuées.  
+  
+• 
+Anémie inflammatoire : le fer est séquestré par les macrophages et 
+n’est donc plus disponible pour l’érythropoïèse - sous l’effet de cytokines 
+inflammatoires. Les réserves sont normales ou augmentées.  
+  
+Ces caractéristiques permettent bien de différencier les deux causes d’anémie 
+microcytaire arégénérative.  
+  
+  
+  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 21 sur 31  
+  
+  
+ 
+III. FACTEURS EXOGENES  
+ 
+B. ACIDE FOLIQUE ET VITAMINE B12  
+Acide folique  
+(B9)  
+  
+• 
+Retrouvé dans les légumes verts, céréales, foies, viandes  
+• 
+Besoins quotidiens : 50 μg  
+• 
+Absorption principalement dans le jéjunum  
+• 
+Réserves dans le foie  
+Vitamine B12  
+• 
+Aussi appelées “cobalamines”  
+• 
+Viande, poisson, œufs, lait (carence en vitamine B12 fréquente chez les 
+végétariens)  
+• 
+Besoins quotidiens : 1 μg  
+• 
+Se fixe au facteur intrinsèque dans l’estomac puis est transportée vers 
+l’iléon terminal où elle est absorbée  
+Cycle des  
+Folates et du 
+B12  
+Métabolisme des folates :  
+  
+  
+• 
+Les facteurs intrinsèques (FI) sont produits par les cellules pariétales 
+de l’estomac.   
+• 
+La maladie auto-immune de Biermer se caractérise par la production 
+d’auto-anticorps anti-FI qui empêchent l’absorption de la vitamine 
+B12.  
+   
+Métabolisme de la vitamine B12 :  
+  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 22 sur 31  
+  
+Rôle dans la 
+synthèse de 
+l’ADN  
+  
+● Diminution du taux d’Hb (et non pas du nombre de Globules Rouges) = 
+anémie. 
+○ Anémie régénérative due à une perte excessive de GR comme l’hémolyse 
+ou l’hémorragie, sans dysfonctionnement de la moelle. 
+○ Anémie arégénérative (centrles) : provoquée par un défaut de la production 
+médullaire. 
+■ Il faut penser à la carence en fer, folates ou B12, ou bien à la diminution de l
+’érythropoïétine (insuffisance rénale), une maladie de la moelle 
+● Augmentation du taux d’Hb : polyglobulie, qui peut être : 
+ 
+- Secondaire à une hypoxie tissulaire = diminution de la PO2 tissulaire qui 
+entraîne une augmentation de production de l’EPO. 
+- Primitive, appelée syndrome myéloprolifératif avec pousse spontanée des 
+progéniteurs. EPO reste basse ou normale : mutation de JAK2. 
+ 
+ 
+ 
+ 
+  
+Les Folates(B9) et la Vitamine B12 interviennent dans la synthèse de l’ADN, 
+notamment dans la production des nucléotides de la thymidine.  
+  
+  
+ 
+ 
+ 
+III. FACTEURS EXOGENES  
+C. PATHOLOGIES  
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 23 sur 31  
+  
+En clinique  
+  
+  Diminution du taux d’Hb  ( et non pas du nombre de GR !!!)  =  anémie .  
+o  Anémie régénérative   : due à une perte excessive   de GR   comme  
+l’hémolyse ou l’hémorragie , sans dysfonctionnement de la moelle .  
+o  Anémie arégénérative   provoquée par un  
+: 
+défaut de la  production  
+médullaire .   
+   Il faut penser à la carence en fer, folates ou B12, ou bien à  
+la diminution de l’érythropoïétine ( insuffisance rénale ).  
+  
+  Augmentation du taux d’Hb :  polyglobulie ,  qui peut être :  
+o  Secondaire  à une hypoxie tissulaire 
+   diminution de la PO 
+= 
+2  
+tissulaire  qui entraine une  augmentation  de production  de l’EPO.  
+o  Primitive ,  appelée  syndrome myéloprolifératif   avec pousse  
+spontanée des progéniteurs.  
+L’EPO reste basse ou normale et il y a une mutation de JAK2.  
+  
+Question   pourquoi est 
+: 
+- ce que l’EPO est basse lors d’une polyglobulie avec un  
+syndrome myéloprolifératif ?  
+Réponse   l’EPO sert à faire fonctionner la lignée. Ici, elle fonctionne sans EPO,  
+: 
+donc il y a une régulation négative qui vise à baisser sa production.  
+QCM  
+➢   
+QCM 1 : concernant la lignée érythrocytaire :  
+  
+A.  
+elle provient de progéniteurs myéloïdes  
+B.  
+elle est initiée par l'action du GM - CSF sur les CFU - GEMM  
+C.  
+elle  a pour progéniteurs les proérythroblastes  
+D.  
+elle donne 16 hématies par  proérythroblaste après 4 mitoses  
+E.  
+elle est régulée par le nombre de globules rouges circulants  
+  
+  
+  
+  
+  
+  
+➢   
+QCM 1 RÉPONSES  
+A.  
+VRAI  : progéniteur commun GEMM  
+B.  
+VRAI   
+C.  
+FAUX : elle a pour précurseurs les  proérythroblastes  
+D.  
+VRAI  
+E.  
+FAUX : elle est  régulée par la PO2 tissulaire  
+  
+  
+➢   QCM 2 : Concernant les cellules de la lignée érythrocytaire ?  
+  
+A.  
+Elles  diminuent de taille au cours de la différenciation   
+B.  
+Les érythroblastes successifs sont dans l'ordre de maturation :  
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 24 sur 31  
+  
+  
+  
+ 
+IV. MEGACARYOCYTOPOIESE  
+ 
+A. Processus  
+Généralités  
+  
+Mégacaryocytopoïèse = Production dans la moelle osseuse, et mise en 
+circulation des plaquettes sanguines (=thrombocytes), à partir des 
+précurseurs médullaires : les mégacaryocytes.  
+• 
+Les mégacaryocytes sont les cellules nucléées, les plus grandes (10-65 
+μm de diamètre) et les plus rares de la moelle osseuse (0,5%).  
+• 
+Les plaquettes sont les cellules anucléées, les plus petites du sang (1- 
+3 μm). Elles ont un rôle important dans l’hémostase (clou 
+plaquettaire).  
+polychromatophiles, basophiles, acidophiles  
+C.  
+La synthèse d’Hb débute au stade BFU - E  
+D.  
+La carence en fer entraine une macrocytose avec une mitose en moins  
+E. 
+Les réticulocytes sont les dernières cellules nucléées de la lignée  
+  
+  
+  
+  
+  
+  
+➢   
+QCM 2 RÉPONSES  
+  
+A.  
+VRAI  
+B.  
+FAUX : basophiles,  polychromatophiles ,  acidophiles,   
+C.  
+FAUX :  A u stade CFU - E  
+D.  
+FAUX : microcytose  
+E.  
+FAUX : anucléées  
+  
+  
+Question  : pourquoi la  
+r entraine 
+carence en fe 
+- t - elle une  microcytose ?  
+Réponse  : Ce qui est important dans le GR c’est la concentration en Hb, la  
+CCRH (Concentration Corpusculaire Moyenne en Hb). Pour l’atteindre, il y a  
+une mitose supplémentaire ce qui rend le  GR plus petit.  
+  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 25 sur 31  
+  
+Processus  
+  
+  
+  
+  
+• 
+BFUE-MK et CFU-MK sont les progéniteurs de la lignée.   
+• 
+Le récepteur à la thrombopoïétine (TPO) commence à s’exprimer au 
+niveau de BFUE-MK.   
+• 
+En réponse à la TPO, l’ADN se duplique sans que la cellule ne se divise, 
+et il reste dans le noyau (c’est une réplication de l’ADN sans mitose). C’est 
+ce qu’on appelle l’endoréplication (= endomitose).  
+• 
+Le mégacaryoblaste grossit au fur et à mesure qu’il synthétise de l’ADN. 
+• 
+Le cytoplasme de la cellule devient mature, avec acquisition de granules 
+denses et fragmentation du cytoplasme en plaquettes qui seront 
+libérées dans le sang par la suite.  
+ Les plaquettes sont des fragments du cytoplasme de mégacaryocyte.  
+ L’ensemble du processus dure 8 jours.  
+  
+On note la présence de marqueurs spécifiques de la lignée mégacaryocytaire : 
+ce sont les marqueurs plaquettaires :  
+▪  
+CD41 (GPIIb/IIIa)  
+▪  
+CD42a (GPIX)  
+▪  
+CD42b (GPIb)  
+  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 26 sur 31  
+  
+ 
+ 
+Le mégacaryoblaste, le mégacaryocyte granuleux et le mégacaryocyte 
+thrombocytaire sont des cellules qui grossissent petit à petit et dont le 
+cytoplasme se fragmente en plaquettes.  
+  
+On voit sur les images  ci-dessus:  
+1. 
+le mégacaryoblaste mature 4-8N  
+2. 
+le mégacaryocyte basophile 8-16N  
+3. 
+Le mégacaryocyte granuleux 32N  
+4. 
+Le mégacaryocyte mature plaquettogène  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 27 sur 31  
+  
+ 
+IV. MEGACARYOCYTOPOIESE  
+ 
+B. Plaquettes et Régulation  
+Structure de la 
+plaquette  
+  
+  
+C’est un élément anucléé de petite taille (2-3 μm).  
+La membrane plaquettaire comprend :  
+• 
+Une bicouche de phospholipides  
+• 
+Des glycoprotéines de surface :  
+o CD42 → GPIb : récepteur du vWF o  
+CD41 → (GPIIbIIIa) : récepteur du vWF et du fibrinogène  
+• 
+Un système canaliculaire de surface qui relie le contenu plaquettaire 
+avec l’extérieur et permet la sécrétion plaquettaire.  
+Contenu 
+plaquettaire  
+  
+  
+• 
+Granules denses pour l’énergie  
+• 
+Granules alpha pour les facteurs de coagulation o vWF  
+o Fibrinogène, facteur V  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 28 sur 31  
+  
+Régulation de la 
+méga  
+caryocytopoÏèse  
+La régulation de la mégacaryocytopoïèse est très différente de celle de 
+l’érythropoïèse.  
+• 
+C’est le nombre de plaquette qui régule la production de TPO.   
+• 
+S’il y a un manque de plaquettes, la TPO augmente pour produire plus 
+de plaquettes. Donc plus mégacaryocyte, plus de maturation et plus de 
+divisions 
+  
+La TPO est synthétisée essentiellement par le foie.   
+ Lors d’une insuffisance hépatique, notamment dans les cirrhoses 
+alcooliques, on observe une diminution de la production de TPO et une 
+thrombopénie.   
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 29 sur 31  
+  
+IV. MEGACARYOCYTOPOIESE  
+C. Pathologies  
+En clinique  
+  
+Causes de la Thrombocytopénie (= manque de plaquettes) :  
+• 
+Centrale : défaut de production médullaire (en particulier via la TPO)  
+• 
+Périphérique : Consommation périphérique excessive   
+o Perte de plaquettes dans le sang par des processus autoimmuns = 
+destruction des plaquettes par des anticorps antiplaquettes.   
+o À ce moment-là, la TPO va augmenter pour pallier au manque :  
+il y aura beaucoup de mégacaryocytes dans la moelle qui 
+serviront à synthétiser de nouvelles plaquettes.  
+Conséquences négatives :  
+• 
+Les complications hémorragiques sont des conséquences négatives des 
+thrombopénies.   
+• 
+S’il y a moins de plaquettes, l’hémostase est moins efficace.   
+• 
+Quand on a une thrombopénie auto- immune importante, il faut réaliser 
+un fond d’œil pour confirmer ou exclure le diagnostic d’hémorragie 
+intra-rétinienne.  
+  
+Causes de Thrombocytose (= surplus de plaquettes) :  
+• 
+Secondaire à une augmentation de la TPO (ou de EPO) de façon 
+réactionnelle, par exemple dans l’inflammation (des facteurs de 
+croissance augmentent la production de plaquettes).  
+• 
+Primitive = syndrome myéloprolifératif : lié à des mutations JAK2 du 
+récepteur à la TPO → la moelle produit trop de plaquettes. 
+• 
+ On peut avoir des complications thrombotiques surtout dans les 
+syndrome myéloprolifératif 
+  
+Conséquences négatives :  
+• 
+Thromboses, surtout dans les thrombocytoses primitives.   
+• 
+Le patient doit être mis sous aspirine ou sous réducteurs de production 
+de la moelle.  
+  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 30 sur 31  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QCM 
+ 
+ 
+Parmi les propositions suivantes, quelle est ou quelles sont la ou les 
+proposition(s) exacte(s) 
+A. 
+La plaquette est la plus petites cellule nucléée du sang  
+B. Au cours de la maturation, la taille des mégacaryocytes augmente sous 
+l'effet de la thrombopoïétine  
+C. Les plaquettes sont issues de la fragmentation cytoplasmique du 
+mégacaryocyte  
+D. Les plaquettes sont remplies de granules contenant, entre autres, des 
+facteurs de la coagulation  
+E. Le nombre de plaquettes régule le taux de TPO circulante  
+  
+ 
+ ➢  
+QCM 1 RÉPONSES  
+A. 
+FAUX : anucléée  
+B. 
+VRAI   
+C. 
+VRAI D. VRAI  
+ E.  
+VRAI  
+ 
+  
+QCM 2 : La lignée mégacaryocytaire:  
+A. 
+dérive de la lignée myéloïde  
+B. 
+est initiée par l'action du GM-CSF sur les CFU-GEMM  
+C. 
+se caractérise par une diminution de taille des cellules au cours de la 
+différenciation  
+D. 
+peut produire des milliers de plaquettes par mégacaryocyte E.  est 
+caractérisée par des processus d'endomitose  
+  
+ 
+RÉPONSES QCM 2  
+A. 
+VRAI  
+B. 
+VRAI  
+C. 
+FAUX : augmente  
+D. 
+VRAI  
+E. 
+VRAI (ou endoréplication)  
+ 
+  
+QCM 3 : La lignée mégacaryocytaire:  
+  
+A. 
+est régulée par la TPO  
+B. 
+est régulée par le nombre de plaquettes circulantes  
+C. 
+aboutit à la plus petite cellule nucléée sanguine  
+D. 
+exprime la glycoprotéine A comme marqueur de différenciation E. 
+ 
+donne des plaquettes qui ont une durée de vie de 7 jours  
+  
+ 
+  
+
+---PAGE---
+UE6 – HEMATOLOGIE – Erythropoïèse et Mégacaryocytopoïèse – Pr DEYRA – 11/02/25  
+  
+Page 31 sur 31  
+  
+ 
+  
+  
+SYNTHESE  
+  
+  
+  
+Causes de l’Anémie  
+• 
+Périphérique : hémorragie et hémolyse.  
+• 
+Centrale : diminution de l’EPO, carence en fer ou défaut de Folates/   
+B12.  
+  
+Causes de Thrombopénie  
+• 
+Périphérique : destruction massive → ex : maladie auto-immune.  
+• 
+Centrale : Défaut de TPO → ex : cirrhose.  
+  
+  
+ 
+  
+ 
+RÉPONSES QCM 3 :  
+A. 
+VRAI  
+B. 
+VRAI  
+C. 
+FAUX : anucléée  
+D. 
+FAUX : c’est pour la lignée érythroïde  
+E. 
+VRAI  
+
+---PAGE---

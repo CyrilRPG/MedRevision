@@ -1,0 +1,1046 @@
+ 
+RT : Kahina ABDENNBI et Lyna AMRAOUI  
+RL : Mariem RIMANI 
+ 
+ 
+UE5 – Sémiologie  
+ 
+Néphrologie 
+Cours n°3 
+Pr BELENFANT – 18/03/2026 – 15h30 - 17h00 
+ 
+Insuffisance rénale aigüe fonctionnelle  
+Objectifs pédagogiques : 
+ 
+• Connaître les différentes circonstances pouvant conduire à une hypoperfusion rénale 
+• Connaître les mécanismes d’adaptation rénale à l’hypoperfusion rénale ++ 
+• Savoir expliquer le rôle paracrine et systémique de l’angiotensine 2 
+• Savoir expliquer la physiologie de création et d’entretien de l’alcalose métabolique ++ 
+• Savoir expliquer la physiologie de l’hyponatrémie / hypo osmolalité plasmatique/hyperhydratation 
+intra cellulaire en cas de déshydrations extracellulaire associée 
+• Savoir expliquer la physiologie conduisant à une augmentation de la concentration des urines 
+• Savoir expliquer les mécanismes expliquant l’hypokaliémie en cas d’hypofusion rénale secondaire 
+à une diarrhée 
+• Savoir expliquer la baisse de la concentration de Na dans les urines lors d’une déshydratation 
+secondaire à une diarrhée 
+ 
+PLAN DU COURS 
+I. 
+Question / Réponse 
+II. 
+Hypoperfusion rénale 
+III. 
+Bilan du sodium Na+ 
+IV. 
+Hémodynamique rénale 
+V. 
+Autorégulation rénale 
+A. Filtration glomérulaire 
+B. Adaptation à l’hypovolémie 
+C. Récapitulatif des réactions  
+VI. 
+Mécanismes dans les différents segments du rein 
+ 
+A. Tube contourné proximal 
+B. L’anse de Henlé 
+C. Canal collecteur cortical : aldostérone 
+D. Canal collecteur médullaire 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 2 sur 25 
+ 
+VII. 
+Pertes digestives menant à une déshydratation 
+ 
+A. Introduction 
+B. Pertes digestives - hypokaliémie 
+C. Signes cliniques de déshydratation  
+D. Traitement / signes de gravité 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 3 sur 25 
+ 
+I. Question / Réponse 
+ 
+ 
+ 
+Le cours a commencé avec un rappel des cours précédents sous forme de 
+question/réponse et sous forme de cas clinique pour nous entrainer au partiels. 
+ 
+Quelle est la valeur de la pression artérielle normale en période nocturne ? 
+<120/70 mmHg  
+ 
+Quelle est la valeur de la pression artérielle normal lorsque l’on est chez nous 
+? 
+<135/85 mmHg  
+ 
+Quelle est la valeur de la pression artérielle normale devant un professionnel 
+de santé ? 
+<140/90 mmHG 
+ 
+Comment confirmer une HTA blouse blanche ? Vous venez me voir, vous avez 
+160/100 mmHg. Avant d'essayer de vous traiter parce que vous êtes en pleine 
+forme, finalement je veux savoir si vous êtes vraiment hypertendu ? 
+ 
+S’il n’y a aucune maladie associée, ni aucun symptôme, on demande à ce que 
+le patient reprenne la tension à son domicile au repos.  
+Si elle est toujours > 140/90 mmHg alors on confirme l’HTA en auto-mesure ou 
+par MAPA.  
+Si la tension est normale, on confirme une HTA blouse blanche.  
+ 
+Dans le cas, où c’est notre grand-mère qui est en consultation, et que celle-ci a 
+une hypotension-orthostatique. Quel est le risque d’une hypotension-
+orthostatique ?  
+ 
+Il y a un risque de chute.  
+ 
+Comment définissez-vous hypotension-orthostatique ? 
+ 
+C'est la tension qui baisse quand on passe en position debout. 
+ 
+Quel sont les références de valeur pour savoir si l’on est bien en position 
+orthostatique ?  
+ 
+>20 mmHg pour la systolique et/ou >10 mmHg pour la diastolique. 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 4 sur 25 
+ 
+ 
+Dans le cas où vous venez consulter car vous avez les urines rouges. On fait une 
+bandelette qui s’avère négative et pour vous rassurez on fait également un 
+ECBU et l’on remarque que vous n’avez pas d’hématies. Pourquoi vos urines 
+sont-elles rouges ?  
+ 
+Cela est dû à un colorant.  
+ 
+Dans le cas où vous allez voir le médecin universitaire après avoir fait un effort 
+(ex. Vous êtes allés avec les Staps alors que vous n’êtes pas habitués) et que 
+vous avez par la suite des crampes partout. Que l’on remarque que vos urines 
+sont rouges, que la bandelette est positive et que dans l’examen Cytologique 
+et Bactériologique des Urines il y a moins de 10000 hématies par minutes. C’est 
+quoi ? 
+ 
+C’est la rhabdomyolyse qui correspond à la présence de myoglobine qui 
+comporte un taux de fer dans l’hème, une petite molécule filtrée par le 
+glomérule que l’on retrouve dans les urines.  
+ 
+Dans le cas où c’est une personne revenant des Antilles, qui a de la fièvre, des 
+douleurs au ventre, un teint ictérique jaune, une conjonctive pâle et des urines 
+rouges. Que la bandelette est positive mais qu’il n’y a pas de sang dans les 
+urines. Ça veut dire quoi ?  
+ 
+Premièrement, les conjonctives sont pâles donc il y a une anémie. Le teint 
+ictérique jaune met en avant soit un problème de foie soit un problème 
+d’hémolyse. C’est à dire que les GR sont détruits par la rate et par le foie ce qui 
+fait augmenter l’hémoglobine. Donc le diagnostic correspond à une 
+Hémoglobinurie donc à de l’hémoglobine « libre » dans les urines.  
+ 
+Ce week-end on a récupéré un monsieur pour une insuffisance rénale. Sa rate, 
+ne fonctionnait pas très bien. Il avait une anémie, il avait le calcium qui était un 
+peu ouf. Et puis concernant les urines, la bandelette urinaire est négative mais 
+le laboratoire nous dit que le taux de protéine est élevé (4g) mais qu’il n’y a pas 
+du tout d’albumine dans les urines.  
+Quand le glomérule est malade, cela laisse passez l’albumine. Donc s’il n’y a pas 
+d’albumine dans les urines cela veut dire que ce n’est pas le glomérule qui est 
+malade. A quoi d’autre peut-on penser ? 
+ 
+Première hypothèse : Ça peut être le tubule, qui n’absorbe pas les petites 
+molécules filtrées par le glomérule. = TUBULOPATHIE 
+Deuxième hypothèse : Ça peut être dû à une production exagérée d’une 
+protéine de petite taille qui passe dans les urines. = EXCÈS d’Ig 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 5 sur 25 
+ 
+Lorsque l’on a une Ig, on a une chaine lourde et une chaine légère. La chaine 
+lourdes ne passe pas le glomérule car elle pèse 60000 Da. Tandis que la chaine 
+légère passe le glomérule.  
+Si celle-ci est produite en quantité excessive, cela va dépasser les capacités 
+d’absorption du tubule et on va donc les retrouver intégralement dans les 
+urines.  
+Dans le cas de ce monsieur, il avait un excès en Ig car il avait en réalité un cancer 
+du sang/ un myélome et a donc était transporté en hématologie. 
+ 
+C’est un monsieur qui vient vous voir et qui a des urines rouges. Pour savoir si 
+cela vient de la prostate, on cherche à savoir si le sang présent dans les urines 
+vient de la prostate ou plutôt des reins ou de la vessie. Comment allez-vous 
+faire ?  
+ 
+On donne trois pots transparents au patient. Dans le premiers pots, on récolte 
+le début de la miction, qui correspond à l’urine qui va nettoyer l’urètre [ Il fait 
+12 cm, passe par la prostate puis le périnée membraneux et enfin pénien ]. 
+Dans le deuxième pot, on récolte le milieu de la miction. Et dans le troisième 
+pot, on récolte la fin de la miction. 
+Si le premier pot est rouge, mais les deux autres non : cela vient de l’urètre et 
+souvent plus précisément de la prostate chez l’homme. 
+ 
+Vous avez combien d’hématies dans les urines normal ? 
+ 
+< 10000 /ml ou < 10 /mm3  
+ 
+Comment l’eau passe du milieu intracellulaire vers le milieu extracellulaire ?  
+ 
+Grâce à l’osmolalité, qui correspond au nombre d’osmole par rapport à la 
+quantité de solvant. 
+On a différent types d’osmole comme le sodium, le potassium, le chlore… 
+C’est ce qu’on appelle les ions.  
+ 
+Le sodium est intra ou extracellulaire ? 
+ 
+Il est retrouvé à 99% dans le milieu extracellulaire.  
+ 
+A combien gèle l’eau stérile ?  
+ 
+A 0°C. Mais lorsque l’on ajoute des osmole (sodium, chlore) cela gèle a des 
+températures beaucoup plus basses.  
+Par exemple, l’eau de mer gèle à des températures plus basses que l’eau des 
+rivières car elle contient du sel donc des osmoles.  
+Imaginons que nous mettions dans une cuve séparée par une membrane semi-
+perméable de l'eau de mer d'un côté et de l'eau douce de l'autre côté. Si les 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 6 sur 25 
+ 
+niveaux d’eau sont les mêmes, au bout de cinq minutes, on aura une 
+augmentation du volume d'eau de mer avec un équilibre de l’osmolalité des 
+deux coté. L’eau va donc vers le milieu le plus riche en osmoles.  
+Dans nos cellules, l’osmolalité est la même que dans le milieu extracellulaire. 
+Donc les mouvements d’eau se neutralise.  
+ 
+Imaginons maintenant qu’il fasse chaud, et que je transpire, je vais donc perdre 
+de l’eau. Mais imaginons que je ne perde que de l’eau sans perdre de sel. Je 
+vais donc enlever de l'eau du secteur plasmatique et je laisse le sel, le 
+potassium, le chlore… Que va faire l’osmolalité plasmatique ?  
+ 
+Elle augmente dans le plasma mais va rester identique dans la cellule. Donc 
+l’eau va se déplacer de la cellule vers le plasma, ce qui va créer une 
+déshydratation intracellulaire.  
+ 
+ 
+Imaginons à l’inverse que je suis asséché, cela va stimuler ma soif je vais donc 
+aller boire de l’eau. Mais si je bois trop d’eau et que je baisse mon osmolalité 
+plasmatique. Que se passe-t-il ? 
+ 
+L’eau va se déplacer du milieu extracellulaire vers le milieu intracellulaire, ce 
+qui va créer une hyperhydratation intracellulaire. 
+ 
+Quelle est l'hormone qui retientt l’eau au niveau des reins ? 
+ 
+L’ADH (Hormone Antidiurétique).  
+ 
+Comment l’organisme se débarrasse de l’eau lorsqu’il y en a trop ? 
+ 
+Il va s’en débarrasser par voie urinaire. Donc quand je vais avoir l’osmolalité qui 
+va trop diminuer, je vais diminuer l’ADH, et toute l’eau que j’aurais pris en trop 
+je vais l’uriner.  
+ 
+Quand j’ai trop de sel dans l’organisme cela se voit dans quel compartiment ?  
+ 
+Dans le compartiment extracellulaire. Pour rappel le sel ne rentre pas dans la 
+cellule, si le sel venait à renter dans la cellule celle-ci éclaterais. On a une pompe 
+Na+/K+ ATPase qui fait sortir le sodium en permanence et fait rentrer du 
+potassium.  
+Le sel ne rentre donc que dans le milieu extracellulaire et cela est compensé 
+par une augmentation du volume dans ce compartiment.  
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 7 sur 25 
+ 
+ 
+Que se passe t’il quand le volume extracellulaire augmente beaucoup en 
+termes de signe clinique ?  
+ 
+On remarque des œdèmes au niveau interstitiels. Qui se remarque 
+physiquement, en majorité dans les membres inférieurs, de manière 
+symétrique, qui prennent le godet, mous, blancs, froids et indolores.  
+ 
+Où peut-on retrouver cela dans le reste de l’organisme hormis les MI ?  
+ 
+Au niveau du péritoine : c’est de l’ascite.  
+Au niveau thoracique, dans la plèvre (= épanchement pleurale)  
+ 
+Une femme ce matin avait 30 k d'œdème, elle avait des mains complètement 
+gonflées, le visage gonflé. Elle avait des matités pulmonaires et un ventre 
+énorme.  
+ 
+Quelles sont les causes d’hyperhydratation extracellulaire ?  
+ 
+La première cause en France est l’insuffisance cardiaque. La deuxième cause 
+est le foie avec les cirrhoses. Et la troisième cause, les maladies rénales.  
+ 
+II. Hypoperfusion rénale 
+Définition 
+ 
+L’insuffisance rénale aiguë fonctionnelle (=pré rénale) signifie que les reins sont 
+normaux, les tuyaux sont libres mais que quelque chose se passe avant.  
+ 
+On va voir ici que cela est due au fait qu’il n’y a plus de débit dans les artères 
+rénales. 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 8 sur 25 
+ 
+Modèles 
+expérimentaux 
+d’hypoperfusion 
+rénale 
+ 
+ 
+Les différentes circonstances dans lesquelles il est possible de voir un rein hypo-
+perfusé : 
+ 
+• 
+Baisse du débit cardiaque (sans baisse du volume plasmatique)  
+→ insuffisance cardiaque+++, cirrhose hépatique (fréquent), syndrome 
+néphrotique (rare) 
+ 
+• 
+Baisse du débit sanguin rénal sans modification du volume sanguin 
+(très rare) : débit cardiaque bon mais réduction du calibre des artères 
+rénales  
+→ sténose de l’artère rénale 
+ 
+• 
+Baisse des résistances artérielles systémiques (vasodilatation intense) 
+: volume suffisant mais vaisseaux dilatés +++ 
+→ sepsis sévères 
+ 
+• 
+Baisse du volume sanguin total  
+→ hémorragie 
+ 
+• 
+Baisse du volume plasmatique = diminution du volume extracellulaire  
+= diminution du pool sodé 
+- 
+Par diminution des apports sodés (rare) 
+- 
+Par augmentation des pertes sodées isotoniques (fréquent++) 
+→ diarrhée aigue : induire expérimentalement des pertes de Na/eau 
+par le tube digestif 
+ 
+III. Bilan du sodium Na+ 
+ 
+ 
+Déjà vu dans le cours précédent le prof passe vite cette partie du cours. 
+ 
+Na+ présent essentiellement dans le secteur extra-cellulaire. 
+ 
+➔ Entrée : Bouche (alimentation)  
+➔ Sortie :  
+        - par les urines  
+        - par le tube digestif : diarrhée, vomissements, occlusion.  
+        - par la sudation (quand il en a beaucoup on peut perdre un peu de sel) 
+        - par la peau sans épiderme : brûlure, dermatose bulleuse diffuse  
+                            → tissu interstitiel qui " fuit  "  
+ 
+Les entrées sont égales aux sorties. 
+     - exemple : si l’on consomme 10g de sel, on en éliminera 10g dans les urines. 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 9 sur 25 
+ 
+ 
+Donc à la base, la totalité du sel consommé sort par les urines. Mais dans le cas 
+où l’on a vomi ou qu’on a la diarrhée, le rein va essayer de retenir le sel (on va 
+le voir après). 
+ 
+Questions d’un élève : Pouvez-vous expliquer les occlusions digestives ? 
+ 
+Quand on a une occlusion, c’est à dire que le colon et le grêle sont bouchés. On 
+a les anses grêles qui vont se dilater, elles vont souffrir et vont donc sécréter 
+dans la lumière de l’eau, du sel, du potassium etc. Et donc finalement, lorsque 
+l’on opère on va retirer du sodium et de l’eau du compartiment plasmatique et 
+interstitiel pour le mettre dans le secteur digestif qui ne sert pas à grand-chose.  
+Et normalement vous, vous sécrétez dans votre intestin régulièrement à peu 
+près 1,5L de liquide par jour. Et votre gros colon va en réabsorber l'intégralité 
+et quand ça ne passe pas dans le colon, c'est stocké à l’intérieur des organes. 
+ 
+IV. Hémodynamique rénale 
+Rein 
+ 
+On a 2 reins qui sont vascularisé par une artère rénale chacun, à partir de 
+l’aorte. 
+Une fois filtré le sang repart dans la veine cave.  
+ 
+- Taille : 12 cm 
+- Poids : 120g 
+- Reçoivent 20-25% du débit cardiaque = débit sanguin rénal (DSR) = 1L/ min 
+è Le cerveau et le foie qui sont plus gros et en reçoivent moins 
+è Donc les organes les mieux perfusé de l’organisme sont : LES REINS 
+- Débit plasmatique rénal (DPR) = DSR - Hématocrite (globules rouges etc) = 
+600 ml/min. 
+ 
+Glomérule 
+ 
+ - Composé de 1millions de néphron  
+è On ne fabrique pas de néphron, on nait avec un stock qu’il faut tenir 
+jusqu’à la fin de sa vie.  
+- Reçoit du sang par artériole afférente 
+- Permet de Filtré le sang qui partira par la suite 
+ 
+Débit de filtration glomérulaire (DFG) = Kf x Puf 
+ 
+Fraction de filtration = DFG / DPR = 20% 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 10 sur 25 
+ 
+Cellule juxta-
+glomérulaire 
+ 
+Se situe entre le glomérule et le tubule distal et permet de former la rénine. 
+La synthèse de rénine est stimulée par : 
+- 
+L’augmentation de la quantité de Na+ dans le tube distal 
+- 
+Le nerf sympathique 
+ 
+V. Autorégulation rénale 
+L’objectif va être de maintenir la filtration glomérulaire afin d’avoir un DFG constant à travers 
+différents mécanismes : 
+- 
+Tonus myogène (artériole afférente) : mécanisme rapide et automatique 
+- 
+Rétrocontrôle tubulo-glomérulaire (= vasoconstriction de l’artériole aférente si 
+augmentation du Na dans le TCD)  
+A) Filtration glomérulaire 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La PAM est normalement de 75mmHg. 
+Celle-ci va se transmettre : 
+Aorte => Artère rénale => Capillaire glomérulaire (où elle créera un débit/une 
+pression) 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 11 sur 25 
+ 
+Il y a donc une certaine pression dans le capillaire glomérulaire mais quasiment 
+aucune pression dans la chambre urinaire. Cette pression hydrostatique va 
+favoriser la filtration glomérulaire, mais la pression oncotique va s’y opposer. 
+ 
+ 
+Il n’y a pas de pression oncotique dans la chambre urinaire, ce qui va retenir 
+l’eau et les petites molécules. 
+ 
+La filtration dépend également du coefficient de perméabilité, qui comporte : 
+cellules endothéliales, cellules basales et podocytes. 
+ 
+Donc pour une personne qui filtre normalement, on a :  
+- 
+Pression hydrostatique bonne 
+- 
+Pression oncotique normale 
+- 
+Pas de contre pression : donc filtration des urines normale 
+ 
+Chaque jour on élimine : 500ml à 1L d’urines 
+è S’il n’y avait pas de filtration on éliminerai 180L d’urines. Donc 20% de 
+ce qui passe dans le glomérule doit être filtré. Le rôle du tube c’est de 
+réabsorber 99% de ce qui va être filtré. 
+ 
+è Si la pression artérielle baisse : 
+- Baisse du débit sanguin 
+- Baisse de la pression hydrostatique 
+- Baisse de la filtration  
+         = INSUFFISANCE RENALE 
+ 
+L’insuffisance rénale se mesure par une petite molécule fabriquée par le rein : 
+la créatine. 
+è Quand le rein filtre moins bien, le taux de créatine va être augmenté 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 12 sur 25 
+ 
+A) Adaptation à l’hypovolémie plasmatique / glomérule 
+ 
+ 
+è Diarrhée : perte d’eau et de Na+ donc natrémie constante (iso-
+osmotique) : 
+ 
+- 
+Diminution du volume plasmatique 
+- 
+Diminution du débit cardiaque 
+- 
+Diminution du DSR  
+- 
+Diminution du débit plasmatique rénal et glomérulaire 
+- 
+Diminution de la pression hydrostatique dans le capillaire 
+- 
+Diminution du DFG : mesuré par la créatinémie plasmatique 
+ 
+Comment le rein va se protéger contre ça ? 
+- 
+Premièrement étant donné que la pression baisse, cela va stimuler la 
+production de rénine  
+- 
+La rénine va ensuite transformer l’angiotensinogène (fabriqué par le 
+foie) en angiotensine I (=molécule inactive) 
+- 
+Il y a ensuite une enzymo-conversion qui transforme l’Angiotensine I 
+en Angiotensine II 
+- 
+AII va :  
+è Augmenter l’aldostérone, permettant de retenir le sel, 
+d’augmenter le contenant et donc d’augmenter la pression 
+artérielle 
+è Stimuler la soif et la synthèse d’ADH 
+è Provoque la vasoconstriction des vaisseaux pour faire remonter la 
+pression artérielle 
+o Au niveau des glomérules, si la perfusion baisse on va 
+vasodilater l’artériole afférente et va provoquer une 
+vasoconstriction l’artère efférente. Ainsi la pression 
+pourra augmenter. Donc ce qui va permettre la 
+vasoconstriction de l’artère efférente est l’AII. Elle 
+permettra aussi la vasoconstriction de l’artère afférente 
+mais celle-ci sera inhibée par les prostaglandines (PGI2) 
+L’angiotensine II a une action paracrine. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 13 sur 25 
+ 
+ 
+Question d’un élève : Lorsque vous dites que cela « vasoconstricte » les 
+vaisseaux. Si on était amenés à préciser on ne préciserai que « efférent » ou 
+également « afférent » ?  
+ 
+Là, c’est un effet systémique, c’est à distance du rein, ça a un rôle hormonal. 
+Mais cela dépendra de la tournure de la question. 
+ 
+ 
+Les médicaments qui diminuent l’AII : 
+- 
+AINS (anti-inflammatoires non stéroïdiens) : si cela est administré à 
+un patient déshydraté, sachant que celui-ci aura une perfusion 
+diminuée et une AII élevée, cela peut s’avérer dangereux car l’AINS va 
+fermer l’artère efférente et donc provoquer et aggraver 
+l’hypoperfusion rénale. 
+o Dans le cas où le patient est aux normes volémiques, l’AINS 
+n’est pas dangereux 
+o Dans le cas d’une hypoperfusion, l’AINS est dangereux 
+- 
+IOE (inhibiteur de l’enzyme de conversion) : si cela est administré à 
+un patient, cela va inhiber la production EC, et donc inhiber la 
+production AII. 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 14 sur 25 
+ 
+VI. Mécanismes dans les différents segments du rein 
+ 
+La réabsorption du sel se fait majoritairement dans le tubule proximal (65%), ensuite dans la partie 
+ascendante de l’anse de Henlé (25%), puis dans le tubule distal (6-8%) et enfin minoritairement 
+dans le tube collecteur (1-3%). 
+ 
+On va voir que l’AII agit sur toute la partie proximale de l’anse de Henlé et indirectement sur le 
+tube collecteur grâce à l’aldostérone. 
+ 
+A) Tube contourné proximal 
+ 
+ 
+• 
+On réabsorbe plus de 65% du sel. 
+Ø C’est une réabsorption isotonique (c’est-à-dire que le rein 
+réabsorbe du Na+ suivit de l’eau en même proportion, ce qui 
+permet au liquide du tubule de rester à la même 
+concentration que le plasma). 
+ 
+Comment est réabsorbé le sel dans le TCP ? Qu’est ce qui permet de 
+réabsorber du sel dans le TCP ? 
+ 
+Du côté apical on a : 
+- 
+Principal acteur : antiports Na+/H+ 
+- 
+(Co-transports sodium-phosphate, sodium-glucose, sodium-acide 
+aminée) 
+ 
+Donc je fais entrer le sodium dans la cellule que je vais faire sortir du côté 
+basolatéral grâce aux transporteurs du côté basolatéral : 
+o Na-K ATPase 
+ 
+Quand je suis déshydraté (déshydratation extracellulaire) l’angiotensine II va 
+augmenter et stimuler directement la Na-K ATPase qui va stimuler aussi 
+l’antiport Na-H ce qui va permettre de réabsorber du sel. 
+Et pour rappel dans le TCP lorsque l’on réabsorbe du sel on crée un déséquilibre 
+osmotique qui réabsorbe l’eau aussi grâce aux aquaporines de type 1 (AQP1). 
+ 
+Effets : 
+o Ne va pas jouer sur la réabsorption du glucose, car un rein normal 
+réabsorbe déjà tout le glucose. 
+o Les antiports Na-H en sécrétant des H+, permettent de réabsorber des 
+bicarbonates (seuil de réabsorption des HCO3- dans le TCP = 
+27mmol/L, lors d’une déshydratation on peut monter jusqu’à 35-
+40mmol/L) 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 15 sur 25 
+ 
+ 
+o Les H+ sécrétés en plus grand nombre vont se lier aux HCO3- 
+pour former du H2CO3 
+o Puis grâce à l’anhydrase carbonique, on va former H2O + CO2 
+- 
+Le CO2 va rétrodiffuser, on va donc avoir l’effet inverse, le schéma 
+inverse et va donc pouvoir réabsorber du HCO3- du côté basolatéral. 
+ 
+o Dès qu’on va être déshydraté, la réabsorption du bicarbonate dans le 
+TCP va permettre de maintenir l’alcalose métabolique aussi appelée 
+« alcalose métabolique de contraction ». 
+o En réhydratant le patient, on va : 
+o Diminuer le taux d’angiotensine II 
+è Donc baisser l’activité de Na+/H+ va baisser 
+ð Diminution de réabsorption du HCO3- 
+et le bicarbonate en trop va être 
+évacué par les urines  
+ 
+L’activité de la Na-K ATPase va aussi diminuer.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 16 sur 25 
+ 
+A) L’anse de Henlé 
+ 
+ 
+Mécanisme :  
+ 
+Lorsque l’on est déshydraté, sous l’action de l’angiotensine II (qui est augmenté 
+en cas de déshydratation), le transporteur NA/K/2Cl va permettre de 
+réabsorber du sel dans l’anse de Henlé ainsi que la Na-K ATPase. 
+ð La branche ascendante de l’anse de Henlé est imperméable à l’eau, 
+c’est une réabsorption uniquement de sel (sans eau) donc une 
+réabsorption hypertonique. 
+ð Et le potassium réabsorbé va être rejeté du côté basolatéral 
+ð La fraction du sodium filtré dans l’anse de Henlé est de 25% 
+ 
+Le fait de réabsorber du sel sans eau induit : 
+- 
+Une diminution de l’osmolalité des urines (apicale) 
+- 
+Une augmentation de l’osmolalité interstitielle (basolatérale) 
+Cela créé un gradient  
+ 
+è Création du gradient cortico-papillaire osmotique : 
+ 
+- 
+Dans la branche ascendante, on va réabsorber du sel dans eau donc on 
+va augmenter la tonicité interstitielle 
+- 
+Dans la branche descendante, il n’y a pas de transporteurs 
+d’électrolytes, mais elle est perméable à l’eau. Étant donné qu’à la 
+sortie du TCP on réabsorbe du sel et de l’eau, l’osmolalité est donc de 
+300mosm/kg 
+- 
+Après avoir quitté le TCP on rentre dans la branche ascendante qui sera 
+par exemple à 350mosm/kg puis dans la branche descendante qui 
+retourne à 300moms/kg donc l’eau va retourner dans le cortex et être 
+réabsorbée  
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 17 sur 25 
+ 
+ 
+è Au fur et à mesure que l’on descendant dans l’anse de Henlé, 
+l’osmolalité va augmenter chez l’Homme, et peut atteindre jusqu’à 
+1200mosm/kg. 
+ 
+B) Canal collecteur cortical : Aldostérone 
+ 
+ 
+Dans le canal collecteur cortical, l’augmentation de l’aldostérone entraîne 
+l’augmentation du canal ENaC (canal sodique épithélial) au pôle apical, ce qui 
+permet la réabsorption isotonique du sodium. 
+ 
+• 
+Le sodium sort ensuite du côté basolatéral par la Na/K-ATPase. 
+• 
+Puis, le potassium K+ sort du côté apical par le canal potassique. 
+ 
+Conséquences :  
+ð A chaque fois qu’on augmente l’aldostérone, on va perdre du K+, ce qui 
+induit une hypokaliémie. 
+ð Les charges positives vont passer de l’autre côté, ce qui dépolarise la 
+partie luminale et favorise l’activité de la H+/ATPase donc l’excrétion 
+de protons H+. Ce qui induit l’alcalose métabolique : dissociation de 
+H2CO3 en H+ d’un côté et réabsorption de bicarbonates de l’autre côté. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 18 sur 25 
+ 
+C) Canal collecteur médullaire 
+ 
+ 
+Mécanisme : 
+ 
+Lorsque je suis déshydraté, j’augmente la synthèse d’ADH. Elle est stimulée par 
+une baisse de la volémie (hypovolémie) qui passe par 2 mécanismes : 
+C’est l’augmentation de AII qui va stimuler la synthèse d’ADH et la soif. 
+Sous l’effet de l’ADH, les aquaporines vont être exprimées au niveau apical pour 
+réabsorber l’eau grâce à une différence de gradient osmotique entre la lumière 
+et le côté basolatéral (avec l’interstitium). 
+On vient de créer des conditions favorables pour une hypertonie médullaire et 
+l’ADH va permettre la réabsorption d’eau. 
+ 
+Quand on réabsorbe l’eau, les urines seront en petite quantité » (-=oligurie) et 
+seront hyper concentrées. 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 19 sur 25 
+ 
+Lorsque l’on réabsorbe l’eau sans ADH, la natrémie est normale mais sous 
+l’effet des barorécepteurs de l’angiotensine II :  
+- 
+On stimule la soif 
+- 
+On monte l’ADH 
+- 
+On va apporter de l’eau sans Na+, ce qui diminue l’osmolalité 
+plasmatique et l’eau en trop va aller dans l’interstitium. 
+ 
+è On se retrouve alors avec une déshydratation extracellulaire, dont la 
+conséquence sera une hyperhydratation intracellulaire.  
+ 
+L’hyponatrémie observée sera le résultat d’une adaptation physiologique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Donc, quand le rein est hypoperfusé, débit de filtration glomérulaire diminue, 
+ce qui entraîne l’augmentation de la créatinine et de l’urée. 
+ 
+Au niveau du TCP, on réabsorbe du Na+ et du bicarbonate, qui augmente 
+La natrémie ne change pas, étant donné que c’est une réabsorption isotonique. 
+Le taux de potassium ne change pas non plus. 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 20 sur 25 
+ 
+La fraction excrétée de Na+ correspond au rapport de la quantité Na perdue 
+dans les urines sur la quantité de Na filtrée au niveau du glomérule. Moins de 
+1% de Na+ est sécrété. 
+ 
+Le rapport Na/K est inférieur à 1 : on réabsorbe beaucoup de Na+ et dans le 
+canal collecteur cortical, il n’y a plus de K+. 
+ 
+Enfin, comme on réabsorbe de l’eau dans le canal médullaire, les urines sont 
+hyper concentrées donc l’osmolalité augmente. 
+ 
+VII. Pertes digestives menant à une déshydratation 
+A)Introduction 
+ 
+ 
+- 
+Haut du corps = vomissements 
+- 
+Bas du corps = diarrhée (majoritairement)  
+- 
+Aucune sortie = occlusion (arrêt complet ou partiel du transit intestinal) 
+ 
+Le tube digestif peut faire perdre beaucoup d’eau, ce qui entraîne une 
+diminution du volume sanguin qui finit par impacter les reins (= oligurie).
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 21 sur 25 
+ 
+B) Pertes 
+digestives – 
+hypokaliémie  
+ 
+Quelqu’un qui vomit est en déshydratation extracellulaire, le patient peut aussi 
+être en hypokaliémie (<3,5mmol/L de potassium). 
+ 
+Les différentes causes possibles : 
+- 
+Hyperaldostéronisme secondaire  
+- 
+Réabsorption de sodium et sécrétion de potassium 
+- 
+Pertes digestives 
+- 
+Perte de potassium dans le liquide gastrique 
+- 
+Alcalose métabolique (pH > 7,42) = transfert intracellulaire de K+ 
+- 
+Pertes des ions H+ (car le vomis est acide) 
+- 
+Donc les bicarbonates vont dans le plasma 
+- 
+Le rein met aussi des bicarbonates dans le plasma 
+- 
+Ainsi le taux de bicarbonates peut monter jusqu’à 40-50mmol/L de 
+sodium. Pour compenser on fait sortir des H+ en échange de 
+potassium. 
+ 
+C) Signes 
+cliniques de 
+déshydratati
+on 
+ 
+Ø La soif +++ 
+o Que la natrémie soit normale ou basse 
+Ø Sécheresse des muqueuses 
+o Regarder la langue  
+Ø Pli cutané 
+o On pince la peau, si elle ne revient pas en place dans les 3sec = 
+pathologie (déshydratation) 
+o Signe peut appréciable chez les personnes âgées, dénutries 
+et/ou obèses 
+Ø Fatigue (mais pas très caractéristique) 
+Ø Hypotonie des globes oculaires 
+o Demande au patient de fermer les yeux et toucher si ça 
+s’enfonce comme dans une motte de beurre c’est qu’il y a une 
+déshydratation 
+Ø Baisse de la pression artérielle  
+Ø Tachycardie  
+Ø Veines plates (on ne voit pas les veines) 
+Ø Perte de poids 
+o Peser le patient 
+o Très important pour la suite thérapeutique ! 
+Ø Oligurie (< 400ml/jour) 
+Ø Hypotension orthostatique (surtout chez les personnes âgées) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 22 sur 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diagnostic 
+ 
+Le diagnostic de la déshydratation est clinique et non biologique, mais on peut 
+potentiellement voir une augmentation de l’hématocrite car les GR seront 
+dilués dans un volume moindre (55-60%).  
+ 
+Il est aussi possible d’avoir une hypoprotidémie qui monte jusqu’à 90-100. 
+Il y a aussi la plainte des patients à prendre en compte, ce qui les pousse à venir 
+est une énorme soif ! 
+ 
+D)Traitement  
+/  
+signes de 
+gravité 
+ 
+On perfuse le patient avec du NaCl (sérum physiologique) : 
+ð Si hypokaliémie, on apporte du potassium 
+o C’est ici que l’on prend en compte la perte de poids du patient, 
+on lui perfuse autant de litres de NaCl que de poids qu’il a 
+perdu.  
+o Ex : si le patient a perdu 5kg, on lui mettra 5 litres de NaCl sur 
+24 heures. 
+o On donne 50% sur les 6 premières heures (ici donc 2,5 litres) et 
+si le patient le tolère bien on passe le reste sur les 18 heures 
+restantes. 
+o Il arrive que des infirmières soient réticentes à le faire à cause 
+de l’insuffisance cardiaque, il faudra donc expliquer que cela va 
+rester en extracellulaire dans le secteur plasmatique (1/3) et 
+interstitiel (2/3) et ne va pas rentrer dans les cellules car c’est 
+de l’eau avec du sel. 
+o Une fois que le rein fonctionne bien, si la dose est trop 
+importante le patient va uriner le surplus. 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 23 sur 25 
+ 
+On peut également faire boire de l’eau et du sel au patient s’il n’y a pas d’autre 
+choix (manque de moyen pour perfuser tout le monde lors d’épidémies par 
+exemple). 
+ 
+Signes de gravité : 
+- 
+Insuffisance rénale fonctionnelle 
+- 
+Confusion 
+- 
+Signes de mauvaise tolérance (les patients sont gardés et perfusés) 
+ 
+Conclusion  
+ 
+è Avec ce traitement symptomatique on corrige : 
+o La fonction rénale 
+o Le débit cardiaque 
+o Débit glomérulaire / débit sanguin rénal 
+o La perfusion glomérulaire 
+o Taux de bicarbonates qui était trop haut va revenir à la 
+normale en étant excrété par les urines car on diminue la 
+rétention de sodium au niveau proximal. 
+o Hyponatrémie, avec le sérum physiologique on fait baisser 
+l’ADH et l’eau qui est en trop sera urinée 
+o Hypokaliémie : ne pas oublier d’apporter le potassium 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 24 sur 25 
+ 
+ 
+ 
+Démarche diagnostique devant une hyponatrémie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+             UE5 – Sémiologie – Insuffisance rénale aiguë fonctionnelle - Pr BELENFANT – 18/03/2026 
+Page 25 sur 25 
+ 
+ 
+
+---PAGE---

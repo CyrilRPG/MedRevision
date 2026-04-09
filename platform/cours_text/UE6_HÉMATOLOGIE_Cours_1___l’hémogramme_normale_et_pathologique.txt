@@ -1,0 +1,1430 @@
+RT: Mario Cuesta 
+RL : Antoine Klein 
+Ines Ftati 
+ 
+ 
+UE6 – TISSU SANGUIN
+ 
+ 
+Hématologie 
+Cours n°1 
+Pr Benboubker 
+– 23/02/2026 – 10h15 
+Hémogramme normal et pathologique 
+ 
+Objectifs du cours: 
+●  Les indications de l’hémogramme : argumenter les principales indications de 
+l’hémogramme, de discuter les interprétation des résultats et de justifier la 
+démarche diagnostic si nécessaire 
+ 
+ 
+ 
+PLAN DU COURS 
+I. 
+Généralités 
+A. Le tissu sanguin 
+- Généralités 
+B. La fraction liquide 
+- Plasma et sérum 
+C. La fraction cellulaire 
+D. L'Hématopoïèse 
+II. 
+Hémogramme normale 
+A. Généralités 
+B. Hématies 
+- Etudes de la qualité 
+- Etudes de la taille 
+- Etudes de la teneur 
+- Etudes qualitatives 
+C. Les réticulocytes 
+
+---PAGE---
+D. Les leucocytes et plaquettes 
+E. Les particularités de l’hémogramme 
+- A la naissance 
+- Chez l’enfant 
+- Pendant la grossesse 
+- Différentes situations 
+- Interprétation de la NFS 
+III. 
+Hémogramme pathologique 
+A. Généralités 
+- Anomalies de la GR 
+- Anomalies du GB 
+- Reconnaître les situation d’urgences 
+B. Augmentation du nombre de cellules 
+- Généralités 
+- Polyglobulie 
+- Polynucléose neutrophile 
+- La Myélémie 
+- Polynucléose neutrophile et myélémie 
+- Érythroblastose 
+- Monocytose 
+- Hyperéosinophilie 
+- Lymphocytose 
+C. Diminution du nombre de cellules 
+- Généralités 
+- Cytopénies périphériques 
+- Cytopénies centrales 
+- Myélogramme 
+- Neutropénie 
+- Pancytopénie 
+- Neutropénie sévère 
+- Lymphopénie 
+- Bilan 
+
+---PAGE---
+I. Généralités
+A. Le tissu sanguin
+Généralités 
+● 
+ l’hématologie : c’est l’étude de la physiologie du tissu 
+sanguin et des maladies du sang. 
+● 
+Le tissu sanguin : c’est un tissu qui est mésenchymateux, 
+fluide, dérivé du mésoderme et circule en permanence. On 
+a à peu près chacun 5L de volume sanguin dans notre 
+corps et qui représente à peu près 7 à 8 % de la masse 
+corporel 
+ 
+ 
+le tissu sanguin est composé de 2 fractions : 
+- la fraction liquide : c’est le plasma, qui représente 
+55 % du sang 
+- la fraction cellulaire : c’est tous les éléments figurés 
+du sang et représente 45 % du tissu sanguin ( c’est les cellules 
+qui sont en suspension dans le plasma ) 
+ 
+· afin de séparer ces deux phases pour ensuite étudier les 
+éléments figurés du sang, 
+- soit on réalise une sédimentation ( on laisse le tube 
+de prélèvement sanguin en température ambiante pendant un 
+certain moment , afin que les éléments figurés sédimentent pour 
+qu’on puisse séparer le plasma des éléments figurés qui seront 
+dans le fond du tube) 
+- soit on réalise une centrifugation 
+ 
+· une fois que le sang est en dehors du système 
+vasculaire, il faut mettre le sang dans un tube qui contient un 
+anticoagulant. Car le sang coagule et forme un caillot, 
+l’anticoagulant va donc empêcher cet effet 
+· ce mécanisme de coagulation c’est : l’hémostase 
+
+---PAGE---
+ 
+- l’hémostase fait partie intégrante de l’hématologie ( 
+c’est un processus qui sera abordé plus tard, en détail ) ce qu’il 
+faut savoir pour l’instant c’est que c’est un processus complexe 
+qui met en jeu des cellules et des protéines de la coagulation, il 
+est très utile en cas de saignement et source de plusieurs 
+problème s’il est dérégulé 
+ 
+· donc pour maintenir le sang à l’état liquide ( à l’état 
+ex vivo, c’est à dire une fois sorti de notre corps ), il doit être 
+mélangé à un anticoagulant 
+ 
+· il y a plusieurs types d’anticoagulants et donc 
+plusieurs tubes de prélèvement sanguin ( tube EDTA, citraté, 
+hépariné ) 
+ 
+ 
+question élève : Dans quelle cas on privilégie l’héparine ou 
+autre ? 
+ 
+Réponse prof : En fonction du type d’analyse, par exemple pour 
+réaliser un hémogramme, NFS ( numération formulaire sanguine 
+) c’est un tube EDTA qu’il faut. C’est l’anticoagulant le plus 
+adapté qui permet de garder l’intégrité des cellules. C’est le plus 
+utilisé car les valeurs ont été validées par toutes les études avec 
+un tube EDTA, en hématologie on travail avec un tube EDTA. 
+Pour le tube citraté c’est uniquement lorsque l’on a une 
+thrombopénie ( on va le voir plus tard dans le cours ) 
+B. La fraction liquide
+Plasma et le 
+sérum 
+il y a 2 notions importantes à différencier quand on parle de 
+fraction liquide : 
+- d’un côté on a le plasma : le plasma c’est 
+la fraction liquide une fois que le sang a été centrifugé et c’est un 
+sang qui à été anticoagulé. Donc avec coagulants 
+- de l’autre le sérum : on parle de sérum 
+lorsque cette fraction liquide est mise dans un tube qui n’est pas 
+anticoagulé. Donc sérum= plasma sans les facteurs de 
+coagulation et fibrinogène 
+important a differencier 
+ 
+ 
+· pour obtenir un sérum on utilise un tube sec qui 
+ne contient pas d’anticoagulant et pour obtenir le plasma on est 
+obligé de prélever le patient sur un tube qui en contient peu 
+importe le type 
+· que ce soit le plasma ou le sérum ils sont les 2 
+composé d’ eau, d’électrolytes, de sels minéraux , de glucose, 
+
+---PAGE---
+ 
+gaz dissous, lipides et de toutes les protéines de notre corps 
+C. La fraction cellulaire
+ 
+la fraction cellulaire correspond aux éléments figurés du sang et 
+on a 3 grand types : 
+1) les hématies, érythrocytes ou Globules 
+Rouges (GB) : c’est ce qui permet de transporter l’oxygène grâce 
+à l’hémoglobine et le C02 et a une durée de vie de 120 j 
+2) les plaquettes ou thrombocytes : elles 
+permettent d’assurer l’hémostase primaire, c’est le processus qui 
+permet de stopper un saignement, ça permet de former un clou 
+plaquettaire et ont une durée de vie de 7 à10 j 
+3) les leucocytes ou Globules Blancs (GB) : c’est 
+les défenses de l’organisme et le plus souvent sont passager 
+lorsqu il y a une infection ils sont là pour combattre l’infection 
+- dans les GB nous avons : 
+a) Polynucléaires : neutrophiles, basophile 
+et éosinophiles 
+éosinophiles 
+b) Mononucléaire : lymphocytes et 
+monocytes 
+ 
+tout ça sont les cellules physiologique qu’on retrouve 
+normalement chez un individus en bonne santé 
+ 
+ 
+· Pour explorer tout cela on réalise un hémogramme 
+ou NFS ( Numération Formule Sanguine ) au sein d’un tube 
+EDTA pour énumérer les hématies, plaquettes, GB et les 
+différentes fractions des GB. Tout ça à partir de la NFS 
+D. L’hématopoièse
+
+---PAGE---
+ 
+ 
+· ces éléments figurés ( GR, plaquettes,GB) 
+proviennent toutes d’une cellule souche hématopoïétique 
+commune, cette cellule souche à 2 caractéristiques principales : 
+- d’une part elle est caractérisée par une 
+capacité de propre auto renouvellement 
+- d’autre par, par une production de cellules 
+différenciées (les cellules différenciées sont les éléments figurés) 
+ 
+ 
+· cette cellule souche s’engage et donne une cellule 
+souche multipotente et donne naissance à plusieurs progéniteurs 
+( myéloïdes et lymphoïdes ) qui vont eux donner naissances aux 
+éléments matures 
+ 
+· on a va surtout se focaliser sur les progéniteurs 
+myéloïdes qui eux donne naissances à plusieurs types de 
+précurseurs dans la moelle osseuse 
+ 
+- ces précurseurs vont donner lieu aux : GR, 
+plaquettes, un précurseur commun qui va aboutir à la production 
+de monocytes (GB) des PNN ( Polynucléaires Neutrophiles ) et 
+d’ autres types de précurseurs qui vont donner des éosinophiles 
+et basophiles 
+ 
+· le progéniteur lymphoïde lui , a 2 types de 
+précurseur qui vont donner : les lymphocytes B et T 
+( cette partie sera plus détaillé au prochain cours) 
+ 
+· Donc toutes ces cellules qu’on à décrites ont 
+toutes pour origine une seule cellule souche commune qui elle se 
+différencie en plusieurs progéniteurs et précurseurs du sang, 
+donc quand on analyse le sang les seules cellules qu’on est 
+capable de voir sont les dernières cellules produites ( qu’on voit 
+dans le tableau en bas, dans la partie du sang), toutes les autres 
+sont présentes uniquement dans la moelle osseuse(pour analyser 
+ces cellules c’est une analyse particulières) 
+ 
+         L’hémogramme est donc vraiment indispensable pour 
+analyser tout cela 
+
+---PAGE---
+II. L’hémogramme normale
+A. Généralités 
+ 
+·la NFS : c’est une analyse à la fois quantitative et qualitative 
+des éléments figurés du sang 
+ 
+· on a dans un premier temps tout ce qui est 
+décomptes, qui correspond à l’analyse quantitative ( GR, GB et 
+plaquette par unité de volume du sang ) et puis on décompte 
+aussi les différents sous types de GB ( ces données sont faites 
+par un automate) 
+ 
+· en plus de cette donnée quantitative, il y a un frottis 
+sanguin, qui correspond à l’analyse qualitative, qu’on va 
+analyser au microscope pour étudier l’analyse morphologique de 
+ces éléments pour voir si ils ont une forme normal 
+ 
+ 
+· concrètement comment ça se passe : 
+- on prélève du sang sur un tube EDTA ( 
+bouchon violet utilisé pour la NFS ) si on a d’autre type de 
+prélèvement on ne pourra pas faire l’analyse ( car toutes les 
+études ont été décrites et validées sur un tube EDTA) 
+- ce tube là est passé au niveau de 
+l’automate (au sein de l’automate il y a plusieurs techniques 
+differentes) 
+question élève : On a combien de temps pour analyser à partir 
+du prélèvement ? 
+Réponse prof : En général 24h à conserver en température 
+ambiante pour la numération fait par l’automate pour le côté 
+quantitatif, et pour le côté qualitatif fait au microscope , max 6h 
+sinon les cellules seront trop altérées 
+ 
+· donc la première étape c’est le décompte et la 
+deuxième étape c’est l’analyse du frottis sanguin : il s’agit d’une 
+goutte de sang étalé sur une lame, puis les cellules sont colorées 
+au MGG (May Grunwald Giemsa), ensuite cette lame va être 
+passer au microscope et va être analyser pour voir si il y a des 
+cellules anormales 
+· les valeurs normales et les résultats fournis par 
+l’automate varient en fonction de l’âge, du sexe et de l origine 
+éthnique 
+
+---PAGE---
+ 
+· lorsque ces valeurs normales sont dépassées ou en 
+dessous on passe à l’investigation et la première investigation 
+passe par l’examen du frottis sanguin . Ensuite on corrèle cela à 
+la clinique pour discuter des examens complémentaires et aller 
+plus loin 
+B. Etude des hématies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Etude de la 
+quantité 
+· pour étudier la quantité de GR nous avons 3 paramètres qui 
+sont tout aussi complémentaires les uns des autres 
+ 
+· le premier paramètre : c’est le nombre de 
+GR par unité de volume de sang en Téra par litre ( T/L), l’homme 
+à plus de GR que la femme 
+ 
+· le deuxième : c’est l’hématocrite (Ht), c’est 
+un % qui permet de donner le volume relatif occupé par tout les 
+GR au sein du plasma ( fraction liquide ) 
+ 
+· le troisième et le plus important : le taux 
+d’hémoglobine (Hb) (ce qui permet de définir la présence d’une 
+anémie ou non ), chez le nouveau né on a une polyglobulie 
+physiologique (valeurs normal plus importantes qu’à l’âge adulte 
+) 
+ 
+ 
+ 
+ 
+ 
+en France on raisonne surtout en g/dL mais à l’échelle 
+international on s’exprime en g/L 
+Etude de la 
+taille 
+le premier paramètre de la taille c’est le VGM : c’est le volume 
+globulaire moyen, on l’obtient en divisant l’hématocrite (volume 
+total) sur le nombre de GR (VGM= Ht / Nb de GR) , 
+· ça nous donne un volume moyen par GR, les 
+valeurs normales sont entre 80 à 100 fl (femtolitre : le femtolitre 
+est une unité de volume 
+c’est une unité extrêmement petite, adaptée à la taille d’une 
+cellule comme un globule rouge) 
+1 femtolitre (fL) = 10 -15 litre. 
+
+---PAGE---
+ 
+- Valeurs normales : 80-100 fl 
+- Microcytose si VGM < 80 fl 
+- Macrocytose si VGM > 100 fl 
+ 
+· pour évaluer la teneur il y a 2 paramètres : 
+ 
+· d’un côté la CCMH: Concentration 
+Corpusculaire Moyenne en Hémoglobine : c’est la teneur en 
+hémoglobine par GR, c’est un paramètre qui est calculé à partir 
+de l’hémoglobine et de l’hématocrite : on divise l’hémoglobine par 
+l’hématocrite et on obtient la CCMH. (CCMH = Hb/Ht) c’est un % 
+- la valeur normal est la même qu’on soit homme ou 
+femme c’est de 32 à 36 %, 
+ 
+- Normochrome si valeurs normales : 32-36 % 
+- Hypochrome si CCMH < 32 % 
+- l’hyperchromie n’existe pas 
+ 
+ 
+ 
+Etude de la 
+teneur (c’est 
+elle qui donne 
+la couleur du 
+GR) 
+ 
+· l’autre paramètre c’est la TCMH : Teneur 
+Corpusculaire Moyenne en Hémoglobine (les 2 paramètres 
+donne à peu prés la même information), ici la méthode de calcul 
+c’est l’hémoglobine sur le nombre de GR (TCMH = Hb / nb de 
+GR) c’est en pg/GR 
+ 
+- elle dépend beaucoup du VGM car le nombre 
+d’hémoglobine est pris en compte 
+ 
+- Valeurs normales : 27-32 pg/GR 
+- Hypochrome si TCMH < 27 pg/GR 
+ 
+ 
+Etude 
+qualitative 
+· quand on a des GR qui on toutes des taille différentes on 
+parle d’anisocytose 
+· quand on a des GR qui ont des formes différentes 
+( ovalaire, en goutte ) on parle de poïkilocytose 
+
+---PAGE---
+ 
+· quand il y a une variation de couleur on parle de
+polychromatophilie 
+ 
+· et puis on a des fragments de GR, : parfois on a des 
+situations de diagnostic dans lesquelles les GR sont amenés à 
+être fragmentés et ils perdent leur forme ronde ils sont 
+triangulaire ou n’ont pas de forme 
+ 
+ 
+C. Les Réticulocytes 
+ 
+· les réticulocytes correspondent à la partie immature des GR, 
+ce sont des GR « jeunes », ils représentent 1% de GR 
+ 
+· à partir d une cellule souche hématopoïétique 
+on a un progéniteur érythrocytaire qui ensuite in fine va aboutir a 
+un réticulocyte qui lui va se transformer en GR au bout de 24 à 
+48h dans le sang 
+ 
+· ces réticulocytes ne font pas partie de 
+l’hémogramme, normalement quand on a une demande de NFS 
+on est pas censé demander une analyse réticulocytaire 
+systématique ( systématiquement on a : GR, plaquettes, GB et 
+différents types de GB ) 
+ 
+· on est censé se focaliser sur les réticulocytes 
+uniquement quand on à une anémie pour essayer de comprendre 
+le mécanisme de cette anémie : si c’est une origine centrale ou 
+périphérique 
+ 
+· ces réticulocytes on peut les différencier grâce a 
+une coloration particulière : bleu de crésyl, c’est une coloration 
+qui permet de marquer l’ARN. En effet le GR n’a plus d’ARN, car 
+le GR est une forme mature il y a plus de synthèse protéique, 
+alors que le réticulocyte est immature, est une forme jeune et 
+donc présente une activité protéique et d’ARN, ils sont donc plus 
+grand que les GR au microscope 
+
+---PAGE---
+ 
+· la valeur normal des réticulocyte est de 25 -100 
+G/L ( giga par litre ) 
+ 
+ 
+· quand on a une anémie la première chose à voir 
+c’est les réticulocytes pour dire si c’est une anémie qui régénère 
+ou qui régénère pas 
+ 
+- Valeurs normales : environ 25-100 G/L . 
+Il faut bien prendre en compte le nombre absolu et non le 
+pourcentage. 
+- Dans le cas d’une anémie (Hb < 12g/dl 
+pour les femmes et 13 pour les hommes ) 
+ 
+ 
+o Si réticulocytes < 120 G/L : elle 
+est dite arégénérative 
+o Si réticulocytes > 120 G/L : elle 
+est dite régénérative 
+ 
+ 
+- lorsque l’anémie est arégénérative c’est 
+probablement une cause centrale de 
+l’anémie (ça vient au 
+niveau des précurseurs, des progéniteurs ou encore de la cellule 
+souche hématopoïétique, donc la moelle osseuse) et lorsque 
+l’anémie est dégénérative il va y avoir un souci au niveau 
+périphérique (c’est dans le sang que ça se passe) 
+D. Les Leucocytes et les plaquettes 
+ 
+· au sein des GB il y a plusieurs types de cellules et ce qui est 
+important dans les GB c’est les valeurs absolue à interpréter et 
+pas le % 
+· les GB à l’âge adulte c’est de 4 à 10 G/L et les 
+PNN représentent la majeur partie des GB 
+· ensuite les lymphocytes en 2eme lieu et les 
+monocytes en 3eme position ( sur 100 GB étudiés on aura a peu 
+prés 70 % de PNN, 20 % de neutrophiles, 5 % de monocytes , 
+1 % de basophiles, 1 % d’éosinophile chez quelqu’un de 
+physiologiquement normal 
+
+---PAGE---
+ 
+ 
+· et ensuite on a les plaquette qui sont très petite comparer aux 
+GR et elles ont une valeur normal qui va de 150 à 450 G/L 
+ 
+-Valeur normale : 150 à 400 G/L 
+-Thrombocytose si > 450 G/L *** 
+- Thrombopénie si < 150 G/L 
+ 
+ 
+ 
+ 
+les petites points sont des 
+plaquettes 
+E. Particularités de l’hémogramme 
+A la naissance 
+● 
+Polyglobulie physiologique 
+- 
+Hb: 14-23g/dL 
+- 
+GR: 5-6 T/L 
+- 
+Ht: 44-62% 
+ 
+● 
+Hyperleucocytose possible (pour le protéger car il est fragile) 
+- 
+GB: 9 à 30 G/L 
+ 
+Question etudiant: 
+ 
+- 
+ Pourquoi y a t il une polyglobulie à la naissance ? On a besoin 
+que du O2 arrive facilement aux organes donc il y aura une 
+augmentation du transporte de l’ O2 et donc le nombre de GR 
+augmente. 
+- 
+ Pourquoi une thrombocytose chez l’enfant ? Il ne sait pas trop 
+mais pense que c’est soit physiologique soit lié aux infections 
+reccurentes dues aux blessures que peuvent souvent avoir les 
+enfants. 
+
+---PAGE---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chez l’enfant 
+● 
+Microcytose possible < 6 ans (jusqu’à 70) 
+● 
+Lymphocytose globulique jusqu’à 10/12 ans 
+● 
+thrombocytose possible (jusqu’à 600) entre 15 jours et 6 mois 
+● 
+Vers l’age de 12 ans, on s’approche des normes adultes 
+Pendant la 
+grossesse 
+● 
+Hémoglobines: 
+ 
+On observe une baisse de Hb, surtout au 3ᵉ trimestre. 
+ 
+Cette diminution est principalement liée a des saignements qui ont lieu 
+pendant la grossesse qui n’ont aucun lien avec le foetus et 
+l'hémodilution (= augmentation de la teneur en eau du volume sanguin) 
+ 
+ 
+Cette situation expose à un risque d’anémie carentielle, le + souvent 
+microcytaire, en lien avec : 
+ 
+- 
+l’augmentation des besoins en fer 
+ 
+- 
+d’éventuelles pertes sanguines 
+ 
+● 
+Polynucléose physiologique: 
+- 
+Cela peut-être du au stress physiologique due a la grossesse 
+qui fait augmenter le nombre de PNN car c’est le 1er élément à 
+être mobilisé lors d’un stress 
+ 
+ 
+ 
+● 
+Thrombopénie physiologique inconstante* qui reste >100G/L 
+ 
+*inconstante car il y a des variations interindividuelles et intra 
+individuelle 
+
+---PAGE---
+ 
+ 
+Différentes 
+situations 
+Face aux situations suivantes, un hémogramme est indiqué : 
+ 
+ 
+ 
+Face aux situations suivantes, un frottis est indiqué : 
+ 
+ 
+ 
+Face aux situations suivantes, l’hémogramme doit être 
+demandé en urgence: 
+ 
+
+---PAGE---
+ 
+- 
+État de choc 
+- 
+Pâleur intense 
+- 
+Angine ulcéro nécrotique ou résistant aux antibiotiques 
+- 
+Fièvre élevée après prise de médicament (surtout en 
+chimiothérapie) 
+- 
+Fièvre résistant aux antibiotiques 
+- 
+Syndrome hémorragique : purpura pétéchial extensif, 
+bulles hémorragiques muqueuses, hémorragie 
+rétinienne, purpura fébrile 
+Question etudiant: « Peut-on prendre du sang artériel pour faire un 
+hémogramme ? » « Oui mais on ne le fait jamais » 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interprétation 
+de la NFS 
+Pour bien l'interpréter, il faut : 
+ 
+ 
+● 
+Maîtriser les valeurs de référence selon le sexe et l’âge (femme, 
+homme, enfant) 
+ 
+● 
+Analyser systématiquement les trois lignées : érythrocytaire 
+(GR), leucocytaire (GB) et plaquettaire 
+ 
+● 
+Rechercher des anomalies quantitatives (augmentation ou 
+diminution) et qualitatives (anomalies morphologiques ou 
+fonctionnelles) 
+ 
+● 
+Ne pas négliger les paramètres dans les normes : en cas 
+d’anémie, l’analyse conjointe de l’Hb, du VGM, de la CCMH, de 
+la TCMH et de l’aspect au frottis oriente vers le type d’anémie et 
+donc vers son étiologie probable 
+ 
+● 
+Pour la formule leucocytaire, toujours interpréter les valeurs 
+absolues plutôt que les pourcentages 
+III. Hémogramme pathologique
+A. Généralités 
+Anomalie GR 
+ 
+
+---PAGE---
+ 
+ 
+ 
+ 
+Anomalie GB 
+ 
+ 
+
+---PAGE---
+ 
+Reconnaitre les 
+situation 
+d’urgence 
+Certaines anomalies retrouvées à la NFS peuvent correspondre à des 
+situations d’urgence en raison des risques graves qu’elles entraînent : 
+● 
+Anémie sévère : Hb < 6 g/dL ou anémie mal tolérée → risque 
+d’hypoxie, transfusion en urgence. 
+ 
+● 
+Polyglobulie : hématocrite > 60 % → risque d’hyperviscosité et 
+de thrombose. 
+ 
+● 
+Neutropénie sévère : PNN < 0,5 G/L → risque infectieux majeur 
+(urgence surtout si fièvre). 
+ 
+● 
+Hyperleucocytose importante : leucocytes > 20 G/L → peut 
+traduire infection grave ou hémopathie. 
+ 
+● 
+Thrombopénie sévère : plaquettes < 20 G/L (après élimination 
+d’une fausse thrombopénie) → risque hémorragique, transfusion 
+plaquettaire urgente. 
+ 
+ 
+ 
+ 
+ 
+Question etudiant : »Les normes peuvent changer en fonction 
+de la personne ? » « Non , les valeurs normales ne changent 
+pas selon la personne : il existe des normes de référence. En 
+pathologie, il n’y a pas toujours un seuil strict qui définit une 
+maladie. Certains seuils aident à orienter le diagnostic, mais en 
+dessous ou au-dessus d’un chiffre donné, on ne peut pas 
+
+---PAGE---
+ 
+toujours affirmer qu’il y a une maladie sans tenir compte du 
+contexte » 
+B. Augmentation du nombres de cellules circulantes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Généralités 
+Il existe 2 grands mécanismes pouvant expliquer une augmentation du 
+nombre de cellules circulantes : 
+ 
+● 
+Augmentation des cellules matures : il s’agit d’une 
+hyperproduction avec maturation conservée. 
+ 
+- La réponse est adaptée à un besoin physiologique ou 
+pathologique. 
+ 
+Exemples : polyglobulie en contexte d’hypoxie, polynucléose 
+neutrophile lors d’une infection. 
+ 
+● 
+Augmentation des cellules immatures : il s’agit d’une 
+hyperproduction associée à un trouble de la maturation. 
+ 
+- La production est inappropriée et traduit un processus 
+pathologique, notamment un syndrome tumoral, comme dans 
+les syndromes myéloprolifératifs (SMP). 
+ 
+ 
+Polyglobulie 
+Dans l’exploration d’une polyglobulie, ce n’est pas le nombre absolu de 
+globules rouges qui est déterminant, mais surtout le taux d’Hb et 
+l’hématocrite (Ht). 
+Seuils évocateurs : 
+ 
+ 
+● 
+Chez la femme : Hb > 16 g/dL et Ht > 55 % 
+
+---PAGE---
+ 
+● 
+Chez l’homme : Hb > 17 g/dL et Ht > 60 % 
+ 
+ 
+ 
+Avant de conclure à une véritable polyglobulie, il faut éliminer une 
+hémoconcentration qui peut faussement majorer l’Hb et l’Ht 
+(déshydratation, patients en réanimation, grands brûlés, traitement par 
+diurétiques, etc.). 
+On dose l’érythropoïétine (EPO), hormone principalement sécrétée par 
+le rein et stimulant l’érythropoïèse : 
+● 
+Polyglobulie avec EPO augmentée 
+ 
+- 
+Adaptée (appropriée) : secondaire à une hypoxie 
+chronique (le besoin accru en oxygène stimule la 
+sécrétion d’EPO, entraînant une augmentation des GR). 
+ 
+- 
+Inadaptée : production excessive d’EPO d’origine 
+tumorale. 
+● 
+Polyglobulie avec EPO normale ou basse 
+ 
+- 
+Évoque une polyglobulie primitive, indépendante de 
+l’EPO, comme la Maladie de Vaquez, liée à une 
+mutation clonale ; dans ce cas, l’EPO est généralement 
+basse. 
+Polynucléose 
+neutrophile 
+(PNN >7G/L) 
+La polynucléose neutrophile est une anomalie fréquente et 
+généralement dépourvue de signes cliniques spécifiques. 
+Rappels physiologiques : 
+ 
+ 
+● 
+La granulopoïèse médullaire s’étend sur environ 10 j 
+ 
+● 
+Les polynucléaires neutrophiles (PNN) circulent dans le sang 
+
+---PAGE---
+ 
+pendant environ 24h (d’où le fait qu’on respecte un délais de 
+24h max pour l’automates) 
+ 
+● 
+Environ 55 % des PNN sont marginés, c’est-à-dire 
+transitoirement adhérents à l’endothélium vasculaire 
+ 
+● 
+Leur fonction principale est antibactérienne, via la phagocytose 
+ 
+ 
+ 
+ 
+ 
+ 
+Lorsque la neutrophilie est isolée (sans atteinte des autres lignées, 
+sans cellules atypiques, sans myélémie), l’origine est le plus souvent 
+non hématologique. 
+ 
+Causes fréquentes : 
+ 
+ 
+Infections bactériennes 
+Syndromes inflammatoires 
+Nécroses tissulaires 
+Certaines pathologies malignes 
+ 
+ 
+ 
+NB: certaines infections ne s’accompagnent pas de neutrophilie: 
+ 
+- 
+tuberculose 
+- 
+brucellose 
+- 
+typhoïde 
+- 
+causes virales 
+Autres étiologies : 
+● 
+Tabagisme (très fréquent) 
+
+---PAGE---
+ 
+● 
+Médicaments : corticoïdes ++, lithium 
+ 
+ 
+ 
+Elle peut également être physiologique, notamment pendant la 
+grossesse, chez le nouveau-né ou après un effort physique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La Myélémie 
+La myélémie correspond au passage dans le sang périphérique de 
+formes immatures de la lignée granulocytaire issues de la moelle 
+osseuse. 
+ 
+● 
+En situation normale, ces cellules immatures restent confinées 
+à la moelle 
+ 
+● 
+On parle de myélémie équilibrée lorsque la hiérarchie de 
+maturation est respectée : 
+ 
+métamyélocytes > myélocytes > promyélocytes > 
+myéloblastes. (CAD qu’il y a + de cellules matures que de 
+cellules immatures) 
+ 
+● 
+Elle est considérée comme pathologique lorsqu’elle dépasse 2 
+% des éléments de la formule sanguine 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Polynucléose 
+neutrophile et 
+myélémie 
+On peut l’observer dans plusieurs contextes : 
+ 
+ 
+- 
+Infections sévères ou administration de facteurs de croissance 
+granulocytaires (stimulation médullaire intense) 
+ 
+- 
+Syndromes myéloprolifératifs SMP (production excessive et 
+anarchique par une moelle pathologique) 
+ 
+- 
+Leucémie myéloïde chronique (LMC): augmentation des PNN 
+associée à une myélémie 
+ 
+- 
+Maladie de Vaquez : élévation de l’Hb et de l’Ht 
+ 
+- 
+Thrombocytémie essentielle : augmentation des plaquettes 
+ 
+- 
+Myélofibrose primitive : anomalies morphologiques des GR 
+ 
+ 
+On ne va pas voir ça dans le sang mais plutôt grâce à la moelle 
+osseuse soit par myélogramme (qu’on verra + en détail par la suite), 
+soit par prélèvement d’un bout d’os (biopsie osteo-médullaire) 
+ 
+ 
+ 
+Érythroblastose 
+Il s’agit du passage dans le sang de formes immatures de la lignée 
+érythroïde (en amont des réticulocytes), reconnaissables notamment 
+par la persistance de leur noyau 
+L’association érythroblastose + myélémie = érythro-myélémie 
+ 
+Elle est observée dans certaines situations pathologiques, notamment : 
+ 
+ 
+● 
+Envahissement médullaire par des cellules extra- 
+hématopoïétiques (métastases médullaires) 
+ 
+● 
+Lymphome de Burkitt 
+
+---PAGE---
+ 
+● 
+Myélofibrose primitive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monocytose 
+(Monocytes > 
+1G/L) 
+2 grands mécanismes peuvent l’expliquer : 
+- 
+Causes réactionnelles (le + souvent): 
+infections bactériennes, parasitoses, cancers 
+- 
+Causes primitives (hématologiques) : 
+ 
+- 
+certaines leucémies aiguës myélomonocytaires (LAM4, 
+LAM5), 
+ 
+- 
+Leucémie myélomonocytaire chronique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hyperéosinophil 
+ie (PNE>0,5G/L)
+ 
+ 
+Elle est le + souvent observée dans les contextes allergiques ou 
+
+---PAGE---
+ 
+parasitaires
+ 
+ 
+● 
+Les manifestations cliniques ne sont pas corrélées directement 
+au taux d’éosinophiles 
+ 
+● 
+Elles dépendent surtout de la cause sous-jacente ou d’une 
+infiltration tissulaire en cas d’hyperéosinophilie marquée et 
+chronique (atteintes possibles : myocarde, poumon… c’est ce 
+qu’on redoute le + par ailleurs…) 
+ 
+ 
+ 
+Principales étiologies : 
+ 
+ 
+- 
+Maladies allergiques : eczéma, asthme, urticaire, rhinite 
+allergique 
+ 
+- 
+Réactions immuno-allergiques : médicamenteuses, alimentaires 
+ 
+- 
+Parasitoses, en particulier helminthiases 
+ 
+- 
+Maladies systémiques (ex. vascularites, périartérite noueuse) 
+ 
+- 
+Cancers, lymphomes, tumeurs solides 
+ 
+- 
+Syndrome hyperéosinophilique (HES) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lympho
+cytose 
+(LY>4G/
+L) 
+ 
+ 
+ 
+- 
+Chez l’enfant : le plus souvent réactionnelle et bénigne (Cas 
+particuliers : viroses, coqueluche, syndrome mononucléosique 
+chez ado ++) 
+ 
+- 
+Chez l’adulte : une lymphocytose chronique doit faire évoquer 
+un syndrome lymphoprolifératif 
+ 
+ 
+
+---PAGE---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thrombocytose 
+(>450G/L) 
+2 mécanismes principaux : 
+ 
+ 
+● 
+Excès de production : 
+ 
+- 
+Liée à un stimulus (carence martiale, syndrome 
+inflammatoire), 
+ 
+- 
+ou secondaire à une maladie médullaire (ex. 
+Thrombocytémie essentielle, syndromes 
+myéloprolifératifs). 
+ 
+● 
+Diminution de la destruction : 
+ 
+- par exemple après splénectomie (car c’est dans la rate que 
+sont détruis les plaquettes) 
+ 
+ 
+ 
+Le principal risque est la thrombose 
+ 
+ 
+ 
+ 
+ 
+C. Diminution du nombre de cellules circulantes 
+ 
+Généralités 
+Face à une cytopénie, il faut déterminer si elle est liée : 
+ 
+ 
+● 
+à une destruction ou perte accrue en périphérie (cytopénie 
+périphérique) 
+ 
+● 
+ou à un défaut de production médullaire (cytopénie centrale) 
+
+---PAGE---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cytopénie 
+périphérique 
+La moelle osseuse fonctionne normalement mais la production ne 
+compense pas les pertes. (destruction ou perte accrue) 
+Les mécanismes sont souvent spléniques (± hépatiques). 
+Principales causes : 
+Saignement aigu : perte de globules rouges 
+(↓ Hb) et de plaquettes 
+ 
+Anémies hémolytiques : 
+ 
+• 
+immunologiques (anticorps anti-GR) 
+ 
+• 
+mécaniques (fragmentation des GR en circulation) 
+ 
+Thrombopénie immunologique : anticorps 
+dirigés contre les plaquettes 
+ 
+Cytopénie 
+centrale 
+La moelle est défaillante, soit par manque de substrats, soit parce 
+qu’elle est pathologique. (production augmente) 
+Principales causes : 
+ 
+ 
+● 
+Saignement chronique → épuisement des réserves en fer 
+ 
+● 
+Carence martiale 
+ 
+● 
+Carence en folates (B9) ou vitamine B12 → défaut de synthèse 
+de l’ADN des précurseurs érythroïdes 
+ 
+● 
+Myélofibrose primitive, aplasie médullaire 
+
+---PAGE---
+ 
+ 
+● 
+Envahissement médullaire (métastases), leucémies aiguës 
+ 
+ 
+ 
+Devant une cytopénie centrale, un myélogramme est indiqué pour 
+analyser la moelle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Myélogramme 
+Moelle pauvre (hypocellulaire) : 
+ 
+ 
+● 
+Aplasie médullaire : atteinte des cellules souches 
+hématopoïétique 
+ 
+● 
+Myélofibrose primitive : fibrose du microenvironnement 
+médullaire 
+ 
+ 
+ 
+Moelle riche (hypercellulaire mais inefficace) : 
+ 
+ 
+- 
+Carence en B9/B12 
+ 
+- 
+Envahissement par cellules extra-hématopoïétiques 
+(métastases) 
+ 
+- 
+Pathologies prolifératives des cellules souches 
+ 
+- 
+Leucémie aiguë : envahissement par des blastes 
+ 
+- 
+Syndrome myélodysplasique : production inefficace et cellules 
+dysplasiques 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+Neutropénie 
+(PNN < 1,5G/L) 
+Les PNN se répartissent en 3 compartiments : 
+ 
+ 
+● 
+Réserve médullaire 
+ 
+● 
+Secteur circulant (≈ 45 %) 
+ 
+● 
+Secteur marginal (≈ 55 %) : neutrophiles adhérents à 
+l’endothélium, mobilisables rapidement 
+ 
+ 
+ 
+Chez certaines populations (notamment africaines et antillaises), la 
+proportion marginale est + importante : la numération circulante peut 
+être plus basse sans caractère pathologique. On parle alors de 
+neutropénie seulement si PNN < 0,8 G/L 
+Question étudiant: “donc ils ont moins de risques ?” “Pas forcément.” 
+ 
+“Y'a - t - il eu une adaptation (climatique …)?” Il sait pas trop mais il 
+pense que c’est possible. 
+ 
+ 
+ 
+Facteurs de démargination: 
+ 
+Certaines situations mobilisent les PNN marginés vers le secteur 
+circulant : 
+ 
+● 
+Effort physique 
+ 
+● 
+Stress, adrénaline 
+ 
+● 
+Digestion 
+ 
+● 
+Corticoïdes 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pancytopénie 
+Association d’anémie + thrombopénie + neutropénie 
+ 
+Conduite à avoir : 
+ 
+● 
+Réaliser systématiquement un frottis sanguin afin de rechercher 
+des cellules atypiques ou immatures 
+ 
+● 
+Si la pancytopénie est modérée : rechercher une splénomégalie 
+et évoquer un hypersplénisme 
+ 
+● 
+Si elle est marquée : effectuer un myélogramme pour 
+déterminer si la moelle est riche (hypercellulaire) ou pauvre 
+(hypocellulaire) 
+ 
+ 
+ 
+ 
+Neutropénie 
+sévère (PNN < 
+0,5 G/L) 
+Elle expose à un risque infectieux majeur par déficit de défense innée 
+Caractéristiques : 
+● 
+Absence ou faible formation de pus (manque de PNN) 
+ 
+● 
+Risque de nécrose tissulaire 
+ 
+● 
+Risque significatif si PNN < 0,5 G/L 
+ 
+● 
+Risque majeur si PNN < 0,2 G/L (agranulocytose) ✪ 
+ 
+● 
+Si prolongée : surinfection fongique possible (candidose, 
+aspergillose) 
+ 
+● 
+Possibilité d’évolution vers un choc septique en cas d’infection 
+bactérienne (pronostic vital engagé) 
+
+---PAGE---
+ 
+Il FAUT faire Interrogatoire bien poussé. Si il y a une fièvre, on fait une 
+antibiothérapie directement sans attendre les résultats des examens 
+bactériologiques 
+ 
+ 
+ 
+ 
+Lymphopenie 
+(Ly < 1G/L) 
+L’exploration est + immunologique que hématologique. Elle est 
+indiquée lorsque les lymphocytes sont < 1 G/L. 
+L’interprétation dépend fortement du contexte clinique. 
+Principales causes à évoquer : 
+- 
+Infection par le Virus de l’immunodéficience humaine → une 
+sérologie VIH doit être réalisée devant toute lymphopénie 
+inexpliquée 
+ 
+- 
+Causes iatrogènes : corticoïdes, chimiothérapie, 
+immunosuppresseurs 
+ 
+- 
+Chez l’enfant : déficit immunitaire primitif 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+Bilan 
+ 
+
+---PAGE---
+ 
+ 
+ 
+
+---PAGE---
